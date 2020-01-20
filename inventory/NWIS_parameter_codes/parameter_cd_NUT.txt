@@ -1,0 +1,387 @@
+#
+# National Water Information System
+# 2019/03/30
+#
+#
+# Date Retrieved: USGS Water Data for the Nation Help System
+#
+parm_cd	group	parm_nm	epa_equivalence	result_statistical_basis	result_time_basis	result_weight_basis	result_particle_size_basis	result_sample_fraction	result_temperature_basis	CASRN	SRSName	parm_unit
+5s	8s	158s	26s	0s	0s	3s	14s	12s	0s	10s	60s	10s
+00597	Nutrient	Dinitrogen, water, unfiltered, milligrams per liter	Not checked					Dissolved		7727-37-9	Nitrogen	mg/l
+00598	Nutrient	Dinitrogen, water, unfiltered, percent of saturation	Not checked					Dissolved		7727-37-9	Nitrogen	%
+00600	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, unfiltered, milligrams per liter	Agree					Total		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/l
+00601	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], suspended sediment, total, milligrams per liter	Not checked					Suspended		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/l
+00602	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, filtered, milligrams per liter	Agree					Dissolved		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/l
+00603	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], bed sediment, total, dry weight, milligrams per kilogram	Agree			Dry		Bed Sediment		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/kg
+00604	Nutrient	Ammonia (NH3 + NH4+), suspended sediment, total, milligrams per liter as nitrogen	Agree					Suspended		 	Ammonia and ammonium	mg/l as N
+00605	Nutrient	Organic nitrogen, water, unfiltered, milligrams per liter as nitrogen	Agree					Total		 	Organic nitrogen	mg/l
+00606	Nutrient	Organic nitrogen, suspended sediment, total, milligrams per liter as nitrogen	Agree					Suspended		 	Organic nitrogen	mg/l
+00607	Nutrient	Organic nitrogen, water, filtered, milligrams per liter as nitrogen	Agree					Dissolved		 	Organic nitrogen	mg/l
+00608	Nutrient	Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen	Agree					Dissolved		 	Ammonia and ammonium	mg/l as N
+00610	Nutrient	Ammonia (NH3 + NH4+), water, unfiltered, milligrams per liter as nitrogen	Agree					Total		 	Ammonia and ammonium	mg/l as N
+00611	Nutrient	Ammonia (NH3 + NH4+), bed sediment, total, dry weight, milligrams per kilogram as nitrogen	Agree			Dry		Bed Sediment		 	Ammonia and ammonium	mg/kg as N
+00613	Nutrient	Nitrite, water, filtered, milligrams per liter as nitrogen	Agree					Dissolved		14797-65-0	Nitrite	mg/l as N
+00615	Nutrient	Nitrite, water, unfiltered, milligrams per liter as nitrogen	Agree					Total		14797-65-0	Nitrite	mg/l as N
+00616	Nutrient	Nitrite, bed sediment, total, dry weight, milligrams per kilogram as nitrogen	Agree			Dry		Bed Sediment		14797-65-0	Nitrite	mg/kg as N
+00618	Nutrient	Nitrate, water, filtered, milligrams per liter as nitrogen	Agree					Dissolved		14797-55-8	Nitrate	mg/l as N
+00619	Nutrient	Ammonia (un-ionized), water, unfiltered, calculated, milligrams per liter as nitrogen	Not checked					Total		7664-41-7	Ammonia	mg/l as N
+00620	Nutrient	Nitrate, water, unfiltered, milligrams per liter as nitrogen	Agree					Total		14797-55-8	Nitrate	mg/l as N
+00621	Nutrient	Nitrate, bed sediment, total, dry weight, milligrams per kilogram as nitrogen	Agree			Dry		Bed Sediment		14797-55-8	Nitrate	mg/kg as N
+00623	Nutrient	Ammonia plus organic nitrogen, water, filtered, milligrams per liter as nitrogen	Agree					Dissolved		 	Kjeldahl nitrogen	mg/l as N
+00624	Nutrient	Ammonia plus organic nitrogen, suspended sediment, total, milligrams per liter as nitrogen	Agree					Suspended		 	Kjeldahl nitrogen	mg/l as N
+00625	Nutrient	Ammonia plus organic nitrogen, water, unfiltered, milligrams per liter as nitrogen	Agree					Total		 	Kjeldahl nitrogen	mg/l as N
+00626	Nutrient	Ammonia plus organic nitrogen, bed sediment, total, dry weight, milligrams per kilogram as nitrogen	Not agree			Dry		Bed Sediment		 	Kjeldahl nitrogen	mg/kg as N
+00628	Nutrient	Nitrate plus nitrite, suspended sediment, total, milligrams per liter as nitrogen	Agree					Suspended		 	Inorganic nitrogen (nitrate and nitrite)	mg/l as N
+00630	Nutrient	Nitrate plus nitrite, water, unfiltered, milligrams per liter as nitrogen	Agree					Total		 	Inorganic nitrogen (nitrate and nitrite)	mg/l as N
+00631	Nutrient	Nitrate plus nitrite, water, filtered, milligrams per liter as nitrogen	Agree					Dissolved		 	Inorganic nitrogen (nitrate and nitrite)	mg/l as N
+00633	Nutrient	Nitrate plus nitrite, bed sediment, total, dry weight, milligrams per kilogram as nitrogen	Agree			Dry		Bed Sediment		 	Inorganic nitrogen (nitrate and nitrite)	mg/kg as N
+00635	Nutrient	Ammonia plus organic nitrogen, water, unfiltered, milligrams per liter as nitrogen	Agree					Total		 	Kjeldahl nitrogen	mg/l as N
+00636	Nutrient	Ammonia plus organic nitrogen, water, filtered, milligrams per liter as nitrogen	Agree					Dissolved		 	Kjeldahl nitrogen	mg/l as N
+00639	Nutrient	Albuminoid nitrogen, water, unfiltered, milligrams per liter as nitrogen	Agree					Total		 	 	mg/l as N
+00650	Nutrient	Phosphate, water, unfiltered, milligrams per liter as PO4	Agree					Total		 	Phosphate-phosphorus	mg/l
+00653	Nutrient	Phosphate, water, filtered, milligrams per liter as PO4	Agree					Dissolved		 	Phosphate-phosphorus	mg/l
+00660	Nutrient	Orthophosphate, water, filtered, milligrams per liter as PO4	Not checked					Dissolved		14265-44-2	Phosphate	mg/l asPO4
+00662	Nutrient	Phosphorus, water, unfiltered, recoverable, micrograms per liter as phosphorus	Agree					Recoverable		7723-14-0	 	ug/l as P
+00665	Nutrient	Phosphorus, water, unfiltered, milligrams per liter as phosphorus	Agree					Total		7723-14-0	Phosphorus	mg/l as P
+00666	Nutrient	Phosphorus, water, filtered, milligrams per liter as phosphorus	Agree					Dissolved		7723-14-0	Phosphorus	mg/l as P
+00667	Nutrient	Phosphorus, suspended sediment, total, milligrams per liter as phosphorus	Agree					Suspended		7723-14-0	Phosphorus	mg/l as P
+00668	Nutrient	Phosphorus, bed sediment, total, dry weight, milligrams per kilogram as phosphorus	Agree			Dry		Bed Sediment		7723-14-0	Phosphorus	mg/kg as P
+00669	Nutrient	Hydrolyzable phosphorus, water, unfiltered, milligrams per liter as phosphorus	Agree					Total		 	 	mg/l as P
+00670	Nutrient	Organic phosphorus, water, unfiltered, milligrams per liter as phosphorus	Agree					Total		 	Organic phosphorus	mg/l as P
+00671	Nutrient	Orthophosphate, water, filtered, milligrams per liter as phosphorus	Agree					Dissolved		14265-44-2	Phosphate	mg/l as P
+00672	Nutrient	Hydrolyzable phosphorus, water, filtered, milligrams per liter as phosphorus	Agree					Dissolved		 	 	mg/l as P
+00673	Nutrient	Organic phosphorus, water, filtered, milligrams per liter as phosphorus	Agree					Dissolved		 	Organic phosphorus	mg/l as P
+00674	Nutrient	Orthophosphate, suspended sediment, total, milligrams per liter as phosphorus	Agree					Suspended		14265-44-2	Phosphate	mg/l as P
+00675	Nutrient	Hydrolyzable phosphorus, suspended sediment, total, milligrams per liter as phosphorus	Agree					Suspended		 	 	mg/l as P
+00676	Nutrient	Organic phosphorus, suspended sediment, total, milligrams per liter as phosphorus	Agree					Suspended		 	Organic phosphorus	mg/l as P
+00677	Nutrient	Hydrolyzable phosphorus plus orthophosphate, water, filtered, milligrams per liter as phosphorus	Agree					Dissolved		 	 	mg/l as P
+00678	Nutrient	Hydrolyzable phosphorus plus orthophosphate, water, unfiltered, milligrams per liter as phosphorus	Agree					Total		 	 	mg/l as P
+01072	Nutrient	Phosphorus, water, filtered, micrograms per liter as phosphorus	Agree					Dissolved		7723-14-0	 	ug/l
+01388	Nutrient	Phosphorus, bed sediment, total digestion, dry weight, milligrams per kilogram as phosphorus	USGS use and no use by EPA			Dry		Bed Sediment		7723-14-0	Phosphorus	mg/kg
+01397	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], bed sediment, total digestion, dry weight, percent	USGS use and no use by EPA			Dry		Bed Sediment		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	%
+01413	Nutrient	Phosphorus, soil, total digestion, dry weight, milligrams per kilogram as phosphorus	USGS use and no use by EPA			Dry		Total		7723-14-0	Phosphorus	mg/kg
+01425	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], soil, total digestion, milligrams per liter	USGS use and no use by EPA					Total		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/l
+01434	Nutrient	Phosphorus, bed sediment smaller than 2 millimeters, wet sieved (native water), total digestion, dry weight, milligrams per kilogram as phosphorus	USGS use and no use by EPA			Dry	< 2 mm	Bed Sediment		7723-14-0	Phosphorus	mg/kg
+01453	Nutrient	Phosphorus, biota, tissue, total digestion, dry weight, percent	Not checked			Dry				7723-14-0	Phosphorus	%
+01465	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], biota, tissue, total, milligrams per liter as nitrogen	Not checked			Dry				 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/l
+01470	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], suspended sediment, total, dry weight, percent	Not checked			Dry		Total		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	%
+01471	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], soil, total, dry weight, percent	Not checked			Dry		Total		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	%
+01472	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], biota, tissue, total, dry weight, percent	Not checked			Dry		Total		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	%
+01473	Nutrient	Phosphorus, suspended sediment, total digestion, dry weight, milligrams per kilogram as phosphorus	Not checked			Dry		Suspended		7723-14-0	Phosphorus	mg/kg
+03946	Nutrient	Phosphorus, bed sediment smaller than 62.5 microns, wet sieved, laboratory, total digestion, dry weight, milligrams per kilogram as phosphorus	Not checked			Dry	< 0.0625	Bed Sediment		7723-14-0	Phosphorus	mg/kg
+03953	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], bed sediment smaller than 62.5 microns, wet sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 0.0625	Bed Sediment		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	%
+30291	Nutrient	Phosphorus, bed sediment, dry weight, percent	Agree			Dry		Bed Sediment		7723-14-0	Phosphorus	%
+30292	Nutrient	Phosphorus, suspended sediment, total digestion, dry weight, percent	Not checked			Dry		Suspended		7723-14-0	Phosphorus	%
+34935	Nutrient	Phosphorus, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, percent	Not checked			Dry	< 62.5 microns	Bed Sediment		7723-14-0	Phosphorus	%
+34936	Nutrient	Phosphorus, bed sediment smaller than 177 microns, wet sieved, field, total digestion, dry weight, percent	Not checked			Dry	< 177 microns	Bed Sediment		7723-14-0	Phosphorus	%
+34937	Nutrient	Phosphorus, bed sediment smaller than 62.5 microns, dry sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 62.5 microns	Bed Sediment		7723-14-0	Phosphorus	%
+34938	Nutrient	Phosphorus, suspended sediment smaller than 62.5 microns, total digestion, dry weight, percent	Not checked			Dry	< 62.5 microns	Suspended		7723-14-0	Phosphorus	%
+34939	Nutrient	Phosphorus, suspended sediment larger than 62.5 microns, total digestion, dry weight, percent	Not checked			Dry	> 62.5 microns	Suspended		7723-14-0	Phosphorus	%
+35052	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], bed sediment smaller than 62.5 micrometers, dry sieved, laboratory, total, dry weight, percent	USGS use and no use by EPA			Dry	< 62.5 microns	Bed Sediment		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	%
+35055	Nutrient	Phosphorus, bed sediment smaller than 62.5 micrometers, dry sieved, laboratory, total digestion, dry weight, milligrams per kilogram as phosphorus	USGS use and no use by EPA			Dry	< 62.5 microns	Bed Sediment		7723-14-0	Phosphorus	mg/kg
+49567	Nutrient	Particulate phosphorus, suspended in water, milligrams per liter	Not checked					Suspended		7723-14-0	 	mg/l
+49568	Nutrient	Particulate inorganic phosphorus, suspended in water, 0.7 micron glass fiber filter method, milligrams per liter	Not checked					Suspended		 	Inorganic phosphorus	mg/l
+49570	Nutrient	Particulate nitrogen, suspended in water, milligrams per liter	Not checked					Suspended		7727-37-9	Nitrogen	mg/l
+51131	Nutrient	Orthophosphate, water, unfiltered, recoverable, milligrams per liter as phosphate	Not checked					Total		14265-44-2	Phosphate	mg/l
+51185	Nutrient	Nitrate, water, unfiltered, field, milligrams per liter	Not checked					Total		14797-55-8	Nitrate	mg/l
+51186	Nutrient	Inorganic nitrogen, water, dissolved, calculated as NH3+NO2+NO3, milligrams per liter as nitrogen	Not checked					Dissolved		 	Inorganic nitrogen (nitrate and nitrite and ammonia)	mg/l as N
+51187	Nutrient	Inorganic nitrogen, water, dissolved, calculated as NH3+NO2+NO3, short tons per day as nitrogen	Not checked					Dissolved		 	Inorganic nitrogen (nitrate and nitrite and ammonia)	ton/d as N
+51193	Nutrient	Dinitrogen, water, dissolved, mole percent of dissolved gases	Not checked					Dissolved		7727-37-9	Nitrogen	%
+51288	Nutrient	Orthophosphate, water, filtered, field, milligrams per liter as phosphorus	Not checked					Dissolved		14265-44-2	 	mg/l as P
+51289	Nutrient	Orthophosphate, water, in situ, milligrams per liter as phosphorus	Not checked					Total		14265-44-2	 	mg/l as P
+51290	Nutrient	Nitrate, water, in situ, milligrams per liter as nitrate	Not checked					Total		14797-55-8	 	mg/l
+51386	Nutrient	Phosphorus, bed sediment smaller than 150 um, dry sieved, lab, total digestion, dry weight, percent	Not checked			Dry	<150 um	Bed Sediment		7723-14-0	 	%
+52140	Nutrient	Nitrate plus nitrite, bed sediment <63 microns, dry weight, milligrams per kilogram as nitrogen	Not checked			Dry	< 0.063	Bed Sediment		 	 	mg/kg as N
+52141	Nutrient	Ammonia (NH3 + NH4+), soil, dry weight, milligrams per kilogram as nitrogen	Not checked			Dry				 	 	mg/kg as N
+52151	Nutrient	Ammonia plus organic nitrogen, bed sediment smaller than 63 microns, wet sieved (native water), recoverable, dry weight, milligrams per kilogram as nitrogen	Not checked			Dry	< 0.063	Bed Sediment		 	 	mg/kg as N
+52152	Nutrient	Nitrate, bed sediment, total, dry weight, milligrams per kilogram as nitrate	Not checked			Dry		Bed Sediment		14797-55-8	 	mg/kg
+52153	Nutrient	Nitrite, bed sediment, total, dry weight, milligrams per kilogram as nitrite	Not checked			Dry		Bed Sediment		14797-65-0	 	mg/kg
+52154	Nutrient	Orthophosphate, bed sediment, recoverable, dry weight, milligrams per kilogram as PO4	Not checked			Dry		Bed Sediment		14265-44-2	 	mg/kg
+52155	Nutrient	Ammonia (NH3 + NH4+), bed sediment, total, dry weight, milligrams per kilogram as NH3	Not checked			Dry		Bed Sediment		 	 	mg/kg
+52156	Nutrient	Ammonia plus organic nitrogen, bed sediment, total, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		 	 	mg/kg
+52314	Nutrient	Phosphates (orthophosphate plus condensed and polyphosphates), water, unfiltered, milligrams per liter as PO4	Not checked					Total		 	 	mg/l
+52315	Nutrient	Phosphates (orthophosphate plus condensed and polyphosphates), water, filtered, milligrams per liter as PO4	Not checked					Dissolved		 	 	mg/l
+52360	Nutrient	Phosphorus, bed sediment smaller than 250 microns, dry sieved, laboratory, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 2 mm	Bed Sediment		7723-14-0	 	mg/kg
+52361	Nutrient	Phosphorus, bed sediment smaller than 2 millimeters, dry sieved, laboratory, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 2 mm	Bed Sediment		7723-14-0	 	mg/kg
+52527	Nutrient	Phosphorus, water, unfiltered, total, micrograms per liter as phosphorus	Not checked					Total		7723-14-0	 	ug/l
+52626	Nutrient	Phosphorus, soil, total, dry weight, milligrams per kilogram as phosphorus	Not checked			Dry		Total		7723-14-0	 	mg/kg as P
+52627	Nutrient	Phosphorus, solids, total, dry weight, milligrams per kilogram as phosphorus	Not checked			Dry		Total		7723-14-0	 	mg/kg as P
+52633	Nutrient	Orthophosphate, bed sediment, total, dry weight, milligrams per kilogram as PO4	Not checked					Bed Sediment		14265-44-2	 	mg/kg PO4
+52634	Nutrient	Orthophosphate, solids, total, dry weight, milligrams per kilogram as PO4	Not checked							14265-44-2	 	mg/kg PO4
+52635	Nutrient	Phosphorus, water, unfiltered, total, milligrams per liter as phosphorus	Not checked					Total		7723-14-0	 	mg/kg as P
+52760	Nutrient	Organic nitrogen, soil, recoverable, dry weight, percent	Not checked			Dry		Recoverable		 	 	%
+53573	Nutrient	Inorganic nitrogen, water, unfiltered, calculated as NH3+NO2+NO3, milligrams per liter as nitrogen	Not checked					Total		 	 	mg/l as N
+53665	Nutrient	Phosphorus, bed sediment, recoverable, dry weight, milligrams per kilogram as phosphorus	Not checked			Dry		Bed Sediment		7723-14-0	 	mg/kg as P
+53706	Nutrient	Phosphorus, bed sediment, 0.25 M hydroxylamine hydrochloride acid extracted, recoverable, dry weight, milligrams per kilogram as phosphorus	Not checked			Dry		Bed Sediment		7723-14-0	 	mg/kg as P
+61048	Nutrient	Phosphorus, bed sediment smaller than 2 millimeters, total digestion, dry weight, percent	Not checked			Dry	< 2 mm	Bed Sediment		7723-14-0	Phosphorus	%
+62464	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], bed sediment, dry weight, percent	USGS use and no use by EPA			Dry		Bed Sediment		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	% by wt
+62845	Nutrient	Total nitrogen, suspended sediment, dry weight, percent	USGS use and no use by EPA			Dry		Suspended		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	%
+62854	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, filtered, analytically determined, milligrams per liter	USGS use and no use by EPA					Dissolved		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/l
+62855	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, unfiltered, analytically determined, milligrams per liter	USGS use and no use by EPA					Total		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/l
+62950	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], solids, dry weight, milligrams per kilogram as nitrogen	USGS use and no use by EPA			Dry		Total		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/kg
+62953	Nutrient	Nitrate, solids, dry weight, milligrams per kilogram as nitrogen	USGS use and no use by EPA			Dry				14797-55-8	Nitrate	mg/kg as N
+62954	Nutrient	Nitrite, solids, dry weight, milligrams per kilogram as nitrogen	USGS use and no use by EPA			Dry				14797-65-0	Nitrite	mg/kg as N
+62961	Nutrient	Ammonia (NH3 + NH4+), water, dissolved, pounds per day as nitrogen	USGS use and no use by EPA					Dissolved		 	Ammonia and ammonium	lb/d as N
+63508	Nutrient	Organic nitrogen, biota, tissue, dry weight, percent	USGS use and no use by EPA			Dry				 	Organic nitrogen	%
+63509	Nutrient	Organic nitrogen, suspended sediment, dry weight, percent	USGS use and no use by EPA			Dry		Suspended		 	Organic nitrogen	%
+63510	Nutrient	Organic nitrogen, bed sediment, dry weight, percent	USGS use and no use by EPA			Dry		Bed Sediment		 	Organic nitrogen	%
+63517	Nutrient	Organic carbon/organic nitrogen ratio, suspended sediment, atomic percent	USGS use and no use by EPA					Suspended		 	 	%
+63715	Nutrient	Orthophosphate, solids, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		14265-44-2	Phosphate	mg/kg
+64832	Nutrient	Nitrate, water, filtered, micrograms per liter as nitrogen	USGS use and no use by EPA					Dissolved		14797-55-8	Nitrate	ug/L as N
+64834	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], solids, dry weight, mass fraction, percent	USGS use and no use by EPA			Dry		Total		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	%
+65175	Nutrient	Phosphorus, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram as phosphorus	USGS use and no use by EPA			Dry	< 62.5 microns	Bed Sediment		7723-14-0	Phosphorus	mg/kg
+67891	Nutrient	Phosphorus, solids, recoverable, dry weight, percent	USGS use and no use by EPA			Dry		Recoverable		7723-14-0	 	%
+67918	Nutrient	Phosphorus, solids, total digestion, dry weight, percent	USGS use and no use by EPA			Dry		Total		7723-14-0	 	%
+68073	Nutrient	White phosphorus, solids, recoverable, milligrams per kilogram	USGS use and no use by EPA			Dry				12185-10-3	 	mg/kg
+68075	Nutrient	Phosphorus, solids, recoverable, dry weight, milligrams per kilogram as phosphorus	USGS use and no use by EPA			Dry				7723-14-0	 	mg/kg
+70507	Nutrient	Orthophosphate, water, unfiltered, milligrams per liter as phosphorus	Agree					Total		14265-44-2	Phosphate	mg/l as P
+71845	Nutrient	Ammonia (NH3 + NH4+), water, unfiltered, milligrams per liter as NH4	Agree					Total		 	Ammonia and ammonium	mg/l NH4
+71846	Nutrient	Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as NH4	Agree					Dissolved		 	Ammonia and ammonium	mg/l NH4
+71850	Nutrient	Nitrate, water, unfiltered, milligrams per liter as nitrate	Agree					Total		14797-55-8	Nitrate	mg/l asNO3
+71851	Nutrient	Nitrate, water, filtered, milligrams per liter as nitrate	Agree					Dissolved		14797-55-8	Nitrate	mg/l asNO3
+71855	Nutrient	Nitrite, water, unfiltered, milligrams per liter as nitrite	Agree					Total		14797-65-0	Nitrite	mg/l asNO3
+71856	Nutrient	Nitrite, water, filtered, milligrams per liter as nitrite	Agree					Dissolved		14797-65-0	Nitrite	mg/l asNO3
+71886	Nutrient	Phosphorus, water, unfiltered, milligrams per liter as PO4	Agree					Total		7723-14-0	Phosphorus	mg/l PO4
+71887	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, unfiltered, milligrams per liter as nitrate	Not checked					Total		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/l NO3
+71888	Nutrient	Phosphorus, water, filtered, milligrams per liter as PO4	Not checked					Dissolved		7723-14-0	Phosphorus	mg/l PO4
+76008	Nutrient	Nitrate, suspended sediment, total, milligrams per liter as nitrogen	Not checked					Suspended		14797-55-8	Nitrate	mg/l as N
+76009	Nutrient	Nitrite, suspended sediment, total, milligrams per liter as nitrogen	Not checked					Suspended		14797-65-0	Nitrite	mg/l as N
+76010	Nutrient	Hydrolyzable phosphorus plus orthophosphate, suspended sediment, total, milligrams per liter as phosphorus	Agree					Suspended		 	 	mg/l as P
+80111	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], solids, dry weight, milligrams per kilogram as nitrogen	Agree			Dry		Total		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/kg
+81206	Nutrient	Phosphorus, water, dissolved, pounds per day as phosphorus	Not checked					Dissolved		7723-14-0	 	lb/day
+82046	Nutrient	Nitrous oxide, water, dissolved, micrograms per liter	Agree					Dissolved		10024-97-2	Nitrous oxide	ug/l
+82267	Nutrient	Phosphorus, street debris smaller than 0.031 millimeters, dry weight, milligrams per kilogram as phosphorus	Agree			Dry	< 0.031 mm			7723-14-0	Phosphorus	mg/kg
+82268	Nutrient	Phosphorus, street debris smaller than 0.0625 millimeters, dry weight, milligrams per kilogram as phosphorus	Agree			Dry	< 0.0625 mm			7723-14-0	Phosphorus	mg/kg
+82269	Nutrient	Phosphorus, street debris smaller than 0.125 millimeters, dry weight, milligrams per kilogram as phosphorus	Agree			Dry	< 0.125 mm			7723-14-0	Phosphorus	mg/kg
+82270	Nutrient	Phosphorus, street debris smaller than 0.25 millimeters, dry weight, milligrams per kilogram as phosphorus	Agree			Dry	< 0.25 mm			7723-14-0	Phosphorus	mg/kg
+82271	Nutrient	Phosphorus, street debris smaller than 0.5 millimeters, dry weight, milligrams per kilogram as phosphorus	Agree			Dry	< 0.5 mm			7723-14-0	Phosphorus	mg/kg
+82272	Nutrient	Phosphorus, street debris smaller than 1.0 millimeters, dry weight, milligrams per kilogram as phosphorus	Agree			Dry	< 1.0 mm			7723-14-0	Phosphorus	mg/kg
+82273	Nutrient	Phosphorus, street debris smaller than 2 millimeters, dry weight, milligrams per kilogram as phosphorus	Agree			Dry	< 2 mm			7723-14-0	Phosphorus	mg/kg
+82274	Nutrient	Phosphorus, street debris smaller than 4 millimeters, dry weight, milligrams per kilogram as phosphorus	Agree			Dry	< 4 mm			7723-14-0	Phosphorus	mg/kg
+82431	Nutrient	Orthophosphate, total, dry atmospheric deposition, milligrams per kilogram as PO4	Agree					Total		14265-44-2	Phosphate	mg/kg as P
+82432	Nutrient	Orthophosphate, total, dry atmospheric deposition, milligrams per kilogram as phosphorus	Agree					Total		14265-44-2	Phosphate	mg/kg as P
+82433	Nutrient	Orthophosphate, insoluble, dry atmospheric deposition, milligrams per kilogram as PO4	Agree							14265-44-2	Phosphate	mg/kg as P
+82434	Nutrient	Orthophosphate, insoluble, dry atmospheric deposition, milligrams per kilogram as phosphorus	Agree							14265-44-2	Phosphate	mg/kg as P
+82435	Nutrient	Orthophosphate, soluble, dry atmospheric deposition, milligrams per kilogram as PO4	Agree							14265-44-2	Phosphate	mg/kg as P
+82436	Nutrient	Orthophosphate, soluble, dry atmospheric deposition, milligrams per kilogram as phosphorus	Agree							14265-44-2	Phosphate	mg/kg as P
+82437	Nutrient	Phosphorus, total, dry atmospheric deposition, milligrams per kilogram as phosphate	Agree					Total		7723-14-0	Phosphorus	mg/kg PO4
+82438	Nutrient	Phosphorus, dry atmospheric deposition, total, milligrams per kilogram as phosphorus	Agree					Total		7723-14-0	Phosphorus	mg/kg
+82439	Nutrient	Phosphorus, insoluble, dry atmospheric deposition, milligrams per kilogram as phosphate	Agree							7723-14-0	Phosphorus	mg/kg PO4
+82440	Nutrient	Phosphorus, insoluble, dry atmospheric deposition, milligrams per kilogram as phosphorus	Agree							7723-14-0	Phosphorus	mg/kg
+82441	Nutrient	Phosphorus, soluble, dry atmospheric deposition, milligrams per kilogram as phosphate	Agree							7723-14-0	Phosphorus	mg/kg PO4
+82442	Nutrient	Phosphorus, soluble, dry atmospheric deposition, milligrams per kilogram as phosphorus	Agree							7723-14-0	Phosphorus	mg/kg
+82443	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], total, dry atmospheric deposition, milligrams per kilogram as nitrogen	Agree					Total		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/kg
+82444	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], insoluble, dry atmospheric deposition, milligrams per kilogram as nitrogen	Agree					Total		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/kg
+82445	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], soluble, dry atmospheric deposition, milligrams per kilogram as nitrogen	Agree					Total		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/kg
+82446	Nutrient	Organic nitrogen, total, dry atmospheric deposition, milligrams per kilogram as nitrogen	Agree					Total		 	Organic nitrogen	mg/kg
+82447	Nutrient	Organic nitrogen, insoluble, dry atmospheric deposition, milligrams per kilogram as nitrogen	Agree							 	Organic nitrogen	mg/kg
+82448	Nutrient	Organic nitrogen, soluble, dry atmospheric deposition, milligrams per kilogram as nitrogen	Agree							 	Organic nitrogen	mg/kg
+82449	Nutrient	Ammonia plus organic nitrogen, total, dry atmospheric deposition, milligrams per kilogram as nitrogen	Agree					Total		 	Kjeldahl nitrogen	mg/kg as N
+82450	Nutrient	Ammonia plus organic nitrogen, insoluble, dry atmospheric deposition, milligrams per kilogram as nitrogen	Agree							 	Kjeldahl nitrogen	mg/kg as N
+82451	Nutrient	Ammonia plus organic nitrogen, soluble, dry atmospheric deposition, milligrams per kilogram as nitrogen	Agree							 	Kjeldahl nitrogen	mg/kg as N
+82452	Nutrient	Ammonia (NH3 + NH4+), total, dry atmospheric deposition, milligrams per kilogram as NH4	Agree					Total		 	Ammonia and ammonium	mg/kg NH4
+82453	Nutrient	Ammonia (NH3 + NH4+), total, dry atmospheric deposition, milligrams per kilogram as nitrogen	Agree					Total		 	Ammonia and ammonium	mg/kg as N
+82454	Nutrient	Ammonia (NH3 + NH4+), insoluble, dry atmospheric deposition, milligrams per kilogram as NH4	Agree							 	Ammonia and ammonium	mg/kg NH4
+82455	Nutrient	Ammonia (NH3 + NH4+), insoluble, dry atmospheric deposition, milligrams per kilogram as nitrogen	Agree							 	Ammonia and ammonium	mg/kg as N
+82456	Nutrient	Ammonia (NH3 + NH4+), soluble, dry atmospheric deposition, milligrams per kilogram as NH4	Agree							 	Ammonia and ammonium	mg/kg NH4
+82457	Nutrient	Ammonia (NH3 + NH4+), soluble, dry atmospheric deposition, milligrams per kilogram as nitrogen	Agree							 	Ammonia and ammonium	mg/kg as N
+82458	Nutrient	Nitrate plus nitrite, soluble, dry atmospheric deposition, milligrams per kilogram as nitrogen	Agree							 	Inorganic nitrogen (nitrate and nitrite)	mg/kg as N
+82459	Nutrient	Nitrite, soluble, dry atmospheric deposition, milligrams per kilogram as nitrite	Agree							14797-65-0	Nitrite	mg/kg
+82460	Nutrient	Nitrite, soluble, dry atmospheric deposition, milligrams per kilogram as nitrogen	Agree							14797-65-0	Nitrite	mg/kg as N
+82461	Nutrient	Nitrate, soluble, dry atmospheric deposition, milligrams per kilogram as nitrate	Agree							14797-55-8	Nitrate	mg/kg
+82462	Nutrient	Nitrate, soluble, dry atmospheric deposition, milligrams per kilogram as nitrogen	Agree							14797-55-8	Nitrate	mg/kg as N
+83044	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, filtered, milligrams per liter as nitrogen	Agree					Dissolved		 	Ammonia and ammonium	mg/l as N
+83045	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, filtered, milligrams per square meter as nitrogen	Agree					Dissolved		 	Ammonia and ammonium	mg/m2 as N
+83046	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		 	Ammonia and ammonium	ueq/L
+83047	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, filtered, milligrams per liter as NH4	Agree					Dissolved		 	Ammonia and ammonium	mg/l NH4
+83048	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, filtered, milligrams per square meter as NH4	Agree					Dissolved		 	Ammonia and ammonium	mg/m2 NH4
+83049	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		 	Ammonia and ammonium	ueq/L
+83050	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, suspended, milligrams per liter as nitrogen	Agree					Suspended		 	Ammonia and ammonium	mg/l as N
+83051	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, suspended, milligrams per square meter as nitrogen	Agree					Suspended		 	Ammonia and ammonium	mg/m2 as N
+83052	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, suspended, microequivalents per liter	Agree					Suspended		 	Ammonia and ammonium	ueq/L
+83053	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, suspended, milligrams per liter as NH4	Agree					Suspended		 	Ammonia and ammonium	mg/l NH4
+83054	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, suspended, milligrams per square meter as NH4	Agree					Suspended		 	Ammonia and ammonium	mg/m2 NH4
+83055	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, suspended, microequivalents per liter	Agree					Suspended		 	Ammonia and ammonium	ueq/L
+83056	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, unfiltered, recoverable, milligrams per liter as nitrogen	Agree					Recoverable		 	Ammonia and ammonium	mg/l as N
+83057	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, unfiltered, recoverable, milligrams per square meter as nitrogen	Agree					Recoverable		 	Ammonia and ammonium	mg/m2 as N
+83058	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, unfiltered, recoverable, microequivalents per liter	Agree					Recoverable		 	Ammonia and ammonium	ueq/L
+83059	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, unfiltered, recoverable, milligrams per liter as NH4	Agree					Recoverable		 	Ammonia and ammonium	mg/l NH4
+83060	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, unfiltered, recoverable, milligrams per square meter as NH4	Agree					Recoverable		 	Ammonia and ammonium	mg/m2 NH4
+83061	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, unfiltered, recoverable, microequivalents per liter	Agree					Recoverable		 	Ammonia and ammonium	ueq/L
+83062	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, unfiltered, milligrams per liter as nitrogen	Agree					Total		 	Ammonia and ammonium	mg/l as N
+83063	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, unfiltered, milligrams per square meter as nitrogen	Agree					Total		 	Ammonia and ammonium	mg/m2 as N
+83064	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		 	Ammonia and ammonium	ueq/L
+83065	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, unfiltered, milligrams per liter as NH4	Agree					Total		 	Ammonia and ammonium	mg/l NH4
+83066	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, unfiltered, milligrams per square meter as NH4	Agree					Total		 	Ammonia and ammonium	mg/m2 NH4
+83067	Nutrient	Ammonia (NH3 + NH4+), wet atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		 	Ammonia and ammonium	ueq/L
+83068	Nutrient	Nitrate, wet atmospheric deposition, filtered, milligrams per liter as nitrogen	Agree					Dissolved		14797-55-8	Nitrate	mg/l as N
+83069	Nutrient	Nitrate, wet atmospheric deposition, filtered, milligrams per square meter as nitrogen	Agree					Dissolved		14797-55-8	Nitrate	mg/m2 as N
+83070	Nutrient	Nitrate, wet atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		14797-55-8	Nitrate	ueq/L
+83071	Nutrient	Nitrate, wet atmospheric deposition, filtered, milligrams per liter as nitrate	Agree					Dissolved		14797-55-8	Nitrate	mg/l
+83072	Nutrient	Nitrate, wet atmospheric deposition, filtered, milligrams per square meter as nitrate	Agree					Dissolved		14797-55-8	Nitrate	mg/m2
+83073	Nutrient	Nitrate, wet atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		14797-55-8	Nitrate	ueq/L
+83074	Nutrient	Nitrate, wet atmospheric deposition, unfiltered, milligrams per liter as nitrogen	Agree					Total		14797-55-8	Nitrate	mg/l as N
+83075	Nutrient	Nitrate, wet atmospheric deposition, unfiltered, milligrams per square meter as nitrogen	Agree					Total		14797-55-8	Nitrate	mg/m2 as N
+83076	Nutrient	Nitrate, wet atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		14797-55-8	Nitrate	ueq/L
+83077	Nutrient	Nitrate, wet atmospheric deposition, unfiltered, milligrams per liter as nitrate	Agree					Total		14797-55-8	Nitrate	mg/l
+83078	Nutrient	Nitrate, wet atmospheric deposition, unfiltered, milligrams per square meter as nitrate	Agree					Total		14797-55-8	Nitrate	mg/m2
+83079	Nutrient	Nitrate, wet atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		14797-55-8	Nitrate	ueq/L
+83080	Nutrient	Nitrate plus nitrite, wet atmospheric deposition, filtered, milligrams per liter as nitrogen	Agree					Dissolved		 	Inorganic nitrogen (nitrate and nitrite)	mg/l as N
+83081	Nutrient	Nitrate plus nitrite, wet atmospheric deposition, filtered, milligrams per square meter as nitrogen	Agree					Dissolved		 	Inorganic nitrogen (nitrate and nitrite)	mg/m2 as N
+83082	Nutrient	Nitrate plus nitrite, wet atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		 	Inorganic nitrogen (nitrate and nitrite)	ueq/L
+83083	Nutrient	Nitrate plus nitrite, wet atmospheric deposition, filtered, milligrams per liter as nitrate	Agree					Dissolved		 	Inorganic nitrogen (nitrate and nitrite)	mg/l NO3
+83084	Nutrient	Nitrate plus nitrite, wet atmospheric deposition, filtered, milligrams per square meter as nitrate	Agree					Dissolved		 	Inorganic nitrogen (nitrate and nitrite)	mg/m2 NO3
+83085	Nutrient	Nitrate plus nitrite, wet atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		 	Inorganic nitrogen (nitrate and nitrite)	ueq/L
+83086	Nutrient	Nitrate plus nitrite, wet atmospheric deposition, unfiltered, milligrams per liter as nitrogen	Agree					Total		 	Inorganic nitrogen (nitrate and nitrite)	mg/l as N
+83087	Nutrient	Nitrate plus nitrite, wet atmospheric deposition, unfiltered, milligrams per square meter as nitrogen	Agree					Total		 	Inorganic nitrogen (nitrate and nitrite)	mg/m2 as N
+83088	Nutrient	Nitrate plus nitrite, wet atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		 	Inorganic nitrogen (nitrate and nitrite)	ueq/L
+83089	Nutrient	Nitrate plus nitrite, wet atmospheric deposition, unfiltered, milligrams per liter as nitrate	Agree					Total		 	Inorganic nitrogen (nitrate and nitrite)	mg/l NO3
+83090	Nutrient	Nitrate plus nitrite, wet atmospheric deposition, unfiltered, milligrams per square meter as nitrate	Agree					Total		 	Inorganic nitrogen (nitrate and nitrite)	mg/m2 NO3
+83091	Nutrient	Nitrate plus nitrite, wet atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		 	Inorganic nitrogen (nitrate and nitrite)	ueq/L
+83092	Nutrient	Nitrite, wet atmospheric deposition, filtered, milligrams per liter as nitrogen	Agree					Dissolved		14797-65-0	Nitrite	mg/l as N
+83093	Nutrient	Nitrite, wet atmospheric deposition, filtered, milligrams per square meter as nitrogen	Agree					Dissolved		14797-65-0	Nitrite	mg/m2 as N
+83094	Nutrient	Nitrite, wet atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		14797-65-0	Nitrite	ueq/L
+83095	Nutrient	Nitrite, wet atmospheric deposition, filtered, milligrams per liter as nitrite	Agree					Dissolved		14797-65-0	Nitrite	mg/l
+83096	Nutrient	Nitrite, wet atmospheric deposition, filtered, milligrams per square meter as nitrite	Agree					Dissolved		14797-65-0	Nitrite	mg/m2
+83097	Nutrient	Nitrite, wet atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		14797-65-0	Nitrite	ueq/L
+83098	Nutrient	Nitrite, wet atmospheric deposition, unfiltered, milligrams per liter as nitrogen	Agree					Total		14797-65-0	Nitrite	mg/l as N
+83099	Nutrient	Nitrite, wet atmospheric deposition, unfiltered, milligrams per square meter as nitrogen	Agree					Total		14797-65-0	Nitrite	mg/m2 as N
+83100	Nutrient	Nitrite, wet atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		14797-65-0	Nitrite	ueq/L
+83101	Nutrient	Nitrite, wet atmospheric deposition, unfiltered, milligrams per liter as nitrite	Agree					Total		14797-65-0	Nitrite	mg/l
+83102	Nutrient	Nitrite, wet atmospheric deposition, unfiltered, milligrams per square meter as nitrite	Agree					Total		14797-65-0	Nitrite	mg/m2
+83103	Nutrient	Nitrite, wet atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		14797-65-0	Nitrite	ueq/L
+83108	Nutrient	Orthophosphate, wet atmospheric deposition, filtered, milligrams per liter as phosphorus	Agree					Dissolved		14265-44-2	Phosphate	mg/l as P
+83109	Nutrient	Orthophosphate, wet atmospheric deposition, filtered, milligrams per square meter as phosphorus	Agree					Dissolved		14265-44-2	Phosphate	mg/m2 as P
+83110	Nutrient	Orthophosphate, wet atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		14265-44-2	Phosphate	ueq/L
+83111	Nutrient	Orthophosphate, wet atmospheric deposition, filtered, milligrams per liter as PO4	Agree					Dissolved		14265-44-2	Phosphate	mg/l
+83112	Nutrient	Orthophosphate, wet atmospheric deposition, filtered, milligrams per square meter as PO4	Agree					Dissolved		14265-44-2	Phosphate	mg/m2
+83113	Nutrient	Orthophosphate, wet atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		14265-44-2	Phosphate	ueq/L
+83114	Nutrient	Orthophosphate, wet atmospheric deposition, unfiltered, milligrams per liter as phosphorus	Agree					Total		14265-44-2	Phosphate	mg/l as P
+83115	Nutrient	Orthophosphate, wet atmospheric deposition, unfiltered, milligrams per square meter as phosphorus	Agree					Total		14265-44-2	Phosphate	mg/m2 as P
+83116	Nutrient	Orthophosphate, wet atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		14265-44-2	Phosphate	ueq/L
+83117	Nutrient	Orthophosphate, wet atmospheric deposition, unfiltered, milligrams per liter as PO4	Agree					Total		14265-44-2	Phosphate	mg/l
+83118	Nutrient	Orthophosphate, wet atmospheric deposition, unfiltered, milligrams per square meter as PO4	Agree					Total		14265-44-2	Phosphate	mg/m2
+83119	Nutrient	Orthophosphate, wet atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		14265-44-2	Phosphate	ueq/L
+83326	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, filtered, milligrams per liter as nitrogen	Agree					Dissolved		 	Ammonia and ammonium	mg/l as N
+83327	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, filtered, milligrams per square meter as nitrogen	Agree					Dissolved		 	Ammonia and ammonium	mg/m2 as N
+83328	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		 	Ammonia and ammonium	ueq/L
+83329	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, filtered, milligrams per liter as NH4	Agree					Dissolved		 	Ammonia and ammonium	mg/l NH4
+83330	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, filtered, milligrams per square meter as NH4	Agree					Dissolved		 	Ammonia and ammonium	mg/m2 NH4
+83331	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		 	Ammonia and ammonium	ueq/L
+83332	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, suspended, milligrams per liter as nitrogen	Agree					Suspended		 	Ammonia and ammonium	mg/l as N
+83333	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, suspended, milligrams per square meter as nitrogen	Agree					Suspended		 	Ammonia and ammonium	mg/m2 as N
+83334	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, suspended, microequivalents per liter	Agree					Suspended		 	Ammonia and ammonium	ueq/L
+83335	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, suspended, milligrams per liter as NH4	Agree					Suspended		 	Ammonia and ammonium	mg/l NH4
+83336	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, suspended, milligrams per square meter as NH4	Agree					Suspended		 	Ammonia and ammonium	mg/m2 NH4
+83337	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, suspended, microequivalents per liter	Agree					Suspended		 	Ammonia and ammonium	ueq/L
+83338	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, unfiltered, recoverable, milligrams per liter as nitrogen	Agree					Recoverable		 	Ammonia and ammonium	mg/l as N
+83339	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, unfiltered, recoverable, milligrams per square meter as nitrogen	Agree					Recoverable		 	Ammonia and ammonium	mg/m2 as N
+83340	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, unfiltered, recoverable, microequivalents per liter	Agree					Recoverable		 	Ammonia and ammonium	ueq/L
+83341	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, unfiltered, recoverable, milligrams per liter as NH4	Agree					Recoverable		 	Ammonia and ammonium	mg/l NH4
+83342	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, unfiltered, recoverable, milligrams per square meter as NH4	Agree					Recoverable		 	Ammonia and ammonium	mg/m2 NH4
+83343	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, unfiltered, recoverable, microequivalents per liter	Agree					Recoverable		 	Ammonia and ammonium	ueq/L
+83344	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, unfiltered, milligrams per liter as nitrogen	Agree					Total		 	Ammonia and ammonium	mg/l as N
+83345	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, unfiltered, milligrams per square meter as nitrogen	Agree					Total		 	Ammonia and ammonium	mg/m2 as N
+83346	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		 	Ammonia and ammonium	ueq/L
+83347	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, unfiltered, milligrams per liter as NH4	Agree					Total		 	Ammonia and ammonium	mg/l NH4
+83348	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, unfiltered, milligrams per square meter as NH4	Agree					Total		 	Ammonia and ammonium	mg/m2 NH4
+83349	Nutrient	Ammonia (NH3 + NH4+), bulk atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		 	Ammonia and ammonium	ueq/L
+83350	Nutrient	Nitrate, bulk atmospheric deposition, filtered, milligrams per liter as nitrogen	Agree					Dissolved		14797-55-8	Nitrate	mg/l as N
+83351	Nutrient	Nitrate, bulk atmospheric deposition, filtered, milligrams per square meter as nitrogen	Agree					Dissolved		14797-55-8	Nitrate	mg/m2 as N
+83352	Nutrient	Nitrate, bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		14797-55-8	Nitrate	ueq/L
+83353	Nutrient	Nitrate, bulk atmospheric deposition, filtered, milligrams per liter as nitrate	Agree					Dissolved		14797-55-8	Nitrate	mg/l
+83354	Nutrient	Nitrate, bulk atmospheric deposition, filtered, milligrams per square meter as nitrate	Agree					Dissolved		14797-55-8	Nitrate	mg/m2
+83355	Nutrient	Nitrate, bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		14797-55-8	Nitrate	ueq/L
+83356	Nutrient	Nitrate, bulk atmospheric deposition, unfiltered, milligrams per liter as nitrogen	Agree					Total		14797-55-8	Nitrate	mg/l as N
+83357	Nutrient	Nitrate, bulk atmospheric deposition, unfiltered, milligrams per square meter as nitrogen	Agree					Total		14797-55-8	Nitrate	mg/m2 as N
+83358	Nutrient	Nitrate, bulk atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		14797-55-8	Nitrate	ueq/L
+83359	Nutrient	Nitrate, bulk atmospheric deposition, unfiltered, milligrams per liter as nitrate	Agree					Total		14797-55-8	Nitrate	mg/l
+83360	Nutrient	Nitrate, bulk atmospheric deposition, unfiltered, milligrams per square meter as nitrate	Agree					Total		14797-55-8	Nitrate	mg/m2
+83361	Nutrient	Nitrate, bulk atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		14797-55-8	Nitrate	ueq/L
+83362	Nutrient	Nitrate plus nitrite, bulk atmospheric deposition, filtered, milligrams per liter as nitrogen	Agree					Dissolved		 	Inorganic nitrogen (nitrate and nitrite)	mg/l as N
+83363	Nutrient	Nitrate plus nitrite, bulk atmospheric deposition, filtered, milligrams per square meter as nitrogen	Agree					Dissolved		 	Inorganic nitrogen (nitrate and nitrite)	mg/m2 as N
+83364	Nutrient	Nitrate plus nitrite, bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		 	Inorganic nitrogen (nitrate and nitrite)	ueq/L
+83365	Nutrient	Nitrate plus nitrite, bulk atmospheric deposition, filtered, milligrams per liter as nitrate	Agree					Dissolved		 	Inorganic nitrogen (nitrate and nitrite)	mg/l NO3
+83366	Nutrient	Nitrate plus nitrite, bulk atmospheric deposition, filtered, milligrams per square meter as nitrate	Agree					Dissolved		 	Inorganic nitrogen (nitrate and nitrite)	mg/m2 NO3
+83367	Nutrient	Nitrate plus nitrite, bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		 	Inorganic nitrogen (nitrate and nitrite)	ueq/L
+83368	Nutrient	Nitrate plus nitrite, bulk atmospheric deposition, unfiltered, milligrams per liter as nitrogen	Agree					Total		 	Inorganic nitrogen (nitrate and nitrite)	mg/l as N
+83369	Nutrient	Nitrate plus nitrite, bulk atmospheric deposition, unfiltered, milligrams per square meter as nitrogen	Agree					Total		 	Inorganic nitrogen (nitrate and nitrite)	mg/m2 as N
+83370	Nutrient	Nitrate plus nitrite, bulk atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		 	Inorganic nitrogen (nitrate and nitrite)	ueq/L
+83371	Nutrient	Nitrate plus nitrite, bulk atmospheric deposition, unfiltered, milligrams per liter as nitrate	Agree					Total		 	Inorganic nitrogen (nitrate and nitrite)	mg/l NO3
+83372	Nutrient	Nitrate plus nitrite, bulk atmospheric deposition, unfiltered, milligrams per square meter as nitrate	Agree					Total		 	Inorganic nitrogen (nitrate and nitrite)	mg/m2 NO3
+83373	Nutrient	Nitrate plus nitrite, bulk atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		 	Inorganic nitrogen (nitrate and nitrite)	ueq/L
+83374	Nutrient	Nitrite, bulk atmospheric deposition, filtered, milligrams per liter as nitrogen	Agree					Dissolved		14797-65-0	Nitrite	mg/l as N
+83375	Nutrient	Nitrite, bulk atmospheric deposition, filtered, milligrams per square meter as nitrogen	Agree					Dissolved		14797-65-0	Nitrite	mg/m2 as N
+83376	Nutrient	Nitrite, bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		14797-65-0	Nitrite	ueq/L
+83377	Nutrient	Nitrite, bulk atmospheric deposition, filtered, milligrams per liter as nitrite	Agree					Dissolved		14797-65-0	Nitrite	mg/l
+83378	Nutrient	Nitrite, bulk atmospheric deposition, filtered, milligrams per square meter as nitrite	Agree					Dissolved		14797-65-0	Nitrite	mg/m2
+83379	Nutrient	Nitrite, bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		14797-65-0	Nitrite	ueq/L
+83380	Nutrient	Nitrite, bulk atmospheric deposition, unfiltered, milligrams per liter as nitrogen	Agree					Total		14797-65-0	Nitrite	mg/l as N
+83381	Nutrient	Nitrite, bulk atmospheric deposition, unfiltered, milligrams per square meter as nitrogen	Agree					Total		14797-65-0	Nitrite	mg/m2 as N
+83382	Nutrient	Nitrite, bulk atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		14797-65-0	Nitrite	ueq/L
+83383	Nutrient	Nitrite, bulk atmospheric deposition, unfiltered, milligrams per liter as nitrite	Agree					Total		14797-65-0	Nitrite	mg/l
+83384	Nutrient	Nitrite, bulk atmospheric deposition, unfiltered, milligrams per square meter as nitrite	Agree					Total		14797-65-0	Nitrite	mg/m2
+83385	Nutrient	Nitrite, bulk atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		14797-65-0	Nitrite	ueq/L
+83390	Nutrient	Orthophosphate, bulk atmospheric deposition, filtered, milligrams per liter as phosphorus	Agree					Dissolved		14265-44-2	Phosphate	mg/l as P
+83391	Nutrient	Orthophosphate, bulk atmospheric deposition, filtered, milligrams per square meter as phosphorus	Agree					Dissolved		14265-44-2	Phosphate	mg/m2 as P
+83392	Nutrient	Orthophosphate, bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		14265-44-2	Phosphate	ueq/L
+83393	Nutrient	Orthophosphate, bulk atmospheric deposition, filtered, milligrams per liter as PO4	Agree					Dissolved		14265-44-2	Phosphate	mg/l
+83394	Nutrient	Orthophosphate, bulk atmospheric deposition, filtered, milligrams per square meter as PO4	Agree					Dissolved		14265-44-2	Phosphate	mg/m2
+83395	Nutrient	Orthophosphate, bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		14265-44-2	Phosphate	ueq/L
+83396	Nutrient	Orthophosphate, bulk atmospheric deposition, unfiltered, milligrams per liter as phosphorus	Agree					Total		14265-44-2	Phosphate	mg/l as P
+83397	Nutrient	Orthophosphate, bulk atmospheric deposition, unfiltered, milligrams per square meter as phosphorus	Agree					Total		14265-44-2	Phosphate	mg/m2 as P
+83398	Nutrient	Orthophosphate, bulk atmospheric deposition, unfiltered, microequivalents per liter as PO4	Agree					Total		14265-44-2	Phosphate	ueq/L
+83399	Nutrient	Orthophosphate, bulk atmospheric deposition, unfiltered, milligrams per liter as PO4	Agree					Total		14265-44-2	Phosphate	mg/l
+83400	Nutrient	Orthophosphate, bulk atmospheric deposition, unfiltered, milligrams per square meter as PO4	Agree					Total		14265-44-2	Phosphate	mg/m2
+83401	Nutrient	Orthophosphate, bulk atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		14265-44-2	Phosphate	ueq/L
+83551	Nutrient	Hydrolyzable phosphorus, water, dissolved, pounds per day	Not checked					Dissolved		 	 	lb/day
+83554	Nutrient	Nitrate plus nitrite, water, total, short tons per day as nitrogen	Not checked					Total		 	 	ton/d as N
+83555	Nutrient	Orthophosphate, water, dissolved, pounds of phosphorus per day	Not checked					Dissolved		14265-44-2	 	lb/d as P
+83556	Nutrient	Orthophosphate, water, dissolved, pounds of PO4 per day	Not checked					Dissolved		14265-44-2	 	lb/d asPO4
+85570	Nutrient	Dinitrogen, water, dissolved, cubic centimeters per gram at standard temperature and pressure	USGS use and no use by EPA					Dissolved		7727-37-9	Nitrogen	cm3/g @STP
+90859	Nutrient	Nitrate plus nitrite, water, unfiltered, calculated, milligrams per liter as nitrogen	USGS use and no use by EPA					Total		 	Inorganic nitrogen (nitrate and nitrite)	mg/l as N
+90861	Nutrient	Particulate nitrogen to particulate organic carbon mass ratio, number	Not checked							 	 	None
+91003	Nutrient	Nitrate, water, filtered, micrograms per liter as nitrate	USGS use and no use by EPA					Dissolved		14797-55-8	Nitrate	ug/l
+91004	Nutrient	Orthophosphate, water, filtered, micrograms per liter as phosphorus	USGS use and no use by EPA					Dissolved		14265-44-2	Phosphate	ug/L as P
+91006	Nutrient	Nitrate, water, dissolved, short tons of nitrate per day	USGS use and no use by EPA					Dissolved		14797-55-8	Nitrate	tons/day
+91007	Nutrient	Phosphorus, water, unfiltered, short tons of phosphorus per day	USGS use and no use by EPA					Total		7723-14-0	Phosphorus	tons/day
+91008	Nutrient	Phosphorus, water, dissolved, short tons of phosphorus per day	USGS use and no use by EPA					Dissolved		7723-14-0	Phosphorus	tons/day
+91012	Nutrient	Nitrite, water, dissolved, short tons of nitrogen per day	USGS use and no use by EPA					Dissolved		14797-65-0	Nitrite	tons/day
+91013	Nutrient	Ammonia plus organic nitrogen, water, unfiltered, short tons of nitrogen per day	USGS use and no use by EPA					Total		 	Kjeldahl nitrogen	ton/d as N
+91014	Nutrient	Ammonia (NH3 + NH4+), water, dissolved, short tons of nitrogen per day	USGS use and no use by EPA					Dissolved		 	Ammonia and ammonium	tons/day
+91015	Nutrient	Ammonia (NH3 + NH4+), water, unfiltered, short tons of nitrogen per day	USGS use and no use by EPA					Total		 	Ammonia and ammonium	tons/day
+91047	Nutrient	Organic nitrogen, water, unfiltered, pounds of nitrogen per day	USGS use and no use by EPA					Total		 	Organic nitrogen	lb/day
+91048	Nutrient	Ammonia (NH3 + NH4+), water, unfiltered, pounds of nitrogen per day	USGS use and no use by EPA					Total		 	Ammonia and ammonium	lb/day
+91049	Nutrient	Nitrate plus nitrite, water, unfiltered, pounds of nitrogen per day	USGS use and no use by EPA					Total		 	Inorganic nitrogen (nitrate and nitrite)	lb/d as N
+91050	Nutrient	Phosphorus, water, unfiltered, pounds of phosphorus per day	USGS use and no use by EPA					Total		7723-14-0	Phosphorus	lb/day
+91057	Nutrient	Ammonia plus organic nitrogen, water, unfiltered, pounds of nitrogen per day	USGS use and no use by EPA					Total		 	Kjeldahl nitrogen	lb/d as N
+91058	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, unfiltered, pounds of nitrogen per day	USGS use and no use by EPA					Total		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	lb/day
+91059	Nutrient	Orthophosphate, water, unfiltered, pounds of PO4 per day	USGS use and no use by EPA					Total		14265-44-2	Phosphate	lb/day
+91060	Nutrient	Orthophosphate, water, dissolved, pounds per day	USGS use and no use by EPA					Dissolved		14265-44-2	Phosphate	lb/day
+91061	Nutrient	Nitrate plus nitrite, water, dissolved, pounds of nitrogen per day	USGS use and no use by EPA					Dissolved		 	Inorganic nitrogen (nitrate and nitrite)	lb/d as N
+99116	Nutrient	Nitrite, water, filtered, field, milligrams per liter as nitrogen	USGS use and no use by EPA					Dissolved		14797-65-0	Nitrite	mg/l as N
+99120	Nutrient	Ammonia (NH3 + NH4+), water, filtered, field, milligrams per liter as nitrogen	USGS use and no use by EPA					Dissolved		 	Ammonia and ammonium	mg/l as N
+99121	Nutrient	Nitrate, water, filtered, field, milligrams per liter as nitrogen	USGS use and no use by EPA					Dissolved		14797-55-8	Nitrate	mg/l as N
+99122	Nutrient	Orthophosphate, water, filtered, field, milligrams per liter as PO4	USGS use and no use by EPA					Dissolved		14265-44-2	Phosphate	mg/l
+99123	Nutrient	Ammonia, water, unfiltered, field, milligrams per liter as nitrogen	USGS use and no use by EPA					Total		 	Ammonia and ammonium	mg/l as N
+99124	Nutrient	Nitrate, water, unfiltered, field, milligrams per liter as nitrogen	USGS use and no use by EPA					Total		14797-55-8	Nitrate	mg/l as N
+99125	Nutrient	Nitrite, water, unfiltered, field, milligrams per liter as nitrogen	USGS use and no use by EPA					Total		14797-65-0	Nitrite	mg/l as N
+99126	Nutrient	Orthophosphate, water, unfiltered, field, milligrams per liter as PO4	USGS use and no use by EPA					Total		14265-44-2	Phosphate	mg/l
+99130	Nutrient	Nitrate, water, unfiltered, field, micromoles per liter	USGS use and no use by EPA					Total		14797-55-8	Nitrate	umol/L
+99133	Nutrient	Nitrate plus nitrite, water, in situ, milligrams per liter as nitrogen	Not checked							 	Inorganic nitrogen (nitrate and nitrite)	mg/l as N
+99136	Nutrient	Nitrate, water, in situ, micromoles per liter	Not checked					Total		14797-55-8	Nitrate	umol/L
+99137	Nutrient	Nitrate, water, in situ, milligrams per liter as nitrogen	Not checked					Total		14797-55-8	Nitrate	mg/l as N
+99139	Nutrient	Molar ratio of nitrate (plus nitrite) and orthophosphate	Not checked					Total		 	 	None
+99410	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, filtered, estimated by regression equation, milligrams per liter as nitrogen	USGS use and no use by EPA					Dissolved		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/l
+99411	Nutrient	Nitrate, water, filtered, estimated by regression equation, milligrams per liter as nitrogen	USGS use and no use by EPA					Dissolved		14797-55-8	Nitrate	mg/l as N
+99412	Nutrient	Ammonia (NH3 + NH4+), water, filtered, estimated by regression equation, milligrams per liter as nitrogen	USGS use and no use by EPA					Dissolved		 	Ammonia and ammonium	mg/l as N
+99413	Nutrient	Ammonia plus organic nitrogen, water, filtered, estimated by regression equation, milligrams per liter as nitrogen	USGS use and no use by EPA					Dissolved		 	Kjeldahl nitrogen	mg/l as N
+99414	Nutrient	Orthophosphate, water, unfiltered, estimated by regression equation, milligrams per liter as phosphorus	USGS use and no use by EPA					Total		14265-44-2	Phosphate	mg/l as P
+99415	Nutrient	Orthophosphate, water, filtered, estimated by regression equation, milligrams per liter as phosphorus	USGS use and no use by EPA					Dissolved		14265-44-2	Phosphate	mg/l as P
+99416	Nutrient	Phosphorus, water, unfiltered, estimated by regression equation, milligrams per liter as phosphorus	USGS use and no use by EPA					Total		7723-14-0	Phosphorus	mg/l
+99423	Nutrient	Hydrolyzable phosphorus, water, filtered, estimated by GCLAS, milligrams per liter as phosphorus	Not checked					Dissolved		 	 	mg/l as P
+99889	Nutrient	Nitrate plus nitrite, water, filtered, field, milligrams per liter as nitrogen	USGS use and no use by EPA					Dissolved		 	Inorganic nitrogen (nitrate and nitrite)	mg/l as N
+99891	Nutrient	Phosphorus, water, unfiltered, modified jirka method, milligrams per liter as phosphorus	USGS use and no use by EPA					Total		7723-14-0	Phosphorus	mg/l
+99892	Nutrient	Ammonia plus organic nitrogen, water, unfiltered, modified jirka method, milligrams per liter as nitrogen	USGS use and no use by EPA					Total		 	Kjeldahl nitrogen	mg/l as N
+99893	Nutrient	Phosphorus, water, filtered, modified jirka method, milligrams per liter as phosphorus	USGS use and no use by EPA					Dissolved		7723-14-0	Phosphorus	mg/l
+99894	Nutrient	Ammonia plus organic nitrogen, water, filtered, modified jirka method, milligrams per liter as nitrogen	USGS use and no use by EPA					Dissolved		 	Kjeldahl nitrogen	mg/l as N

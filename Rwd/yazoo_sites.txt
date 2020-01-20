@@ -1,0 +1,3 @@
+NWIS_site_number,site_description
+07288500,Big Sunflower River at Sunflower MS
+07288700,Big Sunflower River near Anguilla MS

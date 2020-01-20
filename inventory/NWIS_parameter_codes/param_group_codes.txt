@@ -1,0 +1,17 @@
+BIO - Biological parameters 
+INF - Information parameters
+INM - Inorganic, major metal parameters
+INN - Inorganic, major non-metal parameters 
+IMM - Inorganic, minor metals parameters 
+IMN - Inorganic, minor non-metals parameters
+MBI - Microbiological parameters
+NUT - Nutrient parameters 
+OOT - Organics, other parameters 
+OPC - Organics, PCB parameters 
+OPE - Organics, pesticide parameters
+PHY - Physical parameters
+POP - Population/community parameters
+RAD - Radiochemical parameters
+SED - Sediment parameters
+ISO - Stable isotope parameters
+TOX - Toxicity parameters

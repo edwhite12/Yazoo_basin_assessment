@@ -1,0 +1,674 @@
+#
+# National Water Information System
+# 2019/03/30
+#
+#
+# Date Retrieved: USGS Water Data for the Nation Help System
+#
+parm_cd	group	parm_nm	epa_equivalence	result_statistical_basis	result_time_basis	result_weight_basis	result_particle_size_basis	result_sample_fraction	result_temperature_basis	CASRN	SRSName	parm_unit
+5s	8s	169s	26s	7s	10s	3s	13s	14s	9s	11s	63s	10s
+00004	Physical	Stream width, feet	Agree							 	Instream features, est. stream width	ft
+00010	Physical	Temperature, water, degrees Celsius	Agree							 	Temperature, water	deg C
+00011	Physical	Temperature, water, degrees Fahrenheit	Agree							 	Temperature, water, deg F	deg F
+00012	Physical	Evaporation temperature, 48 inch pan, degrees Celsius	Agree							 	 	deg C
+00013	Physical	Evaporation temperature, 24 inch pan, degrees Celsius	Agree							 	 	deg C
+00014	Physical	Wet bulb temperature, degrees Celsius	Agree							 	Temperature, wet bulb	deg C
+00020	Physical	Temperature, air, degrees Celsius	Agree							 	Temperature, air, deg C	deg C
+00021	Physical	Temperature, air, degrees Fahrenheit	Agree							 	Temperature, air, deg F	deg F
+00025	Physical	Barometric pressure, millimeters of mercury	Agree							 	Barometric pressure	mm/Hg
+00030	Physical	Incident solar radiation intensity, calories per square centimeter per day	Agree							 	Solar irradiation, local	cal/cm2/d
+00031	Physical	Incident light remaining at depth, percent	Agree							 	Light attenuation at measurement depth	%
+00032	Physical	Cloud cover, percent	Agree							 	Cloud cover (percent)	%
+00034	Physical	Depth to 1 percent of surface light, feet	Agree							 	Light attenuation, depth at 99%	ft
+00035	Physical	Wind speed, miles per hour	Agree							 	Wind velocity	mph
+00036	Physical	Wind direction, degrees clockwise from true north	Agree							 	Wind direction	Deg
+00045	Physical	Precipitation, total, inches	Agree					Total		 	Precipitation	in
+00046	Physical	Precipitation, total, inches per week	Agree					Total		 	Precipitation	in/week
+00047	Physical	Total partial pressure of dissolved gases, water, unfiltered, millimeters of mercury	Agree					Dissolved		 	Partial pressure of dissolved gases	mm/Hg
+00048	Physical	Total partial pressure of dissolved gases, water, unfiltered, percent of saturation	Agree					Dissolved		 	Partial pressure of dissolved gases	%
+00049	Physical	Surface area, square miles	Agree							 	 	mi2
+00050	Physical	Evaporation total, inches per day	Agree							 	Evaporation	inches/day
+00051	Physical	Surface area, square feet	Agree							 	 	ft2
+00052	Physical	Relative humidity, percent	Agree							 	Relative humidity	%
+00053	Physical	Surface area, acres	Agree							 	 	ac
+00055	Physical	Stream velocity, feet per second	Agree							 	Stream velocity	ft/sec
+00056	Physical	Flow rate of well, gallons per day	Not checked							 	 	gal/day
+00058	Physical	Flow rate of well, gallons per minute	Not agree							 	 	gal/min
+00059	Physical	Flow rate, instantaneous, gallons per minute	Agree							 	Flow rate, instantaneous	gal/min
+00060	Physical	Discharge, cubic feet per second	Not checked	Mean	1 Day					 	Stream flow, mean. daily	ft3/s
+00061	Physical	Discharge, instantaneous, cubic feet per second	Agree							 	Stream flow, instantaneous	ft3/s
+00062	Physical	Elevation of reservoir water surface above datum, feet	Agree							 	 	ft
+00064	Physical	Mean depth of stream, feet	Agree	Mean						 	Depth	ft
+00065	Physical	Gage height, feet	Agree							 	Height, gage	ft
+00067	Physical	Tide stage, code	Agree							 	Tide stage	code
+00070	Physical	Turbidity, water, unfiltered, Jackson Turbidity Units	Agree					Total		 	Turbidity	JTU
+00072	Physical	Stream stage, meters	Agree							 	Stream stage	m
+00074	Physical	Light transmission, 1 meter path length, water, unfiltered, percent	Agree					Total		 	 	%
+00075	Physical	Turbidity, water, unfiltered, Hellige turbidimeter, milligrams per liter as silicon dioxide	Agree					Total		 	Turbidity, hellige	mg/l SiO2
+00076	Physical	Turbidity, water, unfiltered, nephelometric turbidity units	Not agree					Total		 	Turbidity	NTU
+00077	Physical	Transparency, water, in situ, Secchi disc, inches	Agree							 	Water transparency, Secchi disc	in
+00078	Physical	Transparency, water, in situ, Secchi disc, meters	Agree							 	Water transparency, Secchi disc	m
+00080	Physical	Color, water, filtered, platinum cobalt units	Agree					Dissolved		 	Color	PCU
+00081	Physical	Apparent color, water, unfiltered, platinum-cobalt units	Agree					Total		 	Apparent color	PCU
+00085	Physical	Odor at room temperature, threshold odor number	Agree							 	Odor threshold number	TON
+00086	Physical	Odor at 60 degrees Celsius, threshold odor number	Agree						60 deg C	 	Odor threshold number	TON
+00090	Physical	Oxidation reduction potential, reference electrode not specified, millivolts	Agree							 	Oxidation reduction potential (ORP)	mV
+00094	Physical	Specific conductance, water, unfiltered, field, microsiemens per centimeter at 25 degrees Celsius	Agree					Total	25 deg C	 	Specific conductance	uS/cm @25C
+00095	Physical	Specific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius	Agree					Total	25 deg C	 	Specific conductance	uS/cm @25C
+00096	Physical	Salinity, water, unfiltered, milligrams per milliliter at 25 degrees Celsius	Agree					Total	25 deg C	 	Salinity	mg/mL @25C
+00117	Physical	Precipitation, duration of storm event, minutes	Agree							 	Precipitation event duration	minutes
+00118	Physical	Precipitation, cumulative at given time, location 6, inches	Agree							 	Precipitation	in
+00119	Physical	Precipitation, cumulative at given time, location 5, inches	Agree							 	Precipitation	in
+00120	Physical	Precipitation, cumulative at given time, location 4, inches	Agree							 	Precipitation	in
+00121	Physical	Precipitation, cumulative at given time, location 3, inches	Agree							 	Precipitation	in
+00122	Physical	Precipitation, cumulative at given time, location 2, inches	Agree							 	Precipitation	in
+00123	Physical	Precipitation, cumulative at given time, location 1, inches	Agree							 	Precipitation	in
+00124	Physical	Precipitation, intensity at given time, location 6, inches per hour	Agree							 	Precipitation	in/hr
+00125	Physical	Precipitation, intensity at given time, location 5, inches per hour	Agree							 	Precipitation	in/hr
+00126	Physical	Precipitation, intensity at given time, location 4, inches per hour	Agree							 	Precipitation	in/hr
+00127	Physical	Precipitation, intensity at given time, location 3, inches per hour	Agree							 	Precipitation	in/hr
+00128	Physical	Precipitation, intensity at given time, location 2, inches per hour	Agree							 	Precipitation	in/hr
+00129	Physical	Precipitation, intensity at given time, location 1, inches per hour	Agree							 	Precipitation	in/hr
+00164	Physical	Flow, gallons per batch	Agree							 	Flow, gallons per batch	gal/batch
+00193	Physical	Precipitation total for defined period, inches	Agree					Total		 	Precipitation	in
+00196	Physical	Wind run, miles	Agree							 	 	mi
+00197	Physical	Evaporation, accumulated, inches	Agree							 	Evaporation	in
+00198	Physical	Depth to 10 percent of surface light, feet	Agree							 	 	ft
+00199	Physical	Depth to 50 percent of surface light, feet	Agree							 	Light attenuation, depth at 50%	ft
+00200	Physical	Incident light intensity, 400-700 nanometers, microeinsteins per square meter per second	Agree							 	 	uE/m2/sec
+00201	Physical	Incident light, daily total, 400-700 nanometers, microeinsteins per square meter	Agree		Daily			Total		 	 	uEinst/m2
+00294	Physical	Chemical oxygen demand, soluble, dry atmospheric deposition, milligrams per kilogram	Not checked							 	Chemical oxygen demand	mg/kg
+00296	Physical	Chemical oxygen demand, insoluble, dry atmospheric deposition, milligrams per kilogram	Not checked							 	Chemical oxygen demand	mg/kg
+00297	Physical	Chemical oxygen demand, total, dry atmospheric deposition, milligrams per kilogram	Not checked					Total		 	Chemical oxygen demand	mg/kg
+00302	Physical	Immediate oxygen demand, water, unfiltered, 20 degrees Celsius, milligrams per liter	Not checked					Total	20 deg C	 	 	mg/l
+00310	Physical	Biochemical oxygen demand, water, unfiltered, 5 days at 20 degrees Celsius, milligrams per liter	Not checked		5 Day			Total	20 deg C	 	Biochemical oxygen demand, standard conditions	mg/l
+00315	Physical	Biochemical oxygen demand, water, unfiltered, 7 days at 20 degrees Celsius, milligrams per liter	Not checked		7 Day			Total	20 deg C	 	Biochemical oxygen demand, non-standard conditions	mg/l
+00319	Physical	Ultimate biochemical oxygen demand, water, unfiltered, 20 degrees Celsius, milligrams per liter	Not checked		Ultimate			Total	20 deg C	 	BOD, ultimate	mg/l
+00320	Physical	Ultimate carbonaceous biochemical oxygen demand, water, unfiltered, 20 degrees Celsius, milligrams per liter	Not checked		Ultimate			Total	20 deg C	 	Carbonaceous biochemical oxygen demand, non-standard conditions	mg/l
+00321	Physical	Ultimate nitrogenous biochemical oxygen demand, water, unfiltered, milligrams per liter	Not checked		Ultimate			Total		 	Nitrogenous biochemical oxygen demand	mg/l
+00324	Physical	Biochemical oxygen demand, water, unfiltered, 20 days at 20 degrees Celsius, milligrams per liter	Not checked		20 Day			Total	20 deg C	 	Biochemical oxygen demand, non-standard conditions	mg/l
+00325	Physical	Deoxygenation constant (k1 to base e), biochemical oxygen demand, 20 degrees Celsius, water, unfiltered, per day	Not checked					Total	20 deg C	 	 	per day
+00330	Physical	Reoxygenation constant (k2 to base e), water, unfiltered, per day	Not checked					Total		 	 	per day
+00335	Physical	Chemical oxygen demand, low level, water, unfiltered, milligrams per liter	Not checked					Total		 	Chemical oxygen demand, (low level)	mg/l
+00339	Physical	Chemical oxygen demand, bed sediment, total, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		 	Chemical oxygen demand	mg/kg
+00340	Physical	Chemical oxygen demand, high level, water, unfiltered, milligrams per liter	Not checked					Total		 	Chemical oxygen demand, (high level)	mg/l
+00349	Physical	Biochemical oxygen demand, water, unfiltered, 30 days at 20 degrees Celsius, milligrams per liter	Not checked		30 Day			Total	20 deg C	 	Biochemical oxygen demand, non-standard conditions	mg/l
+00359	Physical	Biochemical oxygen demand, water, filtered, 5 days at 20 degrees Celsius, milligrams per liter	Agree		5 Day			Dissolved	20 deg C	 	BOD, filtered, 5 day, 20 deg C	mg/l
+00367	Physical	Chemical oxygen demand, low level, water, filtered, milligrams per liter	Not checked					Dissolved		 	Chemical oxygen demand, (low level)	mg/l
+00400	Physical	pH, water, unfiltered, field, standard units	Agree					Total		 	pH	std units
+00401	Physical	Cations minus anions, water, milliequivalents	Agree							 	Cations-Anions	meq
+00402	Physical	Specific conductance, non-temperature corrected, water, unfiltered, microsiemens per centimeter	Agree					Total		 	Specific conductance	uS/cm
+00403	Physical	pH, water, unfiltered, laboratory, standard units	Agree					Total		 	pH, lab	std units
+00408	Physical	pH, water, filtered, laboratory, standard units	Not checked					Dissolved		 	 	std units
+00434	Physical	pH adjusted to 25 degrees Celsius, water, laboratory, standard units	Not checked						25 deg C	 	 	std units
+00480	Physical	Salinity, water, unfiltered, parts per thousand	Not checked					Total		 	Salinity	ppth
+00495	Physical	Moisture content, fraction of dry weight, percent	Not checked			Dry				 	Moisture content	%
+00500	Physical	Total solids dried at 105 degrees Celsius, water, unfiltered, milligrams per liter	Not checked					Total	105 deg C	 	Total solids	mg/l
+00505	Physical	Loss on ignition of total solids, water, unfiltered, milligrams per liter	Not checked					Total		 	Total volatile solids	mg/l
+00510	Physical	Total solids remaining after ignition, water, unfiltered, milligrams per liter	Not checked					Total		 	Total fixed solids	mg/l
+00515	Physical	Dissolved solids dried at 105 degrees Celsius, water, filtered, milligrams per liter	Not checked					Dissolved	105 deg C	 	Total dissolved solids	mg/l
+00520	Physical	Loss on ignition of dissolved solids, water, filtered, milligrams per liter	Not checked					Dissolved		 	Volatile dissolved solids	mg/l
+00525	Physical	Dissolved solids remaining after ignition, water, filtered, milligrams per liter	Not checked					Dissolved		 	Fixed dissolved solids	mg/l
+00530	Physical	Suspended solids, water, unfiltered, milligrams per liter	Not checked					Non-filterable		 	Total suspended solids	mg/l
+00535	Physical	Loss on ignition of suspended solids, water, unfiltered, milligrams per liter	Not checked					Non-filterable		 	Volatile Suspended Solids	mg/l
+00540	Physical	Suspended solids remaining after ignition, water, unfiltered, milligrams per liter	Not checked							 	Fixed suspended solids	mg/l
+00545	Physical	Settleable solids, water, unfiltered, milligrams per liter	Not checked					Settleable		 	Settleable solids	mg/l
+00548	Physical	Non-settleable solids remaining after ignition, milligrams per liter	Not checked							 	 	mg/l
+00549	Physical	Loss on ignition of non-settleable solids, milligrams per liter	Not checked					Non-settleable		 	 	mg/l
+00898	Physical	Carbonate hardness, water, filtered, milligrams per liter as calcium carbonate	USGS use and no use by EPA					Dissolved		 	Hardness, carbonate	mg/l CaCO3
+00900	Physical	Hardness, water, milligrams per liter as calcium carbonate	Agree							 	Total hardness -- SDWA NPDWR	mg/l CaCO3
+00901	Physical	Carbonate hardness, water, unfiltered, milligrams per liter as calcium carbonate	Not checked					Total		 	Hardness, carbonate	mg/l CaCO3
+00902	Physical	Noncarbonate hardness, water, unfiltered, field, milligrams per liter as calcium carbonate	Not checked					Total		 	Hardness, non-carbonate	mg/l CaCO3
+00903	Physical	Noncarbonate hardness, water, unfiltered, lab, milligrams per liter as calcium carbonate	Not checked					Total		 	Hardness, non-carbonate	mg/l CaCO3
+00904	Physical	Noncarbonate hardness, water, filtered, field, milligrams per liter as calcium carbonate	Not checked					Dissolved		 	Hardness, non-carbonate	mg/l CaCO3
+00905	Physical	Noncarbonate hardness, water, filtered, lab, milligrams per liter as calcium carbonate	Not checked					Dissolved		 	Hardness, non-carbonate	mg/l CaCO3
+00906	Physical	Hardness, water, filtered, calculated, milligrams per liter as calcium carbonate	USGS use and no use by EPA					Dissolved		 	Total hardness -- SDWA NPDWR	mg/l CaCO3
+00907	Physical	Hardness, water, unfiltered, calculated, milligrams per liter as calcium carbonate	USGS use and no use by EPA					Total		 	Total hardness -- SDWA NPDWR	mg/l CaCO3
+00908	Physical	Hardness, water, filtered, measured, milligrams per liter as calcium carbonate	USGS use and no use by EPA					Dissolved		 	Total hardness -- SDWA NPDWR	mg/l CaCO3
+00909	Physical	Hardness, water, unfiltered, measured, milligrams per liter as calcium carbonate	USGS use and no use by EPA					Total		 	Total hardness -- SDWA NPDWR	mg/l CaCO3
+01305	Physical	Suds or foam, severity, code	Not checked							 	Detergent, severity	code
+01310	Physical	Gas bubbles, severity, code	Not checked							 	Gas bubble severity	code
+01315	Physical	Floating sludge, severity, code	Not checked							 	Floating sludge, severity	code
+01320	Physical	Floating garbage, severity, code	Not checked							 	Trash, Debris, Floatables	code
+01325	Physical	Floating algae mats, severity, code	Not checked							 	Algae, floating mats (severity)	code
+01330	Physical	Odor, atmospheric, severity, code	Not checked							 	Odor, atmospheric	code
+01335	Physical	Sewage solids, fresh floating, severity, code	Not checked							 	 	code
+01345	Physical	Floating debris, severity, code	Not checked							 	Floating debris, severity	code
+01350	Physical	Turbidity, severity, code	Not checked							 	Turbidity severity	code
+01351	Physical	Streamflow, severity, code	Not checked							 	Flow, severity	code
+01355	Physical	Ice cover, floating or solid, severity, code	Not checked							 	Ice cover, floating or solid	code
+30205	Physical	Temperature, wood (fire potential), degrees Fahrenheit	Agree							 	 	deg F
+30206	Physical	Temperature, wood (fire potential), degrees Celsius	Agree							 	 	deg C
+30207	Physical	Gage height, above datum, meters	Agree							 	Gage height	m
+30208	Physical	Discharge, cubic meters per second	Agree	Mean	1 Day					 	 	m3/sec
+30209	Physical	Discharge, instantaneous, cubic meters per second	Agree							 	Stream flow, instantaneous	m3/sec
+30210	Physical	Depth to water level, below land surface datum (LSD), meters	Agree							 	Depth, from ground surface to well water level	m
+30211	Physical	Elevation above NGVD 1929, meters	Agree							 	 	m
+30212	Physical	Stage, sonic range determination, feet	Agree							 	 	ft
+30213	Physical	Stage, sonic range determination, meters	Agree							 	 	m
+30214	Physical	Pressure, relative, manometer tank, count	Agree							 	 	count
+30267	Physical	Illumination, lumens per square foot	Agree							 	 	lm/ft2
+30334	Physical	Surface area, suspended sediment, square meters per gram	Agree					Suspended		 	Surface area	m2/g
+32290	Physical	Fluorescence transmission (transparency to fluorescence) at 700 nm, percent	Not checked							 	 	%
+32291	Physical	UV fluorescence, water, in situ, single band, 370 nm excitation, 460 nm emission, relative fluorescence units (RFU)	Not checked							 	 	RFU
+32292	Physical	UV fluorescence, water, in situ, single band, 270 nm excitation, 340 nm emission, relative fluorescence units (RFU)	Not checked							 	 	RFU
+32293	Physical	UV fluorescence, water, in situ, single band, 370 nm excitation, 470 nm emission, relative fluorescence units (RFU)	Not checked							 	 	RFU
+32294	Physical	UV fluorescence, water, in situ, single band, 370 nm excitation, 520 nm emission, relative fluorescence units (RFU)	Not checked							 	 	RFU
+32295	Physical	Dissolved organic matter fluorescence (fDOM), water, in situ, micrograms per liter as quinine sulfate equivalents (QSE)	Not checked					Dissolved		 	Colored dissolved organic matter (CDOM)	ug/l QSE
+32296	Physical	Absorbance at 280 nm, water, filtered, absorbance units per centimeter	Not checked					Dissolved		 	 	AU/cm
+32297	Physical	Absorbance at 370 nm, water, filtered, absorbance units per centimeter	Not checked					Dissolved		 	 	AU/cm
+32298	Physical	Absorbance at 412 nm, water, filtered, absorbance units per centimeter	Not checked					Dissolved		 	 	AU/cm
+32299	Physical	Absorbance at 440 nm, water, filtered, absorbance units per centimeter	Not checked					Dissolved		 	 	AU/cm
+32300	Physical	Absorption spectral slope (Sag), wavelengths 275 to 295 nm, unitless	Not checked					Dissolved		 	 	None
+32301	Physical	Absorption spectral slope (Sag), wavelengths 290 to 350 nm, unitless	Not checked					Dissolved		 	 	None
+32302	Physical	Absorption spectral slope (Sag), wavelengths 350 to 400 nm, unitless	Not checked					Dissolved		 	 	None
+32303	Physical	Absorption spectral slope, wavelengths 412 to 676 nm, unitless	Not checked					Dissolved		 	 	None
+32304	Physical	Fluorescence, water, filtered, excitation at 260 nm, emission at 450 nm, Raman units (RU)	Not checked					Dissolved		 	 	RU
+32305	Physical	Fluorescence, water, filtered, excitation at 275 nm, emission at 304 nm, Raman units (RU)	Not checked					Dissolved		 	 	RU
+32306	Physical	Fluorescence, water, filtered, excitation at 340 nm, emission at 440 nm, micrograms per liter of quinine sulfate equivalents (QSE)	Not checked					Dissolved		 	 	ug/l QSE
+32307	Physical	Fluorescence, water, filtered, excitation at 390 nm, emission at 510 nm, Raman units (RU)	Not checked					Dissolved		 	 	RU
+32308	Physical	Fluorescence, water, filtered, excitation at 370 nm, emission at 460 nm, micrograms per liter of quinine sulfate equivalents (QSE)	Not checked					Dissolved		 	 	ug/l QSE
+32309	Physical	Fluorescence, water, filtered, excitation at 300 nm, emission at 390 nm, Raman units (RU)	Not checked					Dissolved		 	 	RU
+32310	Physical	Fluorescence, water, filtered, excitation at 280 nm, emission at 370 nm, Raman units (RU)	Not checked					Dissolved		 	 	RU
+32311	Physical	Fluorescence, water, filtered, excitation at 275 nm, emission at 340 nm, Raman units (RU)	Not checked					Dissolved		 	 	RU
+32312	Physical	Fluorescence Index - ratio of emission intensities which characterizes the slope of the emission curve at an excitation of 370 nm	Not checked					Dissolved		 	 	None
+32313	Physical	Humification Index - calculated by dividing the fluorescence intensity in the 435-480 nm region by the total intensities in the 300-345 and 435-480 nm regions	Not checked					Dissolved		 	 	None
+32315	Physical	Chlorophyll fluorescence (fChl), water, in situ, relative fluorescence units (RFU)	Not checked					Total		479-61-8	Chlorophyll a	RFU
+32316	Physical	Chlorophyll fluorescence (fChl), water, in situ, micrograms per liter as chlorophyll	Not checked					Total		479-61-8	Chlorophyll a	ug/l
+32319	Physical	Phycocyanin fluorescence (fPC), water, in situ, micrograms per liter as phycocyanin	Not checked					Total		 	 	ug/l
+32321	Physical	Phycocyanin fluorescence (fPC), water, in situ, relative fluorescence units (RFU)	Not checked					Total		 	 	RFU
+32322	Physical	Dissolved organic matter fluorescence (fDOM), water, in situ, relative fluorescence units (RFU)	Not checked					Total		 	Colored dissolved organic matter (CDOM)	RFU
+32323	Physical	Phycoerythrin fluorescence (fPE), water, in situ, relative fluorescence units (RFU)	Not checked					Total		 	 	RFU
+32327	Physical	Absorbance at 254 nm, water, in situ, absorbance units	Not checked					Total		 	UV 254 -- SDWA NPDWR	AU
+32328	Physical	Absorbance at 350 nm, water, in situ, absorbance units	Not checked					Total		 	 	AU
+32332	Physical	Fluorescence, water, filtered, excitation at 340 nm, emission at 440 nm, Raman units (RU)	Not checked					Dissolved		 	 	RU
+32333	Physical	Fluorescence, water, filtered, excitation at 370 nm, emission at 460 nm, Raman units (RU)	Not checked					Dissolved		 	 	RU
+34777	Physical	Exposed bedrock in streambed (fraction of the streambed that is exposed bedrock), percent	Agree							 	 	%
+45001	Physical	Precipitation, number of days since 0.25 to 0.5 inch precipitation event	Agree							 	 	days
+45002	Physical	Precipitation, number of days since 0.5 to 1.0 inch precipitation event	Agree							 	 	days
+45003	Physical	Precipitation, number of days since greater than 1.0 inch precipitation event	Agree							 	 	days
+46253	Physical	pH, 1 to 1 soil/water mixture, standard units	Agree							 	pH, in soil	std units
+46311	Physical	Moisture content, soil, dry weight, percent	Agree			Dry		Total		 	Moisture content	%
+46514	Physical	Solar radiation, upward intensity, calories per square centimeter per minute	Agree							 	 	cal/cm2/mn
+46515	Physical	Solar radiation, downward intensity, calories per square centimeter per minute	Agree							 	 	cal/cm2/mn
+46516	Physical	Solar radiation, net, calories per square centimeter per minute	Agree							 	 	cal/cm2/mn
+46529	Physical	Precipitation, inches	Agree							 	Precipitation	in
+49282	Physical	Moisture content, bed sediment smaller than 2 millimeters, wet sieved (native water), field, recoverable, dry weight, percent	Not agree			Dry	< 2 mm	Bed Sediment		 	Moisture content	%
+49491	Physical	Moisture content, biota, whole organism, recoverable, wet weight, percent	Not agree			Wet		Recoverable		 	Moisture content	%
+49701	Physical	Transparency, water, in situ, Secchi disc, feet	Agree							 	Water transparency, Secchi disc	ft
+49982	Physical	Bulk density, soil, dry, grams per cubic centimeter	Not checked			Dry		Total		 	 	g/cm3
+49983	Physical	Mineral density, soil, grams per cubic centimeter	Not checked					Total		 	 	g/cm3
+49984	Physical	Rubbed fiber content, soil, percent	Not checked					Total		 	 	%
+49985	Physical	Marsh level movement, vertical, meters	Not checked							 	 	m
+49986	Physical	Degree of decomposition, soil, code	Not checked					Total		 	 	code
+50011	Physical	Temperature, vent gas, volcanic, degrees Celsius	Agree							 	 	deg C
+50012	Physical	Compaction, aquifer system, feet	Not checked							 	 	ft
+50013	Physical	Compaction, soil, feet	Not checked					Total		 	 	ft
+50042	Physical	Discharge, gallons per minute	Agree							 	 	gal/min
+50047	Physical	Flow, maximum during 24 hour period, million gallons per day	Agree	Maximum	24 Hour					 	Flow, maximum during 24-hour period	mgd
+50048	Physical	Flow, minimum during 24 hour period, million gallons per day	Agree	Minimum	24 Hour					 	 	mgd
+50050	Physical	Flow, in conduit or through a treatment plant, million gallons per day	Agree							 	Flow, in conduit or treatment plant	mgd
+50051	Physical	Flow rate, instantaneous, million gallons per day	Agree							 	Flow rate, instantaneous	mgd
+50052	Physical	Flow total during composite period, thousands of gallons	Agree					Total		 	 	Kgal
+50054	Physical	Storm water overflow volume, millions of gallons	Agree							 	 	Mgal
+50086	Physical	Settleable solids, water, unfiltered, milliliters per liter per hour	Agree					Settleable		 	Settleable solids	mL/L/hr
+50624	Physical	Absorbance, 254 nm, water, filtered, absorbance units per centimeter	Not agree					Dissolved		 	UV 254 -- SDWA NPDWR	units/cm
+51331	Physical	Solids, smaller than 2 mm, wet sieved, dry weight, percent of wet weight	Not checked			Wet	< 2 mm			 	 	%
+51332	Physical	Solids, smaller than 0.063 mm, wet sieved, dry weight, percent of wet weight	Not checked			Wet	< 0.063 mm			 	 	%
+51333	Physical	Solids, between 0.063 and 0.250 mm, wet sieved, dry weight, percent of wet weight	Not checked			Wet	0.063-0.25 mm			 	 	%
+51334	Physical	Solids, between 0.250 mm and 1 mm, wet sieved, dry weight, percent of wet weight	Not checked			Wet	0.25-1.0 mm			 	 	%
+51335	Physical	Loss on ignition, solids smaller than 2 mm, wet sieved, percent	Not checked				< 2 mm			 	 	%
+51336	Physical	Loss on ignition, solids smaller than 0.063 mm, wet sieved, percent	Not checked				< 0.063 mm			 	 	%
+51337	Physical	Loss on ignition, solids between 0.063 and 0.250 mm, wet sieved, percent	Not checked				0.063-0.25 mm			 	 	%
+51338	Physical	Loss on ignition, solids between 0.250 mm and 1 mm, wet sieved, percent	Not checked				0.25-1.0 mm			 	 	%
+51339	Physical	Bulk density, solids smaller than 2 mm, wet sieved, grams per cubic centimeter	Not checked				< 2 mm			 	 	g/cm3
+51340	Physical	Bulk density, solids smaller than 0.063 mm, wet sieved, grams per cubic centimeter	Not checked				< 0.063 mm			 	 	g/cm3
+51341	Physical	Bulk density, solids between 0.063 and 0.250 mm, wet sieved, grams per cubic centimeter	Not checked				0.063-0.25 mm			 	 	g/cm3
+51342	Physical	Bulk density, solids between 0.250 mm and 1 mm, wet sieved, grams per cubic centimeter	Not checked				0.25-1.0 mm			 	 	g/cm3
+51343	Physical	Porosity, solids smaller than 2 mm, wet sieved, fraction	Not checked				< 2 mm			 	 	fraction
+51344	Physical	Porosity, solids smaller than 0.063 mm, wet sieved, fraction	Not checked				< 0.063 mm			 	 	fraction
+51345	Physical	Porosity, solids between 0.063 and 0.250 mm, wet sieved, fraction	Not checked				0.063-0.25 mm			 	 	fraction
+51346	Physical	Porosity, solids between 0.250 mm and 1 mm, wet sieved, fraction	Not checked				0.25-1.0 mm			 	 	fraction
+52723	Physical	Solids, percent smaller than 0.00038 millimeters	Not checked				<.00038mm			 	 	%
+52724	Physical	Solids, percent smaller than 0.0006 millimeters	Not checked				<0.0006mm			 	 	%
+52725	Physical	Solids, percent smaller than 0.0007 millimeters	Not checked				<0.0007mm			 	 	%
+52726	Physical	Solids, percent smaller than 0.0008 millimeters	Not checked				<0.0008mm			 	 	%
+52727	Physical	Solids, percent smaller than 0.0012 millimeters	Not checked				<0.0012mm			 	 	%
+52728	Physical	Solids, percent smaller than 0.0014 millimeters	Not checked				<0.0014mm			 	 	%
+52729	Physical	Solids, percent smaller than 0.0016 millimeters	Not checked				<0.0016mm			 	 	%
+52730	Physical	Solids, percent smaller than 0.0023 millimeters	Not checked				<0.0023mm			 	 	%
+52731	Physical	Solids, percent smaller than 0.0028 millimeters	Not checked				<0.0028mm			 	 	%
+52732	Physical	Solids, percent smaller than 0.0033 millimeters	Not checked				<0.0033mm			 	 	%
+52733	Physical	Solids, percent smaller than 0.005 millimeters	Not checked				<0.005 mm			 	 	%
+52734	Physical	Solids, percent smaller than 0.006 millimeters	Not checked				<0.006 mm			 	 	%
+52735	Physical	Solids, percent smaller than 0.007 millimeters	Not checked				<0.007 mm			 	 	%
+52736	Physical	Solids, percent smaller than 0.009 millimeters	Not checked				<0.009 mm			 	 	%
+52737	Physical	Solids, percent smaller than 0.011 millimeters	Not checked				<0.011 mm			 	 	%
+52738	Physical	Solids, percent smaller than 0.013 millimeters	Not checked				<0.013 mm			 	 	%
+52739	Physical	Solids, percent smaller than 0.019 millimeters	Not checked				<0.019 mm			 	 	%
+52740	Physical	Solids, percent smaller than 0.022 millimeters	Not checked				<0.022 mm			 	 	%
+52741	Physical	Solids, percent smaller than 0.026 millimeters	Not checked				<0.026 mm			 	 	%
+52742	Physical	Solids, percent smaller than 0.037 millimeters	Not checked				<0.037 mm			 	 	%
+52743	Physical	Solids, percent smaller than 0.044 millimeters	Not checked				<0.044 mm			 	 	%
+52744	Physical	Solids, percent smaller than 0.053 millimeters	Not checked				<0.053 mm			 	 	%
+52745	Physical	Solids, percent smaller than 0.074 millimeters	Not checked				<0.074 mm			 	 	%
+52746	Physical	Solids, percent smaller than 0.088 millimeters	Not checked				<0.088 mm			 	 	%
+52747	Physical	Solids, percent smaller than 0.105 millimeters	Not checked				<0.105 mm			 	 	%
+52748	Physical	Solids, percent smaller than 0.149 millimeters	Not checked				<0.149 mm			 	 	%
+52749	Physical	Solids, percent smaller than 0.177 millimeters	Not checked				<0.177 mm			 	 	%
+52750	Physical	Solids, percent smaller than 0.210 millimeters	Not checked				<0.210 mm			 	 	%
+52751	Physical	Solids, percent smaller than 0.297 millimeters	Not checked				<0.297 mm			 	 	%
+52752	Physical	Solids, percent smaller than 0.354 millimeters	Not checked				<0.354 mm			 	 	%
+52753	Physical	Solids, percent smaller than 0.420 millimeters	Not checked				<0.420 mm			 	 	%
+52754	Physical	Solids, percent smaller than 0.595 millimeters	Not checked				<0.595 mm			 	 	%
+52755	Physical	Solids, percent smaller than 0.707 millimeters	Not checked				<0.707 mm			 	 	%
+52756	Physical	Solids, percent smaller than 0.841 millimeters	Not checked				<0.841 mm			 	 	%
+52757	Physical	Solids, percent smaller than 1.189 millimeters	Not checked				<1.189 mm			 	 	%
+52758	Physical	Solids, percent smaller than 1.414 millimeters	Not checked				<1.414 mm			 	 	%
+52759	Physical	Solids, percent smaller than 1.682 millimeters	Not checked				<1.682 mm			 	 	%
+52887	Physical	Air-equilibrated pH, water, unfiltered, purged, standard units	Not checked					Total		 	 	std units
+52901	Physical	Fluorescence, water, filtered, excitation at 340 nm, emission at 440 nm, Raman units (RU)	Not checked					Dissolved		 	 	RU
+52902	Physical	Fluorescence, water, filtered, excitation at 370 nm, emission at 460 nm, Raman units (RU)	Not checked					Dissolved		 	 	RU
+53048	Physical	Transparency, water, unfiltered, field, measured using a Secchi tube, centimeters	Not checked					Total		 	 	cm
+53049	Physical	Transparency, water, unfiltered, field, measured using a Secchi tube, inches	Not checked					Total		 	 	in
+61028	Physical	Turbidity, water, unfiltered, field, nephelometric turbidity units	Agree					Total		 	Turbidity	NTU
+61032	Physical	Carbonaceous biochemical oxygen demand, water, filtered, nitrogen inhibited, 20 days at 20 degrees Celsius, milligrams per liter	Agree		20 Day			Dissolved	20 deg C	 	Carbonaceous biochemical oxygen demand, non-standard conditions	mg/l
+61168	Physical	Carbonaceous biochemical oxygen demand, water, unfiltered, nitrogen inhibited, 20 days at 20 degrees Celsius, milligrams per liter	Agree		20 Day			Total	20 deg C	 	Carbonaceous biochemical oxygen demand, non-standard conditions	mg/l
+61726	Physical	Absorbance, UV, organic constituents, 280 nm, 1 cm path length, water, filtered, absorbance units per centimeter	Agree					Dissolved		 	 	units/cm
+61727	Physical	Wind gust speed, air, knots	Agree							 	 	knots
+61728	Physical	Wind gust speed, air, miles per hour	Agree							 	 	mph
+61729	Physical	Wind gust direction, air, degrees clockwise from true north	Agree							 	 	Deg
+61920	Physical	Temperature, bed sediment, degrees Celsius	Not checked					Bed Sediment		 	 	deg C
+62600	Physical	Water level elevation above NGVD 1929, corrected for barometric pressure, feet	USGS use and no use by EPA							 	 	ft
+62601	Physical	Water level elevation above NGVD 1929, inclined (non-vertical) well, feet	USGS use and no use by EPA							 	 	ft
+62602	Physical	Barometric pressure, corrected to sea level, inches of mercury	USGS use and no use by EPA							 	Barometric pressure	in/Hg
+62603	Physical	Barometric pressure, uncorrected, inches of mercury	USGS use and no use by EPA							 	Barometric pressure	in/Hg
+62604	Physical	Barometric pressure, corrected to sea level, inches of water	USGS use and no use by EPA							 	Barometric pressure	in/H2O
+62605	Physical	Barometric pressure, uncorrected, inches of water	USGS use and no use by EPA							 	Barometric pressure	in/H2O
+62606	Physical	Barometric pressure, corrected to sea level, kilopascals	USGS use and no use by EPA							 	Barometric pressure	kPa
+62607	Physical	Barometric pressure, uncorrected, kilopascals	USGS use and no use by EPA							 	Barometric pressure	kPa
+62608	Physical	Total solar radiation (direct + diffuse radiation on a horizontal surface), watts per square meter	USGS use and no use by EPA					Total		 	 	W/m2
+62609	Physical	Net solar radiation, watts per square meter	USGS use and no use by EPA							 	 	W/m2
+62610	Physical	Groundwater level above NGVD 1929, feet	USGS use and no use by EPA							 	 	ft
+62611	Physical	Groundwater level above NAVD 1988, feet	USGS use and no use by EPA							 	 	ft
+62612	Physical	Groundwater level above NGVD 1929, meters	USGS use and no use by EPA							 	 	m
+62613	Physical	Groundwater level above NAVD 1988, meters	USGS use and no use by EPA							 	 	m
+62614	Physical	Lake or reservoir water surface elevation above NGVD 1929, feet	USGS use and no use by EPA							 	 	ft
+62615	Physical	Lake or reservoir water surface elevation above NAVD 1988, feet	USGS use and no use by EPA							 	 	ft
+62616	Physical	Lake or reservoir water surface elevation above NGVD 1929, meters	USGS use and no use by EPA							 	 	m
+62617	Physical	Lake or reservoir water surface elevation above NAVD 1988, meters	USGS use and no use by EPA							 	 	m
+62618	Physical	Lake or reservoir stage, above datum, meters	USGS use and no use by EPA							 	 	m
+62619	Physical	Estuary or ocean water surface elevation above NGVD 1929, feet	USGS use and no use by EPA							 	 	ft
+62620	Physical	Estuary or ocean water surface elevation above NAVD 1988, feet	USGS use and no use by EPA							 	 	ft
+62621	Physical	Estuary or ocean water surface elevation above NGVD 1929, meters	USGS use and no use by EPA							 	 	m
+62622	Physical	Estuary or ocean water surface elevation above NAVD 1988, meters	USGS use and no use by EPA							 	 	m
+62623	Physical	Tide stage, above datum, feet	USGS use and no use by EPA							 	Tide stage	ft
+62624	Physical	Tide stage, above datum, meters	USGS use and no use by EPA							 	Tide stage	m
+62625	Physical	Wind speed, meters per second	USGS use and no use by EPA							 	Wind velocity	m/sec
+62846	Physical	Temperature, soil, degrees Fahrenheit	USGS use and no use by EPA							 	 	deg F
+62856	Physical	Discharge, peak for storm event, cubic feet per second	USGS use and no use by EPA	Maximum	1 Day					 	 	ft3/s
+62923	Physical	Solids, percent smaller than 0.0005 millimeters	USGS use and no use by EPA				< 0.0005 mm			 	 	%
+62924	Physical	Solids, percent smaller than 0.001 millimeters	USGS use and no use by EPA				< 0.001 mm			 	 	%
+62925	Physical	Solids, percent smaller than 0.002 millimeters	USGS use and no use by EPA				< 0.002 mm			 	 	%
+62926	Physical	Solids, percent smaller than 0.004 millimeters	USGS use and no use by EPA				< 0.004 mm			 	 	%
+62927	Physical	Solids, percent smaller than 0.008 millimeters	USGS use and no use by EPA				< 0.008 mm			 	 	%
+62928	Physical	Solids, percent smaller than 0.016 millimeters	USGS use and no use by EPA				< 0.016 mm			 	 	%
+62929	Physical	Solids, percent smaller than 0.031 millimeters	USGS use and no use by EPA				< 0.031 mm			 	 	%
+62930	Physical	Solids, percent smaller than 0.05 millimeters	USGS use and no use by EPA				< 0.05 mm			 	 	%
+62931	Physical	Solids, percent smaller than 0.0625 millimeters	USGS use and no use by EPA				< 0.0625 mm			 	 	%
+62932	Physical	Solids, percent smaller than 0.1 millimeters	USGS use and no use by EPA				< 0.1 mm			 	 	%
+62933	Physical	Solids, percent smaller than 0.125 millimeters	USGS use and no use by EPA				< 0.125 mm			 	 	%
+62934	Physical	Solids, percent smaller than 0.25 millimeters	USGS use and no use by EPA				< 0.25 mm			 	 	%
+62935	Physical	Solids, percent smaller than 0.5 millimeters	USGS use and no use by EPA				< 0.5 mm			 	 	%
+62936	Physical	Solids, percent smaller than 1 millimeters	USGS use and no use by EPA				< 1 mm			 	 	%
+62937	Physical	Solids, percent smaller than 2 millimeters	USGS use and no use by EPA				< 2 mm			 	 	%
+62938	Physical	Solids, percent smaller than 4 millimeters	USGS use and no use by EPA				< 4 mm			 	 	%
+62939	Physical	Solids, percent smaller than 8 millimeters	USGS use and no use by EPA				< 8 mm			 	 	%
+62940	Physical	Solids, percent smaller than 16 millimeters	USGS use and no use by EPA				< 16 mm			 	 	%
+62941	Physical	Solids, percent smaller than 32 millimeters	USGS use and no use by EPA				< 32 mm			 	 	%
+62942	Physical	Solids, percent smaller than 64 millimeters	USGS use and no use by EPA				< 64 mm			 	 	%
+62943	Physical	Solids, percent smaller than 128 millimeters	USGS use and no use by EPA				< 128 mm			 	 	%
+62947	Physical	Bulk density, solids, grams per cubic centimeter	USGS use and no use by EPA							 	 	g/cm3
+62948	Physical	Moisture content, solids, gravimetric, dry weight, grams of water per gram of dry solids	USGS use and no use by EPA			Dry				 	Moisture content	g H2O/g
+62949	Physical	Moisture content, solids, volumetric, percent of total volume	USGS use and no use by EPA					Total		 	Moisture content	%
+62966	Physical	Temperature, plant surface, degrees Celsius	USGS use and no use by EPA							 	 	deg C
+62967	Physical	Soil-heat flux, watts per square meter	USGS use and no use by EPA							 	 	W/m2
+62968	Physical	Latent-heat flux, watts per square meter	USGS use and no use by EPA							 	 	W/m2
+62969	Physical	Sensible-heat flux, watts per square meter	USGS use and no use by EPA							 	 	W/m2
+62970	Physical	Water vapor pressure, megapascals	USGS use and no use by EPA					Vapor		 	 	MPa
+63001	Physical	Oxidation reduction potential, raw emf, reference electrode not specified, millivolts	USGS use and no use by EPA							 	Oxidation reduction potential (ORP)	mV
+63002	Physical	Oxidation reduction potential, relative to the standard hydrogen electrode (SHE), millivolts	USGS use and no use by EPA							 	Oxidation reduction potential (ORP)	mV
+63158	Physical	Stream water level elevation above NGVD 1929, in feet	USGS use and no use by EPA							 	 	ft
+63159	Physical	Stream water level elevation above NGVD 1929, in meters	USGS use and no use by EPA							 	 	m
+63160	Physical	Stream water level elevation above NAVD 1988, in feet	USGS use and no use by EPA							 	 	ft
+63161	Physical	Stream water level elevation above NAVD 1988, in meters	USGS use and no use by EPA							 	 	m
+63675	Physical	Turbidity, water, unfiltered, broad band light source (400-680 nm), detection angle 90 +-30 degrees to incident light, nephelometric turbidity units (NTU)	USGS use and no use by EPA					Total		 	Turbidity	NTU
+63676	Physical	Turbidity, water, unfiltered, broad band light source (400-680 nm), detectors at multiple angles including 90 +-30 degrees, ratiometric correction, NTRU	USGS use and no use by EPA					Total		 	 	NTRU
+63677	Physical	Backscatter turbidity, water, unfiltered, broad band light source (400-680 nm), detection angle 0-45 degrees to incident light, backscatter units (BU)	USGS use and no use by EPA					Total		 	 	BU
+63678	Physical	Attenuation turbidity, water, unfiltered, broad band light source (400-680 nm), detection angle 180 degrees to incident light, attenuation units (AU)	USGS use and no use by EPA					Total		 	 	AU
+63679	Physical	Turbidity, water, unfiltered, broad band light source (400-680 nm), multiple beam, detectors at multiple angles including 90 degrees, NTMU	USGS use and no use by EPA					Total		 	 	NTMU
+63680	Physical	Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +-2.5 degrees, formazin nephelometric units (FNU)	USGS use and no use by EPA					Total		 	Turbidity	FNU
+63681	Physical	Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detectors at multiple angles including 90 +-2.5 degrees, ratiometric correction, FNRU	USGS use and no use by EPA					Total		 	 	FNRU
+63682	Physical	Turbidity, water, unfiltered, monochrome near infra-red LED light source, 780-900 nm, detection angle 0-45 degrees to incident light (backscatter), FBU	USGS use and no use by EPA					Total		 	 	FBU
+63683	Physical	Turbidity, water, unfiltered, monochrome near infra-red LED light source, 780-900 nm, detection angle 180 degrees to incident light (attenuation), FAU	USGS use and no use by EPA					Total		 	 	FAU
+63684	Physical	Turbidity, water, unfiltered, monochrome near infra-red LED light source, 780-900 nm, multiple beam, detectors at multiple angles including 90 degrees, FNMU	USGS use and no use by EPA					Total		 	 	FNMU
+63740	Physical	Loss on ignition, solids, percent	USGS use and no use by EPA							 	 	%
+64094	Physical	Fluorescence at 650-700 nm as a fraction of incident light at 470 nm, measured in situ, percent	USGS use and no use by EPA							 	 	%
+64466	Physical	Total suspended particles (TSP) in air, micrograms per cubic meter	USGS use and no use by EPA					Suspended		 	 	ug/m3
+65225	Physical	Transparency, water, unfiltered, transparency tube, centimeters	USGS use and no use by EPA					Total		 	Water transparency, tube with disk	cm
+65237	Physical	Oxygen-consumption rate, bed sediment, milligrams of oxygen per gram of sediment (dry weight) per hour	USGS use and no use by EPA			Dry		Bed Sediment		 	 	mg O2/g/hr
+66700	Physical	Absorbance, UV, organic constituents, 412 nm, 1 cm path length, water, filtered, units per centimeter	USGS use and no use by EPA					Dissolved		 	 	AU/cm
+66702	Physical	Chemical oxygen demand, solids, total, dry weight, milligrams per liter	USGS use and no use by EPA			Dry		Total		 	Chemical oxygen demand	mg/l
+68921	Physical	pH, soil, in deionized water, standard units	USGS use and no use by EPA							 	pH	std units
+68922	Physical	pH, soil, in 0.01 M calcium chloride, standard units	USGS use and no use by EPA							 	pH	std units
+68923	Physical	Loss on ignition, soil, dry, heated to 450C, percent	USGS use and no use by EPA			Dry			450 deg C	 	 	%
+70224	Physical	Wave height, nearshore, feet	Not checked							 	Wave height	ft
+70227	Physical	Direction of stream flow, magnetic azimuth, degrees	Agree							 	 	Deg
+70292	Physical	Suspended solids, evaporation by vacuum desiccation at room temperature, water, milligrams per liter	Not checked			Dry		Suspended	Room temp	 	 	mg/l
+70293	Physical	Suspended solids, dried at 105 degrees Celsius, water, milligrams per liter	Not checked			Dry		Suspended	105 deg C	 	Total suspended solids	mg/l
+70299	Physical	Suspended solids dried at 110 degrees Celsius, water, unfiltered, milligrams per liter	Not agree					Suspended	110 deg C	 	Total suspended solids	mg/l
+70300	Physical	Dissolved solids dried at 180 degrees Celsius, water, filtered, milligrams per liter	Not checked					Dissolved	180 deg C	 	Total dissolved solids	mg/l
+70301	Physical	Dissolved solids, water, filtered, sum of constituents, milligrams per liter	Not checked					Dissolved		 	Total dissolved solids	mg/l
+70302	Physical	Dissolved solids, water, short tons per day	Not checked					Dissolved		 	Total dissolved solids	tons/day
+70303	Physical	Dissolved solids, water, filtered, short tons per acre-foot	Not checked					Dissolved		 	Total dissolved solids	tons/ac ft
+70305	Physical	Salinity, water, grams per liter	Agree					Dissolved		 	Salinity	g/l
+70310	Physical	pH, bed sediment, standard units	Agree					Bed Sediment		 	pH	std units
+70320	Physical	Moisture content, fraction of wet weight, percent	Agree			Wet				 	Moisture content	%
+70348	Physical	Settleable solids, water, unfiltered, milliliters per liter	Agree					Settleable		 	Settleable solids	ml/l
+70349	Physical	Non-settleable solids, water, unfiltered, milliliters per liter	Not checked					Non-settleable		 	Non-settleable solids	ml/l
+70516	Physical	Color, absorbance at 400 nm, water, filtered, absorbance units per centimeter	USGS use and no use by EPA					Dissolved		 	Color	AU/cm
+70971	Physical	Light attenuation coefficient, alphas per meter	Agree							 	 	alpha/m
+71820	Physical	Density of water sample, unfiltered, grams per milliliter at 20 degrees Celsius	Not checked					Total	20 deg C	 	Density of water at 20 deg C	g/mL @ 20C
+71835	Physical	Oxygen consumed, water, filtered, milligrams per liter	Agree					Dissolved		 	 	mg/l
+71840	Physical	Oxygen consumed, water, unfiltered, milligrams per liter	Agree					Total		 	 	mg/l
+71860	Physical	Sodium carbonate, residual, water, unfiltered, milligrams per liter as calcium carbonate	Not checked					Total		497-19-8	Sodium carbonate	mg/l CaCO3
+72001	Physical	Depth of hole, feet below land surface datum	Agree							 	Depth	ft
+72002	Physical	Depth to top of water-bearing zone, feet	Agree							 	 	ft
+72003	Physical	Depth to bottom of water-bearing zone, feet	Agree							 	 	ft
+72008	Physical	Depth of well, feet below land surface datum	Agree							 	Depth	ft
+72010	Physical	Fluid resistivity, ohm-meter(s)	Agree							 	 	ohm-meters
+72012	Physical	Temperature, specific gravity measurement, degrees Celsius	Agree							 	 	deg C
+72013	Physical	Specific gravity	Agree							 	Specific gravity	None
+72014	Physical	Temperature, resistivity measurement, degrees Celsius	Agree							 	 	deg C
+72015	Physical	Depth to top of sample interval, feet below land surface datum	Agree							 	 	ft
+72016	Physical	Depth to bottom of sample interval, feet below land surface datum	Agree							 	 	ft
+72019	Physical	Depth to water level, feet below land surface	Agree							 	Depth to water level below land surface	ft
+72020	Physical	Elevation above NGVD 1929, feet	Not checked							 	 	ft
+72021	Physical	Reservoir storage, cubic feet per second-days	Agree	Mean	1 Day					 	Reservoir storage	cfs-days
+72022	Physical	Reservoir storage, million gallons	Agree							 	Reservoir storage	Mgal
+72024	Physical	Pond storage, gallons	Agree							 	 	gal
+72025	Physical	Depth of reservoir, feet	Agree							 	Depth of pond or reservoir in feet	ft
+72040	Physical	Drawdown observed, feet	Agree							 	 	ft
+72106	Physical	Elevation of sample, feet	Agree							 	 	ft
+72122	Physical	Discharge, median for storm event, cubic feet per second	USGS use and no use by EPA	Median	1 Day					 	 	ft3/s
+72123	Physical	Discharge, mean for storm event, cubic feet per second	USGS use and no use by EPA	Mean	1 Day					 	 	ft3/s
+72124	Physical	Net radiation (net solar + net long wave radiation), watts per square meter	USGS use and no use by EPA							 	 	W/m2
+72125	Physical	Atmospheric water vapor pressure, calculated, kilopascals	USGS use and no use by EPA					Vapor		 	 	kPa
+72127	Physical	Atmospheric saturated water vapor pressure, calculated, kilopascals	USGS use and no use by EPA					Vapor		 	 	kPa
+72128	Physical	Potential latent heat flux, calculated by Penman method, watts per square meter	USGS use and no use by EPA							 	 	W/m2
+72129	Physical	Potential evapotranspiration (PET), calculated by Priestley-Taylor method, millimeters per hour	USGS use and no use by EPA							 	 	mm/hr
+72130	Physical	Potential evapotranspiration (PET), calculated by Penman method, millimeters per hour	USGS use and no use by EPA							 	 	mm/hr
+72131	Physical	Precipitation, millimeters per hour	USGS use and no use by EPA							 	Precipitation	mm/hr
+72132	Physical	Soil heat flux at soil surface, calculated, watts per square meter	USGS use and no use by EPA							 	 	W/m2
+72133	Physical	Soil water matric potential, negative bars	USGS use and no use by EPA							 	 	neg bar
+72134	Physical	Change in heat flux density between 8 centimeter soil depth and the surface, calculated, watts per square meter	USGS use and no use by EPA							 	 	W/m2
+72135	Physical	Evapotranspiration total, inches per day	USGS use and no use by EPA					Total		 	 	inches/day
+72136	Physical	Hydrostatic head difference, groundwater minus surface water, millimeters	USGS use and no use by EPA							 	 	mm
+72137	Physical	Discharge, tidally filtered, cubic feet per second	USGS use and no use by EPA	Mean	1 Day			Dissolved		 	 	ft3/s
+72138	Physical	Discharge, tidally filtered, cubic meters per second	USGS use and no use by EPA	Mean	1 Day			Dissolved		 	 	m3/sec
+72139	Physical	Discharge, tidally filtered, gallons per minute	USGS use and no use by EPA					Dissolved		 	 	gal/min
+72149	Physical	Stream velocity, meters per second	USGS use and no use by EPA							 	Stream velocity	m/sec
+72150	Physical	Groundwater level relative to Mean Sea Level (MSL), feet	USGS use and no use by EPA							 	 	ft
+72151	Physical	Water column pressure, pounds per square inch	USGS use and no use by EPA							 	 	psi
+72159	Physical	Evapotranspiration, millimeters per day	USGS use and no use by EPA							 	 	mm/d
+72164	Physical	Barometric pressure (BP), uncorrected, feet of water	USGS use and no use by EPA							 	 	ft of H2O
+72167	Physical	Matric potential or pressure head, centimeters	USGS use and no use by EPA							 	 	cm
+72168	Physical	Stream velocity, tidally filtered, feet per second	USGS use and no use by EPA							 	 	ft/sec
+72169	Physical	Stream velocity, tidally filtered, meters per second	USGS use and no use by EPA							 	 	m/s
+72170	Physical	Stage, tidally filtered, above datum, feet	USGS use and no use by EPA							 	 	ft
+72171	Physical	Stage, tidally filtered, above datum, meters	USGS use and no use by EPA							 	 	meters
+72172	Physical	Wave height, Fourier transformation, feet	Not checked							 	 	ft
+72173	Physical	Wave period, Fourier transformation, seconds	Not checked							 	 	seconds
+72174	Physical	Longwave radiation, upward intensity, watts per square meter	Not checked							 	 	W/m2
+72175	Physical	Longwave radiation, downward intensity, watts per square meter	Not checked							 	 	W/m2
+72177	Physical	Groundwater discharge, centimeters per day	Not checked							 	 	cm/d
+72178	Physical	Water depth, water surface to bottom, meters	Not checked							 	 	meters
+72179	Physical	Shortwave solar radiation, watts per square meter	Not checked							 	 	W/m2
+72180	Physical	Evapotranspiration, inches	Not checked							 	 	inches
+72181	Physical	Moisture content, soil, volumetric, fraction of total volume	Not checked							 	 	number
+72182	Physical	Atmospheric water vapor density, grams per cubic meter	Not checked							 	 	g/m3
+72183	Physical	Inflow, gallons per day	Not checked							 	 	gal/day
+72184	Physical	Visible radiation (average flux density), microeinsteins per second per square meter	Not checked							 	 	uE/m2/sec
+72185	Physical	Shortwave radiation, upward intensity, watts per square meter	Not checked							 	 	W/m2
+72186	Physical	Shortwave radiation, downward intensity, watts per square meter	Not checked							 	 	W/m2
+72187	Physical	Transparency, water, in situ, Secchi disc observed with viewscope, inches	Not checked							 	 	in
+72188	Physical	Turbidity, water, unfiltered, field, broad band light source (400-680 nm), detectors at multiple angles including 90 +-30 degrees, ratiometric correction, nephelometric	Not checked							 	 	NTRU
+72189	Physical	Snow depth, meters	Not checked							 	Depth, snow cover	m
+72190	Physical	Velocity at point in stream, meters per second	Not checked							 	 	m/sec
+72192	Physical	Precipitation, cumulative, inches	Not checked							 	Precipitation	in
+72193	Physical	Net radiation (net solar + net long wave radiation), upward intensity, watts per square meter	Not checked							 	 	W/m2
+72194	Physical	Precipitation, cumulative, millimeters	Not checked							 	Precipitation	mm
+72198	Physical	Snow depth, feet	Not checked							 	 	ft
+72199	Physical	Water depth, water surface to bottom, feet	Not checked							 	Depth of water column	ft
+72200	Physical	Evaporation per recording interval, millimeters	Not checked							 	 	mm
+72201	Physical	Net incident shortwave radiation, watts per square meter	Not checked							 	 	W/m2
+72202	Physical	Net emitted longwave radiation, watts per square meter	Not checked							 	 	W/m2
+72204	Physical	Barometric pressure (BP), uncorrected, pounds per square inch	Not checked							 	 	psi
+72205	Physical	Bulk electrical conductance, soil, decisiemens per meter	Not checked					Total		 	 	dS/m
+72206	Physical	Sublimation from snowpack per recording interval, millimeters	Not checked							 	 	mm
+72207	Physical	Albedo (ratio of reflected to total incoming solar radiation), ratio	Not checked							 	 	None
+72208	Physical	Turbidity, water, unfiltered, mid-depth of water column, broad band light source (400-680 nm), detection angle 90 +-30 degrees to incident light, nephelometric turbidity	Not checked					Total		 	 	NTU
+72209	Physical	Turbidity, water, unfiltered, mid-depth of water column, monochrome near infra-red LED light, 780-900 nm, detection angle 90 +-2.5 degrees, formazin nephelometric units	Not checked					Total		 	Turbidity	FNU
+72211	Physical	Density of water sample, deionized and deaired, at specific gravity test-temperature, grams per cubic centimeter	Not checked					Total		 	 	g/cm3
+72212	Physical	Porosity, soil or solids, fraction	Not checked							 	 	None
+72213	Physical	Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detector angles at 90 +-2.5 degrees and 0-45 degrees, ratiometric, FBRU	Not checked					Total		 	 	FBRU
+72214	Physical	Lake or reservoir elevation above International Great Lakes Datum (IGLD), feet	Not checked							 	 	ft
+72215	Physical	Lake or reservoir elevation above International Great Lakes Datum (IGLD), meters	Not checked							 	 	m
+72216	Physical	Location of salt front in river miles upstream from mouth, miles	Not checked							 	 	mi
+72223	Physical	Soil water matric potential, bars	Not checked							 	 	bar
+72224	Physical	Extinction reference absorbance, absorbance units per centimeter	Not checked							 	 	AU/cm
+72225	Physical	Extinction measurement absorbance, absorbance units per centimeter	Not checked							 	 	AU/cm
+72226	Physical	Groundwater level above American Samoa Datum of 1962 (retired in 2001), feet	Not checked							 	 	ft
+72227	Physical	Groundwater level above American Samoa Vertical Datum of 2002, feet	Not checked							 	 	ft
+72228	Physical	Groundwater level above Guam Vertical Datum of 1963 (retired in 2003), feet	Not checked							 	 	ft
+72229	Physical	Groundwater level above Guam Vertical Datum of 2004, feet	Not checked							 	 	ft
+72230	Physical	Groundwater level above Local Hawaiian Datum, feet	Not checked							 	 	ft
+72231	Physical	Groundwater level above Northern Marianas Vertical Datum of 2003, feet	Not checked							 	 	ft
+72232	Physical	Groundwater level above Puerto Rico Datum of 2002, feet	Not checked							 	 	ft
+72241	Physical	Absolute pressure from unvented pressure transducer, millimeters of mercury	Not checked							 	 	mm/Hg
+72242	Physical	Tree sap flow, grams of sap per hour	Not checked							 	 	g/hr
+72243	Physical	Discharge, cubic feet per day	Not checked							 	 	ft3/day
+72250	Physical	Marsh mat (floating vegetation) elevation above NAVD 1988, feet	Not checked							 	 	ft
+72251	Physical	Water level above marsh, feet	Not checked							 	 	ft
+72252	Physical	Solar radiation (average flux density on a horizontal surface during measurement interval), kilowatts per square meter	Not checked							 	 	kW/m2
+72253	Physical	Soil temperature, degrees Celsius	Not checked							 	 	deg C
+72263	Physical	Density of water sample, unfiltered, in grams per cubic centimeter at 20 degrees Celsius	Not checked					Total	20 deg C	 	 	g/cm3
+72264	Physical	Lake or reservoir elevation above New York State Barge Canal Datum (NYBCD), feet	Not checked							 	 	ft
+72265	Physical	Lake or reservoir elevation above New York State Barge Canal Datum (NYBCD), meters	Not checked							 	 	m
+72266	Physical	Refractive index of fluid (real value) for laser diffraction diameter measurement	Not checked							 	 	None
+72267	Physical	Refractive index of sample material (real value part) for laser diffraction diameter measurement	Not checked							 	 	None
+72268	Physical	Refractive index of sample material (imaginary value part) for laser diffraction diameter measurement	Not checked							 	 	None
+72269	Physical	Wind gust speed, air, meters per second	Not checked							 	 	m/sec
+72270	Physical	Volume of water, total during measurement interval, liters	Not checked							 	 	l
+72272	Physical	Discharge, cumulative, acre-feet	Not checked							 	 	ac-ft
+72274	Physical	Scour hole bottom elevation above NGVD 1929, feet	Not checked							 	 	ft
+72275	Physical	Lake or reservoir elevation above United States Bureau of Reclamation Klamath Basin (USBRKB) Datum, feet	Not checked							 	 	ft
+72276	Physical	Tidal water level, NOS-averaged, distance from measuring point to water surface, feet	Not checked							 	 	ft
+72279	Physical	Tidal elevation, NOS-averaged, NAVD88, feet	Not checked							 	 	ft
+72284	Physical	Mean wave height, meters	Not checked							 	 	m
+72285	Physical	Mean wave period, seconds	Not checked							 	 	seconds
+72286	Physical	Significant wave height, meters	Not checked							 	 	m
+72287	Physical	Significant wave period, seconds	Not checked							 	 	seconds
+72288	Physical	Maximum wave height, meters	Not checked							 	 	m
+72289	Physical	Mean wave direction, degrees	Not checked							 	 	Deg
+72290	Physical	Peak wave direction, degrees	Not checked							 	 	Deg
+72291	Physical	Precipitation, intensity at given time, inches per minute	Not checked							 	 	in/min
+72292	Physical	Water level elevation above NAVD 1988, corrected for barometric pressure, feet	Not checked							 	 	ft
+72293	Physical	Water level elevation above gage datum, corrected for barometric pressure, feet	Not checked							 	 	ft
+72294	Physical	Mean water velocity for discharge computation, miles per hour	Not checked							 	 	mph
+72321	Physical	Stream velocity, miles per hour	Not checked							 	 	mph
+72322	Physical	Surface velocity at point in stream, feet per second	Not checked							 	 	ft/sec
+72323	Physical	Surface velocity at point in stream, meters per second	Not checked							 	 	m/sec
+72324	Physical	Radar amplitude, dimensionless	Not checked							 	 	none
+72325	Physical	Radar signal to noise quality assurance parameter, decibels	Not checked							 	 	dB
+72326	Physical	Opposite direction content quality assurance parameter, percent	Not checked							 	 	%
+74019	Physical	Flashpoint of potentially organically contaminated water, degrees Fahrenheit	Not checked							 	 	deg F
+74072	Physical	Flow rate, liters per second	Agree							 	 	l/sec
+74082	Physical	Streamflow, daily, acre-feet	Agree		Daily					 	 	ac-ft
+74207	Physical	Moisture content, soil, volumetric, percent of total volume	Agree					Total		 	Moisture content	%
+75969	Physical	Barometric pressure, not corrected to sea level, millibars	Agree							 	Barometric pressure	mbar
+80082	Physical	Carbonaceous biochemical oxygen demand, water, unfiltered, 5 days at 20 degrees Celsius, milligrams per liter	Not checked		5 Day			Total	20 deg C	 	Carbonaceous biochemical oxygen demand, standard conditions	mg/l
+80083	Physical	Carbonaceous biochemical oxygen demand, water, unfiltered, 7 days at 20 degrees Celsius, milligrams per liter	Not checked		7 Day			Total	20 deg C	 	Carbonaceous biochemical oxygen demand, non-standard conditions	mg/l
+80087	Physical	Carbonaceous biochemical oxygen demand, water, unfiltered, 20 days at 20 degrees Celsius, milligrams per liter	Not checked		20 Day			Total	20 deg C	 	Carbonaceous biochemical oxygen demand, non-standard conditions	mg/l
+80110	Physical	Specific gravity at 4 degrees Celsius, water, unfiltered, ratio	Agree					Total	4 deg C	 	 	None
+81026	Physical	Water content of snow, inches	Agree							 	Water content of snow	in
+81027	Physical	Temperature, soil, degrees Celsius	Agree					Total		 	Temperature, soil	deg C
+81029	Physical	Temperature, snow, degrees Celsius	Agree							 	 	deg C
+81356	Physical	Cation exchange capacity, milliequivalents per 100 grams	Agree							 	Cation exchange capacity	meq/100 g
+81380	Physical	Discharge velocity, meters per second	Agree							 	Velocity-discharge	m/sec
+81381	Physical	Discharge duration, minutes	Agree							 	 	minutes
+81395	Physical	Storm water flow, million gallons per day	Agree							 	Storm water flow	mgd
+81798	Physical	Precipitation event, inches per composite	Agree							 	Precipitation	in
+81903	Physical	Depth to bottom at sample location, feet	Agree							 	Depth	ft
+81904	Physical	Velocity at point in stream, feet per second	Agree							 	Velocity - stream	ft/sec
+81912	Physical	Open pressure, pounds per square inch	Agree							 	 	psi
+81914	Physical	Initial flowing pressure, pounds per square inch	Agree							 	 	psi
+81915	Physical	Final flowing pressure, pounds per square inch	Agree							 	 	psi
+81916	Physical	Pressure at bottom of hole, pounds per square inch	Agree							 	 	psi
+81917	Physical	Temperature at bottom of hole, degrees Fahrenheit	Agree							 	 	deg F
+82015	Physical	Mean depth of lake, feet	Agree	Mean						 	Depth	ft
+82016	Physical	Maximum depth of lake, feet	Agree	Maximum						 	Depth	ft
+82047	Physical	Depth to top of sampling interval, meters	Agree							 	 	m
+82048	Physical	Depth to bottom of sampling interval, meters	Agree							 	 	m
+82049	Physical	Deoxygenation constant (k1 to base 10), carbonaceous biochemical oxygen demand, water, unfiltered, 20 degrees Celsius, per day	Not checked					Total	20 deg C	 	 	20C/day
+82050	Physical	Reoxygenation constant (k2 to base 10), carbonaceous biochemical oxygen demand, water, unfiltered, 20 degrees Celsius, per day	Not checked					Total	20 deg C	 	 	20C/day
+82079	Physical	Turbidity, water, unfiltered, laboratory, nephelometric turbidity units	Agree					Total		 	Turbidity	NTU
+82127	Physical	Wind speed, knots	Agree							 	Wind velocity	knots
+82130	Physical	Ice thickness, feet	Agree							 	Ice thickness	ft
+82131	Physical	Ice thickness, meters	Agree							 	Ice thickness	m
+82132	Physical	Deoxygenation constant (k1 to base e), nitrogenous biochemical oxygen demand, water, unfiltered, 20 degrees Celsius, per day	Not checked					Total	20 deg C	 	 	20C/day
+82133	Physical	Deoxygenation constant (k1 to base e), carbonaceous biochemical oxygen demand, water, unfiltered, 20 degrees Celsius, per day	Not checked					Total	20 deg C	 	 	20C/day
+82134	Physical	Deoxygenation constant (k1 to base 10), nitrogenous biochemical oxygen demand, water, unfiltered, 20 degrees Celsius, per day	Not checked					Total	20 deg C	 	 	20C/day
+82135	Physical	Reaction lag time, carbonaceous biochemical oxygen demand, water, unfiltered, 20 degrees Celsius, days	Not checked					Total	20 deg C	 	 	days
+82136	Physical	Reaction lag time, nitrogenous biochemical oxygen demand, water, unfiltered, 20 degrees Celsius, days	Not checked					Total	20 deg C	 	 	days
+82137	Physical	Reaction lag time, biochemical oxygen demand, water, unfiltered, 20 degrees Celsius, days	Not checked					Total	20 deg C	 	 	days
+82259	Physical	Street debris smaller than 0.031 millimeters, sieve diameter, percent	Agree				< 0.031 mm			 	 	%
+82260	Physical	Street debris smaller than 0.0625, millimeters, sieve diameter, percent	Agree				< 0.0625 mm			 	 	%
+82261	Physical	Street debris smaller than 0.125 millimeters, sieve diameter, percent	Agree				< 0.125 mm			 	 	%
+82262	Physical	Street debris smaller than 0.25 millimeters, sieve diameter, percent	Agree				< 0.25 mm			 	 	%
+82263	Physical	Street debris smaller than 0.5 millimeters, sieve diameter, percent	Agree				< 0.5 mm			 	 	%
+82264	Physical	Street debris smaller than 1 millimeter, sieve diameter, percent	Agree				< 1 mm			 	 	%
+82265	Physical	Street debris smaller than 2 millimeters, sieve diameter, percent	Agree				< 2 mm			 	 	%
+82266	Physical	Street debris smaller than 4 millimeters, sieve diameter, percent	Agree				< 4 mm			 	 	%
+82285	Physical	Rate of dry deposition, milligrams per square meter per day	Agree							 	 	mg/m2/day
+82286	Physical	Solids in rainfall, dry weight, milligrams per liter	Agree			Dry				 	 	mg/l
+82300	Physical	Snow depth, inches	Agree							 	Depth, snow cover	in
+82363	Physical	Dry deposition, milligrams per square meter	Agree							 	 	mg/m2
+82371	Physical	Precipitation within 3 days before sample collection, inches	Agree		3 Day					 	Precipitation	in
+82372	Physical	Precipitation within 14 days before sample collection, inches	Agree		14 Day					 	Precipitation	in
+82375	Physical	Solids, total, accumulation rate, dry weight, grams per square meter per day	Agree			Dry		Total		 	Total solids	g/m2/day
+82379	Physical	Street solids load removed by sweeping, pounds per curb-mile	Agree							 	 	lb/curb-mi
+82380	Physical	Street solids total dry weight, pounds per curb-mile	Agree			Dry		Total		 	 	lb/curb-mi
+82381	Physical	Precipitation total, inches per storm	Agree					Total		 	Precipitation	in
+82463	Physical	Total solids dried at 105 degrees Celsius, dry atmospheric deposition, milligrams per kilogram	Not checked					Total	105 deg C	 	Total solids	mg/kg
+82464	Physical	Insoluble solids dried at 105 degrees Celsius, dry atmospheric deposition, milligrams per kilogram	Not checked						105 deg C	 	 	mg/kg
+82465	Physical	Soluble solids dried at 105 degrees Celsius, dry atmospheric deposition, milligrams per kilogram	Not checked						105 deg C	 	 	mg/kg
+82466	Physical	Total solids, dry atmospheric deposition, sum of constituents, milligrams per kilogram	Agree					Total		 	Total solids	mg/kg
+82467	Physical	Insoluble solids, dry atmospheric deposition, sum of constituents, milligrams per kilogram	Agree							 	 	mg/kg
+82468	Physical	Soluble solids, dry atmospheric deposition, sum of constituents, milligrams per kilogram	Agree							 	 	mg/kg
+82550	Physical	Osmotic pressure, water, unfiltered, milliosmoles per kilogram	Agree					Total		 	Osmotic pressure	mosm/kg
+82583	Physical	pH, soil, standard units	Agree					Total		 	pH	std units
+82903	Physical	Depth to bottom from water surface, at sampling location, meters	Agree							 	Depth	m
+82923	Physical	Atmospheric deposition type, wet, code	Agree							 	 	code
+83104	Physical	pH, wet atmospheric deposition, unfiltered, calculated, standard units	Agree					Total		 	pH	std units
+83106	Physical	pH, wet atmospheric deposition, unfiltered, field, standard units	Agree					Total		 	pH	std units
+83107	Physical	pH, wet atmospheric deposition, unfiltered, lab, standard units	Agree					Total		 	pH	std units
+83150	Physical	Specific conductance, wet atmospheric deposition, filtered, calculated, microsiemens per centimeter at 25 degrees Celsius	Agree					Dissolved	25 deg C	 	Specific conductance	uS/cm @25C
+83151	Physical	Specific conductance, wet atmospheric deposition, unfiltered, calculated, microsiemens per centimeter at 25 degrees Celsius	Agree					Total	25 deg C	 	Specific conductance	uS/cm @25C
+83153	Physical	Specific conductance, wet atmospheric deposition, filtered, field, microsiemens per centimeter at 25 degrees Celsius	Agree					Dissolved	25 deg C	 	Specific conductance	uS/cm @25C
+83154	Physical	Specific conductance, wet atmospheric deposition, unfiltered, field, microsiemens per centimeter at 25 degrees Celsius	Agree					Total	25 deg C	 	Specific conductance	uS/cm @25C
+83155	Physical	Specific conductance, wet atmospheric deposition, filtered, laboratory, microsiemens per centimeter at 25 degrees Celsius	Agree					Dissolved	25 deg C	 	Specific conductance	uS/cm @25C
+83156	Physical	Specific conductance, wet atmospheric deposition, unfiltered, laboratory, microsiemens per centimeter at 25 degrees Celsius	Agree					Total	25 deg C	 	Specific conductance	uS/cm @25C
+83177	Physical	Atmospheric deposition, wet, liters	Agree							 	Atmospheric deposition, wet fall	l
+83205	Physical	Atmospheric deposition type, bulk, code	Agree							 	 	code
+83386	Physical	pH, bulk atmospheric deposition, unfiltered, calculated, standard units	Agree					Total		 	pH	std units
+83388	Physical	pH, bulk atmospheric deposition, unfiltered, field, standard units	Agree					Total		 	pH	std units
+83389	Physical	pH, bulk atmospheric deposition, unfiltered, laboratory, standard units	Agree					Total		 	pH	std units
+83432	Physical	Specific conductance, bulk atmospheric deposition, filtered, calculated, microsiemens per centimeter at 25 degrees Celsius	Agree					Dissolved	25 deg C	 	Specific conductance	uS/cm @25C
+83433	Physical	Specific conductance, bulk atmospheric deposition, unfiltered, calculated, microsiemens per centimeter at 25 degrees Celsius	Agree					Total	25 deg C	 	Specific conductance	uS/cm @25C
+83435	Physical	Specific conductance, bulk atmospheric deposition, filtered, field, microsiemens per centimeter at 25 degrees Celsius	Agree					Dissolved	25 deg C	 	Specific conductance	uS/cm @25C
+83436	Physical	Specific conductance, bulk atmospheric deposition, unfiltered, field, microsiemens per centimeter at 25 degrees Celsius	Agree					Total	25 deg C	 	Specific conductance	uS/cm @25C
+83437	Physical	Specific conductance, bulk atmospheric deposition, filtered, laboratory, microsiemens per centimeter at 25 degrees Celsius	Agree					Dissolved	25 deg C	 	Specific conductance	uS/cm @25C
+83438	Physical	Specific conductance, bulk atmospheric deposition, unfiltered, laboratory, microsiemens per centimeter at 25 degrees Celsius	Agree					Total	25 deg C	 	Specific conductance	uS/cm @25C
+83459	Physical	Atmospheric deposition, bulk, liters	Agree					Total		 	 	l
+84179	Physical	Ignitability, bed sediment, dry, yes or no, code	Not checked							 	 	code
+84180	Physical	Soil horizon (U.S. Dept. of Agriculture Soil Conservation Service, Soil Survey Manual, 1993), code	Not checked							 	 	code
+85310	Physical	Depth of lake, maximum, meters	Not checked	Maximum						 	Depth	m
+85311	Physical	Depth of lake, mean, meters	Not checked	Mean						 	Depth	m
+85328	Physical	Depth to 1 percent of surface light, meters	Not checked							 	Light attenuation, depth at 99%	m
+85540	Physical	Air, water, dissolved, volume percent of dissolved gases	Agree					Dissolved		132259-10-0	 	%
+85541	Physical	Inert gases, water, dissolved, volume percent of dissolved gases	Agree					Dissolved		 	Inert gases	%
+85555	Physical	Gas/water ratio, cubic feet per barrel	Agree							 	 	ft3/barrel
+85557	Physical	Temperature, low saturation, degrees Celsius	Agree							 	 	deg C
+85558	Physical	Temperature, high saturation, degrees Celsius	Agree							 	 	deg C
+85559	Physical	Pressure, low saturation, pounds per square inch	Agree							 	 	psi
+85560	Physical	Pressure, high saturation, pounds per square inch	Agree							 	 	psi
+85583	Physical	Temperature, intragravel water, degrees Celsius	Agree							 	Temperature, water	deg C
+85588	Physical	Gross heating value of dissolved hydrocarbons, dry, calculated, British thermal units per cubic foot at 60 degrees Fahrenheit and 14.73 pounds per square inch absolute	Not checked							 	 	Btu/ft3
+85599	Physical	Rainfall, total for defined period, centimeters	Not checked					Total		 	 	cm/sample
+85822	Physical	Moisture content, biota, tissue, wet weight, percent of total weight	Agree			Wet		Total		 	Moisture content	%
+90010	Physical	Temperature, area-weighted-average, degrees Celsius	USGS use and no use by EPA							 	 	deg C
+90034	Physical	Depth to 1 percent of surface light, cross section average, feet	USGS use and no use by EPA							 	 	ft
+90077	Physical	Transparency, water, in situ, Secchi disc, cross section average, inches	USGS use and no use by EPA							 	Water transparency, Secchi disc	in
+90094	Physical	Specific conductance, water, unfiltered, area weighted average, microsiemens per centimeter at 25 degrees Celsius	USGS use and no use by EPA					Total	25 deg C	 	Specific conductance	uS/cm @25C
+90095	Physical	Specific conductance, water, unfiltered, laboratory, microsiemens per centimeter at 25 degrees Celsius	USGS use and no use by EPA					Total	25 deg C	 	Specific conductance	uS/cm @25C
+90096	Physical	Specific conductance, water, filtered, laboratory, microsiemens per centimeter at 25 degrees Celsius	Not checked					Dissolved		 	Specific conductance	uS/cm @25C
+90198	Physical	Depth to 10 percent surface light, cross section average, feet	USGS use and no use by EPA							 	 	ft
+90199	Physical	Depth to 50 percent surface light, cross section average, feet	USGS use and no use by EPA							 	Light attenuation, depth at 50%	ft
+90200	Physical	Incident light intensity, 400-700 nanometers, cross-sectional average, microeinsteins per square meter per second	USGS use and no use by EPA							 	 	uE/m2/sec
+90400	Physical	pH, water, area weighted average, standard units	USGS use and no use by EPA							 	pH	std units
+90860	Physical	Salinity, water, unfiltered, practical salinity units at 25 degrees Celsius	USGS use and no use by EPA					Total	25 deg C	 	Salinity	PSS
+90862	Physical	Salinity, water, unfiltered, Practical Salinity Scale	Not checked					Total		 	Salinity	PSS
+91011	Physical	Solids settleable in 15 minutes, water, unfiltered, milliliters per liter	USGS use and no use by EPA		15 Minutes			Settleable		 	Settleable solids	ml/l
+91016	Physical	Biochemical oxygen demand, water, unfiltered, 5 days at 20 degrees Celsius, short tons per day	USGS use and no use by EPA		5 Day			Total	20 deg C	 	Biochemical oxygen demand, standard conditions	tons/day
+91017	Physical	Suspended solids dried at 110 degrees Celsius, water, unfiltered, short tons per day	USGS use and no use by EPA					Suspended	110 deg C	 	Total suspended solids	tons/day
+91055	Physical	Suspended solids dried at 105 degrees Celsius, water, unfiltered, short tons per day	USGS use and no use by EPA					Suspended	105 deg C	 	Total suspended solids	tons/day
+91056	Physical	Loss on ignition of suspended solids, water, unfiltered, short tons per day	USGS use and no use by EPA					Suspended		 	Volatile Suspended Solids	tons/day
+91146	Physical	Pump rate, gallons per minute	Not checked							 	 	gal/min
+91155	Physical	Moisture content, bed sediment smaller than 63 microns, wet sieved (native water), recoverable, dry weight, percent	Not checked			Dry	< 0.063	Bed Sediment		 	 	%
+91156	Physical	Moisture content, bed sediment, dry weight, percent	Not checked			Dry		Bed Sediment		 	 	%
+95202	Physical	Phycocyanin fluorescence (fPC), water, in situ, cells per milliliter	USGS use and no use by EPA							 	 	#/ml
+95902	Physical	Noncarbonate hardness, water, milligrams per liter as calcium carbonate	USGS use and no use by EPA							 	Hardness, non-carbonate	mg/l CaCO3
+99019	Physical	Water level, depth below land surface, meters	USGS use and no use by EPA							 	Depth, from ground surface to well water level	m
+99020	Physical	Elevation above NGVD 1929, meters	USGS use and no use by EPA							 	 	m
+99060	Physical	Discharge, cubic meters per second	USGS use and no use by EPA	Mean	1 Day					 	 	m3/sec
+99061	Physical	Discharge, instantaneous, cubic meters per second	USGS use and no use by EPA							 	Stream flow, instantaneous	m3/sec
+99064	Physical	Water surface elevation difference between two locations, feet	Not checked							 	 	ft
+99065	Physical	Gage height, above datum, meters	USGS use and no use by EPA							 	Gage height	m
+99066	Physical	Hyporheic flux of water from groundwater to surface water, milliliters per square centimeter per day	USGS use and no use by EPA							 	 	ml/cm2/day
+99067	Physical	Difference between observed and predicted water surface elevation, feet	Not checked							 	 	ft
+99227	Physical	Primary water level, Aquatrak, distance from measuring point to water surface, meters	USGS use and no use by EPA							 	 	m
+99231	Physical	Electrical resistance, ohms	USGS use and no use by EPA							 	 	ohms
+99232	Physical	Volumetric soil moisture content period, for internal control of sensor, milliseconds	USGS use and no use by EPA							 	 	ms
+99243	Physical	Distance to snow surface from sensor, centimeters	Not checked							 	 	cm
+99401	Physical	Dissolved solids, water, filtered, estimated by regression equation, milligrams per liter	USGS use and no use by EPA					Dissolved		 	Total dissolved solids	mg/l
+99402	Physical	Suspended solids, water, unfiltered, estimated by regression equation, milligrams per liter	USGS use and no use by EPA					Suspended		 	Total suspended solids	mg/l
+99403	Physical	Total solids, water, unfiltered, estimated by regression equation, milligrams per liter	USGS use and no use by EPA					Total		 	Total solids	mg/l
+99433	Physical	Dissolved solids, water, filtered, lake-volume weighted, milligrams per liter	Not checked					Dissolved		 	 	mg/l
+99434	Physical	Dissolved solids, in entire lake, short tons	Not checked					Dissolved		 	 	tons
+99772	Physical	Precipitation, millimeters	USGS use and no use by EPA							 	Precipitation	mm
+99872	Physical	Turbidity, water, unfiltered, laboratory, Hach 2100AN, nephelometric turbidity units	USGS use and no use by EPA					Total		 	Turbidity	NTU
+99974	Physical	Specific conductance, 1 meter below water surface, microsiemens per centimeter at 25 degrees Celsius	USGS use and no use by EPA						25 deg C	 	Specific conductance	uS/cm @25C
+99975	Physical	pH, 1 meter below water surface, standard units	USGS use and no use by EPA							 	pH	std units
+99976	Physical	Temperature, 1 meter below water surface, degrees Celsius	USGS use and no use by EPA							 	Temperature, water	deg C
+99978	Physical	Specific conductance, water, 1 meter above bottom, microsiemens per centimeter at 25 degrees Celsius	USGS use and no use by EPA						25 deg C	 	Specific conductance	uS/cm @25C
+99979	Physical	pH, water, 1 meter above bottom, standard units	USGS use and no use by EPA							 	pH	std units
+99980	Physical	Temperature, water, 1 meter above bottom, degrees Celsius	USGS use and no use by EPA							 	Temperature, water	deg C
+99982	Physical	Specific conductance, water, mid-depth of water column, microsiemens per centimeter at 25 degrees Celsius	USGS use and no use by EPA						25 deg C	 	Specific conductance	uS/cm @25C
+99983	Physical	pH, water, mid-depth of water column, standard units	USGS use and no use by EPA							 	pH	std units
+99984	Physical	Temperature, water, mid-depth of water column, degrees Celsius	USGS use and no use by EPA							 	Temperature, water	deg C
+99986	Physical	Solar radiation (average flux density on a horizontal surface during measurement interval), watts per square meter	USGS use and no use by EPA							 	Solar irradiation, local	W/m2
+99987	Physical	Solar radiation (total flux density on a horizontal surface during measurement interval), megajoules per square meter	USGS use and no use by EPA					Total		 	 	MJ/m2
+99988	Physical	Photosynthetically active radiation (average flux density on a horizontal surface during measurement interval), micromoles of photons per square meter per second	USGS use and no use by EPA							 	Light, photosynthetic active radiation (PAR)	umol/m2/s
+99989	Physical	Photosynthetically active radiation (total flux density on a horizontal surface during measurement interval), millimoles of photons per square meter	USGS use and no use by EPA					Total		 	 	mmol/m2
+99997	Physical	Photosynthetically active radiation (PAR) in water at the 1% light level, micromoles of photons per square meter per second	USGS use and no use by EPA							 	 	umol/m2/s

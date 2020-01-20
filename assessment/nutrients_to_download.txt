@@ -1,0 +1,25 @@
+Nitrate
+Nitrate + Niterite
+Nitrate as N
+Nitrate-N
+Nitrate-Nitrite
+Nitrite-N
+Total Nitrogen
+Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)
+
+00600	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, unfiltered, milligrams per liter	Agree					Total		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/l
+00602	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, filtered, milligrams per liter	Agree					Dissolved		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/l
+00605	Nutrient	Organic nitrogen, water, unfiltered, milligrams per liter as nitrogen	Agree					Total		 	Organic nitrogen	mg/l
+00607	Nutrient	Organic nitrogen, water, filtered, milligrams per liter as nitrogen	Agree					Dissolved		 	Organic nitrogen	mg/l
+00608	Nutrient	Ammonia (NH3 + NH4+), water, filtered, milligrams per liter as nitrogen	Agree					Dissolved		 	Ammonia and ammonium	mg/l as N
+00610	Nutrient	Ammonia (NH3 + NH4+), water, unfiltered, milligrams per liter as nitrogen	Agree					Total		 	Ammonia and ammonium	mg/l as N
+00615	Nutrient	Nitrite, water, unfiltered, milligrams per liter as nitrogen	Agree					Total		14797-65-0	Nitrite	mg/l as N
+00616	Nutrient	Nitrite, bed sediment, total, dry weight, milligrams per kilogram as nitrogen	Agree			Dry		Bed Sediment		14797-65-0	Nitrite	mg/kg as N
+00618	Nutrient	Nitrate, water, filtered, milligrams per liter as nitrogen	Agree					Dissolved		14797-55-8	Nitrate	mg/l as N
+00620	Nutrient	Nitrate, water, unfiltered, milligrams per liter as nitrogen	Agree					Total		14797-55-8	Nitrate	mg/l as N
+00625	Nutrient	Ammonia plus organic nitrogen, water, unfiltered, milligrams per liter as nitrogen	Agree					Total		 	Kjeldahl nitrogen	mg/l as N
+71850	Nutrient	Nitrate, water, unfiltered, milligrams per liter as nitrate	Agree					Total		14797-55-8	Nitrate	mg/l asNO3
+71851	Nutrient	Nitrate, water, filtered, milligrams per liter as nitrate	Agree					Dissolved		14797-55-8	Nitrate	mg/l asNO3
+71855	Nutrient	Nitrite, water, unfiltered, milligrams per liter as nitrite	Agree					Total		14797-65-0	Nitrite	mg/l asNO3
+71856	Nutrient	Nitrite, water, filtered, milligrams per liter as nitrite	Agree					Dissolved		14797-65-0	Nitrite	mg/l asNO3
+71887	Nutrient	Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, unfiltered, milligrams per liter as nitrate	Not checked					Total		 	Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)	mg/l NO3

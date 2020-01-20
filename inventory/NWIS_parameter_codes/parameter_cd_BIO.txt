@@ -1,0 +1,194 @@
+#
+# National Water Information System
+# 2019/03/30
+#
+#
+# Date Retrieved: USGS Water Data for the Nation Help System
+#
+parm_cd	group	parm_nm	epa_equivalence	result_statistical_basis	result_time_basis	result_weight_basis	result_particle_size_basis	result_sample_fraction	result_temperature_basis	CASRN	SRSName	parm_unit
+5s	10s	170s	26s	18s	0s	12s	12s	11s	0s	10s	41s	10s
+00572	Biological	Biomass, periphyton, ash weight, grams per square meter	Not checked			Ash Weight				 	Biomass, periphyton	g/m2
+00573	Biological	Biomass, periphyton, dry weight, grams per square meter	Not checked			Dry				 	Biomass, periphyton	g/m2
+01340	Biological	Dead fish, severity, code	Not checked							 	Dead fish, severity	code
+01371	Biological	Average length of biological tissue samples in composite, centimeters	Agree							 	 	cm
+01373	Biological	Average weight of biological tissue samples in composite, grams	Agree							 	 	g
+31720	Biological	Bighead carp (Hypophthalmichthys nobilis), count of tagged fish per hour (count may include repeats of same fish)	Not checked					Total		 	Hypophthalmichthys nobilis	count/hr
+31721	Biological	Silver carp (Hypophthalmichthys molitrix), count of tagged fish per hour (count may include repeats of same fish)	Not checked					Total		 	Hypophthalmichthys molitrix	count/hr
+31722	Biological	Hybrid asian carp (Hypophthalmichthys nobliis and Hypophthalmichthys molitrix hybrids), count of tagged fish per hour (count may include repeats of same fish)	Not checked					Total		 	 	count/hr
+31723	Biological	Sum of bighead, silver and hybrid carp, count of tagged fish per hour (count may include repeats of same fish)	Not checked					Total		 	 	count/hr
+31724	Biological	Shovelnose sturgeon (Scaphirhynchus platorynchus), count of tagged fish per hour (count may include repeats of same fish)	Not checked					Total		 	Scaphirhynchus platorynchus	count/hr
+31725	Biological	Bighead carp (Hypophthalmichthys nobilis), count of unique tagged fish per hour (same fish are not counted more than once per hour)	Not checked					Total		 	Hypophthalmichthys nobilis	count/hr
+31726	Biological	Silver carp (Hypophthalmichthys molitrix), count of unique tagged fish per hour (same fish are not counted more than once per hour)	Not checked					Total		 	Hypophthalmichthys molitrix	count/hr
+31727	Biological	Hybrid asian carp (Hypophthalmichthys nobliis and Hypophthalmichthys molitrix hybrids), count of unique tagged fish per hour (same fish are not counted more than once per	Not checked					Total		 	 	count/hr
+31728	Biological	Sum of bighead, silver and hybrid carp, count of unique tagged fish per hour (same fish are not counted more than once per hour)	Not checked					Total		 	 	count/hr
+31729	Biological	Shovelnose sturgeon (Scaphirhynchus platorynchus), count of unique tagged fish per hour (same fish are not counted more than once per hour)	Not checked					Total		 	Scaphirhynchus platorynchus	count/hr
+31733	Biological	Chytrid fungus (Batrachochytrium dendrobatidis), water, quantitative polymerase chain reaction (qPCR) method, copies per milliliter	Not checked					Recoverable		 	 	cp/mL
+32209	Biological	Chlorophyll a, water, fluorometric method, corrected, micrograms per liter	Agree							479-61-8	Chlorophyll a	ug/l
+32210	Biological	Chlorophyll a, water, trichromatic method, uncorrected, micrograms per liter	Agree					Total		479-61-8	Chlorophyll a	ug/l
+32211	Biological	Chlorophyll a, phytoplankton, spectrophotometric acid method, micrograms per liter	Not checked							479-61-8	Chlorophyll a	ug/l
+32213	Biological	Pheophytin a, fluorometric method, micrograms per liter	Agree							603-17-8	Pheophytin a	ug/l
+32217	Biological	Chlorophyll a, fluorometric method, uncorrected, micrograms per liter	Agree							479-61-8	Chlorophyll a	ug/l
+32218	Biological	Pheophytin a, phytoplankton, spectrophotometric acid method, micrograms per liter	Not checked							603-17-8	Pheophytin a	ug/l
+32223	Biological	Chlorophyll a, periphyton, spectrophotometric method, corrected, milligrams per square meter	Not checked							479-61-8	Chlorophyll a	mg/m2
+32224	Biological	Pheophytin a, periphyton, spectrophotometric acid method, corrected, milligrams per square meter	Not checked							603-17-8	Pheophytin a	mg/m2
+32225	Biological	Chlorophylls, periphyton, spectrophotometric method, uncorrected, milligrams per square meter	Not checked							1406-65-1	Chlorophyll	mg/m2
+32226	Biological	Chlorophyll b, periphyton, spectrophotometric method, uncorrected, milligrams per square meter	Not checked							519-62-0	Chlorophyll b	mg/m2
+32227	Biological	Chlorophyll c, periphyton, spectrophotometric method, uncorrected, milligrams per square meter	Not checked							11003-45-5	Chlorophyll c	mg/m2
+32228	Biological	Chlorophyll a, periphyton, spectrophotometric method, uncorrected, milligrams per square meter	Not checked							479-61-8	Chlorophyll a	mg/m2
+32230	Biological	Chlorophyll a, phytoplankton, spectrophotometric method, uncorrected, micrograms per liter	Not checked							479-61-8	Chlorophyll a	ug/l
+32231	Biological	Chlorophyll b, phytoplankton, spectrophotometric method, micrograms per liter	Not checked							519-62-0	Chlorophyll b	ug/l
+32232	Biological	Chlorophyll c, phytoplankton, spectrophotometric method, micrograms per liter	Not checked							11003-45-5	Chlorophyll c	ug/l
+32234	Biological	Chlorophylls, phytoplankton, spectrophotometric method, uncorrected, micrograms per liter	Not checked							1406-65-1	Chlorophyll	ug/l
+32241	Biological	Chlorophylls, periphyton, fluorometric method, uncorrected, milligrams per square meter	USGS use and no use by EPA							1406-65-1	Chlorophyll	mg/m2
+32242	Biological	Chlorophyll a, periphyton, fluorometric method, corrected, milligrams per square meter	USGS use and no use by EPA							479-61-8	Chlorophyll a	mg/m2
+32243	Biological	Pheophytin a, periphyton, fluorometric method, milligrams per square meter	USGS use and no use by EPA							603-17-8	Pheophytin a	mg/m2
+32268	Biological	Pheophytin a, plankton in water, milligrams per cubic meter	Not checked							603-17-8	 	mg/m3
+32269	Biological	Chlorophyll a, plankton in water, milligrams per cubic meter	Not checked							479-61-8	 	mg/m3
+32271	Biological	Chlorophylls less than 35 microns, 35-um sieve prefilter, phytoplankton, fluorometric method, micrograms per liter	USGS use and no use by EPA				< 35 microns			1406-65-1	Chlorophyll	ug/l
+32272	Biological	Chlorophyll a less than 35 microns, 35-um sieve prefilter, phytoplankton, fluorometric method, corrected, micrograms per liter	USGS use and no use by EPA				< 35 microns			479-61-8	Chlorophyll a	ug/l
+32273	Biological	Pheophytin a less than 35 microns, 35-um sieve prefilter, phytoplankton, fluorometric method, micrograms per liter	USGS use and no use by EPA				< 35 microns			603-17-8	Pheophytin a	ug/l
+32274	Biological	Chlorophylls less than 11 microns, 11-um sieve prefilter, phytoplankton, fluorometric method, micrograms per liter	USGS use and no use by EPA				< 11 microns			1406-65-1	Chlorophyll	ug/l
+32275	Biological	Chlorophyll a less than 11 microns, 11-um sieve prefilter, phytoplankton, fluorometric method, corrected, micrograms per liter	USGS use and no use by EPA				< 11 microns			479-61-8	Chlorophyll a	ug/l
+32276	Biological	Pheophytin a less than 11 microns, 11-um sieve prefilter, phytoplankton, fluorometric method, micrograms per liter	USGS use and no use by EPA				< 11 microns			603-17-8	Pheophytin a	ug/l
+32277	Biological	Chlorophylls greater than 35 microns, calculated as chlorophylls (P32217) less chlorophylls <35 um (P32271), micrograms per liter	USGS use and no use by EPA				> 35 microns			1406-65-1	Chlorophyll	ug/l
+32278	Biological	Chlorophyll a greater than 35 microns, calculated as chlorophyll a (P32209) less chlorophyll a <35 um (P32272), micrograms per liter	USGS use and no use by EPA				> 35 microns			479-61-8	Chlorophyll a	ug/l
+32279	Biological	Pheophytin a greater than 35 microns, calculated as pheophytin a (P32213) less pheophytin a <35 um (P32273), micrograms per liter	USGS use and no use by EPA				> 35 microns			603-17-8	Pheophytin a	ug/l
+32280	Biological	Chlorophylls greater than 11 microns, calculated as chlorophylls (P32217) less chlorophylls <11 um (P32274), micrograms per liter	USGS use and no use by EPA				> 11 microns			1406-65-1	Chlorophyll	ug/l
+32281	Biological	Chlorophyll a greater than 11 microns, calculated as chlorophyll a (P32209) less chlorophyll a <11 um (P32275), micrograms per liter	USGS use and no use by EPA				> 11 microns			479-61-8	Chlorophyll a	ug/l
+32282	Biological	Pheophytin a greater than 11 microns, calculated as pheophytin a (P32213) less pheophytin a <11 um (P32276), micrograms per liter	USGS use and no use by EPA				> 11 microns			603-17-8	Pheophytin a	ug/l
+32283	Biological	Chlorophyll fluorescence (fChl), total, water, in situ, fluorometric, 650-700 nm, relative fluorescence units (RFU)	Not checked							1406-65-1	Chlorophyll	RFU
+32284	Biological	Chlorophyll a, total, in situ, fluorescence excitation at 370, 470, 525, 570, 590, 610 nm, fluorescence emission at 700 nm with correction for CDOM, ug/L	Not checked					Total		479-61-8	 	ug/l
+32285	Biological	Chlorophyll a, green algae, in situ, fluorescence excitation at 370, 470, 525, 570, 590, 610 nm, fluorescence emission at 700 nm with correction for CDOM, ug/L	Not checked					Total		479-61-8	 	ug/l
+32286	Biological	Chlorophyll a, cyanobacteria, in situ, fluorescence excitation at 370, 470, 525, 570, 590, 610 nm, fluorescence emission at 700 nm with correction for CDOM, ug/L	Not checked					Total		479-61-8	 	ug/l
+32287	Biological	Chlorophyll a, cryptophytes, in situ, fluorescence excitation at 370, 470, 525, 570, 590, 610 nm, fluorescence emission at 700 nm with correction for CDOM, ug/L	Not checked					Total		479-61-8	 	ug/l
+32288	Biological	Chlorophyll a, diatoms and dinoflagellates, in situ, excitation at 370, 470, 525, 570, 590, 610 nm, fluorescence emission at 700 nm with correction for CDOM, ug/L	Not checked					Total		479-61-8	 	ug/l
+32317	Biological	Chlorophyll a, water, in situ, regression computed, micrograms per liter as chlorophyll a	Not checked					Total		479-61-8	Chlorophyll a	ug/l
+32318	Biological	Chlorophylls, water, in situ, fluorometric method, excitation at 470 +-15 nm, emission at 685 +-20 nm, micrograms per liter	Not checked					Total		1406-65-1	 	ug/l
+32320	Biological	Chlorophyll fluorescence (fChl), water, in situ, fluorometric method, excitation at 470 +-15 nm, emission at 685 +-20 nm, relative fluorescence units (RFU)	Not checked					Total		1406-65-1	 	RFU
+32329	Biological	Phycocyanin, water, in situ, regression computed, micrograms per liter	Not checked					Total		 	 	ug/l
+32334	Biological	Chlorophyll, water, in situ, uncorrected for degradation products, regression computed, micrograms per liter as chlorophyll	Not checked					Total		1406-65-1	 	ug/l
+32735	Biological	Chlorophyll a, phytoplankton, water, acetone extraction and spectrophotometry, milligrams per liter	Not checked					Total		479-61-8	 	mg/l
+32736	Biological	Pheophytin a, phytoplankton, water, acetone extraction and spectrophotometry, micrograms per liter	Not checked					Total		603-17-8	 	ug/l
+47462	Biological	Females, in sample or catch, number	Agree							 	 	nu
+47463	Biological	Males, in sample or catch, number	Agree							 	 	nu
+49273	Biological	Water present, biota, tissue, recoverable, dry weight, percent	Not agree			Dry		Recoverable		 	 	%
+49953	Biological	Biomass, phytoplankton, ash free dry mass, milligrams per liter	Agree			Ash-Free Dry				 	Biomass, phytoplankton	mg/l
+49954	Biological	Biomass, periphyton, ash free dry mass, grams per square meter	Agree			Ash-Free Dry				 	Biomass, periphyton	g/m2
+51285	Biological	Geosmin, water, filtered (0.7 micron glass fiber filter), recoverable, nanograms per liter	Not checked					Dissolved		19700-21-1	 	ng/l
+51754	Biological	Cyanobacteria, water, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+51755	Biological	Microcystis, water, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+51756	Biological	Microcystis mcyE toxin gene, water, DNA based, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+51757	Biological	Microcystis mcyE toxin gene, water, RNA based, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+51758	Biological	Anabaena mcyE toxin gene, water, DNA based, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+51759	Biological	Anabaena mcyE toxin gene, water, RNA based, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+51760	Biological	Planktothrix mcyE toxin gene, water, DNA based, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+51761	Biological	Planktothrix mcyE toxin gene, water, RNA based, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+52885	Biological	BLYES (bioluminescent yeast estrogen screen) Estrogen Equivalent, water, filtered, pH-adjusted, nanograms per liter of estrogen equivalents (EEQ)	Not checked					Dissolved		 	 	ng/l
+52905	Biological	Phycocyanins (cyanobacteria), water, filtered, recoverable, microgams per liter	Not checked					Dissolved		 	 	ug/l
+52906	Biological	Allophycocyanin, water, filtered, recoverable, micrograms per liter	Not checked					Dissolved		 	 	ug/l
+52907	Biological	Phycoerythrin, water, filtered, recoverable, micrograms per liter	Not checked					Dissolved		 	 	ug/l
+60050	Biological	Phytoplankton, total, cells per milliliter	Not checked					Total		 	Phytoplankton	#/ml
+62340	Biological	Specimen length, average of composite, biota, millimeters	USGS use and no use by EPA	Mean						 	 	mm
+62341	Biological	Specimen length, total of composite, biota, millimeters	USGS use and no use by EPA					Total		 	 	mm
+62342	Biological	Specimen weight, average of composite, biota, grams	USGS use and no use by EPA	Mean						 	 	g
+62343	Biological	Specimen weight, total of composite, biota, grams	USGS use and no use by EPA					Total		 	 	g
+62344	Biological	Standard fish length, average of composite, biota, millimeters	USGS use and no use by EPA	Mean						 	Fish standard length	mm
+62345	Biological	Standard fish length, total of composite, biota, millimeters	USGS use and no use by EPA					Total		 	Fish standard length	mm
+62346	Biological	Individuals without anomalies, biota, number in sample	USGS use and no use by EPA							 	 	nu
+62347	Biological	Individuals with popeye disease, biota, number in sample	USGS use and no use by EPA							 	 	nu
+62348	Biological	Individuals with blindness, excluding popeye disease, biota, number in sample	USGS use and no use by EPA							 	 	nu
+62349	Biological	Individuals with external deformities, biota, number in sample	USGS use and no use by EPA							 	 	nu
+62350	Biological	Individuals with eroded fins, biota, number in sample	USGS use and no use by EPA							 	 	nu
+62351	Biological	Individuals with external lesions or ulcers, biota, number in sample	USGS use and no use by EPA							 	 	nu
+62352	Biological	Individuals with fungus, biota, number in sample	USGS use and no use by EPA							 	 	nu
+62353	Biological	Individuals with leeches, biota, number in sample	USGS use and no use by EPA							 	 	nu
+62354	Biological	Individuals with black spot, biota, number in sample	USGS use and no use by EPA							 	 	nu
+62355	Biological	Individuals with anchor worms, biota, number in sample	USGS use and no use by EPA							 	 	nu
+62356	Biological	Individuals with external tumors, biota, number in sample	USGS use and no use by EPA							 	 	nu
+62357	Biological	Individuals with ich, biota, number in sample	USGS use and no use by EPA							 	 	nu
+62358	Biological	Individuals with other external parasites, biota, number in sample	USGS use and no use by EPA							 	 	nu
+62359	Biological	Pheophytin a, periphyton, milligrams per square meter	USGS use and no use by EPA							603-17-8	Pheophytin a	mg/m2
+62360	Biological	Pheophytin a, phytoplankton, micrograms per liter	USGS use and no use by EPA							603-17-8	Pheophytin a	ug/l
+62361	Biological	Chlorophyll, total, water, fluorometric, 650-700 nanometers, in situ sensor, micrograms per liter	USGS use and no use by EPA					Total		1406-65-1	Chlorophyll	ug/l
+62886	Biological	Mean age of organisms in composite sample, years	USGS use and no use by EPA	Mean						 	 	years
+62887	Biological	Minimum age of organisms in composite sample, years	USGS use and no use by EPA	Minimum						 	 	years
+62888	Biological	Maximum age of organisms in composite sample, years	USGS use and no use by EPA	Maximum						 	 	years
+63763	Biological	Chlorophyll a, periphyton, depositional-targeted habitat (DTH), chromatographic-fluorometric method, milligrams per square meter	USGS use and no use by EPA							479-61-8	Chlorophyll a	mg/m2
+63764	Biological	Pheophytin a, periphyton, depositional-targeted habitat (DTH), chromatographic-fluorometric method, milligrams per square meter	USGS use and no use by EPA							603-17-8	Pheophytin a	mg/m2
+63765	Biological	Biomass, periphyton, ash weight, depositional-targeted habitat (DTH), grams per square meter	USGS use and no use by EPA			Ash Weight				 	Biomass, periphyton	g/m2
+63766	Biological	Biomass, periphyton, ash free dry weight, depositional-targeted habitat (DTH), grams per square meter	USGS use and no use by EPA			Ash-Free Dry				 	Biomass, periphyton	g/m2
+63767	Biological	Biomass, periphyton, dry weight, depositional-targeted habitat (DTH), grams per square meter	USGS use and no use by EPA			Dry				 	Biomass, periphyton	g/m2
+65228	Biological	Chlorophyll b, water, unfiltered, trichromatic method, uncorrected, micrograms per liter	USGS use and no use by EPA					Total		519-62-0	Chlorophyll b	ug/l
+65229	Biological	Chlorophyll c, water, unfiltered, trichromatic method, uncorrected, micrograms per liter	USGS use and no use by EPA					Total		11003-45-5	Chlorophyll c	ug/l
+65230	Biological	Chlorophyll a, water, in situ, in vivo fluorescence, in vivo fluorescence units	USGS use and no use by EPA					Total		479-61-8	Chlorophyll a	IVFU
+65231	Biological	Chlorophyll a, water, in situ, in vivo fluorescence, micrograms per liter	USGS use and no use by EPA							479-61-8	Chlorophyll a	ug/l
+70940	Biological	Invertebrates, benthic, wet weight, grams per square meter	Agree			Wet				 	 	g/m2
+70941	Biological	Invertebrates, benthic, dry weight, grams per square meter	Agree			Dry				 	 	g/m2
+70942	Biological	Invertebrates, benthic, ash weight, grams per square meter	Agree			Ash Weight				 	 	g/m2
+70943	Biological	Invertebrates, benthic, organisms per square meter	Agree							 	 	#/m2
+70944	Biological	Macrophytes, total, number per square meter	Agree					Total		 	 	#/m2
+70945	Biological	Periphyton, total, number of cells per square millimeter	Agree					Total		 	Periphyton	cells/mm2
+70946	Biological	Zooplankton, total, number of organisms per cubic meter	Agree					Total		 	Zooplankton	#/m3
+70947	Biological	Zooplankton, dry weight, grams per cubic meter	Agree			Dry				 	Zooplankton	g/m3
+70948	Biological	Zooplankton, ash weight, grams per cubic meter	Agree			Ash Weight				 	Zooplankton	g/m3
+70949	Biological	Biomass to chlorophyll ratio, plankton, number	Agree							 	 	None
+70950	Biological	Biomass to chlorophyll ratio, periphyton, number	Agree							 	 	None
+70951	Biological	Chlorophyll a, phytoplankton, chromatographic-spectrophotometric method, micrograms per liter	Not checked							479-61-8	Chlorophyll a	ug/l
+70952	Biological	Chlorophyll b, phytoplankton, chromatographic-spectrophotometric method, micrograms per liter	Agree							519-62-0	Chlorophyll b	ug/l
+70953	Biological	Chlorophyll a, phytoplankton, chromatographic-fluorometric method, micrograms per liter	Agree							479-61-8	Chlorophyll a	ug/l
+70954	Biological	Chlorophyll b, phytoplankton, chromatographic-fluorometric method, micrograms per liter	Agree							519-62-0	Chlorophyll b	ug/l
+70955	Biological	Chlorophyll a, periphyton, chromatographic-spectrophotometric method, milligrams per square meter	Not agree							479-61-8	Chlorophyll a	mg/m2
+70956	Biological	Chlorophyll b, periphyton, chromatographic-spectrophotometric method, milligrams per square meter	Not agree							519-62-0	Chlorophyll b	mg/m2
+70957	Biological	Chlorophyll a, periphyton, chromatographic-fluorometric method, milligrams per square meter	Not agree							479-61-8	Chlorophyll a	mg/m2
+70958	Biological	Chlorophyll b, periphyton, chromatographic-fluorometric method, milligrams per square meter	Not agree							519-62-0	Chlorophyll b	mg/m2
+70959	Biological	Productivity, primary, gross, milligrams oxygen per cubic meter per day	Agree							 	 	mg O2/m3/d
+70960	Biological	Productivity, primary, gross, milligrams oxygen per square meter per day	Agree							 	 	mg O2/m2/d
+70961	Biological	Productivity, primary, gross, milligrams carbon per cubic meter per day	Agree							 	 	mg C/m3/d
+70962	Biological	Productivity, primary, gross, milligrams carbon per square meter per day	Agree							 	 	mg C/m2/d
+70963	Biological	Productivity, primary, net, milligrams oxygen per cubic meter per day	Agree							 	 	mg O2/m3/d
+70964	Biological	Productivity, primary, net, milligrams oxygen per square meter per day	Agree							 	 	mg O2/m2/d
+70965	Biological	Productivity, primary, net, milligrams carbon per cubic meter per day	Agree							 	 	mg C/m3/d
+70966	Biological	Productivity, primary, net, milligrams carbon per square meter per day	Agree							 	 	mg C/m2/d
+70967	Biological	Respiration, milligrams oxygen per cubic meter per day	Agree							 	Respiration	mg 02/m3/d
+70968	Biological	Respiration, milligrams oxygen per square meter per day	Agree							 	Respiration	mg 02/m2/d
+70988	Biological	Algal growth potential, milligrams per liter	Not checked							 	Algal growth potential	mg/l
+71100	Biological	Seston, water, unfiltered, total, milligrams per liter	Agree					Total		 	Seston	mg/l
+71101	Biological	Seston, water, unfiltered, ash weight, milligrams per liter	Not checked			Ash Weight		Total		 	Seston	mg/l
+71350	Biological	Cosmarium species, water, number per liter	Agree							 	 	#/l
+72140	Biological	Length of organism, maximum in composite sample, centimeters	USGS use and no use by EPA	Maximum						 	 	cm
+72141	Biological	Length of organisms, standard deviation, composite sample, centimeters	USGS use and no use by EPA	Standard Deviation						 	 	cm
+72142	Biological	Weight of organism, minimum in composite sample, grams	USGS use and no use by EPA	Minimum						 	 	g
+72143	Biological	Weight of organism, maximum in composite sample, grams	USGS use and no use by EPA	Maximum						 	 	g
+72144	Biological	Weight of organisms, standard deviation, composite sample, grams	USGS use and no use by EPA	Standard Deviation						 	 	g
+72146	Biological	Length of organism, minimum in composite sample, centimeters	USGS use and no use by EPA	Minimum						 	 	cm
+72273	Biological	Length of organism, millimeters	Not checked							 	 	mm
+81353	Biological	Biomass, plankton, ash weight, milligrams per liter	Agree			Ash Weight				 	Biomass, plankton	mg/l
+81354	Biological	Biomass, plankton, dry weight, milligrams per liter	Agree			Dry				 	Biomass, plankton	mg/l
+81614	Biological	Individuals in sample, biota, number	Agree							 	 	nu
+81615	Biological	Species, different in sample, number	Agree							 	 	nu
+81804	Biological	Diatoms, periphyton, number per square millimeter	Agree							 	 	number/mm2
+82555	Biological	Carbon production in plants, photosynthesis, carbon-14, milligrams of carbon per square meter	Agree							 	 	mg C/m2
+84015	Biological	Age of organism, years	Agree							 	 	years
+84178	Biological	Floating vegetation, severity, code	Not checked							 	Floating vegetation severity, choice list	code
+85209	Biological	Algal growth potential, USGS modified bottle test, water, filtered, milligrams per liter	Not checked					Dissolved		 	Algal growth potential	mg/l
+91104	Biological	Weight of organism, total, grams	USGS use and no use by EPA					Total		 	 	g
+91105	Biological	Weight of sampled tissue from organism, grams	USGS use and no use by EPA							 	 	g
+91106	Biological	Length of organism, centimeters	USGS use and no use by EPA							 	 	cm
+92209	Biological	Chlorophyll a, fluorometric method, corrected, area weighted average, micrograms per liter	USGS use and no use by EPA							479-61-8	Chlorophyll a	ug/l
+92213	Biological	Pheophytin a, fluorometric method, area weighted average, micrograms per liter	USGS use and no use by EPA							603-17-8	Pheophytin a	ug/l
+92217	Biological	Chlorophyll a, fluorometric method, uncorrected, area weighted average, micrograms per liter	USGS use and no use by EPA							479-61-8	Chlorophyll a	ug/l
+94423	Biological	Dreissena  Beneden, 1835, count	Not checked					Total		 	 	count
+94424	Biological	Dreissena polymorpha (Pallas, 1771) adults, number per square meter	Not checked					Total		 	Dreissena polymorpha	#/m2
+94425	Biological	Dreissena polymorpha (Pallas, 1771) larvae, number per liter	Not checked					Total		 	Dreissena polymorpha	#/l
+94426	Biological	Dreissena bugensis  Andrusov, 1897 adults, number per square meter	Not checked					Total		 	 	#/m2
+94427	Biological	Dreissena bugensis  Andrusov, 1897 larvae, number per liter	Not checked					Total		 	 	#/l
+94428	Biological	Zebra mussel Dreissena polymorpha (Pallas, 1771) rDNA ITS 2 gene, water, DNA based, recoverable, copies per liter (cp/L)	Not checked					Recoverable		 	Dreissena polymorpha	cp/L
+94429	Biological	Zebra mussel Dreissena polymorpha (Pallas, 1771) shell length, larvae, average, micrometers	Not checked	Mean						 	Dreissena polymorpha	um
+94430	Biological	Zebra mussel Dreissena polymorpha (Pallas, 1771) shell length, adult, average, millimeters	Not checked	Mean						 	Dreissena polymorpha	mm
+94431	Biological	Quagga mussel Dreissena bugensis Andrusov, 1897 rDNA ITS 2 gene, water, DNA based, recoverable, copies per liter (cp/L)	Not checked					Recoverable		 	 	cp/L
+94432	Biological	Quagga mussel Dreissena bugensis Andrusov, 1897 shell length, larvae, average, micrometers	Not checked	Mean						 	 	um
+94433	Biological	Quagga mussel Dreissena bugensis Andrusov, 1897 shell length, adult, average, millimeters	Not checked	Mean						 	 	mm
+95201	Biological	Cyanobacteria (blue-green algae), Hydrolab in vivo fluorescence of phycocyanin, excitation at 590 nm, emission at 650 nm, cells per milliliter	USGS use and no use by EPA							 	 	#/ml
+95203	Biological	Phycocyanins (cyanobacteria), Turner Designs SCUFA in vivo fluorescence of phycocyanin, excitation at 595 nm, emission at 670 nm, micrograms per liter	USGS use and no use by EPA							 	 	ug/l
+95204	Biological	Phycocyanins (cyanobacteria), water, in situ, in vivo fluorescence, in vivo fluorescence units	USGS use and no use by EPA							 	 	IVFU
+99421	Biological	Chlorophyll a, water, in situ, regression computed, pounds per day as chlorophyll a	USGS use and no use by EPA					Total		1406-65-1	Chlorophyll	lb/day

@@ -1,0 +1,133 @@
+#
+# National Water Information System
+# 2019/03/30
+#
+#
+# Date Retrieved: USGS Water Data for the Nation Help System
+#
+parm_cd	group	parm_nm	epa_equivalence	result_statistical_basis	result_time_basis	result_weight_basis	result_particle_size_basis	result_sample_fraction	result_temperature_basis	CASRN	SRSName	parm_unit
+5s	15s	141s	26s	18s	0s	0s	0s	12s	0s	12s	32s	10s
+03521	Stable Isotopes	delta carbon-13/carbon-12 of organic carbon, soil or rock, per mil	Agree							14762-74-4	Carbon-13/Carbon-12 ratio	per mil
+03522	Stable Isotopes	delta sulfur-34/sulfur-32 of sulfide, water, filtered, per mil	Agree					Dissolved		 	Sulfur-34/Sulfur-32 ratio	per mil
+03523	Stable Isotopes	delta sulfur-34/sulfur-32 of sulfide, bed sediment, per mil	Agree					Bed Sediment		 	Sulfur-34/Sulfur-32 ratio	per mil
+49902	Stable Isotopes	delta sulfur-34/sulfur-32 of sulfide, water, filtered, per mil	Agree					Dissolved		 	Sulfur-34/Sulfur-32 ratio	per mil
+49926	Stable Isotopes	delta carbon-13/carbon-12, carbon dioxide, per mil	Agree							14762-74-4	Carbon-13/Carbon-12 ratio	per mil
+49927	Stable Isotopes	delta carbon-13/carbon-12, rock, per mil	Agree							14762-74-4	Carbon-13/Carbon-12 ratio	per mil
+49928	Stable Isotopes	delta sulfur-34/sulfur-32 of sulfate, rock, per mil	Agree							 	Sulfur-34/Sulfur-32 ratio	per mil
+49929	Stable Isotopes	delta sulfur-34/sulfur-32 of sulfide, rock, per mil	Agree							 	Sulfur-34/Sulfur-32 ratio	per mil
+49930	Stable Isotopes	delta sulfur-34/sulfur-32 of disulfide, rock, per mil	Agree							 	Sulfur-34/Sulfur-32 ratio	per mil
+49931	Stable Isotopes	delta sulfur-34/sulfur-32 of monosulfide, rock, per mil	Agree							 	Sulfur-34/Sulfur-32 ratio	per mil
+49932	Stable Isotopes	delta sulfur-34/sulfur-32 of sulfate, water, filtered, per mil	Agree					Dissolved		 	Sulfur-34/Sulfur-32 ratio	per mil
+54072	Stable Isotopes	Strontium-87 plus strontium-86, water, unfiltered, recoverable, micrograms per liter	USGS use and no use by EPA					Recoverable		 	 	ug/l
+61036	Stable Isotopes	delta helium-3/helium-4, water, unfiltered, ingrowth method, percent	Agree					Total		14762-55-1	 	%
+61037	Stable Isotopes	delta helium-3/helium-4 error, water, unfiltered, ingrowth method, percent	Agree	Standard Deviation				Total		14762-55-1	 	%
+61040	Stable Isotopes	Helium-3/helium-4 ratio, water, unfiltered, ratio	Agree					Total		14762-55-1	 	None
+62648	Stable Isotopes	delta boron-11/boron-10, water, filtered, per mil	USGS use and no use by EPA					Dissolved		 	 	per mil
+63035	Stable Isotopes	delta nitrogen-15/nitrogen-14 of total nitrogen, solids, per mil	USGS use and no use by EPA							 	Nitrogen-15/14 ratio	per mil
+63036	Stable Isotopes	delta nitrogen-15/nitrogen-14 of nitrate, solids, per mil	USGS use and no use by EPA							 	Nitrogen-15/14 ratio	per mil
+63037	Stable Isotopes	delta nitrogen-15/nitrogen-14 of exchangeable ammonium, solids, per mil	USGS use and no use by EPA							 	Nitrogen-15/14 ratio	per mil
+63038	Stable Isotopes	delta carbon-13/carbon-12 of total carbon, solids, per mil	USGS use and no use by EPA							14762-74-4	Carbon-13/Carbon-12 ratio	per mil
+63040	Stable Isotopes	delta oxygen-18/oxygen-16 of nitrate, solids, per mil	USGS use and no use by EPA							14797-71-8	Oxygen-18/Oxygen-16 ratio	per mil
+63041	Stable Isotopes	delta oxygen-18/oxygen-16 of nitrate, water, filtered, per mil	USGS use and no use by EPA					Dissolved		14797-71-8	Oxygen-18/Oxygen-16 ratio	per mil
+63150	Stable Isotopes	delta nitrogen-15/nitrogen-14 of dinitrogen, water, dissolved, per mil	USGS use and no use by EPA					Dissolved		 	Nitrogen-15/14 ratio	per mil
+63511	Stable Isotopes	delta carbon-13/carbon-12 of organic carbon, biota, tissue, per mil	USGS use and no use by EPA							14762-74-4	Carbon-13/Carbon-12 ratio	per mil
+63512	Stable Isotopes	delta nitrogen-15/nitrogen-14 of organic nitrogen, biota, tissue, per mil	USGS use and no use by EPA							 	Nitrogen-15/14 ratio	per mil
+63513	Stable Isotopes	delta carbon-13/carbon-12 of organic carbon, suspended sediment, per mil	USGS use and no use by EPA					Suspended		14762-74-4	Carbon-13/Carbon-12 ratio	per mil
+63514	Stable Isotopes	delta nitrogen-15/nitrogen-14 of organic nitrogen, suspended sediment, per mil	USGS use and no use by EPA					Suspended		 	Nitrogen-15/14 ratio	per mil
+63515	Stable Isotopes	delta carbon-13/carbon-12 of organic carbon, bed sediment, per mil	USGS use and no use by EPA					Bed Sediment		14762-74-4	Carbon-13/Carbon-12 ratio	per mil
+63516	Stable Isotopes	delta nitrogen-15/nitrogen-14 of organic nitrogen, bed sediment, per mil	USGS use and no use by EPA					Bed Sediment		 	Nitrogen-15/14 ratio	per mil
+65223	Stable Isotopes	delta carbon-13/carbon-12 of organic carbon, water, filtered, per mil	USGS use and no use by EPA					Dissolved		14762-74-4	 	per mil
+65224	Stable Isotopes	delta carbon-13/carbon-12 of organic carbon 1-sigma uncertainty, water, filtered, per mil	USGS use and no use by EPA	1-Sigma CSU				Dissolved		14762-74-4	 	per mil
+65241	Stable Isotopes	delta carbon-13/carbon-12 of methane, water, dissolved, relative to Vienna PeeDee belemnite (VPDB), per mil	USGS use and no use by EPA					Dissolved		14762-74-4	 	per mil
+65242	Stable Isotopes	delta carbon-13/carbon-12 of ethane, water, dissolved, headspace method, relative to Vienna PeeDee belemnite (VPDB), per mil	USGS use and no use by EPA					Dissolved		14762-74-4	 	per mil
+65243	Stable Isotopes	delta carbon-13/carbon-12 of inorganic carbon, water, dissolved, relative to Vienna PeeDee belemnite (VPDB), per mil	USGS use and no use by EPA					Dissolved		14762-74-4	Carbon-13/Carbon-12 ratio	per mil
+65245	Stable Isotopes	delta hydrogen-2/hydrogen-1 of methane, water, dissolved, relative to Vienna Standard Mean Ocean Water (VSMOW), per mil	USGS use and no use by EPA	Mean				Dissolved		7782-39-0	Deuterium/Hydrogen ratio	per mil
+75978	Stable Isotopes	Strontium-87/strontium-86 ratio, water, filtered, ratio	Not checked					Dissolved		13982-64-4	Strontium-87/strontium-86, ratio	None
+82081	Stable Isotopes	delta carbon-13/carbon-12, water, unfiltered, per mil	Not checked					Total		14762-74-4	Carbon-13/Carbon-12 ratio	per mil
+82082	Stable Isotopes	delta hydrogen-2/hydrogen-1, water, unfiltered, per mil	Not checked					Total		7782-39-0	Deuterium/Hydrogen ratio	per mil
+82083	Stable Isotopes	delta lithium-7/lithium-6, water, unfiltered, per mil	Not checked					Total		 	Lithium-7/Lithium-6 ratio	per mil
+82084	Stable Isotopes	delta nitrogen-15/nitrogen-14, water, unfiltered, per mil	Not checked					Total		 	Nitrogen-15/14 ratio	per mil
+82085	Stable Isotopes	delta oxygen-18/oxygen-16, water, unfiltered, per mil	Not checked					Total		14797-71-8	Oxygen-18/Oxygen-16 ratio	per mil
+82086	Stable Isotopes	delta sulfur-34/sulfur-32, water, unfiltered, per mil	Not checked					Total		 	Sulfur-34/Sulfur-32 ratio	per mil
+82336	Stable Isotopes	delta sulfur-34/sulfur-32, bed sediment, per mil	Not checked					Bed Sediment		 	Sulfur-34/Sulfur-32 ratio	per mil
+82337	Stable Isotopes	delta oxygen-18/oxygen-16, bed sediment, per mil	Not checked					Bed Sediment		14797-71-8	Oxygen-18/Oxygen-16 ratio	per mil
+82338	Stable Isotopes	delta nitrogen-15/nitrogen-14, bed sediment, per mil	Not checked					Bed Sediment		 	Nitrogen-15/14 ratio	per mil
+82339	Stable Isotopes	delta carbon-13/carbon-12, bed sediment, per mil	Not checked					Bed Sediment		14762-74-4	Carbon-13/Carbon-12 ratio	per mil
+82341	Stable Isotopes	delta nitrogen-15/nitrogen-14 of organic nitrogen, soil or rock, per mil	Not checked							 	Nitrogen-15/14 ratio	per mil
+82688	Stable Isotopes	delta nitrogen-15/nitrogen-14 of nitrate, soil, per mil	Agree							 	Nitrogen-15/14 ratio	per mil
+82689	Stable Isotopes	delta nitrogen-15/nitrogen-14 of ammonia, soil, per mil	Agree							 	Nitrogen-15/14 ratio	per mil
+82690	Stable Isotopes	delta nitrogen-15/nitrogen-14 of nitrate, water, filtered, per mil	Agree					Dissolved		 	Nitrogen-15/14 ratio	per mil
+82691	Stable Isotopes	delta nitrogen-15/nitrogen-14 of ammonia, water, filtered, per mil	Agree					Dissolved		 	Nitrogen-15/14 ratio	per mil
+82698	Stable Isotopes	delta nitrogen-15/nitrogen-14 of dinitrogen, water, unfiltered, per mil	Not agree							 	Nitrogen-15/14 ratio	per mil
+82699	Stable Isotopes	delta oxygen-18/oxygen-16 of dissolved oxygen, water, unfiltered, per mil	Not agree					Dissolved		14797-71-8	Oxygen-18/Oxygen-16 ratio	per mil
+82700	Stable Isotopes	delta carbon-13/carbon-12 of carbonate fraction, solids, per mil	Not agree							14762-74-4	Carbon-13/Carbon-12 ratio	per mil
+82701	Stable Isotopes	delta chromium-53/chromium-52, water, filtered, per mil	Not agree					Dissolved		13981-78-7	 	per mil
+82702	Stable Isotopes	delta boron-11/boron-10, water, unfiltered, per mil	Not agree					Total		 	 	per mil
+82725	Stable Isotopes	delta chlorine-37/chlorine-35, water, filtered, per mil	USGS use and no use by EPA					Dissolved		 	 	per mil
+82726	Stable Isotopes	delta bromine-81/bromine-79, water, filtered, per mil	USGS use and no use by EPA					Dissolved		 	 	per mil
+82727	Stable Isotopes	delta oxygen-18/oxygen-16 of sulfate, water, filtered, per mil	USGS use and no use by EPA					Dissolved		14797-71-8	Oxygen-18/Oxygen-16 ratio	per mil
+82734	Stable Isotopes	delta carbon-13/carbon/12 of organic carbon, solids, per mil	Not checked							14762-74-4	 	per mil
+82735	Stable Isotopes	Carbon-14, organic solid materials, percent modern	Not checked							14762-75-5	 	pct modern
+82736	Stable Isotopes	delta chlorine-37/chlorine-35 of perchlorate, water, unfiltered, per mil	Not checked					Total		 	 	per mil
+82737	Stable Isotopes	delta oxygen-18/oxygen-16 of perchlorate, water, unfiltered, per mil	Not checked					Total		14797-71-8	Oxygen-18/Oxygen-16 ratio	per mil
+82739	Stable Isotopes	Oxygen-17/Oxygen-16 ratio in perchlorate, water, unfiltered, ratio	Not checked					Total		 	 	ratio
+82740	Stable Isotopes	delta strontium-87/strontium-86, carbonate rock, 3N nitric acid extracted, per mil	Not checked							13982-64-4	Strontium-87/strontium-86, ratio	per mil
+82741	Stable Isotopes	delta oxygen-18/oxygen-16, carbonate rock, relative to Vienna Standard Mean Ocean Water (VSMOW), per mil	Not checked							 	 	per mil
+82742	Stable Isotopes	delta carbon-13/carbon-12 of propane, water, dissolved, headspace method, relative to Vienna PeeDee belemnite (VPDB), per mil	Not checked					Dissolved		14762-74-4	 	per mil
+82743	Stable Isotopes	Carbon-13 in methane, water, unfiltered, percent	Not checked					Total		14672-74-4	 	%
+82744	Stable Isotopes	Deuterium in methane, water, unfiltered, percent	Not checked					Total		7782-39-0	 	%
+82745	Stable Isotopes	Oxygen-18 in water molecules, water, unfiltered, percent	Not checked					Total		14797-71-8	 	%
+82746	Stable Isotopes	Strontium-87/Strontium-86 ratio, water, filtered, normalized to standard reference material, ratio	Not checked					Dissolved		13982-64-4	Strontium-87/strontium-86, ratio	ratio
+82747	Stable Isotopes	delta Strontium-87, water, filtered, as standard deviation from seawater, per mil	Not checked					Dissolved		13982-64-4	 	per mil
+82748	Stable Isotopes	delta sulfur-34/sulfur-32, water, filtered, relative to Vienna Canyon Diablo Troilite (VCDT), per mil	Not checked					Dissolved		 	 	per mil
+82749	Stable Isotopes	delta Oxygen-18 in phosphate, water, filtered, relative to Vienna Standard Mean Ocean Water (VSMOW), per mil	Not checked					Dissolved		14797-71-8	 	per mil
+82750	Stable Isotopes	delta Oxygen-18 in phosphate, water, unfiltered, relative to Vienna Standard Mean Ocean Water (VSMOW), per mil	Not checked					Total		14797-71-8	 	per mil
+82751	Stable Isotopes	delta Oxygen-18 in water leachable phosphate, solids, relative to Vienna Standard Mean Ocean Water (VSMOW), per mil	Not checked							14797-71-8	 	per mil
+82752	Stable Isotopes	delta strontium-88/strontium-86, water, filtered, relative to Vienna Standard Mean Ocean Water (VSMOW), per mil	Not checked					Dissolved		 	 	per mil
+82753	Stable Isotopes	Neon-20/Neon-22 ratio, water, unfiltered, ratio	Not checked					Total		13981-34-5	 	ratio
+82754	Stable Isotopes	Neon-21/Neon-22 ratio, water, unfiltered, ratio	Not checked					Total		13981-35-6	 	ratio
+82755	Stable Isotopes	Argon-38/Argon-36 ratio, water, unfiltered, ratio	Not checked					Total		 	 	ratio
+82756	Stable Isotopes	Argon-40/Argon-36 ratio, water, unfiltered, ratio	Not checked					Total		1290046-39-7	 	ratio
+82757	Stable Isotopes	Krypton-78/Krypton-84 ratio, water, unfiltered, ratio	Not checked					Total		33580-79-9	 	ratio
+82758	Stable Isotopes	Krypton-80/Krypton-84 ratio, water, unfiltered, ratio	Not checked					Total		26110-67-8	 	ratio
+82759	Stable Isotopes	Krypton-82/Krypton-84 ratio, water, unfiltered, ratio	Not checked					Total		14191-81-2	 	ratio
+82760	Stable Isotopes	Krypton-83/Krypton-84 ratio, water, unfiltered, ratio	Not checked					Total		13965-98-5	 	ratio
+82761	Stable Isotopes	Krypton-86/Krypton-84 ratio, water, unfiltered, ratio	Not checked					Total		14191-82-3	 	ratio
+82762	Stable Isotopes	Xenon-124/Xenon-132 ratio, water, unfiltered, ratio	Not checked					Total		15687-60-2	 	ratio
+82763	Stable Isotopes	Xenon-126/Xenon-132 ratio, water, unfiltered, ratio	Not checked					Total		 	 	ratio
+82764	Stable Isotopes	Xenon-128/Xenon-132 ratio, water, unfiltered, ratio	Not checked					Total		27818-78-6	 	ratio
+82765	Stable Isotopes	Xenon-129/Xenon-132 ratio, water, unfiltered, ratio	Not checked					Total		13965-99-6	 	ratio
+82766	Stable Isotopes	Xenon-130/Xenon-132 ratio, water, unfiltered, ratio	Not checked					Total		 	 	ratio
+82767	Stable Isotopes	Xenon-131/Xenon-132 ratio, water, unfiltered, ratio	Not checked					Total		14683-11-5	 	ratio
+82768	Stable Isotopes	Xenon-134/Xenon-132 ratio, water, unfiltered, ratio	Not checked					Total		 	 	ratio
+82769	Stable Isotopes	Xenon-136/Xenon-132 ratio, water, unfiltered, ratio	Not checked					Total		15751-79-8	 	ratio
+82770	Stable Isotopes	Neon-20/Neon-22 error, water, unfiltered, ratio	Not checked					Total		13981-34-5	 	ratio
+82771	Stable Isotopes	Neon-21/Neon-22 error, water, unfiltered, ratio	Not checked					Total		13981-35-6	 	ratio
+82772	Stable Isotopes	Argon-38/Argon-36 error, water, unfiltered, ratio	Not checked					Total		 	 	ratio
+82773	Stable Isotopes	Argon-40/Argon-36 error, water, unfiltered, ratio	Not checked					Total		1290046-39-7	 	ratio
+82774	Stable Isotopes	Krypton-78/Krypton-84 error, water, unfiltered, ratio	Not checked					Total		33580-79-9	 	ratio
+82775	Stable Isotopes	Krypton-80/Krypton-84 error, water, unfiltered, ratio	Not checked					Total		26110-67-8	 	ratio
+82776	Stable Isotopes	Krypton-82/Krypton-84 error, water, unfiltered, ratio	Not checked					Total		14191-81-2	 	ratio
+82777	Stable Isotopes	Krypton-83/Krypton-84 error, water, unfiltered, ratio	Not checked					Total		13965-98-5	 	ratio
+82778	Stable Isotopes	Krypton-86/Krypton-84 error, water, unfiltered, ratio	Not checked					Total		14191-82-3	 	ratio
+82779	Stable Isotopes	Xenon-124/Xenon-132 error, water, unfiltered, ratio	Not checked					Total		15687-60-2	 	ratio
+82780	Stable Isotopes	Xenon-126/Xenon-132 error, water, unfiltered, ratio	Not checked					Total		 	 	ratio
+82781	Stable Isotopes	Xenon-128/Xenon-132 error, water, unfiltered, ratio	Not checked					Total		27818-78-6	 	ratio
+82782	Stable Isotopes	Xenon-129/Xenon-132 error, water, unfiltered, ratio	Not checked					Total		13965-99-6	 	ratio
+82783	Stable Isotopes	Xenon-130/Xenon-132 error, water, unfiltered, ratio	Not checked					Total		 	 	ratio
+82784	Stable Isotopes	Xenon-131/Xenon-132 error, water, unfiltered, ratio	Not checked					Total		14683-11-5	 	ratio
+82785	Stable Isotopes	Xenon-134/Xenon-132 error, water, unfiltered, ratio	Not checked					Total		 	 	ratio
+82786	Stable Isotopes	Xenon-136/Xenon-132 error, water, unfiltered, ratio	Not checked					Total		15751-79-8	 	ratio
+82787	Stable Isotopes	delta Lithium-7/Lithium-6, water, filtered, per mil	Not checked					Dissolved		 	Lithium-7/lithium-6, ratio	per mil
+82788	Stable Isotopes	delta Chromium-53/chromium-52 analytical uncertainty (standard deviation of multiple determinations of the analyte), water, filtered, per mil	Not checked					Dissolved		13981-78-7	 	per mil
+82789	Stable Isotopes	Strontium-87/Strontium-86 ratio 2-sigma combined uncertainty, water, filtered, normalized to standard reference material, unitless	Not checked					Dissolved		13982-64-4	 	none
+82790	Stable Isotopes	delta carbon-13/carbon-12, solids, relative to Vienna PeeDee Belemnite (VPDB), per mil	Not checked							14762-74-4	 	per mil
+82791	Stable Isotopes	delta nitrogen-15/nitrogen-14, solids, relative to air, per mil	Not checked							 	 	per mil
+82792	Stable Isotopes	delta sulfur-34/sulfur-32, solids, relative to Canyon Diablo Triolite (CDT), per mil	Not checked							 	 	per mil
+85561	Stable Isotopes	Helium-4, water, dissolved, cubic centimeters per gram at standard temperature and pressure	Not agree					Dissolved		 	 	cm3/g STP
+85562	Stable Isotopes	Helium-4 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not agree	Standard Deviation				Total		 	 	cm3/g STP
+85569	Stable Isotopes	Helium-3/helium-4 error, water, unfiltered, ratio	Not agree	Standard Deviation				Total		14762-55-1	 	None
+85600	Stable Isotopes	Neon-20, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		13981-34-5	 	cm3/g @STP
+85601	Stable Isotopes	Neon-20 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		13981-34-5	 	cm3/g @STP
+85602	Stable Isotopes	Neon-22, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		13886-72-1	 	cm3/g @STP
+85603	Stable Isotopes	Neon-22 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		13886-72-1	 	cm3/g @STP

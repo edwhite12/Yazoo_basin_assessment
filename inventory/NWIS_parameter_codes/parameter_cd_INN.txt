@@ -1,0 +1,307 @@
+#
+# National Water Information System
+# 2019/03/30
+#
+#
+# Date Retrieved: USGS Water Data for the Nation Help System
+#
+parm_cd	group	parm_nm	epa_equivalence	result_statistical_basis	result_time_basis	result_weight_basis	result_particle_size_basis	result_sample_fraction	result_temperature_basis	CASRN	SRSName	parm_unit
+5s	29s	166s	26s	0s	0s	3s	14s	14s	6s	10s	42s	10s
+00191	Inorganics, Major, Non-metals	Hydrogen ion, water, unfiltered, calculated, milligrams per liter	Agree					Total		12408-02-5	Hydrogen ion	mg/l
+00300	Inorganics, Major, Non-metals	Dissolved oxygen, water, unfiltered, milligrams per liter	Agree					Dissolved		7782-44-7	Oxygen	mg/l
+00301	Inorganics, Major, Non-metals	Dissolved oxygen, water, unfiltered, percent of saturation	Agree					Dissolved		7782-44-7	Oxygen	% saturatn
+00405	Inorganics, Major, Non-metals	Carbon dioxide, water, unfiltered, milligrams per liter	Agree					Total		124-38-9	Carbon dioxide	mg/l
+00409	Inorganics, Major, Non-metals	Acid neutralizing capacity, water, unfiltered, Gran titration, microequivalents per liter	Agree					Total		 	Alkalinity	ueq/L
+00410	Inorganics, Major, Non-metals	Acid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter as calcium carbonate	Not checked					Total		 	Alkalinity	mg/l CaCO3
+00411	Inorganics, Major, Non-metals	Acid neutralizing capacity, water, unfiltered, methyl orange endpoint (pH 3.1-4.4) titration, milligrams per liter as calcium carbonate	Not checked					Total		 	Alkalinity	mg/l CaCO3
+00413	Inorganics, Major, Non-metals	Acid neutralizing capacity, water, unfiltered, Gran titration, milligrams per liter as calcium carbonate	Agree					Total		 	Alkalinity	mg/l CaCO3
+00415	Inorganics, Major, Non-metals	Acid neutralizing capacity, water, unfiltered, phenolphthalein endpoint (pH 8.5-9.0) titration, milligrams per liter as calcium carbonate	Not checked					Total		 	Alkalinity	mg/l CaCO3
+00416	Inorganics, Major, Non-metals	Acid neutralizing capacity, water, unfiltered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as calcium carbonate	Not checked					Total		 	Alkalinity	mg/l CaCO3
+00417	Inorganics, Major, Non-metals	Acid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, laboratory, milligrams per liter as calcium carbonate	Not checked					Total		 	Alkalinity	mg/l CaCO3
+00418	Inorganics, Major, Non-metals	Alkalinity, water, filtered, fixed endpoint (pH 4.5) titration, field, milligrams per liter as calcium carbonate	Not checked					Dissolved		 	Alkalinity	mg/l CaCO3
+00419	Inorganics, Major, Non-metals	Acid neutralizing capacity, water, unfiltered, inflection-point titration method (incremental titration method), field, milligrams per liter as calcium carbonate	Not checked					Total		 	Alkalinity	mg/l CaCO3
+00420	Inorganics, Major, Non-metals	Hydroxide, water, unfiltered, milligrams per liter	Not checked					Total		14280-30-9	Hydroxide	mg/l
+00421	Inorganics, Major, Non-metals	Alkalinity, water, filtered, fixed endpoint (pH 4.5) titration, laboratory, milligrams per liter as calcium carbonate	Not checked					Dissolved		 	Alkalinity	mg/l CaCO3
+00425	Inorganics, Major, Non-metals	Bicarbonate, water, unfiltered, milligrams per liter as calcium carbonate	Not checked					Total		71-52-3	Bicarbonate	mg/l CaCO3
+00430	Inorganics, Major, Non-metals	Carbonate, water, unfiltered, milligrams per liter as calcium carbonate	Not checked					Total		3812-32-6	Carbonate (CO3)	mg/l CaCO3
+00431	Inorganics, Major, Non-metals	Acid neutralizing capacity, water, unfiltered, milligrams per liter as calcium carbonate	Not checked					Total		 	Alkalinity	mg/l CaCO3
+00435	Inorganics, Major, Non-metals	Acidity, water, unfiltered, milligrams per liter as calcium carbonate	Not checked					Total		 	Acidity	mg/l CaCO3
+00436	Inorganics, Major, Non-metals	Mineral acidity, water, unfiltered, methyl orange endpoint (pH 3.1-4.4) titration, milligrams per liter as calcium carbonate	Not checked					Total		 	Acidity, mineral methyl orange (as CaCO3)	mg/l CaCO3
+00437	Inorganics, Major, Non-metals	Carbon dioxide acidity, water, unfiltered, phenolphthalein endpoint (pH 8.5-9.0) titration, milligrams per liter as calcium carbonate	Not checked					Total		 	Acidity, total, phenolphthalein (as CaCO3)	mg/l CaCO3
+00440	Inorganics, Major, Non-metals	Bicarbonate, water, unfiltered, fixed endpoint (pH 4.5) titration, field, milligrams per liter	Not checked					Total		71-52-3	Bicarbonate	mg/l
+00445	Inorganics, Major, Non-metals	Carbonate, water, unfiltered, fixed endpoint (pH 8.3) titration, field, milligrams per liter	Not checked					Total		3812-32-6	Carbonate (CO3)	mg/l
+00446	Inorganics, Major, Non-metals	Carbonate, water, unfiltered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter	Not checked					Total		3812-32-6	Carbonate (CO3)	mg/l
+00447	Inorganics, Major, Non-metals	Carbonate, water, unfiltered, inflection-point titration method (incremental titration method), field, milligrams per liter	Not checked					Total		3812-32-6	Carbonate (CO3)	mg/l
+00448	Inorganics, Major, Non-metals	Carbonate, water, unfiltered, fixed endpoint (pH 8.3) titration, laboratory, milligrams per liter	Not checked					Total		3812-32-6	Carbonate (CO3)	mg/l
+00449	Inorganics, Major, Non-metals	Bicarbonate, water, unfiltered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter	Not checked					Total		71-52-3	Bicarbonate	mg/l
+00450	Inorganics, Major, Non-metals	Bicarbonate, water, unfiltered, inflection-point titration method (incremental titration method), field, milligrams per liter	Not checked					Total		71-52-3	Bicarbonate	mg/l
+00451	Inorganics, Major, Non-metals	Bicarbonate, water, unfiltered, fixed endpoint (pH 4.5) titration, laboratory, milligrams per liter	Not checked					Total		71-52-3	Bicarbonate	mg/l
+00452	Inorganics, Major, Non-metals	Carbonate, water, filtered, inflection-point titration method (incremental titration method), field, milligrams per liter	Not checked					Dissolved		3812-32-6	Carbonate (CO3)	mg/l
+00453	Inorganics, Major, Non-metals	Bicarbonate, water, filtered, inflection-point titration method (incremental titration method), field, milligrams per liter	Not checked					Dissolved		71-52-3	Bicarbonate	mg/l
+00682	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], water, filtered, milligrams per liter	Agree					Dissolved		7440-44-0	Total Carbon	mg/l
+00685	Inorganics, Major, Non-metals	Inorganic carbon, water, unfiltered, milligrams per liter	Agree					Total		 	Inorganic carbon	mg/l
+00686	Inorganics, Major, Non-metals	Inorganic carbon, bed sediment, total, dry weight, grams per kilogram	Agree			Dry		Bed Sediment		 	Inorganic carbon	g/kg
+00688	Inorganics, Major, Non-metals	Inorganic carbon, suspended sediment, total, milligrams per liter	Agree					Suspended		 	Inorganic carbon	mg/l
+00690	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], water, unfiltered, milligrams per liter	Agree					Total		7440-44-0	Total Carbon	mg/l
+00691	Inorganics, Major, Non-metals	Inorganic carbon, water, filtered, milligrams per liter	Agree					Dissolved		 	Inorganic carbon	mg/l
+00693	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], bed sediment, total, dry weight, grams per kilogram	Agree			Dry		Bed Sediment		7440-44-0	Total Carbon	g/kg
+00694	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], suspended sediment, total, milligrams per liter	Agree					Suspended		7440-44-0	Total Carbon	mg/l
+00737	Inorganics, Major, Non-metals	Thiosulfate, water, filtered, milligrams per liter	Agree					Dissolved		14383-50-7	Thiosulfate	mg/l
+00745	Inorganics, Major, Non-metals	Sulfide, water, unfiltered, milligrams per liter	Agree					Total		18496-25-8	Sulfide	mg/l
+00746	Inorganics, Major, Non-metals	Sulfide, water, filtered, milligrams per liter	Agree					Dissolved		18496-25-8	Sulfide	mg/l
+00940	Inorganics, Major, Non-metals	Chloride, water, filtered, milligrams per liter	Not checked					Dissolved		16887-00-6	Chloride	mg/l
+00945	Inorganics, Major, Non-metals	Sulfate, water, filtered, milligrams per liter	Not agree					Dissolved		14808-79-8	Sulfate	mg/l
+00946	Inorganics, Major, Non-metals	Sulfate, water, unfiltered, milligrams per liter	Not agree					Total		14808-79-8	Sulfate	mg/l
+00950	Inorganics, Major, Non-metals	Fluoride, water, filtered, milligrams per liter	Agree					Dissolved		16984-48-8	Fluoride	mg/l
+00951	Inorganics, Major, Non-metals	Fluoride, water, unfiltered, milligrams per liter	Agree					Total		16984-48-8	Fluoride	mg/l
+00953	Inorganics, Major, Non-metals	Fluorine, water, unfiltered, micrograms per liter	Agree					Total		7782-41-4	Fluorine	ug/l
+00954	Inorganics, Major, Non-metals	Silica, water, unfiltered, recoverable, micrograms per liter as SiO2	Not checked					Recoverable		7631-86-9	Silica	ug/l
+00955	Inorganics, Major, Non-metals	Silica, water, filtered, milligrams per liter as SiO2	Agree					Dissolved		7631-86-9	Silica	mg/l
+00956	Inorganics, Major, Non-metals	Silica, water, unfiltered, milligrams per liter as SiO2	Agree					Total		7631-86-9	Silica	mg/l
+01140	Inorganics, Major, Non-metals	Silicon, water, filtered, micrograms per liter	Agree					Dissolved		7440-21-3	Silicon	ug/l
+01142	Inorganics, Major, Non-metals	Silicon, water, unfiltered, micrograms per liter	Not checked					Total		7440-21-3	Silicon	ug/l
+01207	Inorganics, Major, Non-metals	Fluoride, total, dry atmospheric deposition, milligrams per kilogram	Not checked					Total		16984-48-8	Fluoride	mg/kg
+01394	Inorganics, Major, Non-metals	Carbon (inorganic plus organic), bed sediment, total, dry weight, percent	USGS use and no use by EPA			Dry		Bed Sediment		7440-44-0	Total Carbon	%
+01398	Inorganics, Major, Non-metals	Sulfur, bed sediment, total digestion, dry weight, percent	USGS use and no use by EPA			Dry		Bed Sediment		7704-34-9	Sulfur	%
+01426	Inorganics, Major, Non-metals	Sulfur, soil, total digestion, dry weight, percent	USGS use and no use by EPA			Dry		Total		7704-34-9	Sulfur	%
+01463	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], biota, tissue, total, dry weight, percent	Not checked			Dry				7440-44-0	Total Carbon	%
+01466	Inorganics, Major, Non-metals	Sulfur, biota, tissue, total digestion, dry weight, percent	Not checked			Dry				7704-34-9	Sulfur	%
+03941	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], bed sediment smaller than 62.5 microns, wet sieved, laboratory, total, dry weight, percent	Not checked			Dry	< 0.0625	Bed Sediment		7440-44-0	Total Carbon	%
+03945	Inorganics, Major, Non-metals	Sulfur, bed sediment smaller than 62.5 microns, wet sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 0.0625	Bed Sediment		7704-34-9	Sulfur	%
+04066	Inorganics, Major, Non-metals	Inorganic carbon, bed sediment smaller than 62.5 microns, wet sieved (native water), total, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		 	Inorganic carbon	mg/kg
+04067	Inorganics, Major, Non-metals	Inorganic carbon, bed sediment smaller than 177 microns, wet sieved (native water), total, dry weight, milligrams per kilogram	Not checked			Dry	< 177 microns	Bed Sediment		 	Inorganic carbon	mg/kg
+04068	Inorganics, Major, Non-metals	Inorganic carbon, bed sediment smaller than 62.5 microns, dry sieved, total, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		 	Inorganic carbon	mg/kg
+04069	Inorganics, Major, Non-metals	Inorganic carbon, suspended sediment smaller than 62.5 microns, wet sieved (native water), total, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Suspended		 	Inorganic carbon	mg/kg
+04070	Inorganics, Major, Non-metals	Inorganic carbon, suspended sediment larger than 62.5 microns, wet sieved (native water), total, dry weight, milligrams per kilogram	Not checked			Dry	> 62.5 microns	Suspended		 	Inorganic carbon	mg/kg
+04076	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], bed sediment smaller than 62.5 microns, wet sieved (native water), total, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-44-0	Total Carbon	mg/kg
+04077	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], bed sediment smaller than 177 microns, wet sieved (native water), total, dry weight, milligrams per kilogram	Not checked			Dry	< 177 microns	Bed Sediment		7440-44-0	Total Carbon	mg/kg
+04078	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], bed sediment smaller than 62.5 microns, dry sieved, total, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-44-0	Total Carbon	mg/kg
+04079	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], suspended sediment smaller than 62.5 microns, wet sieved (native water), total, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Suspended		7440-44-0	Total Carbon	mg/kg
+04080	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], suspended sediment larger than 62.5 microns, wet sieved (native water), total, dry weight, milligrams per kilogram	Not checked			Dry	> 62.5 microns	Suspended		7440-44-0	Total Carbon	mg/kg
+29797	Inorganics, Major, Non-metals	Bicarbonate, water, unfiltered, Gran titration, field, milligrams per liter	USGS use and no use by EPA					Total		71-52-3	Bicarbonate	mg/l
+29798	Inorganics, Major, Non-metals	Carbonate, water, unfiltered, Gran titration, field, milligrams per liter	USGS use and no use by EPA					Total		3812-32-6	Carbonate (CO3)	mg/l
+29799	Inorganics, Major, Non-metals	Hydroxide, water, unfiltered, Gran titration, field, milligrams per liter	USGS use and no use by EPA					Total		14280-30-9	Hydroxide	mg/l
+29800	Inorganics, Major, Non-metals	Hydroxide, water, filtered, Gran titration, field, milligrams per liter	USGS use and no use by EPA					Dissolved		14280-30-9	Hydroxide	mg/l
+29801	Inorganics, Major, Non-metals	Alkalinity, water, filtered, fixed endpoint (pH 4.5) titration, laboratory, milligrams per liter as calcium carbonate	Agree					Dissolved		 	Alkalinity	mg/l CaCO3
+29802	Inorganics, Major, Non-metals	Alkalinity, water, filtered, Gran titration, field, milligrams per liter as calcium carbonate	Agree					Dissolved		 	Alkalinity	mg/l CaCO3
+29803	Inorganics, Major, Non-metals	Alkalinity, water, filtered, Gran titration, laboratory, milligrams per liter as calcium carbonate	Agree					Dissolved		 	Alkalinity	mg/l CaCO3
+29804	Inorganics, Major, Non-metals	Bicarbonate, water, filtered, fixed endpoint (pH 4.5) titration, field, milligrams per liter	Agree					Dissolved		71-52-3	Bicarbonate	mg/l
+29805	Inorganics, Major, Non-metals	Bicarbonate, water, filtered, fixed endpoint (pH 4.5) titration, laboratory, milligrams per liter	Agree					Dissolved		71-52-3	Bicarbonate	mg/l
+29806	Inorganics, Major, Non-metals	Bicarbonate, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter	Agree					Dissolved		71-52-3	Bicarbonate	mg/l
+29807	Inorganics, Major, Non-metals	Carbonate, water, filtered, fixed endpoint (pH 8.3) titration, field, milligrams per liter	Not agree					Dissolved		3812-32-6	Carbonate (CO3)	mg/l
+29808	Inorganics, Major, Non-metals	Carbonate, water, filtered, fixed endpoint (pH 8.3) titration, laboratory, milligrams per liter	Not agree					Dissolved		3812-32-6	Carbonate (CO3)	mg/l
+29809	Inorganics, Major, Non-metals	Carbonate, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter	Not agree					Dissolved		3812-32-6	Carbonate (CO3)	mg/l
+29810	Inorganics, Major, Non-metals	Hydroxide, water, filtered, fixed endpoint (pH 10.4) titration, field, milligrams per liter	Agree					Dissolved		14280-30-9	Hydroxide	mg/l
+29811	Inorganics, Major, Non-metals	Hydroxide, water, filtered, fixed endpoint (pH 10.4) titration, laboratory, milligrams per liter	Agree					Dissolved		14280-30-9	Hydroxide	mg/l
+29812	Inorganics, Major, Non-metals	Hydroxide, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter	Agree					Dissolved		14280-30-9	Hydroxide	mg/l
+29813	Inorganics, Major, Non-metals	Acid neutralizing capacity, water, unfiltered, Gran titration, field, milligrams per liter as calcium carbonate	Agree					Total		 	Alkalinity	mg/l CaCO3
+29849	Inorganics, Major, Non-metals	Silicon, soil, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Recoverable		7440-21-3	Silicon	mg/kg
+30241	Inorganics, Major, Non-metals	Inorganic carbon, bed sediment, dry weight, percent	Agree			Dry		Bed Sediment		 	Inorganic carbon	%
+30242	Inorganics, Major, Non-metals	Inorganic carbon, suspended sediment, total, dry weight, percent	Agree			Dry		Suspended		 	Inorganic carbon	%
+30244	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], suspended sediment, total, dry weight, percent	Agree			Dry		Suspended		7440-44-0	Total Carbon	%
+30307	Inorganics, Major, Non-metals	Sulfur, bed sediment, dry weight, percent	Agree			Dry		Bed Sediment		7704-34-9	Sulfur	%
+30308	Inorganics, Major, Non-metals	Sulfur, suspended sediment, total digestion, dry weight, percent	Not checked			Dry		Suspended		7704-34-9	Sulfur	%
+34970	Inorganics, Major, Non-metals	Sulfur, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, percent	Not checked			Dry	< 62.5 microns	Bed Sediment		7704-34-9	Sulfur	%
+34971	Inorganics, Major, Non-metals	Sulfur, bed sediment smaller than 177 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 177 microns	Bed Sediment		7704-34-9	Sulfur	mg/kg
+34972	Inorganics, Major, Non-metals	Sulfur, bed sediment smaller than 62.5 microns, dry sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 62.5 microns	Bed Sediment		7704-34-9	Sulfur	%
+34973	Inorganics, Major, Non-metals	Sulfur, suspended sediment smaller than 62.5 microns, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Suspended		7704-34-9	Sulfur	mg/kg
+34974	Inorganics, Major, Non-metals	Sulfur, suspended sediment larger than 62.5 microns, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	> 62.5 microns	Suspended		7704-34-9	Sulfur	mg/kg
+35041	Inorganics, Major, Non-metals	Sulfur, suspended sediment, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Suspended		7704-34-9	Sulfur	mg/kg
+35054	Inorganics, Major, Non-metals	Carbon (inorganic plus organic), bed sediment smaller than 62.5 micrometers, dry sieved, laboratory, total, dry weight, percent	USGS use and no use by EPA			Dry	< 62.5 microns	Bed Sediment		7440-44-0	Total Carbon	%
+39036	Inorganics, Major, Non-metals	Alkalinity, water, filtered, fixed endpoint (pH 4.5) titration, field, milligrams per liter as calcium carbonate	Not checked					Dissolved		 	Alkalinity	mg/l CaCO3
+39086	Inorganics, Major, Non-metals	Alkalinity, water, filtered, inflection-point titration method (incremental titration method), field, milligrams per liter as calcium carbonate	Agree					Dissolved		 	Alkalinity	mg/l CaCO3
+39087	Inorganics, Major, Non-metals	Alkalinity, water, filtered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as calcium carbonate	Agree					Dissolved		 	Alkalinity	mg/l CaCO3
+46005	Inorganics, Major, Non-metals	Acid neutralizing capacity, water, unfiltered, bromthymol blue endpoint (pH 6.0-7.6) titration, milliequivalents per liter	Not checked					Total		 	Alkalinity	meq/L
+46247	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], soil, total, dry weight, percent	Agree			Dry		Total		7440-44-0	Total Carbon	%
+49267	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], bed sediment smaller than 62.5 microns, wet sieved (native water), field, recoverable, dry weight, percent	Not agree			Dry	< 62.5 microns	Bed Sediment		7440-44-0	Total Carbon	%
+49269	Inorganics, Major, Non-metals	Inorganic carbon, bed sediment smaller than 62.5 microns, wet sieved (native water), field, recoverable, dry weight, percent	Not agree			Dry	< 62.5 microns	Bed Sediment		 	Inorganic carbon	%
+49270	Inorganics, Major, Non-metals	Inorganic carbon, bed sediment smaller than 2 millimeters, wet sieved (native water), field, recoverable, dry weight, grams per kilogram	Not agree			Dry	< 2 mm	Bed Sediment		 	Inorganic carbon	g/kg
+49272	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], bed sediment smaller than 2 millimeters, wet sieved (native water), field, recoverable, dry weight, grams per kilogram	Not agree			Dry	< 2 mm	Bed Sediment		7440-44-0	Total Carbon	g/kg
+50060	Inorganics, Major, Non-metals	Chlorine (total residual), water, unfiltered, milligrams per liter	Agree					Total Residual		7782-50-5	Chlorine	mg/l
+50064	Inorganics, Major, Non-metals	Chlorine (free available), water, unfiltered, milligrams per liter	Agree					Free Available		7782-50-5	Chlorine	mg/l
+50066	Inorganics, Major, Non-metals	Chlorine (combined available), water, unfiltered, milligrams per liter	Agree					Comb Available		7782-50-5	Chlorine	mg/l
+51128	Inorganics, Major, Non-metals	Silicon, bed sediment, recoverable, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		7440-21-3	Silicon	mg/kg
+51179	Inorganics, Major, Non-metals	Sulfur, soil, field, x-ray fluorescence screening method, parts per million	Not checked							7704-34-9	Sulfur	ppm
+51189	Inorganics, Major, Non-metals	Hydrogen, water, dissolved, mole percent of dissolved gases	Not checked					Dissolved		1333-74-0	Hydrogen	%
+51191	Inorganics, Major, Non-metals	Oxygen, water, dissolved, mole percent of dissolved gases	Not checked					Dissolved		7782-44-7	Oxygen	%
+51192	Inorganics, Major, Non-metals	Carbon dioxide, water, dissolved, mole percent of dissolved gases	Not checked					Dissolved		124-38-9	Carbon dioxide	%
+51194	Inorganics, Major, Non-metals	Carbon monoxide, water, dissolved, mole percent of dissolved gases	Not checked					Dissolved		630-08-0	Carbon monoxide	%
+51364	Inorganics, Major, Non-metals	Inorganic carbon, bed sediment smaller than 150 um, dry sieved, lab, total digestion, dry weight, percent	Not checked			Dry	<150 um	Bed Sediment		 	Inorganic carbon	%
+51366	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], bed sediment smaller than 150 um, dry sieved, lab, total digestion, dry weight, percent	Not checked			Dry	<150 um	Bed Sediment		7440-44-0	 	%
+51393	Inorganics, Major, Non-metals	Sulfur, bed sediment smaller than 150 um, dry sieved, lab, total digestion, dry weight, percent	Not checked			Dry	<150 um	Bed Sediment		7704-34-9	 	%
+52666	Inorganics, Major, Non-metals	Inorganic carbon in bed sediment, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		 	 	mg/kg
+52682	Inorganics, Major, Non-metals	Sulfate, water, filtered, micromoles per liter	Not checked					Dissolved		14808-79-8	 	umol/L
+52683	Inorganics, Major, Non-metals	Chloride, water, filtered, millimoles per liter	Not checked					Dissolved		16887-00-6	 	mmol/L
+53029	Inorganics, Major, Non-metals	Sulfur, water, unfiltered, micrograms per liter	Not checked					Total		 	 	ug/l
+53514	Inorganics, Major, Non-metals	Silicon, water, unfiltered, milligrams per liter	Not checked					Recoverable		7440-21-3	 	mg/l
+53644	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], bed sediment smaller than 2 millimeters, wet sieved (native water), total, dry weight, per kilogram	Not checked			Dry	< 2 mm	Bed Sediment		7440-44-0	 	%
+61034	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], bed sediment smaller than 2 millimeters, total, dry weight, percent	Agree			Dry	< 2 mm	Bed Sediment		7440-44-0	Total Carbon	%
+61049	Inorganics, Major, Non-metals	Sulfur, bed sediment smaller than 2 millimeters, total digestion, dry weight, percent	Not checked			Dry	< 2 mm	Bed Sediment		7704-34-9	Sulfur	%
+61713	Inorganics, Major, Non-metals	Inorganic carbon, bed sediment smaller than 2 millimeters, wet sieved (native water), total digestion, dry weight, percent	Agree			Dry	< 2 mm	Bed Sediment		 	Inorganic carbon	%
+62460	Inorganics, Major, Non-metals	Silica, bed sediment, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Bed Sediment		7631-86-9	Silica	mg/kg
+62462	Inorganics, Major, Non-metals	Inorganic carbon, bed sediment, dry weight, percent	USGS use and no use by EPA			Dry		Bed Sediment		 	Inorganic carbon	% by wt
+62463	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], bed sediment, dry weight, percent	USGS use and no use by EPA			Dry		Bed Sediment		7440-44-0	Total Carbon	% by wt
+62944	Inorganics, Major, Non-metals	Inorganic carbon, solids, dry weight, percent	USGS use and no use by EPA			Dry				 	Inorganic carbon	%
+62946	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], solids, dry weight, percent	USGS use and no use by EPA			Dry				7440-44-0	Total Carbon	%
+62951	Inorganics, Major, Non-metals	Chloride, solids, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry				16887-00-6	Chloride	mg/kg
+62952	Inorganics, Major, Non-metals	Sulfate, solids, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry				14808-79-8	Sulfate	mg/kg
+62971	Inorganics, Major, Non-metals	Dissolved oxygen, water, unfiltered, lab, milligrams per liter	USGS use and no use by EPA					Dissolved		7782-44-7	Oxygen	mg/l
+62981	Inorganics, Major, Non-metals	Silica, water, filtered (ultrafiltration, 10,000 Dalton molecular weight membrane), milligrams per liter	USGS use and no use by EPA					Dissolved		7631-86-9	Silica	mg/l
+63039	Inorganics, Major, Non-metals	Carbon (total), solids, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Total		7440-44-0	Carbon	mg/kg
+63153	Inorganics, Major, Non-metals	Sulfide, solids, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry				18496-25-8	Sulfide	mg/kg
+63689	Inorganics, Major, Non-metals	Bromide, water, unfiltered, milligrams per liter	USGS use and no use by EPA					Total		24959-67-9	Bromide	mg/l
+63713	Inorganics, Major, Non-metals	Bromide, solids, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		24959-67-9	Bromide	mg/kg
+63714	Inorganics, Major, Non-metals	Fluoride, solids, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		16984-48-8	Fluoride	mg/kg
+63719	Inorganics, Major, Non-metals	Sulfur, water, filtered, micrograms per liter	USGS use and no use by EPA					Dissolved		7704-34-9	Sulfur	ug/l
+63786	Inorganics, Major, Non-metals	Bicarbonate, water, filtered, Gran titration, field, milligrams per liter	USGS use and no use by EPA					Dissolved		71-52-3	Bicarbonate	mg/l
+63787	Inorganics, Major, Non-metals	Bicarbonate, water, filtered, Gran titration, lab, milligrams per liter	USGS use and no use by EPA					Dissolved		71-52-3	Bicarbonate	mg/l
+63788	Inorganics, Major, Non-metals	Carbonate, water, filtered, Gran titration, field, milligrams per liter	USGS use and no use by EPA					Dissolved		3812-32-6	Carbonate (CO3)	mg/l
+63789	Inorganics, Major, Non-metals	Carbonate, water, filtered, Gran titration, lab, milligrams per liter	USGS use and no use by EPA					Dissolved		3812-32-6	Carbonate (CO3)	mg/l
+64185	Inorganics, Major, Non-metals	Hydrogen, water, unfiltered, nanomoles per liter	USGS use and no use by EPA					Total		1333-74-0	Hydrogen	nmol/L
+65238	Inorganics, Major, Non-metals	Sulfur, bed sediment, total digestion, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Bed Sediment		7704-34-9	Sulfur	mg/kg
+68799	Inorganics, Major, Non-metals	Sulfide, bed sediment, recoverable, wet weight, micrograms per kilogram	USGS use and no use by EPA			Wet		Bed Sediment		18496-25-8	 	ug/kg
+68809	Inorganics, Major, Non-metals	Silica, water, filtered, micrograms per liter as SiO2	USGS use and no use by EPA					Dissolved		7631-86-9	 	ug/l
+68928	Inorganics, Major, Non-metals	Exchangeable acidity, soil, extracted with 1.0 M potassium chloride, recoverable, dry weight, milliequivalents per 100 grams	USGS use and no use by EPA			Dry				 	 	meq/100 g
+68930	Inorganics, Major, Non-metals	Exchangeable hydrogen ion, soil, extracted with 1.0 M potassium chloride, recoverable, dry weight, milliequivalents per 100 grams	USGS use and no use by EPA			Dry				 	 	meq/100 g
+70290	Inorganics, Major, Non-metals	Chloride, water, dissolved, short tons per day	Agree					Dissolved		16887-00-6	Chloride	tons/day
+70291	Inorganics, Major, Non-metals	Sulfate, water, dissolved, short tons per day	Agree					Dissolved		14808-79-8	Sulfate	tons/day
+70504	Inorganics, Major, Non-metals	Acidity, water, filtered, heated, milligrams per liter as calcium carbonate	USGS use and no use by EPA					Dissolved	Heated	 	 	mg/l CaCO3
+70508	Inorganics, Major, Non-metals	Acidity, water, unfiltered, heated, milligrams per liter as calcium carbonate	Agree					Total	Heated	 	Acidity	mg/l CaCO3
+71825	Inorganics, Major, Non-metals	Acidity, water, unfiltered, heated, milligrams per liter as hydrogen ion	Not checked					Total	Heated	 	Acidity	mg/l as H
+71830	Inorganics, Major, Non-metals	Hydroxide, water, unfiltered, fixed endpoint (pH 10.4) titration, field, milligrams per liter	Not checked					Total		14280-30-9	Hydroxide	mg/l
+71831	Inorganics, Major, Non-metals	Hydroxide, water, unfiltered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter	Not checked					Total		14280-30-9	Hydroxide	mg/l
+71832	Inorganics, Major, Non-metals	Hydroxide, water, unfiltered, inflection-point titration method (incremental titration method), field, milligrams per liter	Not checked					Total		14280-30-9	Hydroxide	mg/l
+71833	Inorganics, Major, Non-metals	Hydroxide, water, unfiltered, fixed endpoint (pH 10.4) titration, laboratory, milligrams per liter	Not checked					Total		14280-30-9	Hydroxide	mg/l
+71834	Inorganics, Major, Non-metals	Hydroxide, water, filtered, inflection-point titration method (incremental titration method), field, milligrams per liter	Agree					Dissolved		14280-30-9	Hydroxide	mg/l
+71870	Inorganics, Major, Non-metals	Bromide, water, filtered, milligrams per liter	Not checked					Dissolved		24959-67-9	Bromide	mg/l
+71875	Inorganics, Major, Non-metals	Hydrogen sulfide, water, unfiltered, milligrams per liter	Not checked					Total		7783-06-4	Hydrogen sulfide	mg/l
+72210	Inorganics, Major, Non-metals	Dissolved oxygen, water, unfiltered, mid-depth of water column, percent of saturation	Not checked					Total		7782-44-7	 	% saturatn
+72240	Inorganics, Major, Non-metals	Carbon dioxide, water, dissolved, at the water surface, parts per million by volume of dissolved gases	Not checked					Dissolved		124-38-9	 	ppmv
+80107	Inorganics, Major, Non-metals	Sulfur, water, unfiltered, milligrams per liter	Agree					Total		7704-34-9	Sulfur	mg/l
+81200	Inorganics, Major, Non-metals	Silica, water, dissolved, short tons per day	Not checked					Dissolved		7631-86-9	Silica	tons/day
+81205	Inorganics, Major, Non-metals	Bicarbonate, water, dissolved, short tons per day	Not checked					Dissolved		71-52-3	Bicarbonate	tons/day
+81317	Inorganics, Major, Non-metals	Thiosulfate, water, unfiltered, milligrams per liter	Agree					Total		14383-50-7	Thiosulfate	mg/l
+81612	Inorganics, Major, Non-metals	Sulfate, bed sediment, dry weight, grams per kilogram	Agree			Dry		Bed Sediment		14808-79-8	Sulfate	g/kg
+82042	Inorganics, Major, Non-metals	Hydrogen, water, dissolved, micrograms per liter	Agree					Dissolved		1333-74-0	Hydrogen	ug/l
+82299	Inorganics, Major, Non-metals	Fluoride, suspended sediment, milligrams per liter	Agree					Suspended		16984-48-8	Fluoride	mg/l
+82476	Inorganics, Major, Non-metals	Chloride, soluble, dry atmospheric deposition, milligrams per kilogram	Agree							16887-00-6	Chloride	mg/kg
+82477	Inorganics, Major, Non-metals	Sulfate, soluble, dry atmospheric deposition, milligrams per kilogram	Agree							14808-79-8	Sulfate	mg/kg
+82478	Inorganics, Major, Non-metals	Carbonate, soluble, dry atmospheric deposition, milligrams per kilogram	Agree							3812-32-6	Carbonate (CO3)	mg/kg
+82479	Inorganics, Major, Non-metals	Bicarbonate, soluble, dry atmospheric deposition, milligrams per kilogram	Agree							71-52-3	Bicarbonate	mg/kg
+82480	Inorganics, Major, Non-metals	Inorganic carbon, soluble, dry atmospheric deposition, milligrams per kilogram	Agree							 	Inorganic carbon	mg/kg
+82481	Inorganics, Major, Non-metals	Inorganic carbon, insoluble, dry atmospheric deposition, milligrams per kilogram	Agree							 	Inorganic carbon	mg/kg
+82482	Inorganics, Major, Non-metals	Inorganic carbon, total, dry atmospheric deposition, milligrams per kilogram	Agree					Total		 	Inorganic carbon	mg/kg
+82904	Inorganics, Major, Non-metals	Acid neutralizing capacity, wet atmospheric deposition, unfiltered, field, milligrams per liter as calcium carbonate	Agree					Total		 	Alkalinity	mg/l CaCO3
+82905	Inorganics, Major, Non-metals	Acid neutralizing capacity, wet atmospheric deposition, unfiltered, field, microequivalents per liter	Agree					Total		 	Alkalinity	ueq/L
+82906	Inorganics, Major, Non-metals	Acid neutralizing capacity, wet atmospheric deposition, unfiltered, laboratory, milligrams per liter as calcium carbonate	Agree					Total		 	Alkalinity	mg/l CaCO3
+82907	Inorganics, Major, Non-metals	Acid neutralizing capacity, wet atmospheric deposition, unfiltered, laboratory, microequivalents per liter	Agree					Total		 	Alkalinity	ueq/L
+82944	Inorganics, Major, Non-metals	Chloride, wet atmospheric deposition, filtered, milligrams per liter	Agree					Dissolved		16887-00-6	Chloride	mg/l
+82945	Inorganics, Major, Non-metals	Chloride, wet atmospheric deposition, filtered, milligrams per square meter	Agree					Dissolved		16887-00-6	Chloride	mg/m2
+82946	Inorganics, Major, Non-metals	Chloride, wet atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		16887-00-6	Chloride	ueq/L
+82947	Inorganics, Major, Non-metals	Chloride, wet atmospheric deposition, unfiltered, milligrams per liter	Agree					Total		16887-00-6	Chloride	mg/l
+82948	Inorganics, Major, Non-metals	Chloride, wet atmospheric deposition, unfiltered, milligrams per square meter	Agree					Total		16887-00-6	Chloride	mg/m2
+82949	Inorganics, Major, Non-metals	Chloride, wet atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		16887-00-6	Chloride	ueq/L
+82974	Inorganics, Major, Non-metals	Hydrogen ion, wet atmospheric deposition, filtered, milligrams per liter	Agree					Dissolved		12408-02-5	Hydrogen ion	mg/l
+82975	Inorganics, Major, Non-metals	Hydrogen ion, wet atmospheric deposition, filtered, milligrams per square meter	Agree					Dissolved		12408-02-5	Hydrogen ion	mg/m2
+82976	Inorganics, Major, Non-metals	Hydrogen ion, wet atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		12408-02-5	Hydrogen ion	ueq/L
+82977	Inorganics, Major, Non-metals	Hydrogen ion, wet atmospheric deposition, unfiltered, milligrams per liter	Agree					Total		12408-02-5	Hydrogen ion	mg/l
+82978	Inorganics, Major, Non-metals	Hydrogen ion, wet atmospheric deposition, unfiltered, milligrams per square meter	Agree					Total		12408-02-5	Hydrogen ion	mg/m2
+82979	Inorganics, Major, Non-metals	Hydrogen ion, wet atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		12408-02-5	Hydrogen ion	ueq/L
+82980	Inorganics, Major, Non-metals	Hydrogen ion, wet atmospheric deposition, filtered, calculated, milligrams per liter	Agree					Dissolved		12408-02-5	Hydrogen ion	mg/l
+82981	Inorganics, Major, Non-metals	Hydrogen ion, wet atmospheric deposition, filtered, calculated, milligrams per square meter	Agree					Dissolved		12408-02-5	Hydrogen ion	mg/m2
+82982	Inorganics, Major, Non-metals	Hydrogen ion, wet atmospheric deposition, filtered, calculated, microequivalents per liter	Agree					Dissolved		12408-02-5	Hydrogen ion	ueq/L
+82983	Inorganics, Major, Non-metals	Hydrogen ion, wet atmospheric deposition, unfiltered, calculated, milligrams per liter	Agree					Total		12408-02-5	Hydrogen ion	mg/l
+82984	Inorganics, Major, Non-metals	Hydrogen ion, wet atmospheric deposition, unfiltered, calculated, milligrams per square meter	Agree					Total		12408-02-5	Hydrogen ion	mg/m2
+82985	Inorganics, Major, Non-metals	Hydrogen ion, wet atmospheric deposition, unfiltered, calculated, microequivalents per liter	Agree					Total		12408-02-5	Hydrogen ion	ueq/L
+83157	Inorganics, Major, Non-metals	Sulfate, wet atmospheric deposition, filtered, milligrams per liter as sulfur	Agree					Dissolved		14808-79-8	Sulfate	mg/l as S
+83158	Inorganics, Major, Non-metals	Sulfate, wet atmospheric deposition, filtered, milligrams per square meter as sulfur	Agree					Dissolved		14808-79-8	Sulfate	mg/m2 as S
+83159	Inorganics, Major, Non-metals	Sulfate, wet atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		14808-79-8	Sulfate	ueq/L
+83160	Inorganics, Major, Non-metals	Sulfate, wet atmospheric deposition, filtered, milligrams per liter	Agree					Dissolved		14808-79-8	Sulfate	mg/l
+83161	Inorganics, Major, Non-metals	Sulfate, wet atmospheric deposition, filtered, milligrams per square meter	Agree					Dissolved		14808-79-8	Sulfate	mg/m2
+83162	Inorganics, Major, Non-metals	Sulfate, wet atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		14808-79-8	Sulfate	ueq/L
+83163	Inorganics, Major, Non-metals	Sulfate, wet atmospheric deposition, unfiltered, milligrams per liter as sulfur	Agree					Total		14808-79-8	Sulfate	mg/l as S
+83164	Inorganics, Major, Non-metals	Sulfate, wet atmospheric deposition, unfiltered, milligrams per square meter as sulfur	Agree					Total		14808-79-8	Sulfate	mg/m2 as S
+83165	Inorganics, Major, Non-metals	Sulfate, wet atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		14808-79-8	Sulfate	ueq/L
+83166	Inorganics, Major, Non-metals	Sulfate, wet atmospheric deposition, unfiltered, milligrams per liter	Agree					Total		14808-79-8	Sulfate	mg/l
+83167	Inorganics, Major, Non-metals	Sulfate, wet atmospheric deposition, unfiltered, milligrams per square meter	Agree					Total		14808-79-8	Sulfate	mg/m2
+83168	Inorganics, Major, Non-metals	Sulfate, wet atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		14808-79-8	Sulfate	ueq/L
+83186	Inorganics, Major, Non-metals	Acid neutralizing capacity, bulk atmospheric deposition, unfiltered, field, milligrams per liter as calcium carbonate	Agree					Total		 	Alkalinity	mg/l CaCO3
+83187	Inorganics, Major, Non-metals	Acid neutralizing capacity, bulk atmospheric deposition, unfiltered, field, microequivalents per liter	Agree					Total		 	Alkalinity	ueq/L
+83188	Inorganics, Major, Non-metals	Acid neutralizing capacity, bulk atmospheric deposition, unfiltered, laboratory, milligrams per liter as calcium carbonate	Agree					Total		 	Alkalinity	mg/l CaCO3
+83189	Inorganics, Major, Non-metals	Acid neutralizing capacity, bulk atmospheric deposition, unfiltered, laboratory, microequivalents per liter	Agree					Total		 	Alkalinity	ueq/L
+83226	Inorganics, Major, Non-metals	Chloride, bulk atmospheric deposition, filtered, milligrams per liter	Agree					Dissolved		16887-00-6	Chloride	mg/l
+83227	Inorganics, Major, Non-metals	Chloride, bulk atmospheric deposition, filtered, milligrams per square meter	Agree					Dissolved		16887-00-6	Chloride	mg/m2
+83228	Inorganics, Major, Non-metals	Chloride, bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		16887-00-6	Chloride	ueq/L
+83229	Inorganics, Major, Non-metals	Chloride, bulk atmospheric deposition, unfiltered, milligrams per liter	Agree					Total		16887-00-6	Chloride	mg/l
+83230	Inorganics, Major, Non-metals	Chloride, bulk atmospheric deposition, unfiltered, milligrams per square meter	Agree					Total		16887-00-6	Chloride	mg/m2
+83231	Inorganics, Major, Non-metals	Chloride, bulk atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		16887-00-6	Chloride	ueq/L
+83256	Inorganics, Major, Non-metals	Hydrogen ion, bulk atmospheric deposition, filtered, milligrams per liter	Agree					Dissolved		12408-02-5	Hydrogen ion	mg/l
+83257	Inorganics, Major, Non-metals	Hydrogen ion, bulk atmospheric deposition, filtered, milligrams per square meter	Agree					Dissolved		12408-02-5	Hydrogen ion	mg/m2
+83258	Inorganics, Major, Non-metals	Hydrogen ion, bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		12408-02-5	Hydrogen ion	ueq/L
+83259	Inorganics, Major, Non-metals	Hydrogen ion, bulk atmospheric deposition, unfiltered, milligrams per liter	Agree					Total		12408-02-5	Hydrogen ion	mg/l
+83260	Inorganics, Major, Non-metals	Hydrogen ion, bulk atmospheric deposition, unfiltered, milligrams per square meter	Agree					Total		12408-02-5	Hydrogen ion	mg/m2
+83261	Inorganics, Major, Non-metals	Hydrogen ion, bulk atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		12408-02-5	Hydrogen ion	ueq/L
+83262	Inorganics, Major, Non-metals	Hydrogen ion, bulk atmospheric deposition, filtered, calculated, milligrams per liter	Agree					Dissolved		12408-02-5	Hydrogen ion	mg/l
+83263	Inorganics, Major, Non-metals	Hydrogen ion, bulk atmospheric deposition, filtered, calculated, milligrams per square meter	Agree					Dissolved		12408-02-5	Hydrogen ion	mg/m2
+83264	Inorganics, Major, Non-metals	Hydrogen ion, bulk atmospheric deposition, filtered, calculated, microequivalents per liter	Agree					Dissolved		12408-02-5	Hydrogen ion	ueq/L
+83265	Inorganics, Major, Non-metals	Hydrogen ion, bulk atmospheric deposition, unfiltered, calculated, milligrams per liter	Agree					Total		12408-02-5	Hydrogen ion	mg/l
+83266	Inorganics, Major, Non-metals	Hydrogen ion, bulk atmospheric deposition, unfiltered, calculated, milligrams per square meter	Agree					Total		12408-02-5	Hydrogen ion	mg/m2
+83267	Inorganics, Major, Non-metals	Hydrogen ion, bulk atmospheric deposition, unfiltered, calculated, microequivalents per liter	Agree					Total		12408-02-5	Hydrogen ion	ueq/L
+83439	Inorganics, Major, Non-metals	Sulfate, bulk atmospheric deposition, filtered, milligrams per liter as sulfur	Agree					Dissolved		14808-79-8	Sulfate	mg/l as S
+83440	Inorganics, Major, Non-metals	Sulfate, bulk atmospheric deposition, filtered, milligrams per square meter as sulfur	Agree					Dissolved		14808-79-8	Sulfate	mg/m2 as S
+83441	Inorganics, Major, Non-metals	Sulfate, bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		14808-79-8	Sulfate	ueq/L
+83442	Inorganics, Major, Non-metals	Sulfate, bulk atmospheric deposition, filtered, milligrams per liter	Agree					Dissolved		14808-79-8	Sulfate	mg/l
+83443	Inorganics, Major, Non-metals	Sulfate, bulk atmospheric deposition, filtered, milligrams per square meter	Agree					Dissolved		14808-79-8	Sulfate	mg/m2
+83444	Inorganics, Major, Non-metals	Sulfate, bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		14808-79-8	Sulfate	ueq/L
+83445	Inorganics, Major, Non-metals	Sulfate, bulk atmospheric deposition, unfiltered, milligrams per liter as sulfur	Agree					Total		14808-79-8	Sulfate	mg/l as S
+83446	Inorganics, Major, Non-metals	Sulfate, bulk atmospheric deposition, unfiltered, milligrams per square meter as sulfur	Agree					Total		14808-79-8	Sulfate	mg/m2 as S
+83447	Inorganics, Major, Non-metals	Sulfate, bulk atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		14808-79-8	Sulfate	ueq/L
+83448	Inorganics, Major, Non-metals	Sulfate, bulk atmospheric deposition, unfiltered, milligrams per liter	Agree					Total		14808-79-8	Sulfate	mg/l
+83449	Inorganics, Major, Non-metals	Sulfate, bulk atmospheric deposition, unfiltered, milligrams per square meter	Agree					Total		14808-79-8	Sulfate	mg/m2
+83450	Inorganics, Major, Non-metals	Sulfate, bulk atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		14808-79-8	Sulfate	ueq/L
+85544	Inorganics, Major, Non-metals	Carbon dioxide, water, dissolved, volume percent of dissolved gases	Agree					Dissolved		124-38-9	Carbon dioxide	%
+85546	Inorganics, Major, Non-metals	Hydrogen, water, dissolved, volume percent of dissolved gases	Agree					Dissolved		1333-74-0	Hydrogen	%
+85548	Inorganics, Major, Non-metals	Nitrogen plus carbon monoxide, water, dissolved, volume percent of dissolved gases	Agree					Dissolved		 	 	%
+85550	Inorganics, Major, Non-metals	Dissolved oxygen, water, dissolved, volume percent of dissolved gases	Agree					Dissolved		7782-44-7	Oxygen	%
+85571	Inorganics, Major, Non-metals	Carbon dioxide, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	USGS use and no use by EPA					Total		124-38-9	Carbon dioxide	cm3/g @STP
+85573	Inorganics, Major, Non-metals	Dissolved oxygen, water, dissolved, cubic centimeters per gram at standard temperature and pressure	USGS use and no use by EPA					Dissolved		7782-44-7	Oxygen	cm3/g @STP
+85576	Inorganics, Major, Non-metals	Hydrogen, water, dissolved, nanomoles per kilogram	Not checked					Dissolved		1333-74-0	Hydrogen	nmol/kg
+85590	Inorganics, Major, Non-metals	Carbon [inorganic plus organic], bed sediment, total, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		7440-44-0	 	mg/kg
+90300	Inorganics, Major, Non-metals	Dissolved oxygen, water, unfiltered, area weighted average, milligrams per liter	USGS use and no use by EPA					Dissolved		7782-44-7	Oxygen	mg/l
+90410	Inorganics, Major, Non-metals	Acid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, laboratory, milligrams per liter as calcium carbonate	USGS use and no use by EPA					Total		 	Alkalinity	mg/l CaCO3
+90430	Inorganics, Major, Non-metals	Carbonate, water, unfiltered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter as calcium carbonate	USGS use and no use by EPA					Total		3812-32-6	Carbonate (CO3)	mg/l CaCO3
+90440	Inorganics, Major, Non-metals	Bicarbonate, water, unfiltered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter	USGS use and no use by EPA					Total		71-52-3	Bicarbonate	mg/l
+90445	Inorganics, Major, Non-metals	Carbonate, water, unfiltered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter	USGS use and no use by EPA					Total		3812-32-6	Carbonate (CO3)	mg/l
+90830	Inorganics, Major, Non-metals	Hydroxide, water, unfiltered, inflection-point titration method (incremental titration method), laboratory, milligrams per liter	USGS use and no use by EPA					Total		14280-30-9	Hydroxide	mg/l
+91000	Inorganics, Major, Non-metals	Bromide, water, filtered, micrograms per liter	USGS use and no use by EPA					Dissolved		24959-67-9	Bromide	ug/l
+91001	Inorganics, Major, Non-metals	Chloride, water, filtered, micrograms per liter	USGS use and no use by EPA					Dissolved		16887-00-6	Chloride	ug/l
+91002	Inorganics, Major, Non-metals	Fluoride, water, filtered, micrograms per liter	USGS use and no use by EPA					Dissolved		16984-48-8	Fluoride	ug/l
+91005	Inorganics, Major, Non-metals	Sulfate, water, filtered, micrograms per liter	USGS use and no use by EPA					Dissolved		14808-79-8	Sulfate	ug/l
+95410	Inorganics, Major, Non-metals	Acid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, laboratory, milligrams per liter as calcium carbonate	USGS use and no use by EPA					Total		 	Alkalinity	mg/l CaCO3
+95430	Inorganics, Major, Non-metals	Carbonate, water, unfiltered, fixed endpoint (pH 8.3) titration, laboratory, milligrams per liter as calcium carbonate	USGS use and no use by EPA					Total		3812-32-6	Carbonate (CO3)	mg/l CaCO3
+95440	Inorganics, Major, Non-metals	Bicarbonate, water, unfiltered, fixed endpoint (pH 4.5) titration, laboratory, milligrams per liter	USGS use and no use by EPA					Total		71-52-3	Bicarbonate	mg/l
+95445	Inorganics, Major, Non-metals	Carbonate, water, unfiltered, fixed endpoint (pH 8.3) titration, laboratory, milligrams per liter	USGS use and no use by EPA					Total		3812-32-6	Carbonate (CO3)	mg/l
+95830	Inorganics, Major, Non-metals	Hydroxide, water, unfiltered, fixed endpoint (pH 10.4), laboratory, milligrams per liter	USGS use and no use by EPA					Total		14280-30-9	Hydroxide	mg/l
+99113	Inorganics, Major, Non-metals	Sulfate, water, filtered, field, milligrams per liter	USGS use and no use by EPA					Dissolved		14808-79-8	Sulfate	mg/l
+99117	Inorganics, Major, Non-metals	Chloride, water, filtered, field, milligrams per liter	USGS use and no use by EPA					Dissolved		16887-00-6	Chloride	mg/l
+99118	Inorganics, Major, Non-metals	Sulfide, water, filtered, field, milligrams per liter	USGS use and no use by EPA					Dissolved		18496-25-8	Sulfide	mg/l
+99119	Inorganics, Major, Non-metals	Sulfide, water, unfiltered, field, milligrams per liter	USGS use and no use by EPA					Total		18496-25-8	Sulfide	mg/l
+99127	Inorganics, Major, Non-metals	Sulfate, water, unfiltered, field, milligrams per liter	USGS use and no use by EPA					Total		14808-79-8	Sulfate	mg/l
+99131	Inorganics, Major, Non-metals	Silica, water, unfiltered, field, milligrams per liter	USGS use and no use by EPA					Total		7631-86-9	Silica	mg/l
+99220	Inorganics, Major, Non-metals	Chloride, water, unfiltered, milligrams per liter	USGS use and no use by EPA					Total		16887-00-6	Chloride	mg/l
+99301	Inorganics, Major, Non-metals	Chlorine residual, disinfection byproduct, water, unfiltered, milligrams per liter	USGS use and no use by EPA					Total		7782-50-5	Chlorine	mg/l
+99302	Inorganics, Major, Non-metals	Chlorine demand, disinfection byproduct, water, unfiltered, milligrams per liter	USGS use and no use by EPA					Total		 	Chlorine demand	mg/l
+99400	Inorganics, Major, Non-metals	Acid neutralizing capacity, water, unfiltered, estimated by regression equation, milligrams per liter as calcium carbonate	USGS use and no use by EPA					Total		 	Alkalinity	mg/l CaCO3
+99404	Inorganics, Major, Non-metals	Chloride, water, filtered, estimated by regression equation, milligrams per liter	USGS use and no use by EPA					Dissolved		16887-00-6	Chloride	mg/l
+99405	Inorganics, Major, Non-metals	Sulfate, water, filtered, estimated by regression equation, milligrams per liter	USGS use and no use by EPA					Dissolved		14808-79-8	Sulfate	mg/l
+99417	Inorganics, Major, Non-metals	Acid neutralizing capacity, water, unfiltered, pounds per day	USGS use and no use by EPA					Total		 	Alkalinity	lb/day
+99420	Inorganics, Major, Non-metals	Dissolved oxygen, water, unfiltered, pounds per day	USGS use and no use by EPA					Dissolved		7782-44-7	Oxygen	lb/day
+99430	Inorganics, Major, Non-metals	Carbonate, water, unfiltered, inflection-point titration method (incremental titration method), field, milligrams per liter as calcium carbonate	USGS use and no use by EPA					Total		3812-32-6	Carbonate (CO3)	mg/l CaCO3
+99431	Inorganics, Major, Non-metals	Alkalinity, water, filtered, Gran titration, field, microequivalents per liter	USGS use and no use by EPA					Dissolved		 	Alkalinity	ueq/L
+99432	Inorganics, Major, Non-metals	Alkalinity, water, filtered, Gran titration, laboratory, microequivalents per liter	Not checked					Dissolved		 	Alkalinity	ueq/L
+99440	Inorganics, Major, Non-metals	Bicarbonate, water, unfiltered, inflection-point titration method (incremental titration method), field, milligrams per liter	USGS use and no use by EPA					Total		71-52-3	Bicarbonate	mg/l
+99445	Inorganics, Major, Non-metals	Carbonate, water, unfiltered, inflection-point titration method (incremental titration method), field, milligrams per liter	USGS use and no use by EPA					Total		3812-32-6	Carbonate (CO3)	mg/l
+99830	Inorganics, Major, Non-metals	Hydroxide, water, unfiltered, inflection-point titration method (incremental titration method), field, milligrams per liter	USGS use and no use by EPA					Total		14280-30-9	Hydroxide	mg/l
+99977	Inorganics, Major, Non-metals	Dissolved oxygen, water, unfiltered, 1 meter below surface, milligrams per liter	USGS use and no use by EPA					Dissolved		7782-44-7	Oxygen	mg/l
+99981	Inorganics, Major, Non-metals	Dissolved oxygen, water, unfiltered, 1 meter above bottom, milligrams per liter	USGS use and no use by EPA					Dissolved		7782-44-7	Oxygen	mg/l
+99985	Inorganics, Major, Non-metals	Dissolved oxygen, water, unfiltered, mid-depth of water column, milligrams per liter	USGS use and no use by EPA					Dissolved		7782-44-7	Oxygen	mg/l

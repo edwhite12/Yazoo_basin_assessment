@@ -1,0 +1,276 @@
+#
+# National Water Information System
+# 2019/03/30
+#
+#
+# Date Retrieved: USGS Water Data for the Nation Help System
+#
+parm_cd	group	parm_nm	epa_equivalence	result_statistical_basis	result_time_basis	result_weight_basis	result_particle_size_basis	result_sample_fraction	result_temperature_basis	CASRN	SRSName	parm_unit
+5s	29s	136s	26s	18s	0s	3s	14s	12s	0s	12s	44s	10s
+00717	Inorganics, Minor, Non-metals	Cyanide, weak acid, dissociable, water, filtered, micrograms per liter	Not checked					Dissolved		57-12-5	Cyanide	ug/l
+00718	Inorganics, Minor, Non-metals	Cyanide, weak acid, dissociable, water, unfiltered, micrograms per liter	Agree					Total		57-12-5	 	ug/l
+00720	Inorganics, Minor, Non-metals	Cyanide, water, unfiltered, milligrams per liter	Agree					Total		57-12-5	Cyanide	mg/l
+00721	Inorganics, Minor, Non-metals	Cyanide, bed sediment, total, dry weight, milligrams per kilogram	Not agree			Dry		Bed Sediment		57-12-5	Cyanide	mg/kg
+00722	Inorganics, Minor, Non-metals	Cyanide, free, amenable to chlorination, water, unfiltered, milligrams per liter	Not checked					Total		 	Cyanides amenable to chlorination (HCN & CN)	mg/l
+00723	Inorganics, Minor, Non-metals	Cyanide, water, filtered, milligrams per liter	Not agree					Dissolved		57-12-5	Cyanide	mg/l
+00730	Inorganics, Minor, Non-metals	Thiocyanate, water, unfiltered, milligrams per liter	Agree					Total		302-04-5	Thiocyanate	mg/l
+00731	Inorganics, Minor, Non-metals	Thiocyanate, water, filtered, milligrams per liter	Agree					Dissolved		302-04-5	Thiocyanate	mg/l
+00738	Inorganics, Minor, Non-metals	Tetrathionate, water, filtered, milligrams per liter	Agree					Dissolved		15536-54-6	 	mg/l
+00739	Inorganics, Minor, Non-metals	Tetrathionate, water, unfiltered, milligrams per liter	Agree					Total		15536-54-6	 	mg/l
+00740	Inorganics, Minor, Non-metals	Sulfite, water, unfiltered, milligrams per liter	Not checked					Total		14265-45-3	Sulfite (SO3)	mg/l
+00978	Inorganics, Minor, Non-metals	Arsenic, water, unfiltered, recoverable, micrograms per liter	Agree					Recoverable		7440-38-2	Arsenic	ug/l
+00997	Inorganics, Minor, Non-metals	Inorganic arsenic, water, unfiltered, micrograms per liter as arsenic	Agree					Total		 	 	ug/l
+00999	Inorganics, Minor, Non-metals	Boron, water, unfiltered, recoverable, micrograms per liter	Agree					Recoverable		7440-42-8	Boron	ug/l
+01000	Inorganics, Minor, Non-metals	Arsenic, water, filtered, micrograms per liter	Agree					Dissolved		7440-38-2	Arsenic	ug/l
+01001	Inorganics, Minor, Non-metals	Arsenic, suspended sediment, total, micrograms per liter	Not agree					Suspended		7440-38-2	Arsenic	ug/l
+01002	Inorganics, Minor, Non-metals	Arsenic, water, unfiltered, micrograms per liter	Agree					Total		7440-38-2	Arsenic	ug/l
+01003	Inorganics, Minor, Non-metals	Arsenic, bed sediment, total digestion, dry weight, milligrams per kilogram	Not agree			Dry		Bed Sediment		7440-38-2	Arsenic	mg/kg
+01020	Inorganics, Minor, Non-metals	Boron, water, filtered, micrograms per liter	Agree					Dissolved		7440-42-8	Boron	ug/l
+01021	Inorganics, Minor, Non-metals	Boron, suspended sediment, recoverable, micrograms per liter	Not agree					Suspended		7440-42-8	Boron	ug/l
+01022	Inorganics, Minor, Non-metals	Boron, water, unfiltered, recoverable, micrograms per liter	Not agree					Recoverable		7440-42-8	Boron	ug/l
+01023	Inorganics, Minor, Non-metals	Boron, bed sediment, recoverable, dry weight, milligrams per kilogram	Not agree			Dry		Bed Sediment		7440-42-8	Boron	mg/kg
+01064	Inorganics, Minor, Non-metals	Tellurium, water, unfiltered, micrograms per liter	Not checked					Total		13494-80-9	Tellurium	ug/l
+01095	Inorganics, Minor, Non-metals	Antimony, water, filtered, micrograms per liter	Agree					Dissolved		7440-36-0	Antimony	ug/l
+01096	Inorganics, Minor, Non-metals	Antimony, suspended sediment, total, micrograms per liter	Not checked					Suspended		7440-36-0	Antimony	ug/l
+01097	Inorganics, Minor, Non-metals	Antimony, water, unfiltered, micrograms per liter	Not checked					Total		7440-36-0	Antimony	ug/l
+01098	Inorganics, Minor, Non-metals	Antimony, bed sediment, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		7440-36-0	Antimony	mg/kg
+01125	Inorganics, Minor, Non-metals	Germanium, water, filtered, micrograms per liter	Agree					Dissolved		7440-56-4	Germanium	ug/l
+01126	Inorganics, Minor, Non-metals	Germanium, suspended sediment, total, micrograms per liter	Not checked					Suspended		7440-56-4	Germanium	ug/l
+01127	Inorganics, Minor, Non-metals	Germanium, water, unfiltered, micrograms per liter	Not checked					Total		7440-56-4	Germanium	ug/l
+01145	Inorganics, Minor, Non-metals	Selenium, water, filtered, micrograms per liter	Agree					Dissolved		7782-49-2	Selenium	ug/l
+01146	Inorganics, Minor, Non-metals	Selenium, suspended sediment, total, micrograms per liter	Not checked					Suspended		7782-49-2	Selenium	ug/l
+01147	Inorganics, Minor, Non-metals	Selenium, water, unfiltered, micrograms per liter	Not checked					Total		7782-49-2	Selenium	ug/l
+01148	Inorganics, Minor, Non-metals	Selenium, bed sediment, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		7782-49-2	Selenium	mg/kg
+01227	Inorganics, Minor, Non-metals	Selenium, soluble, dry atmospheric deposition, micrograms per kilogram	Agree							7782-49-2	Selenium	ug/kg
+01228	Inorganics, Minor, Non-metals	Selenium, insoluble, dry atmospheric deposition, micrograms per kilogram	Agree							7782-49-2	Selenium	ug/kg
+01229	Inorganics, Minor, Non-metals	Selenium, total, dry atmospheric deposition, micrograms per kilogram	Agree					Total		7782-49-2	Selenium	ug/kg
+01399	Inorganics, Minor, Non-metals	Antimony, soil, total digestion, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Total		7440-36-0	Antimony	mg/kg
+01400	Inorganics, Minor, Non-metals	Arsenic, soil, total digestion, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Total		7440-38-2	Arsenic	mg/kg
+01414	Inorganics, Minor, Non-metals	Selenium, soil, total digestion, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Total		7782-49-2	Selenium	mg/kg
+01439	Inorganics, Minor, Non-metals	Antimony, biota, tissue, total digestion, dry weight, milligrams per kilogram	Not checked			Dry				7440-36-0	Antimony	mg/kg
+01440	Inorganics, Minor, Non-metals	Arsenic, biota, tissue, total digestion, dry weight, milligrams per kilogram	Not checked			Dry				7440-38-2	Arsenic	mg/kg
+01454	Inorganics, Minor, Non-metals	Selenium, biota, tissue, total digestion, dry weight, milligrams per kilogram	Not checked			Dry				7782-49-2	Selenium	mg/kg
+01487	Inorganics, Minor, Non-metals	Tellurium, bed sediment, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		13494-80-9	 	mg/kg
+03918	Inorganics, Minor, Non-metals	Tellurium, biota, tissue, total digestion, dry weight, milligrams per kilogram	Not checked			Dry				13494-80-9	 	mg/kg
+03928	Inorganics, Minor, Non-metals	Selenium, bed sediment smaller than 62.5 microns, wet sieved, laboratory, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 0.0625	Bed Sediment		7782-49-2	Selenium	mg/kg
+03929	Inorganics, Minor, Non-metals	Antimony, bed sediment smaller than 62.5 microns, wet sieved, laboratory, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 0.0625	Bed Sediment		7440-36-0	Antimony	mg/kg
+03933	Inorganics, Minor, Non-metals	Arsenic, bed sediment smaller than 62.5 microns, wet sieved, laboratory, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 0.0625	Bed Sediment		7440-38-2	Arsenic	mg/kg
+04043	Inorganics, Minor, Non-metals	Antimony, bed sediment smaller than 2 millimeters, wet sieved (native water), total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 2 mm	Bed Sediment		7440-36-0	Antimony	mg/kg
+04044	Inorganics, Minor, Non-metals	Arsenic, bed sediment smaller than 2 millimeters, wet sieved (native water), total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 2 mm	Bed Sediment		7440-38-2	Arsenic	mg/kg
+04048	Inorganics, Minor, Non-metals	Boron, bed sediment smaller than 2 millimeters, wet sieved (native water), total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 2 mm	Bed Sediment		7440-42-8	Boron	mg/kg
+04057	Inorganics, Minor, Non-metals	Germanium, bed sediment smaller than 2 millimeters, wet sieved (native water), total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 2 mm	Bed Sediment		7440-56-4	Germanium	mg/kg
+29816	Inorganics, Minor, Non-metals	Antimony, suspended sediment, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Suspended		7440-36-0	Antimony	mg/kg
+29817	Inorganics, Minor, Non-metals	Antimony, soil, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Recoverable		7440-36-0	Antimony	mg/kg
+29818	Inorganics, Minor, Non-metals	Arsenic, suspended sediment, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Suspended		7440-38-2	Arsenic	mg/kg
+29819	Inorganics, Minor, Non-metals	Arsenic, soil, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Recoverable		7440-38-2	Arsenic	mg/kg
+29824	Inorganics, Minor, Non-metals	Boron, suspended sediment, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Suspended		7440-42-8	Boron	mg/kg
+29825	Inorganics, Minor, Non-metals	Boron, soil, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Recoverable		7440-42-8	Boron	mg/kg
+29847	Inorganics, Minor, Non-metals	Selenium, suspended sediment, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Suspended		7782-49-2	Selenium	mg/kg
+29848	Inorganics, Minor, Non-metals	Selenium, soil, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Recoverable		7782-49-2	Selenium	mg/kg
+30222	Inorganics, Minor, Non-metals	Antimony, bed sediment, dry weight, percent	Agree			Dry		Bed Sediment		7440-36-0	Antimony	%
+30223	Inorganics, Minor, Non-metals	Antimony, suspended sediment, total digestion, dry weight, percent	Not checked			Dry		Suspended		7440-36-0	Antimony	%
+30224	Inorganics, Minor, Non-metals	Arsenic, bed sediment, dry weight, percent	Agree			Dry		Bed Sediment		7440-38-2	Arsenic	%
+30225	Inorganics, Minor, Non-metals	Arsenic, suspended sediment, total digestion, dry weight, percent	Not checked			Dry		Suspended		7440-38-2	Arsenic	%
+30232	Inorganics, Minor, Non-metals	Boron, bed sediment, dry weight, percent	Agree			Dry		Bed Sediment		7440-42-8	Boron	%
+30233	Inorganics, Minor, Non-metals	Boron, suspended sediment, total digestion, dry weight, percent	Not checked			Dry		Suspended		7440-42-8	Boron	%
+30260	Inorganics, Minor, Non-metals	Germanium, bed sediment, dry weight, percent	Agree			Dry		Bed Sediment		7440-56-4	Germanium	%
+30261	Inorganics, Minor, Non-metals	Germanium, suspended sediment, total digestion, dry weight, percent	Not checked			Dry		Suspended		7440-56-4	Germanium	%
+30299	Inorganics, Minor, Non-metals	Selenium, bed sediment, dry weight, milligrams per kilogram	Not agree			Dry		Bed Sediment		7782-49-2	Selenium	mg/kg
+30300	Inorganics, Minor, Non-metals	Selenium, suspended sediment, total digestion, dry weight, milligrams per kilogram	Not agree			Dry		Suspended		7782-49-2	Selenium	mg/kg
+34225	Inorganics, Minor, Non-metals	Asbestos (fibrous), water, unfiltered, micrograms per liter	Agree					Total		1332-21-4	Asbestos	ug/l
+34226	Inorganics, Minor, Non-metals	Asbestos (fibrous), water, filtered, micrograms per liter	Agree					Dissolved		1332-21-4	Asbestos	ug/l
+34227	Inorganics, Minor, Non-metals	Asbestos (fibrous), suspended sediment, micrograms per liter	Agree					Suspended		1332-21-4	Asbestos	ug/l
+34228	Inorganics, Minor, Non-metals	Asbestos (fibrous), bed sediment, dry weight, micrograms per kilogram	Agree			Dry		Bed Sediment		1332-21-4	Asbestos	ug/kg
+34325	Inorganics, Minor, Non-metals	Cyanide, suspended sediment, micrograms per liter	Not agree					Suspended		57-12-5	Cyanide	ug/l
+34795	Inorganics, Minor, Non-metals	Antimony, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-36-0	Antimony	mg/kg
+34796	Inorganics, Minor, Non-metals	Antimony, bed sediment smaller than 177 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 177 microns	Bed Sediment		7440-36-0	Antimony	mg/kg
+34797	Inorganics, Minor, Non-metals	Antimony, bed sediment smaller than 62.5 microns, dry sieved, laboratory, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-36-0	Antimony	mg/kg
+34798	Inorganics, Minor, Non-metals	Antimony, suspended sediment smaller than 62.5 microns, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Suspended		7440-36-0	Antimony	mg/kg
+34799	Inorganics, Minor, Non-metals	Antimony, suspended sediment larger than 62.5 microns, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	> 62.5 microns	Suspended		7440-36-0	Antimony	mg/kg
+34800	Inorganics, Minor, Non-metals	Arsenic, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-38-2	Arsenic	mg/kg
+34801	Inorganics, Minor, Non-metals	Arsenic, bed sediment smaller than 177 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 177 microns	Bed Sediment		7440-38-2	Arsenic	mg/kg
+34802	Inorganics, Minor, Non-metals	Arsenic, bed sediment smaller than 62.5 microns, dry sieved, laboratory, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-38-2	Arsenic	mg/kg
+34803	Inorganics, Minor, Non-metals	Arsenic, suspended sediment smaller than 62.5 microns, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Suspended		7440-38-2	Arsenic	mg/kg
+34804	Inorganics, Minor, Non-metals	Arsenic, suspended sediment larger than 62.5 microns, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	> 62.5 microns	Suspended		7440-38-2	Arsenic	mg/kg
+34820	Inorganics, Minor, Non-metals	Boron, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-42-8	Boron	mg/kg
+34821	Inorganics, Minor, Non-metals	Boron, bed sediment smaller than 177 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 177 microns	Bed Sediment		7440-42-8	Boron	mg/kg
+34822	Inorganics, Minor, Non-metals	Boron, bed sediment smaller than 62.5 microns, dry sieved, laboratory, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-42-8	Boron	mg/kg
+34823	Inorganics, Minor, Non-metals	Boron, suspended sediment smaller than 62.5 microns, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Suspended		7440-42-8	Boron	mg/kg
+34824	Inorganics, Minor, Non-metals	Boron, suspended sediment larger than 62.5 microns, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	> 62.5 microns	Suspended		7440-42-8	Boron	mg/kg
+34865	Inorganics, Minor, Non-metals	Germanium, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-56-4	Germanium	mg/kg
+34866	Inorganics, Minor, Non-metals	Germanium, bed sediment smaller than 177 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 177 microns	Bed Sediment		7440-56-4	Germanium	mg/kg
+34867	Inorganics, Minor, Non-metals	Germanium, bed sediment smaller than 62.5 microns, dry sieved, laboratory, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-56-4	Germanium	mg/kg
+34868	Inorganics, Minor, Non-metals	Germanium, suspended sediment smaller than 62.5 microns, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Suspended		7440-56-4	Germanium	mg/kg
+34869	Inorganics, Minor, Non-metals	Germanium, suspended sediment larger than 62.5 microns, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	> 62.5 microns	Suspended		7440-56-4	Germanium	mg/kg
+34950	Inorganics, Minor, Non-metals	Selenium, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		7782-49-2	Selenium	mg/kg
+34951	Inorganics, Minor, Non-metals	Selenium, bed sediment smaller than 177 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 177 microns	Bed Sediment		7782-49-2	Selenium	mg/kg
+34952	Inorganics, Minor, Non-metals	Selenium, bed sediment smaller than 62.5 microns, dry sieved, laboratory, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		7782-49-2	Selenium	mg/kg
+34953	Inorganics, Minor, Non-metals	Selenium, suspended sediment smaller than 62.5 microns, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Suspended		7782-49-2	Selenium	mg/kg
+34954	Inorganics, Minor, Non-metals	Selenium, suspended sediment larger than 62.5 microns, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	> 62.5 microns	Suspended		7782-49-2	Selenium	mg/kg
+35034	Inorganics, Minor, Non-metals	Germanium, suspended sediment, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Suspended		7440-56-4	Germanium	mg/kg
+49239	Inorganics, Minor, Non-metals	Boron, biota, tissue, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Recoverable		7440-42-8	Boron	mg/kg
+49246	Inorganics, Minor, Non-metals	Antimony, biota, tissue, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Recoverable		7440-36-0	Antimony	mg/kg
+49247	Inorganics, Minor, Non-metals	Arsenic, biota, tissue, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Recoverable		7440-38-2	Arsenic	mg/kg
+49254	Inorganics, Minor, Non-metals	Selenium, biota, tissue, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Recoverable		7782-49-2	Selenium	mg/kg
+50316	Inorganics, Minor, Non-metals	Arsenic acid, water, filtered, micrograms per liter	Agree					Dissolved		7778-39-4	Arsenic acid	ug/l
+50585	Inorganics, Minor, Non-metals	Tellurium, water, filtered, micrograms per liter	Agree					Dissolved		13494-80-9	Tellurium	ug/l
+50932	Inorganics, Minor, Non-metals	Sulfur, water, filtered, milligrams per liter	Not checked					Dissolved		7704-34-9	 	mg/l
+51152	Inorganics, Minor, Non-metals	Antimony, soil, field, x-ray fluorescence screening method, parts per million	Not checked							7440-36-0	Antimony	ppm
+51156	Inorganics, Minor, Non-metals	Selenium, soil, field, x-ray fluorescence screening method, parts per million	Not checked							7782-49-2	Selenium	ppm
+51157	Inorganics, Minor, Non-metals	Arsenic, soil, field, x-ray fluorescence screening method, parts per million	Not checked							7440-38-2	Arsenic	ppm
+51181	Inorganics, Minor, Non-metals	Tellurium, soil, field, x-ray fluorescence screening method, parts per million	Not checked							13494-80-9	Tellurium	ppm
+51184	Inorganics, Minor, Non-metals	Inorganic antimony(III), water, filtered, micrograms per liter	Not checked					Dissolved		 	 	ug/l
+51188	Inorganics, Minor, Non-metals	Helium, water, dissolved, mole percent of dissolved gases	Not checked					Dissolved		7440-59-7	Helium	%
+51190	Inorganics, Minor, Non-metals	Argon, water, dissolved, mole percent of dissolved gases	Not checked					Dissolved		7440-37-1	Argon	%
+51280	Inorganics, Minor, Non-metals	Cyanide, weak acid, dissociable, water, unfiltered, milligrams per liter	Not checked					Total		 	 	mg/l
+51284	Inorganics, Minor, Non-metals	Dissolved organic selenium, water, filtered (0.45 micrometer filter), micrograms per liter as selenium	Not checked					Dissolved		 	 	ug/l
+51357	Inorganics, Minor, Non-metals	Antimony, bed sediment smaller than 150 um, dry sieved, lab, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	<150 um	Bed Sediment		7440-36-0	 	mg/kg
+51358	Inorganics, Minor, Non-metals	Arsenic, bed sediment smaller than 150 um, dry sieved, lab, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	<150 um	Bed Sediment		7440-38-2	 	mg/kg
+51389	Inorganics, Minor, Non-metals	Selenium, bed sediment smaller than 150 um, dry sieved, lab, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	<150 um	Bed Sediment		7782-49-2	 	mg/kg
+52139	Inorganics, Minor, Non-metals	Total cyanide, water, unfiltered, milligrams per liter	Not checked							57-12-5	 	mg/l
+52148	Inorganics, Minor, Non-metals	Perchlorate, soil, recoverable, dry weight, micrograms per kilogram	Not checked			Dry		Recoverable		14797-73-0	 	ug/kg
+52275	Inorganics, Minor, Non-metals	Boron, water, unfiltered, total, micrograms per liter	Not checked					Total		7440-42-8	 	ug/l
+52373	Inorganics, Minor, Non-metals	Sulfur, bed sediment smaller than 250 microns, dry sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 2 mm	Bed Sediment		7704-34-9	 	%
+52509	Inorganics, Minor, Non-metals	Silica, bed sediment, recoverable, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		7631-86-9	 	mg/kg
+52514	Inorganics, Minor, Non-metals	Boron, bed sediment, recoverable, dry weight, micrograms per kilogram	Not checked			Dry		Bed Sediment		7440-42-8	 	ug/kg
+52523	Inorganics, Minor, Non-metals	Silicon, bed sediment, recoverable, dry weight, micrograms per kilogram	Not checked			Dry		Bed Sediment		7631-86-9	 	ug/kg
+52531	Inorganics, Minor, Non-metals	Arsenite, water, unfiltered, micrograms per liter as arsenic	Not checked					Total		15502-74-6	 	ug/L as As
+52532	Inorganics, Minor, Non-metals	Arsenate, water, unfiltered, micrograms per liter as arsenic	Not checked					Total		15584-04-0	 	ug/L as As
+52625	Inorganics, Minor, Non-metals	Cyanide, available, water, unfiltered, micrograms per liter	Not checked					Total		 	 	ug/l
+52672	Inorganics, Minor, Non-metals	Reduced sulfur, solids, total digestion, dry weight, millimoles per kilogram	Not checked			Dry				 	 	mmol/kg
+52684	Inorganics, Minor, Non-metals	Sulfide, water, filtered, micromoles per liter	Not checked					Dissolved		18496-25-8	 	umol/L
+52771	Inorganics, Minor, Non-metals	Reduced sulfur, solids smaller than 2 mm, total digestion, dry weight, millimoles per kilogram	Not checked			Dry	< 2 mm			 	 	mmol/kg
+52772	Inorganics, Minor, Non-metals	Reduced sulfur, solids smaller than 0.063 mm, total digestion, dry weight, millimoles per kilogram	Not checked			Dry	<0.063 mm			 	 	mmol/kg
+52773	Inorganics, Minor, Non-metals	Antimony, water, filtered, milligrams per liter	Not checked					Dissolved		7440-36-0	 	mg/l
+52774	Inorganics, Minor, Non-metals	Arsenic, water, filtered, milligrams per liter	Not checked					Dissolved		7440-38-2	 	mg/l
+52789	Inorganics, Minor, Non-metals	Boron, bed sediment smaller than 62.5 microns, wet sieved, laboratory, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	<62.5 um	Bed Sediment		7440-42-8	 	mg/kg
+53446	Inorganics, Minor, Non-metals	Sulfur, suspended sediment smaller than 177 um, dry weight, percent	Not checked			Dry	<177 um	Suspended		7704-34-9	 	%
+53639	Inorganics, Minor, Non-metals	Sulfur, bed sediment smaller than 2 millimeters, wet sieved (native water), total digestion, dry weight, percent	Not checked			Dry	< 2 mm	Bed Sediment		7704-34-9	 	%
+53676	Inorganics, Minor, Non-metals	Sulfur, bed sediment, 0.25 M hydroxylamine hydrochloride acid extracted, recoverable, dry weight, percent	Not checked			Dry		Bed Sediment		7704-34-9	 	%
+53681	Inorganics, Minor, Non-metals	Boron, bed sediment, 0.25 M hydroxylamine hydrochloride acid extracted, recoverable, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		7440-42-8	 	mg/kg
+61038	Inorganics, Minor, Non-metals	Helium, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Agree					Total		7440-59-7	Helium	cm3/g STP
+61039	Inorganics, Minor, Non-metals	Helium error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Agree	Standard Deviation				Total		7440-59-7	Helium	cm3/g STP
+61046	Inorganics, Minor, Non-metals	Neon, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Agree					Total		7440-01-9	Neon	cm3/g STP
+61047	Inorganics, Minor, Non-metals	Neon error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Agree	Standard Deviation				Total		7440-01-9	Neon	cm3/g STP
+61050	Inorganics, Minor, Non-metals	Selenium, bed sediment smaller than 2 millimeters, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 2 mm	Bed Sediment		7782-49-2	Selenium	mg/kg
+61209	Inorganics, Minor, Non-metals	Perchlorate, water, unfiltered, micrograms per liter	Agree					Total		14797-73-0	Perchlorate	ug/l
+62171	Inorganics, Minor, Non-metals	Perchlorate, water, unfiltered, recoverable, milligrams per liter	USGS use and no use by EPA					Recoverable		14797-73-0	Perchlorate	mg/l
+62452	Inorganics, Minor, Non-metals	Arsenite, water, filtered, micrograms per liter as arsenic	USGS use and no use by EPA					Dissolved		15502-74-6	Arsenite	ug/L as As
+62453	Inorganics, Minor, Non-metals	Arsenate, water, filtered, micrograms per liter as arsenic	USGS use and no use by EPA					Dissolved		15584-04-0	Arsenate (AsO43-)	ug/L as As
+62912	Inorganics, Minor, Non-metals	Tellurium, bed sediment smaller than 177 microns, wet sieved, total digestion, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry	< 177 microns	Bed Sediment		13494-80-9	Tellurium	mg/kg
+62984	Inorganics, Minor, Non-metals	Arsenic, water, filtered (ultrafiltration, 10,000 Dalton molecular weight membrane), micrograms per liter	USGS use and no use by EPA					Dissolved		7440-38-2	Arsenic	ug/l
+63149	Inorganics, Minor, Non-metals	Sulfur hexafluoride, water, unfiltered, recoverable, femtograms per kilogram	USGS use and no use by EPA					Recoverable		2551-62-4	Sulfur hexafluoride	fg/kg
+63692	Inorganics, Minor, Non-metals	Perchlorate, solids, recoverable, dry weight, micrograms per kilogram	USGS use and no use by EPA			Dry		Recoverable		14797-73-0	Perchlorate	ug/kg
+63790	Inorganics, Minor, Non-metals	Perchlorate, water, filtered, micrograms per liter	USGS use and no use by EPA					Dissolved		14797-73-0	Perchlorate	ug/l
+63791	Inorganics, Minor, Non-metals	Perchlorate, biota, tissue, recoverable, dry weight, micrograms per kilogram	USGS use and no use by EPA			Dry		Recoverable		14797-73-0	Perchlorate	ug/kg
+63793	Inorganics, Minor, Non-metals	Antimony, biota, tissue, recoverable, wet weight, milligrams per kilogram	USGS use and no use by EPA			Wet		Recoverable		7440-36-0	Antimony	mg/kg
+63794	Inorganics, Minor, Non-metals	Arsenic, biota, tissue, recoverable, wet weight, milligrams per kilogram	USGS use and no use by EPA			Wet		Recoverable		7440-38-2	Arsenic	mg/kg
+63804	Inorganics, Minor, Non-metals	Selenium, biota, tissue, recoverable, wet weight, milligrams per kilogram	USGS use and no use by EPA			Wet		Recoverable		7782-49-2	Selenium	mg/kg
+64184	Inorganics, Minor, Non-metals	Helium, water, unfiltered, nanomoles per liter	USGS use and no use by EPA					Total		7440-59-7	Helium	nmol/L
+64186	Inorganics, Minor, Non-metals	Neon, water, unfiltered, nanomoles per liter	USGS use and no use by EPA					Total		7440-01-9	Neon	nmol/L
+64847	Inorganics, Minor, Non-metals	Arsenic, bed sediment, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Bed Sediment		7440-38-2	Arsenic	mg/kg
+64848	Inorganics, Minor, Non-metals	Selenium, bed sediment, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Bed Sediment		7782-49-2	Selenium	mg/kg
+64903	Inorganics, Minor, Non-metals	Iodide, water, unfiltered, milligrams per liter	USGS use and no use by EPA					Total		20461-54-5	Iodide	mg/l
+65212	Inorganics, Minor, Non-metals	Antimony, bed sediment, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Bed Sediment		7440-36-0	Antimony	mg/kg
+66694	Inorganics, Minor, Non-metals	Perchlorate, bed sediment smaller than 2 millimeters, wet sieved (native water), field, recoverable, dry weight, micrograms per kilogram	USGS use and no use by EPA			Dry	< 2 mm	Bed Sediment		14797-73-0	Perchlorate	ug/kg
+66703	Inorganics, Minor, Non-metals	Cyanide, free, water, unfiltered, milligrams per liter	USGS use and no use by EPA					Total		 	 	mg/l
+66704	Inorganics, Minor, Non-metals	Cyanide, free, water, filtered, milligrams per liter	USGS use and no use by EPA					Dissolved		 	 	mg/l
+66705	Inorganics, Minor, Non-metals	Cyanide, amenable to chlorination, water, unfiltered, milligrams per liter	USGS use and no use by EPA					Total		 	Cyanides amenable to chlorination (HCN & CN)	mg/l
+66706	Inorganics, Minor, Non-metals	Cyanide, amenable to chlorination, water, filtered, milligrams per liter	USGS use and no use by EPA					Dissolved		 	Cyanides amenable to chlorination (HCN & CN)	mg/l
+67315	Inorganics, Minor, Non-metals	Cyanide, available, water, unfiltered, milligrams per liter	USGS use and no use by EPA					Total		 	 	mg/l
+67316	Inorganics, Minor, Non-metals	Cyanide, available, water, filtered, milligrams per liter	USGS use and no use by EPA					Dissolved		 	 	mg/l
+67325	Inorganics, Minor, Non-metals	Selenate, water, filtered, micrograms per liter as selenium	USGS use and no use by EPA					Dissolved		14124-68-6	 	ug/l
+67326	Inorganics, Minor, Non-metals	Selenite, water, filtered, micrograms per liter as selenium	USGS use and no use by EPA					Dissolved		14124-67-5	 	ug/l
+67875	Inorganics, Minor, Non-metals	Antimony, solids, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		7440-36-0	 	mg/kg
+67876	Inorganics, Minor, Non-metals	Arsenic, solids, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		7440-38-2	 	mg/kg
+67900	Inorganics, Minor, Non-metals	Antimony, solids, total digestion, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Total		7440-36-0	 	mg/kg
+67901	Inorganics, Minor, Non-metals	Arsenic, solids, total digestion, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Total		7440-38-2	 	mg/kg
+68074	Inorganics, Minor, Non-metals	Asbestos, solids, volume percent	USGS use and no use by EPA			Dry				1332-21-4	 	%
+68786	Inorganics, Minor, Non-metals	Antimony, bed sediment, recoverable, wet weight, micrograms per kilogram	USGS use and no use by EPA			Wet		Bed Sediment		7440-36-0	 	ug/kg
+68787	Inorganics, Minor, Non-metals	Arsenic, bed sediment, recoverable, dry weight, micrograms per kilogram	USGS use and no use by EPA			Dry		Bed Sediment		7440-38-2	 	ug/kg
+68797	Inorganics, Minor, Non-metals	Selenium, bed sediment, recoverable, dry weight, micrograms per kilogram	USGS use and no use by EPA			Dry		Bed Sediment		7782-49-2	 	ug/kg
+71865	Inorganics, Minor, Non-metals	Iodide, water, filtered, milligrams per liter	Not checked					Dissolved		20461-54-5	Iodide	mg/l
+71866	Inorganics, Minor, Non-metals	Iodine, water, unfiltered, milligrams per liter	Not checked					Total		7553-56-2	Iodine	mg/l
+71871	Inorganics, Minor, Non-metals	Bromine, water, unfiltered, milligrams per liter	Not checked					Total		7726-95-6	Bromine	mg/l
+82041	Inorganics, Minor, Non-metals	Helium, water, dissolved, micrograms per liter	Agree					Dissolved		7440-59-7	Helium	ug/l
+82043	Inorganics, Minor, Non-metals	Argon, water, dissolved, milligrams per liter	Agree					Dissolved		7440-37-1	Argon	mg/l
+82314	Inorganics, Minor, Non-metals	Helium, bed sediment, dry weight, micrograms per kilogram	Agree			Dry		Bed Sediment		7440-59-7	Helium	ug/kg
+82315	Inorganics, Minor, Non-metals	Helium, suspended sediment, dry weight, micrograms per kilogram	Not agree			Dry		Suspended		7440-59-7	Helium	ug/kg
+82316	Inorganics, Minor, Non-metals	Helium, water, unfiltered, dry weight, micrograms per kilogram	Not checked			Dry		Total		7440-59-7	Helium	ug/kg
+82504	Inorganics, Minor, Non-metals	Arsenic, soluble, dry atmospheric deposition, micrograms per kilogram	Agree							7440-38-2	Arsenic	ug/kg
+82505	Inorganics, Minor, Non-metals	Arsenic, insoluble, dry atmospheric deposition, micrograms per kilogram	Agree							7440-38-2	Arsenic	ug/kg
+82506	Inorganics, Minor, Non-metals	Arsenic, total, dry atmospheric deposition, micrograms per kilogram	Agree					Total		7440-38-2	Arsenic	ug/kg
+82917	Inorganics, Minor, Non-metals	Arsenic, wet atmospheric deposition, filtered, micrograms per liter	Agree					Dissolved		7440-38-2	Arsenic	ug/l
+82918	Inorganics, Minor, Non-metals	Arsenic, wet atmospheric deposition, filtered, micrograms per square meter	Agree					Dissolved		7440-38-2	Arsenic	ug/m2
+82919	Inorganics, Minor, Non-metals	Arsenic, wet atmospheric deposition, suspended, micrograms per liter	Agree					Suspended		7440-38-2	Arsenic	ug/l
+82920	Inorganics, Minor, Non-metals	Arsenic, wet atmospheric deposition, suspended, micrograms per square meter	Agree					Suspended		7440-38-2	Arsenic	ug/m2
+82921	Inorganics, Minor, Non-metals	Arsenic, wet atmospheric deposition, unfiltered, micrograms per liter	Agree					Total		7440-38-2	Arsenic	ug/l
+82922	Inorganics, Minor, Non-metals	Arsenic, wet atmospheric deposition, unfiltered, micrograms per square meter	Agree					Total		7440-38-2	Arsenic	ug/m2
+83132	Inorganics, Minor, Non-metals	Selenium, wet atmospheric deposition, filtered, micrograms per liter	Agree					Dissolved		7782-49-2	Selenium	ug/l
+83133	Inorganics, Minor, Non-metals	Selenium, wet atmospheric deposition, filtered, micrograms per square meter	Agree					Dissolved		7782-49-2	Selenium	ug/m2
+83134	Inorganics, Minor, Non-metals	Selenium, wet atmospheric deposition, suspended, micrograms per liter	Agree					Suspended		7782-49-2	Selenium	ug/l
+83135	Inorganics, Minor, Non-metals	Selenium, wet atmospheric deposition, suspended, micrograms per square meter	Agree					Suspended		7782-49-2	Selenium	ug/m2
+83136	Inorganics, Minor, Non-metals	Selenium, wet atmospheric deposition, unfiltered, micrograms per liter	Agree					Total		7782-49-2	Selenium	ug/l
+83137	Inorganics, Minor, Non-metals	Selenium, wet atmospheric deposition, unfiltered, micrograms per square meter	Agree					Total		7782-49-2	Selenium	ug/m2
+83199	Inorganics, Minor, Non-metals	Arsenic, bulk atmospheric deposition, filtered, micrograms per liter	Agree					Dissolved		7440-38-2	Arsenic	ug/l
+83200	Inorganics, Minor, Non-metals	Arsenic, bulk atmospheric deposition, filtered, micrograms per square meter	Agree					Dissolved		7440-38-2	Arsenic	ug/m2
+83201	Inorganics, Minor, Non-metals	Arsenic, bulk atmospheric deposition, suspended, micrograms per liter	Agree					Suspended		7440-38-2	Arsenic	ug/l
+83202	Inorganics, Minor, Non-metals	Arsenic, bulk atmospheric deposition, suspended, micrograms per square meter	Agree					Suspended		7440-38-2	Arsenic	ug/m2
+83203	Inorganics, Minor, Non-metals	Arsenic, bulk atmospheric deposition, unfiltered, micrograms per liter	Agree					Total		7440-38-2	Arsenic	ug/l
+83204	Inorganics, Minor, Non-metals	Arsenic, bulk atmospheric deposition, unfiltered, micrograms per square meter	Agree					Total		7440-38-2	Arsenic	ug/m2
+83414	Inorganics, Minor, Non-metals	Selenium, bulk atmospheric deposition, filtered, micrograms per liter	Agree					Dissolved		7782-49-2	Selenium	ug/l
+83415	Inorganics, Minor, Non-metals	Selenium, bulk atmospheric deposition, filtered, micrograms per square meter	Agree					Dissolved		7782-49-2	Selenium	ug/m2
+83416	Inorganics, Minor, Non-metals	Selenium, bulk atmospheric deposition, suspended, micrograms per liter	Agree					Suspended		7782-49-2	Selenium	ug/l
+83417	Inorganics, Minor, Non-metals	Selenium, bulk atmospheric deposition, suspended, micrograms per square meter	Agree					Suspended		7782-49-2	Selenium	ug/m2
+83418	Inorganics, Minor, Non-metals	Selenium, bulk atmospheric deposition, unfiltered, micrograms per liter	Agree					Total		7782-49-2	Selenium	ug/l
+83419	Inorganics, Minor, Non-metals	Selenium, bulk atmospheric deposition, unfiltered, micrograms per square meter	Agree					Total		7782-49-2	Selenium	ug/m2
+85542	Inorganics, Minor, Non-metals	Argon, water, dissolved, volume percent of dissolved gases	Agree					Dissolved		7440-37-1	Argon	%
+85563	Inorganics, Minor, Non-metals	Argon, water, dissolved, cubic centimeters per gram at standard temperature and pressure	USGS use and no use by EPA					Dissolved		7440-37-1	Argon	cm3/g STP
+85564	Inorganics, Minor, Non-metals	Argon error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not agree	Standard Deviation				Total		7440-37-1	Argon	cm3/g STP
+85565	Inorganics, Minor, Non-metals	Krypton, water, dissolved, cubic centimeters per gram at standard temperature and pressure	Not agree					Dissolved		7439-90-9	Krypton	cm3/g STP
+85566	Inorganics, Minor, Non-metals	Krypton error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not agree	Standard Deviation				Total		7439-90-9	Krypton	cm3/g STP
+85567	Inorganics, Minor, Non-metals	Xenon, water, dissolved, cubic centimeters per gram at standard temperature and pressure	Not agree					Dissolved		7440-63-3	Xenon	cm3/g STP
+85568	Inorganics, Minor, Non-metals	Xenon error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not agree	Standard Deviation				Total		7440-63-3	Xenon	cm3/g STP
+85575	Inorganics, Minor, Non-metals	Helium, water, dissolved, nanomoles per kilogram	Not checked					Dissolved		7440-59-7	Helium	nmol/kg
+85577	Inorganics, Minor, Non-metals	Neon, water, dissolved, nanomoles per kilogram	Not checked					Dissolved		7440-01-9	Neon	nmol/kg
+85589	Inorganics, Minor, Non-metals	Cyanide, weak acid, dissociable, water, filtered, milligrams per liter	Not checked					Dissolved		57-12-5	 	mg/l
+85604	Inorganics, Minor, Non-metals	Argon-36, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		13965-95-2	 	cm3/g @STP
+85605	Inorganics, Minor, Non-metals	Argon-36 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		13965-95-2	 	cm3/g @STP
+85606	Inorganics, Minor, Non-metals	Argon-40, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		1290046-39-7	 	cm3/g @STP
+85607	Inorganics, Minor, Non-metals	Argon-40 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		1290046-39-7	 	cm3/g @STP
+85608	Inorganics, Minor, Non-metals	Krypton-78, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		33580-79-9	 	cm3/g @STP
+85609	Inorganics, Minor, Non-metals	Krypton-78 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		33580-79-9	 	cm3/g @STP
+85610	Inorganics, Minor, Non-metals	Krypton-80, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		26110-67-8	 	cm3/g @STP
+85611	Inorganics, Minor, Non-metals	Krypton-80 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		26110-67-8	 	cm3/g @STP
+85612	Inorganics, Minor, Non-metals	Krypton-82, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		14191-81-2	 	cm3/g @STP
+85613	Inorganics, Minor, Non-metals	Krypton-82 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		14191-81-2	 	cm3/g @STP
+85614	Inorganics, Minor, Non-metals	Krypton-83, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		13965-98-5	 	cm3/g @STP
+85615	Inorganics, Minor, Non-metals	Krypton-83 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		13965-98-5	 	cm3/g @STP
+85616	Inorganics, Minor, Non-metals	Krypton-84, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		14993-91-0	 	cm3/g @STP
+85617	Inorganics, Minor, Non-metals	Krypton-84 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		14993-91-0	 	cm3/g @STP
+85618	Inorganics, Minor, Non-metals	Krypton-86, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		14191-82-3	 	cm3/g @STP
+85619	Inorganics, Minor, Non-metals	Krypton-86 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		14191-82-3	 	cm3/g @STP
+85620	Inorganics, Minor, Non-metals	Xenon-124, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		15687-60-2	 	cm3/g @STP
+85621	Inorganics, Minor, Non-metals	Xenon-124 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		15687-60-2	 	cm3/g @STP
+85622	Inorganics, Minor, Non-metals	Xenon-128, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		27818-78-6	 	cm3/g @STP
+85623	Inorganics, Minor, Non-metals	Xenon-128 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		27818-78-6	 	cm3/g @STP
+85624	Inorganics, Minor, Non-metals	Xenon-129, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		13965-99-6	 	cm3/g @STP
+85625	Inorganics, Minor, Non-metals	Xenon-129 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		13965-99-6	 	cm3/g @STP
+85626	Inorganics, Minor, Non-metals	Xenon-130, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		 	 	cm3/g @STP
+85627	Inorganics, Minor, Non-metals	Xenon-130 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		 	 	cm3/g @STP
+85628	Inorganics, Minor, Non-metals	Xenon-131, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		14683-11-5	 	cm3/g @STP
+85629	Inorganics, Minor, Non-metals	Xenon-131 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		14683-11-5	 	cm3/g @STP
+85630	Inorganics, Minor, Non-metals	Xenon-132, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		14155-79-4	 	cm3/g @STP
+85631	Inorganics, Minor, Non-metals	Xenon-132 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		14155-79-4	 	cm3/g @STP
+85632	Inorganics, Minor, Non-metals	Xenon-134, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		 	 	cm3/g @STP
+85633	Inorganics, Minor, Non-metals	Xenon-134 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		 	 	cm3/g @STP
+85634	Inorganics, Minor, Non-metals	Xenon-136, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		15751-79-8	 	cm3/g @STP
+85635	Inorganics, Minor, Non-metals	Xenon-136 error, water, unfiltered, cubic centimeters per gram at standard temperature and pressure	Not checked					Dissolved		15751-79-8	 	cm3/g @STP
+91081	Inorganics, Minor, Non-metals	Acid volatile sulfide plus pyritic sulfide, solids, dry weight, milligram per kilogram	USGS use and no use by EPA			Dry				 	 	mg/kg
+91700	Inorganics, Minor, Non-metals	Arsenic, solids, 10% nitric acid extracted, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		7440-38-2	Arsenic	mg/kg
+99033	Inorganics, Minor, Non-metals	Inorganic arsenic, water, filtered (0.45 micron filter), micrograms per liter as arsenic	USGS use and no use by EPA					Dissolved		 	 	ug/l
+99034	Inorganics, Minor, Non-metals	Inorganic arsenic(III), water, filtered (0.45 micron filter), micrograms per liter as arsenic	USGS use and no use by EPA					Dissolved		22541-54-4	 	ug/l
+99320	Inorganics, Minor, Non-metals	Chlorate, disinfection byproduct, water, unfiltered, EPA method 300.0, micrograms per liter	USGS use and no use by EPA					Total		14866-68-3	Chlorate	ug/l
+99782	Inorganics, Minor, Non-metals	Boron, water, filtered, unpreserved, recoverable, micrograms per liter	USGS use and no use by EPA					Dissolved		7440-42-8	Boron	ug/l
+99896	Inorganics, Minor, Non-metals	Cyanide, water, unfiltered, EPA contract, recoverable, milligrams per liter	USGS use and no use by EPA					Recoverable		57-12-5	Cyanide	mg/l
+99897	Inorganics, Minor, Non-metals	Antimony, water, unfiltered, EPA contract, recoverable, micrograms per liter	USGS use and no use by EPA					Recoverable		7440-36-0	Antimony	ug/l

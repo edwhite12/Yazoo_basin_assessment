@@ -1,0 +1,71 @@
+#
+# National Water Information System
+# 2019/03/30
+#
+#
+# Date Retrieved: USGS Water Data for the Nation Help System
+#
+parm_cd	group	parm_nm	epa_equivalence	result_statistical_basis	result_time_basis	result_weight_basis	result_particle_size_basis	result_sample_fraction	result_temperature_basis	CASRN	SRSName	parm_unit
+5s	8s	150s	26s	0s	5s	0s	0s	9s	0s	10s	20s	10s
+31730	Toxicity	Mean survival of fathead minnows (Pimephales promelas) on day 7 of 7-day exposure to 100 percent effluent water sample, percent	Not checked		7 Day					 	 	%
+31731	Toxicity	Biomass of fathead minnows (Pimephales promelas) on day 7 of 7-day exposure to 100 percent effluent water sample, milligrams	Not checked		7 Day					 	 	mg
+79729	Toxicity	Mercury, waste/reagent water mixture, unfiltered, EPA toxicity test (SW-1310), micrograms per liter	Agree					Total		7439-97-6	Mercury	ug/l
+79733	Toxicity	Barium, waste/reagent water mixture, unfiltered, EPA toxicity test (SW-1310), micrograms per liter	Agree					Total		7440-39-3	Barium	ug/l
+79734	Toxicity	Cadmium, waste/reagent water mixture, unfiltered, EPA toxicity test (SW-1310), micrograms per liter	Agree					Total		7440-43-9	Cadmium	ug/l
+79735	Toxicity	Chromium, waste/reagent water mixture, unfiltered, EPA toxicity test (SW-1310), micrograms per liter	Agree					Total		7440-47-3	Chromium	ug/l
+79736	Toxicity	Lead, waste/reagent water mixture, unfiltered, EPA toxicity test (SW-1310), micrograms per liter	Agree					Total		7439-92-1	Lead	ug/l
+79737	Toxicity	Selenium, waste/reagent water mixture, unfiltered, EPA toxicity test (SW-1310), micrograms per liter	Agree					Total		7782-49-2	Selenium	ug/l
+79738	Toxicity	Silver, waste/reagent water mixture, unfiltered, EPA toxicity test (SW-1310), micrograms per liter	Agree					Total		7440-22-4	Silver	ug/l
+79741	Toxicity	Arsenic, waste/reagent water mixture, unfiltered, EPA toxicity test (SW-1310), micrograms per liter	Agree					Total		7440-38-2	Arsenic	ug/l
+91076	Toxicity	Silver, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), micrograms per liter	USGS use and no use by EPA							7440-22-4	Silver	ug/l
+91077	Toxicity	Mercury, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), micrograms per liter	USGS use and no use by EPA							7439-97-6	Mercury	ug/l
+91078	Toxicity	1,4-Dichlorobenzene, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), milligrams per liter	USGS use and no use by EPA							106-46-7	p-Dichlorobenzene	mg/l
+91084	Toxicity	Benzene, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), milligrams per liter	USGS use and no use by EPA							71-43-2	Benzene	mg/l
+91085	Toxicity	Methyl ethyl ketone, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), milligrams per liter	USGS use and no use by EPA							78-93-3	Methyl ethyl ketone	mg/l
+91086	Toxicity	Tetrachloromethane, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), milligrams per liter	USGS use and no use by EPA							56-23-5	Carbon tetrachloride	mg/l
+91087	Toxicity	Chlorobenzene, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), milligrams per liter	USGS use and no use by EPA							108-90-7	Chlorobenzene	mg/l
+91088	Toxicity	Trichloromethane, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), milligrams per liter	USGS use and no use by EPA							67-66-3	Chloroform	mg/l
+91089	Toxicity	1,2-Dichloroethane, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), milligrams per liter	USGS use and no use by EPA							107-06-2	1,2-Dichloroethane	mg/l
+91090	Toxicity	1,1-Dichloroethene, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), milligrams per liter	USGS use and no use by EPA							75-35-4	1,1-Dichloroethylene	mg/l
+91091	Toxicity	Tetrachloroethene, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), milligrams per liter	USGS use and no use by EPA							127-18-4	Tetrachloroethylene	mg/l
+91092	Toxicity	Trichloroethene, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), milligrams per liter	USGS use and no use by EPA							79-01-6	Trichloroethylene	mg/l
+91093	Toxicity	Vinyl chloride, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), milligrams per liter	USGS use and no use by EPA							75-01-4	Vinyl chloride	mg/l
+91094	Toxicity	Arsenic, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), micrograms per liter	USGS use and no use by EPA							7440-38-2	Arsenic	ug/l
+91095	Toxicity	Barium, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), micrograms per liter	USGS use and no use by EPA							7440-39-3	Barium	ug/l
+91096	Toxicity	Cadmium, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), micrograms per liter	USGS use and no use by EPA							7440-43-9	Cadmium	ug/l
+91097	Toxicity	Chromium, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), micrograms per liter	USGS use and no use by EPA							7440-47-3	Chromium	ug/l
+91098	Toxicity	Lead, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), micrograms per liter	USGS use and no use by EPA							7439-92-1	Lead	ug/l
+91099	Toxicity	Selenium, waste/reagent water mixture leachate, EPA Toxicity Characteristic Leaching Procedure (1311), micrograms per liter	USGS use and no use by EPA							7782-49-2	Selenium	ug/l
+99452	Toxicity	pH, 100 percent effluent water sample on day 0 of 7-day exposure, unfiltered, standard units	Not checked		0 Day			Total		 	pH	std units
+99453	Toxicity	pH, 100 percent effluent water sample on day 2 of 7-day exposure, unfiltered, standard units	Not checked		2 Day			Total		 	pH	std units
+99454	Toxicity	pH, 100 percent effluent water sample on day 7 of 7-day exposure, unfiltered, standard units	Not checked		7 Day			Total		 	pH	std units
+99455	Toxicity	Dissolved oxygen (DO), 100 percent effluent water sample on day 0 of 7-day exposure, unfiltered, milligrams per liter	Not checked		0 Day			Total		7782-44-7	 	mg/l
+99456	Toxicity	Dissolved oxygen (DO), 100 percent effluent water sample on day 2 of 7-day exposure, unfiltered, milligrams per liter	Not checked		2 Day			Total		7782-44-7	 	mg/l
+99457	Toxicity	Dissolved oxygen (DO), 100 percent effluent water sample on day 7 of 7-day exposure, unfiltered, milligrams per liter	Not checked		7 Day			Total		7782-44-7	 	mg/l
+99458	Toxicity	Specific conductance (SC), 100 percent effluent water sample on day 0 of 7-day exposure, unfiltered, microsiemens per centimeter at 25 degrees Celsius	Not checked		0 Day			Total		 	 	uS/cm @25C
+99459	Toxicity	Specific conductance (SC), 100 percent effluent water sample on day 2 of 7-day exposure, unfiltered, microsiemens per centimeter at 25 degrees Celsius	Not checked		2 Day			Total		 	 	uS/cm @25C
+99460	Toxicity	Specific conductance (SC), 100 percent effluent water sample on day 7 of 7-day exposure, unfiltered, microsiemens per centimeter at 25 degrees Celsius	Not checked		7 Day			Total		 	 	uS/cm @25C
+99461	Toxicity	Hardness, 100 percent effluent water sample on day 0 of 7-day exposure, unfiltered, milligrams per liter as calcium carbonate	Not checked		0 Day			Total		 	 	mg/l CaCO3
+99462	Toxicity	Hardness, 100 percent effluent water sample on day 2 of 7-day exposure, unfiltered, milligrams per liter as calcium carbonate	Not checked		2 Day			Total		 	 	mg/l CaCO3
+99463	Toxicity	Hardness, 100 percent effluent water sample on day 7 of 7-day exposure, unfiltered, milligrams per liter as calcium carbonate	Not checked		7 Day			Total		 	 	mg/l CaCO3
+99464	Toxicity	Acid neutralizing capacity (ANC), 100 percent effluent water sample on day 0 of 7-day exposure, unfiltered, milligrams per liter as calcium carbonate	Not checked		0 Day			Total		 	 	mg/l CaCO3
+99465	Toxicity	Acid neutralizing capacity (ANC), 100 percent effluent water sample on day 2 of 7-day exposure, unfiltered, milligrams per liter as calcium carbonate	Not checked		2 Day			Total		 	 	mg/l CaCO3
+99466	Toxicity	Acid neutralizing capacity (ANC), 100 percent effluent water sample on day 7 of 7-day exposure, unfiltered, milligrams per liter as calcium carbonate	Not checked		7 Day			Total		 	 	mg/l CaCO3
+99467	Toxicity	Ammonia (NH3 + NH4+), 100 percent effluent water sample on day 0 of 7-day exposure, unfiltered, milligrams per liter as nitrogen	Not checked		0 Day			Total		 	 	mg/l as N
+99468	Toxicity	Ammonia (NH3 + NH4+), 100 percent effluent water sample on day 2 of 7-day exposure, unfiltered, milligrams per liter as nitrogen	Not checked		2 Day			Total		 	 	mg/l as N
+99469	Toxicity	Ammonia (NH3 + NH4+), 100 percent effluent water sample on day 7 of 7-day exposure, unfiltered, milligrams per liter as nitrogen	Not checked		7 Day			Total		 	 	mg/l as N
+99470	Toxicity	Ammonia (un-ionized), 100 percent effluent water sample on day 0 of 7-day exposure, unfiltered, milligrams per liter as nitrogen	Not checked		0 Day			Total		7664-41-7	 	mg/l as N
+99471	Toxicity	Ammonia (un-ionized), 100 percent effluent water sample on day 2 of 7-day exposure, unfiltered, milligrams per liter as nitrogen	Not checked		2 Day			Total		7664-41-7	 	mg/l as N
+99472	Toxicity	Ammonia (un-ionized), 100 percent effluent water sample on day 7 of 7-day exposure, unfiltered, milligrams per liter as nitrogen	Not checked		7 Day			Total		7664-41-7	 	mg/l as N
+99473	Toxicity	Calcium, 100 percent effluent water sample on day 0 of 7-day exposure, filtered, milligrams per liter	Not checked		0 Day			Dissolved		7440-70-2	 	mg/l
+99474	Toxicity	Calcium, 100 percent effluent water sample on day 2 of 7-day exposure, filtered, milligrams per liter	Not checked		2 Day			Dissolved		7440-70-2	 	mg/l
+99475	Toxicity	Potassium, 100 percent effluent water sample on day 0 of 7-day exposure, filtered, milligrams per liter	Not checked		0 Day			Dissolved		7440-09-7	 	mg/l
+99476	Toxicity	Potassium, 100 percent effluent water sample on day 2 of 7-day exposure, filtered, milligrams per liter	Not checked		2 Day			Dissolved		7440-09-7	 	mg/l
+99477	Toxicity	Magnesium, 100 percent effluent water sample on day 0 of 7-day exposure, filtered, milligrams per liter	Not checked		0 Day			Dissolved		7439-95-4	 	mg/l
+99478	Toxicity	Magnesium, 100 percent effluent water sample on day 2 of 7-day exposure, filtered, milligrams per liter	Not checked		2 Day			Dissolved		7439-95-4	 	mg/l
+99479	Toxicity	Sodium, 100 percent effluent water sample on day 0 of 7-day exposure, filtered, milligrams per liter	Not checked		0 Day			Dissolved		7440-23-5	 	mg/l
+99480	Toxicity	Sodium, 100 percent effluent water sample on day 2 of 7-day exposure, filtered, milligrams per liter	Not checked		2 Day			Dissolved		7440-23-5	 	mg/l
+99481	Toxicity	Sulfate, 100 percent effluent water sample on day 0 of 7-day exposure, filtered, milligrams per liter	Not checked		0 Day			Dissolved		14808-79-8	 	mg/l
+99482	Toxicity	Sulfate, 100 percent effluent water sample on day 2 of 7-day exposure, filtered, milligrams per liter	Not checked		2 Day			Dissolved		14808-79-8	 	mg/l
+99483	Toxicity	Chloride, 100 percent effluent water sample on day 0 of 7-day exposure, filtered, milligrams per liter	Not checked		0 Day			Dissolved		16887-00-6	 	mg/l
+99484	Toxicity	Chloride, 100 percent effluent water sample on day 2 of 7-day exposure, filtered, milligrams per liter	Not checked		2 Day			Dissolved		16887-00-6	 	mg/l

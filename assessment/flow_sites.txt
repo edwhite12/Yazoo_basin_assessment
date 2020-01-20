@@ -1,0 +1,20 @@
+
+
+
+
+
+Bluff Hills - No Dams Upstream
+7268000	Little Tallahatchie River at Etta MS
+7283000	Skuna River at Bruce MS
+7275900	Coldwater River near Olive Branch MS 
+
+Bluff Hill - Dams Upstream
+7285500	Yalobusha River at Grenada MS
+
+Delta Plain - No Dams Upstream
+7288500	Big Sunflower River at Sunflower MS
+
+Delta Plain - Dams Upstream
+7287000 Yazoo River at Greenwood MS
+7288955	Yazoo River below Steele Bayou near Long Lake MS
+

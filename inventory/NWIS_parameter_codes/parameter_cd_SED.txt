@@ -1,0 +1,919 @@
+#
+# National Water Information System
+# 2019/03/30
+#
+#
+# Date Retrieved: USGS Water Data for the Nation Help System
+#
+parm_cd	group	parm_nm	epa_equivalence	result_statistical_basis	result_time_basis	result_weight_basis	result_particle_size_basis	result_sample_fraction	result_temperature_basis	CASRN	SRSName	parm_unit
+5s	8s	156s	26s	4s	5s	3s	14s	12s	0s	11s	38s	8s
+00496	Sediment	Loss on ignition, bed sediment, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		 	 	mg/kg
+04065	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 4 millimeters	Not checked				< 4 mm	Suspended		 	Sediment	%
+04122	Sediment	Bedload sediment discharge, daily average, per unit width of river, composite samples, short tons per day per foot of width	Agree	Mean	Daily			Bedload		 	Sediment	ton/d/ft
+46462	Sediment	Bed sediment, dry sieved, sieve diameter, percent smaller than 0.044 millimeters	Not checked				< 0.044 mm	Bed Sediment		 	Sediment	%
+46463	Sediment	Bed sediment, sieve diameter, percent smaller than 0.71 millimeters	Not checked				< 0.71 mm	Bed Sediment		 	Sediment	%
+46464	Sediment	Bedload sediment, dry sieved, sieve diameter, percent smaller than 0.044 millimeters	Not checked				< 0.044 mm	Bedload		 	Sediment	%
+46465	Sediment	Bedload sediment, dry sieved, sieve diameter, percent smaller than 0.088 millimeters	Not checked				< 0.088 mm	Bedload		 	Sediment	%
+46466	Sediment	Bedload sediment, dry sieved, sieve diameter, percent smaller than 0.177 millimeters	Not checked				< 0.177 mm	Bedload		 	Sediment	%
+46467	Sediment	Bedload sediment, dry sieved, sieve diameter, percent smaller than 0.35 millimeters	Not checked				< 0.35 mm	Bedload		 	Sediment	%
+46468	Sediment	Bedload sediment, dry sieved, sieve diameter, percent smaller than 0.71 millimeters	Not checked				< 0.71 mm	Bedload		 	Sediment	%
+46469	Sediment	Bedload sediment, dry sieved, sieve diameter, percent smaller than 1.41 millimeters	Not checked				< 1.41 mm	Bedload		 	Sediment	%
+46470	Sediment	Bedload sediment, dry sieved, sieve diameter, percent smaller than 2.83 millimeters	Not checked				< 2.83 mm	Bedload		 	Sediment	%
+49283	Sediment	Bed sediment, wet sieved (native water), field, percent smaller than 0.002 millimeters	Not agree				< 0.002 mm	Bed Sediment		 	Sediment	%
+49284	Sediment	Bed sediment, wet sieved (native water), field, percent smaller than 0.008 millimeters	Not agree				< 0.008 mm	Bed Sediment		 	Sediment	%
+49285	Sediment	Bed sediment, wet sieved (native water), field, percent smaller than 0.016 millimeters	Not agree				< 0.016 mm	Bed Sediment		 	Sediment	%
+49286	Sediment	Bed sediment, wet sieved (native water), field, percent smaller than 0.031 millimeters	Not agree				< 0.031 mm	Bed Sediment		 	Sediment	%
+50279	Sediment	Suspended sediment concentration, flow-through centrifuge, milligrams per liter	Agree					Suspended		 	Sediment	mg/l
+51283	Sediment	Loss on ignition (LOI), bedload sediment, dry weight, milligrams per kilogram	Not checked			Dry		Bedload		 	 	mg/kg
+64177	Sediment	Bed sediment, dry weight, percent of wet weight	USGS use and no use by EPA			Dry		Bed Sediment		 	Sediment	%
+64178	Sediment	Loss on ignition, bed sediment, percent	USGS use and no use by EPA					Bed Sediment		 	 	%
+69000	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 4 millimeters	USGS use and no use by EPA				< 4 mm	Bed Sediment		 	Sediment	%
+69001	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 3.35 millimeters	USGS use and no use by EPA				< 3.35 mm	Bed Sediment		 	Sediment	%
+69002	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 2.8 millimeters	USGS use and no use by EPA				< 2.8 mm	Bed Sediment		 	Sediment	%
+69003	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 2.36 millimeters	USGS use and no use by EPA				< 2.36 mm	Bed Sediment		 	Sediment	%
+69004	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 1.7 millimeters	USGS use and no use by EPA				< 1.7 mm	Bed Sediment		 	Sediment	%
+69005	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 1.4 millimeters	USGS use and no use by EPA				< 1.4 mm	Bed Sediment		 	Sediment	%
+69006	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 1.18 millimeters	USGS use and no use by EPA				< 1.18 mm	Bed Sediment		 	Sediment	%
+69007	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.85 millimeters	USGS use and no use by EPA				< 0.85 mm	Bed Sediment		 	Sediment	%
+69008	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.71 millimeters	USGS use and no use by EPA				< 0.71 mm	Bed Sediment		 	Sediment	%
+69009	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.6 millimeters	USGS use and no use by EPA				< 0.6 mm	Bed Sediment		 	Sediment	%
+69010	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.425 millimeters	USGS use and no use by EPA				< 0.425 mm	Bed Sediment		 	Sediment	%
+69011	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.3 millimeters	USGS use and no use by EPA				< 0.3 mm	Bed Sediment		 	Sediment	%
+69012	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.212 millimeters	USGS use and no use by EPA				< 0.212 mm	Bed Sediment		 	Sediment	%
+69013	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.15 millimeters	USGS use and no use by EPA				< 0.15 mm	Bed Sediment		 	Sediment	%
+69014	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.106 millimeters	USGS use and no use by EPA				< 0.106 mm	Bed Sediment		 	Sediment	%
+69015	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.075 millimeters	USGS use and no use by EPA				< 0.075 mm	Bed Sediment		 	Sediment	%
+69016	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.053 millimeters	USGS use and no use by EPA				< 0.053 mm	Bed Sediment		 	Sediment	%
+69017	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.0425 millimeters	USGS use and no use by EPA				< 0.0425 mm	Bed Sediment		 	Sediment	%
+69018	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.038 millimeters	USGS use and no use by EPA				< 0.038 mm	Bed Sediment		 	Sediment	%
+69019	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.032 millimeters	USGS use and no use by EPA				< 0.032 mm	Bed Sediment		 	Sediment	%
+69020	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.025 millimeters	USGS use and no use by EPA				< 0.025 mm	Bed Sediment		 	Sediment	%
+69021	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.024 millimeters	USGS use and no use by EPA				< 0.024 mm	Bed Sediment		 	Sediment	%
+69022	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.02 millimeters	USGS use and no use by EPA				< 0.02 mm	Bed Sediment		 	Sediment	%
+69023	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.012 millimeters	USGS use and no use by EPA				< 0.012 mm	Bed Sediment		 	Sediment	%
+69024	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.006 millimeters	USGS use and no use by EPA				< 0.006 mm	Bed Sediment		 	Sediment	%
+69025	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.003 millimeters	USGS use and no use by EPA				< 0.003 mm	Bed Sediment		 	Sediment	%
+69026	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.0015 millimeters	USGS use and no use by EPA				< 0.0015 mm	Bed Sediment		 	Sediment	%
+69027	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.001 millimeters	USGS use and no use by EPA				< 0.001 mm	Bed Sediment		 	Sediment	%
+69028	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.00075 millimeters	USGS use and no use by EPA				< 0.00075 mm	Bed Sediment		 	Sediment	%
+69029	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.0005 millimeters	USGS use and no use by EPA				< 0.0005 mm	Bed Sediment		 	Sediment	%
+69030	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.00038 millimeters	USGS use and no use by EPA				< 0.00038 mm	Bed Sediment		 	Sediment	%
+69031	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.00025 millimeters	USGS use and no use by EPA				< 0.00025 mm	Bed Sediment		 	Sediment	%
+69032	Sediment	Bed sediment, sieve diameter, percent smaller than 2048 millimeters	USGS use and no use by EPA				< 2048 mm	Bed Sediment		 	Sediment	%
+69033	Sediment	Bed sediment, sieve diameter, percent smaller than 1536 millimeters	USGS use and no use by EPA				< 1536 mm	Bed Sediment		 	Sediment	%
+69034	Sediment	Bed sediment, sieve diameter, percent smaller than 1024 millimeters	USGS use and no use by EPA				< 1024 mm	Bed Sediment		 	Sediment	%
+69035	Sediment	Bed sediment, sieve diameter, percent smaller than 768 millimeters	USGS use and no use by EPA				< 768 mm	Bed Sediment		 	Sediment	%
+69036	Sediment	Bed sediment, sieve diameter, percent smaller than 512 millimeters	USGS use and no use by EPA				< 512 mm	Bed Sediment		 	Sediment	%
+69037	Sediment	Bed sediment, sieve diameter, percent smaller than 384 millimeters	USGS use and no use by EPA				< 384 mm	Bed Sediment		 	Sediment	%
+69038	Sediment	Bed sediment, sieve diameter, percent smaller than 256 millimeters	USGS use and no use by EPA				< 256 mm	Bed Sediment		 	Sediment	%
+69039	Sediment	Bed sediment, sieve diameter, percent smaller than 192 millimeters	USGS use and no use by EPA				< 192 mm	Bed Sediment		 	Sediment	%
+69040	Sediment	Bed sediment, sieve diameter, percent smaller than 125 millimeters	USGS use and no use by EPA				< 125 mm	Bed Sediment		 	Sediment	%
+69041	Sediment	Bed sediment, sieve diameter, percent smaller than 106 millimeters	USGS use and no use by EPA				< 106 mm	Bed Sediment		 	Sediment	%
+69042	Sediment	Bed sediment, sieve diameter, percent smaller than 100 millimeters	USGS use and no use by EPA				< 100 mm	Bed Sediment		 	Sediment	%
+69043	Sediment	Bed sediment, sieve diameter, percent smaller than 96 millimeters	USGS use and no use by EPA				< 96 mm	Bed Sediment		 	Sediment	%
+69044	Sediment	Bed sediment, sieve diameter, percent smaller than 90 millimeters	USGS use and no use by EPA				< 90 mm	Bed Sediment		 	Sediment	%
+69045	Sediment	Bed sediment, sieve diameter, percent smaller than 75 millimeters	USGS use and no use by EPA				< 75 mm	Bed Sediment		 	Sediment	%
+69046	Sediment	Bed sediment, sieve diameter, percent smaller than 63 millimeters	USGS use and no use by EPA				< 63 mm	Bed Sediment		 	Sediment	%
+69047	Sediment	Bed sediment, sieve diameter, percent smaller than 53 millimeters	USGS use and no use by EPA				< 53 mm	Bed Sediment		 	Sediment	%
+69048	Sediment	Bed sediment, sieve diameter, percent smaller than 50 millimeters	USGS use and no use by EPA				< 50 mm	Bed Sediment		 	Sediment	%
+69049	Sediment	Bed sediment, sieve diameter, percent smaller than 45 millimeters	USGS use and no use by EPA				< 45 mm	Bed Sediment		 	Sediment	%
+69050	Sediment	Bed sediment, sieve diameter, percent smaller than 37.5 millimeters	USGS use and no use by EPA				< 37.5 mm	Bed Sediment		 	Sediment	%
+69051	Sediment	Bed sediment, sieve diameter, percent smaller than 26.5 millimeters	USGS use and no use by EPA				< 26.5 mm	Bed Sediment		 	Sediment	%
+69052	Sediment	Bed sediment, sieve diameter, percent smaller than 25 millimeters	USGS use and no use by EPA				< 25 mm	Bed Sediment		 	Sediment	%
+69053	Sediment	Bed sediment, sieve diameter, percent smaller than 22.4 millimeters	USGS use and no use by EPA				< 22.4 mm	Bed Sediment		 	Sediment	%
+69054	Sediment	Bed sediment, sieve diameter, percent smaller than 19 millimeters	USGS use and no use by EPA				< 19 mm	Bed Sediment		 	Sediment	%
+69055	Sediment	Bed sediment, sieve diameter, percent smaller than 13.2 millimeters	USGS use and no use by EPA				< 13.2 mm	Bed Sediment		 	Sediment	%
+69056	Sediment	Bed sediment, sieve diameter, percent smaller than 12.5 millimeters	USGS use and no use by EPA				< 12.5 mm	Bed Sediment		 	Sediment	%
+69057	Sediment	Bed sediment, sieve diameter, percent smaller than 11.2 millimeters	USGS use and no use by EPA				< 11.2 mm	Bed Sediment		 	Sediment	%
+69058	Sediment	Bed sediment, sieve diameter, percent smaller than 9.5 millimeters	USGS use and no use by EPA				< 9.5 mm	Bed Sediment		 	Sediment	%
+69059	Sediment	Bed sediment, sieve diameter, percent smaller than 7.5 millimeters	USGS use and no use by EPA				< 7.5 mm	Bed Sediment		 	Sediment	%
+69060	Sediment	Bed sediment, sieve diameter, percent smaller than 6.3 millimeters	USGS use and no use by EPA				< 6.3 mm	Bed Sediment		 	Sediment	%
+69061	Sediment	Bed sediment, sieve diameter, percent smaller than 5.6 millimeters	USGS use and no use by EPA				< 5.6 mm	Bed Sediment		 	Sediment	%
+69062	Sediment	Bed sediment, sieve diameter, percent smaller than 4.75 millimeters	USGS use and no use by EPA				< 4.75 mm	Bed Sediment		 	Sediment	%
+69063	Sediment	Bed sediment, sieve diameter, percent smaller than 3.35 millimeters	USGS use and no use by EPA				< 3.35 mm	Bed Sediment		 	Sediment	%
+69064	Sediment	Bed sediment, sieve diameter, percent smaller than 2.8 millimeters	USGS use and no use by EPA				< 2.8 mm	Bed Sediment		 	Sediment	%
+69065	Sediment	Bed sediment, sieve diameter, percent smaller than 2.36 millimeters	USGS use and no use by EPA				< 2.36 mm	Bed Sediment		 	Sediment	%
+69066	Sediment	Bed sediment, sieve diameter, percent smaller than 1.7 millimeters	USGS use and no use by EPA				< 1.7 mm	Bed Sediment		 	Sediment	%
+69067	Sediment	Bed sediment, sieve diameter, percent smaller than 1.18 millimeters	USGS use and no use by EPA				< 1.18 mm	Bed Sediment		 	Sediment	%
+69068	Sediment	Bed sediment, sieve diameter, percent smaller than 0.85 millimeters	USGS use and no use by EPA				< 0.85 mm	Bed Sediment		 	Sediment	%
+69069	Sediment	Bed sediment, sieve diameter, percent smaller than 0.6 millimeters	USGS use and no use by EPA				< 0.6 mm	Bed Sediment		 	Sediment	%
+69070	Sediment	Bed sediment, sieve diameter, percent smaller than 0.425 millimeters	USGS use and no use by EPA				< 0.425 mm	Bed Sediment		 	Sediment	%
+69071	Sediment	Bed sediment, sieve diameter, percent smaller than 0.3 millimeters	USGS use and no use by EPA				< 0.3 mm	Bed Sediment		 	Sediment	%
+69072	Sediment	Bed sediment, sieve diameter, percent smaller than 0.212 millimeters	USGS use and no use by EPA				< 0.212 mm	Bed Sediment		 	Sediment	%
+69073	Sediment	Bed sediment, sieve diameter, percent smaller than 0.15 millimeters	USGS use and no use by EPA				< 0.15 mm	Bed Sediment		 	Sediment	%
+69074	Sediment	Bed sediment, sieve diameter, percent smaller than 0.106 millimeters	USGS use and no use by EPA				< 0.106 mm	Bed Sediment		 	Sediment	%
+69075	Sediment	Bed sediment, sieve diameter, percent smaller than 0.075 millimeters	USGS use and no use by EPA				< 0.075 mm	Bed Sediment		 	Sediment	%
+69076	Sediment	Bed sediment, sieve diameter, percent smaller than 0.053 millimeters	USGS use and no use by EPA				< 0.053 mm	Bed Sediment		 	Sediment	%
+69077	Sediment	Bed sediment, sieve diameter, percent smaller than 0.045 millimeters	USGS use and no use by EPA				< 0.045 mm	Bed Sediment		 	Sediment	%
+69078	Sediment	Bed sediment, sieve diameter, percent smaller than 0.038 millimeters	USGS use and no use by EPA				< 0.038 mm	Bed Sediment		 	Sediment	%
+69079	Sediment	Bed sediment, sieve diameter, percent smaller than 0.032 millimeters	USGS use and no use by EPA				< 0.032 mm	Bed Sediment		 	Sediment	%
+69080	Sediment	Bed sediment, direct measurement, percent smaller than 2048 millimeters	USGS use and no use by EPA				< 2048 mm	Bed Sediment		 	Sediment	%
+69081	Sediment	Bed sediment, direct measurement, percent smaller than 1536 millimeters	USGS use and no use by EPA				< 1536 mm	Bed Sediment		 	Sediment	%
+69082	Sediment	Bed sediment, direct measurement, percent smaller than 1024 millimeters	USGS use and no use by EPA				< 1024 mm	Bed Sediment		 	Sediment	%
+69083	Sediment	Bed sediment, direct measurement, percent smaller than 768 millimeters	USGS use and no use by EPA				< 768 mm	Bed Sediment		 	Sediment	%
+69084	Sediment	Bed sediment, direct measurement, percent smaller than 512 millimeters	USGS use and no use by EPA				< 512 mm	Bed Sediment		 	Sediment	%
+69085	Sediment	Bed sediment, direct measurement, percent smaller than 384 millimeters	USGS use and no use by EPA				< 384 mm	Bed Sediment		 	Sediment	%
+69086	Sediment	Bed sediment, direct measurement, percent smaller than 256 millimeters	USGS use and no use by EPA				< 256 mm	Bed Sediment		 	Sediment	%
+69087	Sediment	Bed sediment, direct measurement, percent smaller than 192 millimeters	USGS use and no use by EPA				< 192 mm	Bed Sediment		 	Sediment	%
+69088	Sediment	Bed sediment, direct measurement, percent smaller than 128 millimeters	USGS use and no use by EPA				< 128 mm	Bed Sediment		 	Sediment	%
+69089	Sediment	Bed sediment, direct measurement, percent smaller than 125 millimeters	USGS use and no use by EPA				< 125 mm	Bed Sediment		 	Sediment	%
+69090	Sediment	Bed sediment, direct measurement, percent smaller than 106 millimeters	USGS use and no use by EPA				< 106 mm	Bed Sediment		 	Sediment	%
+69091	Sediment	Bed sediment, direct measurement, percent smaller than 100 millimeters	USGS use and no use by EPA				< 100 mm	Bed Sediment		 	Sediment	%
+69092	Sediment	Bed sediment, direct measurement, percent smaller than 96 millimeters	USGS use and no use by EPA				< 96 mm	Bed Sediment		 	Sediment	%
+69093	Sediment	Bed sediment, direct measurement, percent smaller than 90 millimeters	USGS use and no use by EPA				< 90 mm	Bed Sediment		 	Sediment	%
+69094	Sediment	Bed sediment, direct measurement, percent smaller than 75 millimeters	USGS use and no use by EPA				< 75 mm	Bed Sediment		 	Sediment	%
+69095	Sediment	Bed sediment, direct measurement, percent smaller than 64 millimeters	USGS use and no use by EPA				< 64 mm	Bed Sediment		 	Sediment	%
+69096	Sediment	Bed sediment, direct measurement, percent smaller than 63 millimeters	USGS use and no use by EPA				< 63 mm	Bed Sediment		 	Sediment	%
+69097	Sediment	Bed sediment, direct measurement, percent smaller than 53 millimeters	USGS use and no use by EPA				< 53 mm	Bed Sediment		 	Sediment	%
+69098	Sediment	Bed sediment, direct measurement, percent smaller than 50 millimeters	USGS use and no use by EPA				< 50 mm	Bed Sediment		 	Sediment	%
+69099	Sediment	Bed sediment, direct measurement, percent smaller than 45 millimeters	USGS use and no use by EPA				< 45 mm	Bed Sediment		 	Sediment	%
+69100	Sediment	Bed sediment, direct measurement, percent smaller than 37.5 millimeters	USGS use and no use by EPA				< 37.5 mm	Bed Sediment		 	Sediment	%
+69101	Sediment	Bed sediment, direct measurement, percent smaller than 31.5 millimeters	USGS use and no use by EPA				< 31.5 mm	Bed Sediment		 	Sediment	%
+69102	Sediment	Bed sediment, direct measurement, percent smaller than 26.5 millimeters	USGS use and no use by EPA				< 26.5 mm	Bed Sediment		 	Sediment	%
+69103	Sediment	Bed sediment, direct measurement, percent smaller than 25 millimeters	USGS use and no use by EPA				< 25 mm	Bed Sediment		 	Sediment	%
+69104	Sediment	Bed sediment, direct measurement, percent smaller than 22.4 millimeters	USGS use and no use by EPA				< 22.4 mm	Bed Sediment		 	Sediment	%
+69105	Sediment	Bed sediment, direct measurement, percent smaller than 19 millimeters	USGS use and no use by EPA				< 19 mm	Bed Sediment		 	Sediment	%
+69106	Sediment	Bed sediment, direct measurement, percent smaller than 16 millimeters	USGS use and no use by EPA				< 16 mm	Bed Sediment		 	Sediment	%
+69107	Sediment	Bed sediment, direct measurement, percent smaller than 13.2 millimeters	USGS use and no use by EPA				< 13.2 mm	Bed Sediment		 	Sediment	%
+69108	Sediment	Bed sediment, direct measurement, percent smaller than 12.5 millimeters	USGS use and no use by EPA				< 12.5 mm	Bed Sediment		 	Sediment	%
+69109	Sediment	Bed sediment, direct measurement, percent smaller than 11.2 millimeters	USGS use and no use by EPA				< 11.2 mm	Bed Sediment		 	Sediment	%
+69110	Sediment	Bed sediment, direct measurement, percent smaller than 9.5 millimeters	USGS use and no use by EPA				< 9.5 mm	Bed Sediment		 	Sediment	%
+69111	Sediment	Bed sediment, direct measurement, percent smaller than 8 millimeters	USGS use and no use by EPA				< 8 mm	Bed Sediment		 	Sediment	%
+69112	Sediment	Bed sediment, direct measurement, percent smaller than 7.5 millimeters	USGS use and no use by EPA				< 7.5 mm	Bed Sediment		 	Sediment	%
+69113	Sediment	Bed sediment, direct measurement, percent smaller than 6.3 millimeters	USGS use and no use by EPA				< 6.3 mm	Bed Sediment		 	Sediment	%
+69114	Sediment	Bed sediment, direct measurement, percent smaller than 5.6 millimeters	USGS use and no use by EPA				< 5.6 mm	Bed Sediment		 	Sediment	%
+69115	Sediment	Bed sediment, direct measurement, percent smaller than 4.75 millimeters	USGS use and no use by EPA				< 4.75 mm	Bed Sediment		 	Sediment	%
+69116	Sediment	Bed sediment, direct measurement, percent smaller than 4 millimeters	USGS use and no use by EPA				< 4 mm	Bed Sediment		 	Sediment	%
+69117	Sediment	Bed sediment, direct measurement, percent smaller than 3.35 millimeters	USGS use and no use by EPA				< 3.35 mm	Bed Sediment		 	Sediment	%
+69118	Sediment	Bed sediment, direct measurement, percent smaller than 2.8 millimeters	USGS use and no use by EPA				< 2.8 mm	Bed Sediment		 	Sediment	%
+69119	Sediment	Bed sediment, direct measurement, percent smaller than 2.36 millimeters	USGS use and no use by EPA				< 2.36 mm	Bed Sediment		 	Sediment	%
+69120	Sediment	Bed sediment, direct measurement, percent smaller than 2 millimeters	USGS use and no use by EPA				< 2 mm	Bed Sediment		 	Sediment	%
+69121	Sediment	Bed sediment, direct measurement, percent smaller than 1.7 millimeters	USGS use and no use by EPA				< 1.7 mm	Bed Sediment		 	Sediment	%
+69122	Sediment	Bed sediment, direct measurement, percent smaller than 1.4 millimeters	USGS use and no use by EPA				< 1.4 mm	Bed Sediment		 	Sediment	%
+69123	Sediment	Bed sediment, direct measurement, percent smaller than 1.18 millimeters	USGS use and no use by EPA				< 1.18 mm	Bed Sediment		 	Sediment	%
+69124	Sediment	Bed sediment, direct measurement, percent smaller than 1 millimeter	USGS use and no use by EPA				< 1 mm	Bed Sediment		 	Sediment	%
+69125	Sediment	Bed sediment, direct measurement, percent smaller than 0.85 millimeters	USGS use and no use by EPA				< 0.85 mm	Bed Sediment		 	Sediment	%
+69126	Sediment	Bed sediment, direct measurement, percent smaller than 0.71 millimeters	USGS use and no use by EPA				< 0.71 mm	Bed Sediment		 	Sediment	%
+69127	Sediment	Bed sediment, direct measurement, percent smaller than 0.6 millimeters	USGS use and no use by EPA				< 0.6 mm	Bed Sediment		 	Sediment	%
+69128	Sediment	Bed sediment, direct measurement, percent smaller than 0.5 millimeters	USGS use and no use by EPA				< 0.5 mm	Bed Sediment		 	Sediment	%
+69129	Sediment	Bed sediment, direct measurement, percent smaller than 0.425 millimeters	USGS use and no use by EPA				< 0.425 mm	Bed Sediment		 	Sediment	%
+69130	Sediment	Bed sediment, direct measurement, percent smaller than 0.355 millimeters	USGS use and no use by EPA				< 0.355 mm	Bed Sediment		 	Sediment	%
+69131	Sediment	Bed sediment, direct measurement, percent smaller than 0.3 millimeters	USGS use and no use by EPA				< 0.3 mm	Bed Sediment		 	Sediment	%
+69132	Sediment	Bed sediment, direct measurement, percent smaller than 0.25 millimeters	USGS use and no use by EPA				< 0.25 mm	Bed Sediment		 	Sediment	%
+69133	Sediment	Bed sediment, direct measurement, percent smaller than 0.212 millimeters	USGS use and no use by EPA				< 0.212 mm	Bed Sediment		 	Sediment	%
+69134	Sediment	Bed sediment, direct measurement, percent smaller than 0.18 millimeters	USGS use and no use by EPA				< 0.18 mm	Bed Sediment		 	Sediment	%
+69135	Sediment	Bed sediment, direct measurement, percent smaller than 0.15 millimeters	USGS use and no use by EPA				< 0.15 mm	Bed Sediment		 	Sediment	%
+69136	Sediment	Bed sediment, direct measurement, percent smaller than 0.125 millimeters	USGS use and no use by EPA				< 0.125 mm	Bed Sediment		 	Sediment	%
+69137	Sediment	Bed sediment, direct measurement, percent smaller than 0.106 millimeters	USGS use and no use by EPA				< 0.106 mm	Bed Sediment		 	Sediment	%
+69138	Sediment	Bed sediment, direct measurement, percent smaller than 0.09 millimeters	USGS use and no use by EPA				< 0.09 mm	Bed Sediment		 	Sediment	%
+69139	Sediment	Bed sediment, direct measurement, percent smaller than 0.075 millimeters	USGS use and no use by EPA				< 0.075 mm	Bed Sediment		 	Sediment	%
+69140	Sediment	Bed sediment, direct measurement, percent smaller than 0.063 millimeters	USGS use and no use by EPA				< 0.063 mm	Bed Sediment		 	Sediment	%
+69141	Sediment	Bed sediment, direct measurement, percent smaller than 0.053 millimeters	USGS use and no use by EPA				< 0.053 mm	Bed Sediment		 	Sediment	%
+69142	Sediment	Bed sediment, direct measurement, percent smaller than 0.045 millimeters	USGS use and no use by EPA				< 0.045 mm	Bed Sediment		 	Sediment	%
+69143	Sediment	Bed sediment, direct measurement, percent smaller than 0.038 millimeters	USGS use and no use by EPA				< 0.038 mm	Bed Sediment		 	Sediment	%
+69144	Sediment	Bed sediment, direct measurement, percent smaller than 0.032 millimeters	USGS use and no use by EPA				< 0.032 mm	Bed Sediment		 	Sediment	%
+69145	Sediment	Bed sediment, direct measurement, percent smaller than 0.031 millimeters	USGS use and no use by EPA				< 0.031 mm	Bed Sediment		 	Sediment	%
+69146	Sediment	Bed sediment, direct measurement, percent smaller than 0.025 millimeters	USGS use and no use by EPA				< 0.025 mm	Bed Sediment		 	Sediment	%
+69147	Sediment	Bed sediment, direct measurement, percent smaller than 0.024 millimeters	USGS use and no use by EPA				< 0.024 mm	Bed Sediment		 	Sediment	%
+69148	Sediment	Bed sediment, direct measurement, percent smaller than 0.02 millimeters	USGS use and no use by EPA				< 0.02 mm	Bed Sediment		 	Sediment	%
+69149	Sediment	Bed sediment, direct measurement, percent smaller than 0.016 millimeters	USGS use and no use by EPA				< 0.016 mm	Bed Sediment		 	Sediment	%
+69150	Sediment	Bed sediment, direct measurement, percent smaller than 0.012 millimeters	USGS use and no use by EPA				< 0.012 mm	Bed Sediment		 	Sediment	%
+69151	Sediment	Bed sediment, direct measurement, percent smaller than 0.008 millimeters	USGS use and no use by EPA				< 0.008 mm	Bed Sediment		 	Sediment	%
+69152	Sediment	Bed sediment, direct measurement, percent smaller than 0.006 millimeters	USGS use and no use by EPA				< 0.006 mm	Bed Sediment		 	Sediment	%
+69153	Sediment	Bed sediment, direct measurement, percent smaller than 0.004 millimeters	USGS use and no use by EPA				< 0.004 mm	Bed Sediment		 	Sediment	%
+69154	Sediment	Bedload sediment, sieve diameter, percent smaller than 2048 millimeters	USGS use and no use by EPA				< 2048 mm	Bedload		 	Sediment	%
+69155	Sediment	Bedload sediment, sieve diameter, percent smaller than 1536 millimeters	USGS use and no use by EPA				< 1536 mm	Bedload		 	Sediment	%
+69156	Sediment	Bedload sediment, sieve diameter, percent smaller than 1024 millimeters	USGS use and no use by EPA				< 1024 mm	Bedload		 	Sediment	%
+69157	Sediment	Bedload sediment, sieve diameter, percent smaller than 768 millimeters	USGS use and no use by EPA				< 768 mm	Bedload		 	Sediment	%
+69158	Sediment	Bedload sediment, sieve diameter, percent smaller than 512 millimeters	USGS use and no use by EPA				< 512 mm	Bedload		 	Sediment	%
+69159	Sediment	Bedload sediment, sieve diameter, percent smaller than 384 millimeters	USGS use and no use by EPA				< 384 mm	Bedload		 	Sediment	%
+69160	Sediment	Bedload sediment, sieve diameter, percent smaller than 256 millimeters	USGS use and no use by EPA				< 256 mm	Bedload		 	Sediment	%
+69161	Sediment	Bedload sediment, sieve diameter, percent smaller than 192 millimeters	USGS use and no use by EPA				< 192 mm	Bedload		 	Sediment	%
+69162	Sediment	Bedload sediment, sieve diameter, percent smaller than 125 millimeters	USGS use and no use by EPA				< 125 mm	Bedload		 	Sediment	%
+69163	Sediment	Bedload sediment, sieve diameter, percent smaller than 106 millimeters	USGS use and no use by EPA				< 106 mm	Bedload		 	Sediment	%
+69164	Sediment	Bedload sediment, sieve diameter, percent smaller than 100 millimeters	USGS use and no use by EPA				< 100 mm	Bedload		 	Sediment	%
+69165	Sediment	Bedload sediment, sieve diameter, percent smaller than 96 millimeters	USGS use and no use by EPA				< 96 mm	Bedload		 	Sediment	%
+69166	Sediment	Bedload sediment, sieve diameter, percent smaller than 90 millimeters	USGS use and no use by EPA				< 90 mm	Bedload		 	Sediment	%
+69167	Sediment	Bedload sediment, sieve diameter, percent smaller than 63 millimeters	USGS use and no use by EPA				< 63 mm	Bedload		 	Sediment	%
+69168	Sediment	Bedload sediment, sieve diameter, percent smaller than 53 millimeters	USGS use and no use by EPA				< 53 mm	Bedload		 	Sediment	%
+69169	Sediment	Bedload sediment, sieve diameter, percent smaller than 50 millimeters	USGS use and no use by EPA				< 50 mm	Bedload		 	Sediment	%
+69170	Sediment	Bedload sediment, sieve diameter, percent smaller than 45 millimeters	USGS use and no use by EPA				< 45 mm	Bedload		 	Sediment	%
+69171	Sediment	Bedload sediment, sieve diameter, percent smaller than 37.5 millimeters	USGS use and no use by EPA				< 37.5 mm	Bedload		 	Sediment	%
+69172	Sediment	Bedload sediment, sieve diameter, percent smaller than 26.5 millimeters	USGS use and no use by EPA				< 26.5 mm	Bedload		 	Sediment	%
+69173	Sediment	Bedload sediment, sieve diameter, percent smaller than 25 millimeters	USGS use and no use by EPA				< 25 mm	Bedload		 	Sediment	%
+69174	Sediment	Bedload sediment, sieve diameter, percent smaller than 22.4 millimeters	USGS use and no use by EPA				< 22.4 mm	Bedload		 	Sediment	%
+69175	Sediment	Bedload sediment, sieve diameter, percent smaller than 19 millimeters	USGS use and no use by EPA				< 19 mm	Bedload		 	Sediment	%
+69176	Sediment	Bedload sediment, sieve diameter, percent smaller than 13.2 millimeters	USGS use and no use by EPA				< 13.2 mm	Bedload		 	Sediment	%
+69177	Sediment	Bedload sediment, sieve diameter, percent smaller than 12.5 millimeters	USGS use and no use by EPA				< 12.5 mm	Bedload		 	Sediment	%
+69178	Sediment	Bedload sediment, sieve diameter, percent smaller than 11.2 millimeters	USGS use and no use by EPA				< 11.2 mm	Bedload		 	Sediment	%
+69179	Sediment	Bedload sediment, sieve diameter, percent smaller than 9.5 millimeters	USGS use and no use by EPA				< 9.5 mm	Bedload		 	Sediment	%
+69180	Sediment	Bedload sediment, sieve diameter, percent smaller than 7.5 millimeters	USGS use and no use by EPA				< 7.5 mm	Bedload		 	Sediment	%
+69181	Sediment	Bedload sediment, sieve diameter, percent smaller than 6.3 millimeters	USGS use and no use by EPA				< 6.3 mm	Bedload		 	Sediment	%
+69182	Sediment	Bedload sediment, sieve diameter, percent smaller than 5.6 millimeters	USGS use and no use by EPA				< 5.6 mm	Bedload		 	Sediment	%
+69183	Sediment	Bedload sediment, sieve diameter, percent smaller than 4.75 millimeters	USGS use and no use by EPA				< 4.75 mm	Bedload		 	Sediment	%
+69184	Sediment	Bedload sediment, sieve diameter, percent smaller than 3.35 millimeters	USGS use and no use by EPA				< 3.35 mm	Bedload		 	Sediment	%
+69185	Sediment	Bedload sediment, sieve diameter, percent smaller than 2.8 millimeters	USGS use and no use by EPA				< 2.8 mm	Bedload		 	Sediment	%
+69186	Sediment	Bedload sediment, sieve diameter, percent smaller than 2.36 millimeters	USGS use and no use by EPA				< 2.36 mm	Bedload		 	Sediment	%
+69187	Sediment	Bedload sediment, sieve diameter, percent smaller than 1.7 millimeters	USGS use and no use by EPA				< 1.7 mm	Bedload		 	Sediment	%
+69188	Sediment	Bedload sediment, sieve diameter, percent smaller than 1.4 millimeters	USGS use and no use by EPA				< 1.4 mm	Bedload		 	Sediment	%
+69189	Sediment	Bedload sediment, sieve diameter, percent smaller than 1.18 millimeters	USGS use and no use by EPA				< 1.18 mm	Bedload		 	Sediment	%
+69190	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.85 millimeters	USGS use and no use by EPA				< 0.85 mm	Bedload		 	Sediment	%
+69191	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.71 millimeters	USGS use and no use by EPA				< 0.71 mm	Bedload		 	Sediment	%
+69192	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.6 millimeters	USGS use and no use by EPA				< 0.6 mm	Bedload		 	Sediment	%
+69193	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.425 millimeters	USGS use and no use by EPA				< 0.425 mm	Bedload		 	Sediment	%
+69194	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.355 millimeters	USGS use and no use by EPA				< 0.355 mm	Bedload		 	Sediment	%
+69195	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.3 millimeters	USGS use and no use by EPA				< 0.3 mm	Bedload		 	Sediment	%
+69196	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.212 millimeters	USGS use and no use by EPA				< 0.212 mm	Bedload		 	Sediment	%
+69197	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.18 millimeters	USGS use and no use by EPA				< 0.18 mm	Bedload		 	Sediment	%
+69198	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.15 millimeters	USGS use and no use by EPA				< 0.15 mm	Bedload		 	Sediment	%
+69199	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.106 millimeters	USGS use and no use by EPA				< 0.106 mm	Bedload		 	Sediment	%
+69200	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.09 millimeters	USGS use and no use by EPA				< 0.09 mm	Bedload		 	Sediment	%
+69201	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.075 millimeters	USGS use and no use by EPA				< 0.075 mm	Bedload		 	Sediment	%
+69202	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.053 millimeters	USGS use and no use by EPA				< 0.053 mm	Bedload		 	Sediment	%
+69203	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.045 millimeters	USGS use and no use by EPA				< 0.045 mm	Bedload		 	Sediment	%
+69204	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.038 millimeters	USGS use and no use by EPA				< 0.038 mm	Bedload		 	Sediment	%
+69205	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.032 millimeters	USGS use and no use by EPA				< 0.032 mm	Bedload		 	Sediment	%
+69206	Sediment	Bedload sediment, direct measurement, percent smaller than 4 millimeters	USGS use and no use by EPA				< 4 mm	Bedload		 	Sediment	%
+69207	Sediment	Bedload sediment, direct measurement, percent smaller than 3.35 millimeters	USGS use and no use by EPA				< 3.35 mm	Bedload		 	Sediment	%
+69208	Sediment	Bedload sediment, direct measurement, percent smaller than 2.8 millimeters	USGS use and no use by EPA				< 2.8 mm	Bedload		 	Sediment	%
+69209	Sediment	Bedload sediment, direct measurement, percent smaller than 2.36 millimeters	USGS use and no use by EPA				< 2.36 mm	Bedload		 	Sediment	%
+69210	Sediment	Bedload sediment, direct measurement, percent smaller than 2 millimeters	USGS use and no use by EPA				< 2 mm	Bedload		 	Sediment	%
+69211	Sediment	Bedload sediment, direct measurement, percent smaller than 1.7 millimeters	USGS use and no use by EPA				< 1.7 mm	Bedload		 	Sediment	%
+69212	Sediment	Bedload sediment, direct measurement, percent smaller than 1.4 millimeters	USGS use and no use by EPA				< 1.4 mm	Bedload		 	Sediment	%
+69213	Sediment	Bedload sediment, direct measurement, percent smaller than 1.18 millimeters	USGS use and no use by EPA				< 1.18 mm	Bedload		 	Sediment	%
+69214	Sediment	Bedload sediment, direct measurement, percent smaller than 1 millimeter	USGS use and no use by EPA				< 1 mm	Bedload		 	Sediment	%
+69215	Sediment	Bedload sediment, direct measurement, percent smaller than 0.85 millimeters	USGS use and no use by EPA				< 0.85 mm	Bedload		 	Sediment	%
+69216	Sediment	Bedload sediment, direct measurement, percent smaller than 0.71 millimeters	USGS use and no use by EPA				< 0.71 mm	Bedload		 	Sediment	%
+69217	Sediment	Bedload sediment, direct measurement, percent smaller than 0.6 millimeters	USGS use and no use by EPA				< 0.6 mm	Bedload		 	Sediment	%
+69218	Sediment	Bedload sediment, direct measurement, percent smaller than 0.5 millimeters	USGS use and no use by EPA				< 0.5 mm	Bedload		 	Sediment	%
+69219	Sediment	Bedload sediment, direct measurement, percent smaller than 0.425 millimeters	USGS use and no use by EPA				< 0.425 mm	Bedload		 	Sediment	%
+69220	Sediment	Bedload sediment, direct measurement, percent smaller than 0.355 millimeters	USGS use and no use by EPA				< 0.355 mm	Bedload		 	Sediment	%
+69221	Sediment	Bedload sediment, direct measurement, percent smaller than 0.3 millimeters	USGS use and no use by EPA				< 0.3 mm	Bedload		 	Sediment	%
+69222	Sediment	Bedload sediment, direct measurement, percent smaller than 0.25 millimeters	USGS use and no use by EPA				< 0.25 mm	Bedload		 	Sediment	%
+69223	Sediment	Bedload sediment, direct measurement, percent smaller than 0.212 millimeters	USGS use and no use by EPA				< 0.212 mm	Bedload		 	Sediment	%
+69224	Sediment	Bedload sediment, direct measurement, percent smaller than 0.18 millimeters	USGS use and no use by EPA				< 0.18 mm	Bedload		 	Sediment	%
+69225	Sediment	Bedload sediment, direct measurement, percent smaller than 0.15 millimeters	USGS use and no use by EPA				< 0.15 mm	Bedload		 	Sediment	%
+69226	Sediment	Bedload sediment, direct measurement, percent smaller than 0.125 millimeters	USGS use and no use by EPA				< 0.125 mm	Bedload		 	Sediment	%
+69227	Sediment	Bedload sediment, direct measurement, percent smaller than 0.106 millimeters	USGS use and no use by EPA				< 0.106 mm	Bedload		 	Sediment	%
+69228	Sediment	Bedload sediment, direct measurement, percent smaller than 0.09 millimeters	USGS use and no use by EPA				< 0.09 mm	Bedload		 	Sediment	%
+69229	Sediment	Bedload sediment, direct measurement, percent smaller than 0.075 millimeters	USGS use and no use by EPA				< 0.075 mm	Bedload		 	Sediment	%
+69230	Sediment	Bedload sediment, direct measurement, percent smaller than 0.063 millimeters	USGS use and no use by EPA				< 0.063 mm	Bedload		 	Sediment	%
+69231	Sediment	Bedload sediment, direct measurement, percent smaller than 0.053 millimeters	USGS use and no use by EPA				< 0.053 mm	Bedload		 	Sediment	%
+69232	Sediment	Bedload sediment, direct measurement, percent smaller than 0.045 millimeters	USGS use and no use by EPA				< 0.045 mm	Bedload		 	Sediment	%
+69233	Sediment	Bedload sediment, direct measurement, percent smaller than 0.038 millimeters	USGS use and no use by EPA				< 0.038 mm	Bedload		 	Sediment	%
+69234	Sediment	Bedload sediment, direct measurement, percent smaller than 0.032 millimeters	USGS use and no use by EPA				< 0.032 mm	Bedload		 	Sediment	%
+69235	Sediment	Bedload sediment, direct measurement, percent smaller than 0.031 millimeters	USGS use and no use by EPA				< 0.031 mm	Bedload		 	Sediment	%
+69236	Sediment	Bedload sediment, direct measurement, percent smaller than 0.025 millimeters	USGS use and no use by EPA				< 0.025 mm	Bedload		 	Sediment	%
+69237	Sediment	Bedload sediment, direct measurement, percent smaller than 0.024 millimeters	USGS use and no use by EPA				< 0.024 mm	Bedload		 	Sediment	%
+69238	Sediment	Bedload sediment, direct measurement, percent smaller than 0.02 millimeters	USGS use and no use by EPA				< 0.02 mm	Bedload		 	Sediment	%
+69239	Sediment	Bedload sediment, direct measurement, percent smaller than 0.016 millimeters	USGS use and no use by EPA				< 0.016 mm	Bedload		 	Sediment	%
+69240	Sediment	Bedload sediment, direct measurement, percent smaller than 0.012 millimeters	USGS use and no use by EPA				< 0.012 mm	Bedload		 	Sediment	%
+69241	Sediment	Bedload sediment, direct measurement, percent smaller than 0.008 millimeters	USGS use and no use by EPA				< 0.008 mm	Bedload		 	Sediment	%
+69242	Sediment	Bedload sediment, direct measurement, percent smaller than 0.006 millimeters	USGS use and no use by EPA				< 0.006 mm	Bedload		 	Sediment	%
+69243	Sediment	Bedload sediment, direct measurement, percent smaller than 0.004 millimeters	USGS use and no use by EPA				< 0.004 mm	Bedload		 	Sediment	%
+69244	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 3.35 millimeters	USGS use and no use by EPA				< 3.35 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69245	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 2.8 millimeters	USGS use and no use by EPA				< 2.8 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69246	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 2.36 millimeters	USGS use and no use by EPA				< 2.36 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69247	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 1.7 millimeters	USGS use and no use by EPA				< 1.7 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69248	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 1.4 millimeters	USGS use and no use by EPA				< 1.4 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69249	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 1.18 millimeters	USGS use and no use by EPA				< 1.18 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69250	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.85 millimeters	USGS use and no use by EPA				< 0.85 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69251	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.71 millimeters	USGS use and no use by EPA				< 0.71 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69252	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.6 millimeters	USGS use and no use by EPA				< 0.6 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69253	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.425 millimeters	USGS use and no use by EPA				< 0.425 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69254	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.35 millimeters	USGS use and no use by EPA				< 0.35 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69255	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.3 millimeters	USGS use and no use by EPA				< 0.3 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69256	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.212 millimeters	USGS use and no use by EPA				< 0.212 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69257	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.18 millimeters	USGS use and no use by EPA				< 0.18 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69258	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.15 millimeters	USGS use and no use by EPA				< 0.15 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69259	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.106 millimeters	USGS use and no use by EPA				< 0.106 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69260	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.088 millimeters	USGS use and no use by EPA				< 0.088 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69261	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.075 millimeters	USGS use and no use by EPA				< 0.075 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69262	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.053 millimeters	USGS use and no use by EPA				< 0.053 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69263	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.045 millimeters	USGS use and no use by EPA				< 0.045 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69264	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.038 millimeters	USGS use and no use by EPA				< 0.038 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69265	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.032 millimeters	USGS use and no use by EPA				< 0.032 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69266	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.025 millimeters	USGS use and no use by EPA				< 0.025 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69267	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.024 millimeters	USGS use and no use by EPA				< 0.024 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69268	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.02 millimeters	USGS use and no use by EPA				< 0.02 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69269	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.012 millimeters	USGS use and no use by EPA				< 0.012 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69270	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.006 millimeters	USGS use and no use by EPA				< 0.006 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69271	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.003 millimeters	USGS use and no use by EPA				< 0.003 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69272	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.0015 millimeters	USGS use and no use by EPA				< 0.0015 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69273	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.001 millimeters	USGS use and no use by EPA				< 0.001 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69274	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.00075 millimeters	USGS use and no use by EPA				< 0.00075 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69275	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.0005 millimeters	USGS use and no use by EPA				< 0.0005 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69276	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.00038 millimeters	USGS use and no use by EPA				< 0.00038 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69277	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.00025 millimeters	USGS use and no use by EPA				< 0.00025 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69278	Sediment	Suspended sediment, sieve diameter, percent smaller than 2048 millimeters	USGS use and no use by EPA				< 2048 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69279	Sediment	Suspended sediment, sieve diameter, percent smaller than 1536 millimeters	USGS use and no use by EPA				< 1536 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69280	Sediment	Suspended sediment, sieve diameter, percent smaller than 1024 millimeters	USGS use and no use by EPA				< 1024 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69281	Sediment	Suspended sediment, sieve diameter, percent smaller than 768 millimeters	USGS use and no use by EPA				< 768 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69282	Sediment	Suspended sediment, sieve diameter, percent smaller than 512 millimeters	USGS use and no use by EPA				< 512 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69283	Sediment	Suspended sediment, sieve diameter, percent smaller than 384 millimeters	USGS use and no use by EPA				< 384 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69284	Sediment	Suspended sediment, sieve diameter, percent smaller than 256 millimeters	USGS use and no use by EPA				< 256 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69285	Sediment	Suspended sediment, sieve diameter, percent smaller than 192 millimeters	USGS use and no use by EPA				< 192 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69286	Sediment	Suspended sediment, sieve diameter, percent smaller than 128 millimeters	USGS use and no use by EPA				< 128 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69287	Sediment	Suspended sediment, sieve diameter, percent smaller than 125 millimeters	USGS use and no use by EPA				< 125 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69288	Sediment	Suspended sediment, sieve diameter, percent smaller than 106 millimeters	USGS use and no use by EPA				< 106 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69289	Sediment	Suspended sediment, sieve diameter, percent smaller than 100 millimeters	USGS use and no use by EPA				< 100 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69290	Sediment	Suspended sediment, sieve diameter, percent smaller than 96 millimeters	USGS use and no use by EPA				< 96 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69291	Sediment	Suspended sediment, sieve diameter, percent smaller than 90 millimeters	USGS use and no use by EPA				< 90 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69292	Sediment	Suspended sediment, sieve diameter, percent smaller than 75 millimeters	USGS use and no use by EPA				< 75 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69293	Sediment	Suspended sediment, sieve diameter, percent smaller than 64 millimeters	USGS use and no use by EPA				< 64 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69294	Sediment	Suspended sediment, sieve diameter, percent smaller than 63 millimeters	USGS use and no use by EPA				< 63 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69295	Sediment	Suspended sediment, sieve diameter, percent smaller than 53 millimeters	USGS use and no use by EPA				< 53 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69296	Sediment	Suspended sediment, sieve diameter, percent smaller than 50 millimeters	USGS use and no use by EPA				< 50 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69297	Sediment	Suspended sediment, sieve diameter, percent smaller than 45 millimeters	USGS use and no use by EPA				< 45 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69298	Sediment	Suspended sediment, sieve diameter, percent smaller than 37.5 millimeters	USGS use and no use by EPA				< 37.5 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69299	Sediment	Suspended sediment, sieve diameter, percent smaller than 31.5 millimeters	USGS use and no use by EPA				< 31.5 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69300	Sediment	Suspended sediment, sieve diameter, percent smaller than 26.5 millimeters	USGS use and no use by EPA				< 26.5 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69301	Sediment	Suspended sediment, sieve diameter, percent smaller than 25 millimeters	USGS use and no use by EPA				< 25 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69302	Sediment	Suspended sediment, sieve diameter, percent smaller than 22.4 millimeters	USGS use and no use by EPA				< 22.4 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69303	Sediment	Suspended sediment, sieve diameter, percent smaller than 19 millimeters	USGS use and no use by EPA				< 19 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69304	Sediment	Suspended sediment, sieve diameter, percent smaller than 16 millimeters	USGS use and no use by EPA				< 16 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69305	Sediment	Suspended sediment, sieve diameter, percent smaller than 13.2 millimeters	USGS use and no use by EPA				< 13.2 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69306	Sediment	Suspended sediment, sieve diameter, percent smaller than 12.5 millimeters	USGS use and no use by EPA				< 12.5 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69307	Sediment	Suspended sediment, sieve diameter, percent smaller than 11.2 millimeters	USGS use and no use by EPA				< 11.2 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69308	Sediment	Suspended sediment, sieve diameter, percent smaller than 9.5 millimeters	USGS use and no use by EPA				< 9.5 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69309	Sediment	Suspended sediment, sieve diameter, percent smaller than 8 millimeters	USGS use and no use by EPA				< 8 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69310	Sediment	Suspended sediment, sieve diameter, percent smaller than 7.5 millimeters	USGS use and no use by EPA				< 7.5 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69311	Sediment	Suspended sediment, sieve diameter, percent smaller than 6.3 millimeters	USGS use and no use by EPA				< 6.3 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69312	Sediment	Suspended sediment, sieve diameter, percent smaller than 5.6 millimeters	USGS use and no use by EPA				< 5.6 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69313	Sediment	Suspended sediment, sieve diameter, percent smaller than 4.75 millimeters	USGS use and no use by EPA				< 4.75 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69314	Sediment	Suspended sediment, sieve diameter, percent smaller than 4 millimeters	USGS use and no use by EPA				< 4 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69315	Sediment	Suspended sediment, sieve diameter, percent smaller than 3.35 millimeters	USGS use and no use by EPA				< 3.35 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69316	Sediment	Suspended sediment, sieve diameter, percent smaller than 2.8 millimeters	USGS use and no use by EPA				< 2.8 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69317	Sediment	Suspended sediment, sieve diameter, percent smaller than 2.36 millimeters	USGS use and no use by EPA				< 2.36 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69318	Sediment	Suspended sediment, sieve diameter, percent smaller than 1.7 millimeters	USGS use and no use by EPA				< 1.7 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69319	Sediment	Suspended sediment, sieve diameter, percent smaller than 1.4 millimeters	USGS use and no use by EPA				< 1.4 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69320	Sediment	Suspended sediment, sieve diameter, percent smaller than 1.18 millimeters	USGS use and no use by EPA				< 1.18 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69321	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.85 millimeters	USGS use and no use by EPA				< 0.85 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69322	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.71 millimeters	USGS use and no use by EPA				< 0.71 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69323	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.6 millimeters	USGS use and no use by EPA				< 0.6 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69324	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.425 millimeters	USGS use and no use by EPA				< 0.425 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69325	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.355 millimeters	USGS use and no use by EPA				< 0.355 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69326	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.3 millimeters	USGS use and no use by EPA				< 0.3 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69327	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.212 millimeters	USGS use and no use by EPA				< 0.212 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69328	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.18 millimeters	USGS use and no use by EPA				< 0.18 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69329	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.15 millimeters	USGS use and no use by EPA				< 0.15 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69330	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.106 millimeters	USGS use and no use by EPA				< 0.106 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69331	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.09 millimeters	USGS use and no use by EPA				< 0.09 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69332	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.075 millimeters	USGS use and no use by EPA				< 0.075 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69333	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.053 millimeters	USGS use and no use by EPA				< 0.053 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69334	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.045 millimeters	USGS use and no use by EPA				< 0.045 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69335	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.038 millimeters	USGS use and no use by EPA				< 0.038 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69336	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.032 millimeters	USGS use and no use by EPA				< 0.032 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69337	Sediment	Suspended sediment, direct measurement, percent smaller than 4 millimeters	USGS use and no use by EPA				< 4 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69338	Sediment	Suspended sediment, direct measurement, percent smaller than 2.8 millimeters	USGS use and no use by EPA				< 2.8 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69339	Sediment	Suspended sediment, direct measurement, percent smaller than 2 millimeters	USGS use and no use by EPA				< 2 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69340	Sediment	Suspended sediment, direct measurement, percent smaller than 1.7 millimeters	USGS use and no use by EPA				< 1.7 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69341	Sediment	Suspended sediment, direct measurement, percent smaller than 1.4 millimeters	USGS use and no use by EPA				< 1.4 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69342	Sediment	Suspended sediment, direct measurement, percent smaller than 1.18 millimeters	USGS use and no use by EPA				< 1.18 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69343	Sediment	Suspended sediment, direct measurement, percent smaller than 1 millimeter	USGS use and no use by EPA				< 1 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69344	Sediment	Suspended sediment, direct measurement, percent smaller than 0.85 millimeters	USGS use and no use by EPA				< 0.85 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69345	Sediment	Suspended sediment, direct measurement, percent smaller than 0.71 millimeters	USGS use and no use by EPA				< 0.71 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69346	Sediment	Suspended sediment, direct measurement, percent smaller than 0.6 millimeters	USGS use and no use by EPA				< 0.6 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69347	Sediment	Suspended sediment, direct measurement, percent smaller than 0.5 millimeters	USGS use and no use by EPA				< 0.5 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69348	Sediment	Suspended sediment, direct measurement, percent smaller than 0.425 millimeters	USGS use and no use by EPA				< 0.425 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69349	Sediment	Suspended sediment, direct measurement, percent smaller than 0.355 millimeters	USGS use and no use by EPA				< 0.355 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69350	Sediment	Suspended sediment, direct measurement, percent smaller than 0.3 millimeters	USGS use and no use by EPA				< 0.3 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69351	Sediment	Suspended sediment, direct measurement, percent smaller than 0.25 millimeters	USGS use and no use by EPA				< 0.25 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69352	Sediment	Suspended sediment, direct measurement, percent smaller than 0.212 millimeters	USGS use and no use by EPA				< 0.212 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69353	Sediment	Suspended sediment, direct measurement, percent smaller than 0.18 millimeters	USGS use and no use by EPA				< 0.18 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69354	Sediment	Suspended sediment, direct measurement, percent smaller than 0.15 millimeters	USGS use and no use by EPA				< 0.15 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69355	Sediment	Suspended sediment, direct measurement, percent smaller than 0.125 millimeters	USGS use and no use by EPA				< 0.125 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69356	Sediment	Suspended sediment, direct measurement, percent smaller than 0.106 millimeters	USGS use and no use by EPA				< 0.106 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69357	Sediment	Suspended sediment, direct measurement, percent smaller than 0.09 millimeters	USGS use and no use by EPA				< 0.09 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69358	Sediment	Suspended sediment, direct measurement, percent smaller than 0.075 millimeters	USGS use and no use by EPA				< 0.075 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69359	Sediment	Suspended sediment, direct measurement, percent smaller than 0.063 millimeters	USGS use and no use by EPA				< 0.063 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69360	Sediment	Suspended sediment, direct measurement, percent smaller than 0.053 millimeters	USGS use and no use by EPA				< 0.053 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69361	Sediment	Suspended sediment, direct measurement, percent smaller than 0.045 millimeters	USGS use and no use by EPA				< 0.045 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69362	Sediment	Suspended sediment, direct measurement, percent smaller than 0.038 millimeters	USGS use and no use by EPA				< 0.038 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69363	Sediment	Suspended sediment, direct measurement, percent smaller than 0.032 millimeters	USGS use and no use by EPA				< 0.032 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69364	Sediment	Suspended sediment, direct measurement, percent smaller than 0.031 millimeters	USGS use and no use by EPA				< 0.031 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69365	Sediment	Suspended sediment, direct measurement, percent smaller than 0.025 millimeters	USGS use and no use by EPA				< 0.025 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69366	Sediment	Suspended sediment, direct measurement, percent smaller than 0.024 millimeters	USGS use and no use by EPA				< 0.024 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69367	Sediment	Suspended sediment, direct measurement, percent smaller than 0.02 millimeters	USGS use and no use by EPA				< 0.02 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69368	Sediment	Suspended sediment, direct measurement, percent smaller than 0.016 millimeters	USGS use and no use by EPA				< 0.016 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69369	Sediment	Suspended sediment, direct measurement, percent smaller than 0.012 millimeters	USGS use and no use by EPA				< 0.012 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69370	Sediment	Suspended sediment, direct measurement, percent smaller than 0.008 millimeters	USGS use and no use by EPA				< 0.008 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69371	Sediment	Suspended sediment, direct measurement, percent smaller than 0.006 millimeters	USGS use and no use by EPA				< 0.006 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69372	Sediment	Suspended sediment, direct measurement, percent smaller than 0.004 millimeters	USGS use and no use by EPA				< 0.004 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69373	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 4 millimeters	USGS use and no use by EPA				< 4 mm	Total		 	Sediment	%
+69374	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 3.35 millimeters	USGS use and no use by EPA				< 3.35 mm	Total		 	Sediment	%
+69375	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 2.8 millimeters	USGS use and no use by EPA				< 2.8 mm	Total		 	Sediment	%
+69376	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 2.36 millimeters	USGS use and no use by EPA				< 2.36 mm	Total		 	Sediment	%
+69377	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 1.7 millimeters	USGS use and no use by EPA				< 1.7 mm	Total		 	Sediment	%
+69378	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 1.4 millimeters	USGS use and no use by EPA				< 1.4 mm	Total		 	Sediment	%
+69379	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 1.18 millimeters	USGS use and no use by EPA				< 1.18 mm	Total		 	Sediment	%
+69380	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.85 millimeters	USGS use and no use by EPA				< 0.85 mm	Total		 	Sediment	%
+69381	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.71 millimeters	USGS use and no use by EPA				< 0.71 mm	Total		 	Sediment	%
+69382	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.6 millimeters	USGS use and no use by EPA				< 0.6 mm	Total		 	Sediment	%
+69383	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.425 millimeters	USGS use and no use by EPA				< 0.425 mm	Total		 	Sediment	%
+69384	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.3 millimeters	USGS use and no use by EPA				< 0.3 mm	Total		 	Sediment	%
+69385	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.212 millimeters	USGS use and no use by EPA				< 0.212 mm	Total		 	Sediment	%
+69386	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.15 millimeters	USGS use and no use by EPA				< 0.15 mm	Total		 	Sediment	%
+69387	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.106 millimeters	USGS use and no use by EPA				< 0.106 mm	Total		 	Sediment	%
+69388	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.075 millimeters	USGS use and no use by EPA				< 0.075 mm	Total		 	Sediment	%
+69389	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.053 millimeters	USGS use and no use by EPA				< 0.053 mm	Total		 	Sediment	%
+69390	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.045 millimeters	USGS use and no use by EPA				< 0.045 mm	Total		 	Sediment	%
+69391	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.038 millimeters	USGS use and no use by EPA				< 0.038 mm	Total		 	Sediment	%
+69392	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.032 millimeters	USGS use and no use by EPA				< 0.032 mm	Total		 	Sediment	%
+69393	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.025 millimeters	USGS use and no use by EPA				< 0.025 mm	Total		 	Sediment	%
+69394	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.024 millimeters	USGS use and no use by EPA				< 0.024 mm	Total		 	Sediment	%
+69395	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.02 millimeters	USGS use and no use by EPA				< 0.02 mm	Total		 	Sediment	%
+69396	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.012 millimeters	USGS use and no use by EPA				< 0.012 mm	Total		 	Sediment	%
+69397	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.006 millimeters	USGS use and no use by EPA				< 0.006 mm	Total		 	Sediment	%
+69398	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.003 millimeters	USGS use and no use by EPA				< 0.003 mm	Total		 	Sediment	%
+69399	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.0015 millimeters	USGS use and no use by EPA				< 0.0015 mm	Total		 	Sediment	%
+69400	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.001 millimeters	USGS use and no use by EPA				< 0.001 mm	Total		 	Sediment	%
+69401	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.00075 millimeters	USGS use and no use by EPA				< 0.00075 mm	Total		 	Sediment	%
+69402	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.0005 millimeters	USGS use and no use by EPA				< 0.0005 mm	Total		 	Sediment	%
+69403	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.00038 millimeters	USGS use and no use by EPA				< 0.00038 mm	Total		 	Sediment	%
+69404	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.00025 millimeters	USGS use and no use by EPA				< 0.00025 mm	Total		 	Sediment	%
+69405	Sediment	Total sediment, sieve diameter, percent smaller than 2048 millimeters	USGS use and no use by EPA				< 2048 mm	Total		 	Sediment	%
+69406	Sediment	Total sediment, sieve diameter, percent smaller than 1536 millimeters	USGS use and no use by EPA				< 1536 mm	Total		 	Sediment	%
+69407	Sediment	Total sediment, sieve diameter, percent smaller than 1024 millimeters	USGS use and no use by EPA				< 1024 mm	Total		 	Sediment	%
+69408	Sediment	Total sediment, sieve diameter, percent smaller than 768 millimeters	USGS use and no use by EPA				< 768 mm	Total		 	Sediment	%
+69409	Sediment	Total sediment, sieve diameter, percent smaller than 512 millimeters	USGS use and no use by EPA				< 512 mm	Total		 	Sediment	%
+69410	Sediment	Total sediment, sieve diameter, percent smaller than 384 millimeters	USGS use and no use by EPA				< 384 mm	Total		 	Sediment	%
+69411	Sediment	Total sediment, sieve diameter, percent smaller than 256 millimeters	USGS use and no use by EPA				< 256 mm	Total		 	Sediment	%
+69412	Sediment	Total sediment, sieve diameter, percent smaller than 192 millimeters	USGS use and no use by EPA				< 192 mm	Total		 	Sediment	%
+69413	Sediment	Total sediment, sieve diameter, percent smaller than 128 millimeters	USGS use and no use by EPA				< 128 mm	Total		 	Sediment	%
+69414	Sediment	Total sediment, sieve diameter, percent smaller than 106 millimeters	USGS use and no use by EPA				< 106 mm	Total		 	Sediment	%
+69415	Sediment	Total sediment, sieve diameter, percent smaller than 100 millimeters	USGS use and no use by EPA				< 100 mm	Total		 	Sediment	%
+69416	Sediment	Total sediment, sieve diameter, percent smaller than 96 millimeters	USGS use and no use by EPA				< 96 mm	Total		 	Sediment	%
+69417	Sediment	Total sediment, sieve diameter, percent smaller than 90 millimeters	USGS use and no use by EPA				< 90 mm	Total		 	Sediment	%
+69418	Sediment	Total sediment, sieve diameter, percent smaller than 75 millimeters	USGS use and no use by EPA				< 75 mm	Total		 	Sediment	%
+69419	Sediment	Total sediment, sieve diameter, percent smaller than 64 millimeters	USGS use and no use by EPA				< 64 mm	Total		 	Sediment	%
+69420	Sediment	Total sediment, sieve diameter, percent smaller than 63 millimeters	USGS use and no use by EPA				< 63 mm	Total		 	Sediment	%
+69421	Sediment	Total sediment, sieve diameter, percent smaller than 53 millimeters	USGS use and no use by EPA				< 53 mm	Total		 	Sediment	%
+69422	Sediment	Total sediment, sieve diameter, percent smaller than 50 millimeters	USGS use and no use by EPA				< 50 mm	Total		 	Sediment	%
+69423	Sediment	Total sediment, sieve diameter, percent smaller than 45 millimeters	USGS use and no use by EPA				< 45 mm	Total		 	Sediment	%
+69424	Sediment	Total sediment, sieve diameter, percent smaller than 37.5 millimeters	USGS use and no use by EPA				< 37.5 mm	Total		 	Sediment	%
+69425	Sediment	Total sediment, sieve diameter, percent smaller than 26.5 millimeters	USGS use and no use by EPA				< 26.5 mm	Total		 	Sediment	%
+69426	Sediment	Total sediment, sieve diameter, percent smaller than 25 millimeters	USGS use and no use by EPA				< 25 mm	Total		 	Sediment	%
+69427	Sediment	Total sediment, sieve diameter, percent smaller than 22.4 millimeters	USGS use and no use by EPA				< 22.4 mm	Total		 	Sediment	%
+69428	Sediment	Total sediment, sieve diameter, percent smaller than 19 millimeters	USGS use and no use by EPA				< 19 mm	Total		 	Sediment	%
+69429	Sediment	Total sediment, sieve diameter, percent smaller than 13.2 millimeters	USGS use and no use by EPA				< 13.2 mm	Total		 	Sediment	%
+69430	Sediment	Total sediment, sieve diameter, percent smaller than 12.5 millimeters	USGS use and no use by EPA				< 12.5 mm	Total		 	Sediment	%
+69431	Sediment	Total sediment, sieve diameter, percent smaller than 11.2 millimeters	USGS use and no use by EPA				< 11.2 mm	Total		 	Sediment	%
+69432	Sediment	Total sediment, sieve diameter, percent smaller than 9.5 millimeters	USGS use and no use by EPA				< 9.5 mm	Total		 	Sediment	%
+69433	Sediment	Total sediment, sieve diameter, percent smaller than 7.5 millimeters	USGS use and no use by EPA				< 7.5 mm	Total		 	Sediment	%
+69434	Sediment	Total sediment, sieve diameter, percent smaller than 6.3 millimeters	USGS use and no use by EPA				< 6.3 mm	Total		 	Sediment	%
+69435	Sediment	Total sediment, sieve diameter, percent smaller than 5.6 millimeters	USGS use and no use by EPA				< 5.6 mm	Total		 	Sediment	%
+69436	Sediment	Total sediment, sieve diameter, percent smaller than 4.75 millimeters	USGS use and no use by EPA				< 4.75 mm	Total		 	Sediment	%
+69437	Sediment	Total sediment, sieve diameter, percent smaller than 3.35 millimeters	USGS use and no use by EPA				< 3.35 mm	Total		 	Sediment	%
+69438	Sediment	Total sediment, sieve diameter, percent smaller than 2.8 millimeters	USGS use and no use by EPA				< 2.8 mm	Total		 	Sediment	%
+69439	Sediment	Total sediment, sieve diameter, percent smaller than 2.36 millimeters	USGS use and no use by EPA				< 2.36 mm	Total		 	Sediment	%
+69440	Sediment	Total sediment, sieve diameter, percent smaller than 1.7 millimeters	USGS use and no use by EPA				< 1.7 mm	Total		 	Sediment	%
+69441	Sediment	Total sediment, sieve diameter, percent smaller than 1.4 millimeters	USGS use and no use by EPA				< 1.4 mm	Total		 	Sediment	%
+69442	Sediment	Total sediment, sieve diameter, percent smaller than 1.18 millimeters	USGS use and no use by EPA				< 1.18 mm	Total		 	Sediment	%
+69443	Sediment	Total sediment, sieve diameter, percent smaller than 0.85 millimeters	USGS use and no use by EPA				< 0.85 mm	Total		 	Sediment	%
+69444	Sediment	Total sediment, sieve diameter, percent smaller than 0.71 millimeters	USGS use and no use by EPA				< 0.71 mm	Total		 	Sediment	%
+69445	Sediment	Total sediment, sieve diameter, percent smaller than 0.6 millimeters	USGS use and no use by EPA				< 0.6 mm	Total		 	Sediment	%
+69446	Sediment	Total sediment, sieve diameter, percent smaller than 0.425 millimeters	USGS use and no use by EPA				< 0.425 mm	Total		 	Sediment	%
+69447	Sediment	Total sediment, sieve diameter, percent smaller than 0.355 millimeters	USGS use and no use by EPA				< 0.355 mm	Total		 	Sediment	%
+69448	Sediment	Total sediment, sieve diameter, percent smaller than 0.3 millimeters	USGS use and no use by EPA				< 0.3 mm	Total		 	Sediment	%
+69449	Sediment	Total sediment, sieve diameter, percent smaller than 0.212 millimeters	USGS use and no use by EPA				< 0.212 mm	Total		 	Sediment	%
+69450	Sediment	Total sediment, sieve diameter, percent smaller than 0.18 millimeters	USGS use and no use by EPA				< 0.18 mm	Total		 	Sediment	%
+69451	Sediment	Total sediment, sieve diameter, percent smaller than 0.15 millimeters	USGS use and no use by EPA				< 0.15 mm	Total		 	Sediment	%
+69452	Sediment	Total sediment, sieve diameter, percent smaller than 0.106 millimeters	USGS use and no use by EPA				< 0.106 mm	Total		 	Sediment	%
+69453	Sediment	Total sediment, sieve diameter, percent smaller than 0.09 millimeters	USGS use and no use by EPA				< 0.09 mm	Total		 	Sediment	%
+69454	Sediment	Total sediment, sieve diameter, percent smaller than 0.075 millimeters	USGS use and no use by EPA				< 0.075 mm	Total		 	Sediment	%
+69455	Sediment	Total sediment, sieve diameter, percent smaller than 0.053 millimeters	USGS use and no use by EPA				< 0.053 mm	Total		 	Sediment	%
+69456	Sediment	Total sediment, sieve diameter, percent smaller than 0.045 millimeters	USGS use and no use by EPA				< 0.045 mm	Total		 	Sediment	%
+69457	Sediment	Total sediment, sieve diameter, percent smaller than 0.038 millimeters	USGS use and no use by EPA				< 0.038 mm	Total		 	Sediment	%
+69458	Sediment	Total sediment, sieve diameter, percent smaller than 0.032 millimeters	USGS use and no use by EPA				< 0.032 mm	Total		 	Sediment	%
+69459	Sediment	Total sediment, direct measurement, percent smaller than 2048 millimeters	USGS use and no use by EPA				< 2048 mm	Total		 	Sediment	%
+69460	Sediment	Total sediment, direct measurement, percent smaller than 1536 millimeters	USGS use and no use by EPA				< 1536 mm	Total		 	Sediment	%
+69461	Sediment	Total sediment, direct measurement, percent smaller than 1024 millimeters	USGS use and no use by EPA				< 1024 mm	Total		 	Sediment	%
+69462	Sediment	Total sediment, direct measurement, percent smaller than 768 millimeters	USGS use and no use by EPA				< 768 mm	Total		 	Sediment	%
+69463	Sediment	Total sediment, direct measurement, percent smaller than 512 millimeters	USGS use and no use by EPA				< 512 mm	Total		 	Sediment	%
+69464	Sediment	Total sediment, direct measurement, percent smaller than 384 millimeters	USGS use and no use by EPA				< 384 mm	Total		 	Sediment	%
+69465	Sediment	Total sediment, direct measurement, percent smaller than 256 millimeters	USGS use and no use by EPA				< 256 mm	Total		 	Sediment	%
+69466	Sediment	Total sediment, direct measurement, percent smaller than 192 millimeters	USGS use and no use by EPA				< 192 mm	Total		 	Sediment	%
+69467	Sediment	Total sediment, direct measurement, percent smaller than 128 millimeters	USGS use and no use by EPA				< 128 mm	Total		 	Sediment	%
+69468	Sediment	Total sediment, direct measurement, percent smaller than 125 millimeters	USGS use and no use by EPA				< 125 mm	Total		 	Sediment	%
+69469	Sediment	Total sediment, direct measurement, percent smaller than 106 millimeters	USGS use and no use by EPA				< 106 mm	Total		 	Sediment	%
+69470	Sediment	Total sediment, direct measurement, percent smaller than 100 millimeters	USGS use and no use by EPA				< 100 mm	Total		 	Sediment	%
+69471	Sediment	Total sediment, direct measurement, percent smaller than 96 millimeters	USGS use and no use by EPA				< 96 mm	Total		 	Sediment	%
+69472	Sediment	Total sediment, direct measurement, percent smaller than 90 millimeters	USGS use and no use by EPA				< 90 mm	Total		 	Sediment	%
+69473	Sediment	Total sediment, direct measurement, percent smaller than 75 millimeters	USGS use and no use by EPA				< 75 mm	Total		 	Sediment	%
+69474	Sediment	Total sediment, direct measurement, percent smaller than 64 millimeters	USGS use and no use by EPA				< 64 mm	Total		 	Sediment	%
+69475	Sediment	Total sediment, direct measurement, percent smaller than 63 millimeters	USGS use and no use by EPA				< 63 mm	Total		 	Sediment	%
+69476	Sediment	Total sediment, direct measurement, percent smaller than 53 millimeters	USGS use and no use by EPA				< 53 mm	Total		 	Sediment	%
+69477	Sediment	Total sediment, direct measurement, percent smaller than 50 millimeters	USGS use and no use by EPA				< 50 mm	Total		 	Sediment	%
+69478	Sediment	Total sediment, direct measurement, percent smaller than 45 millimeters	USGS use and no use by EPA				< 45 mm	Total		 	Sediment	%
+69479	Sediment	Total sediment, direct measurement, percent smaller than 37.5 millimeters	USGS use and no use by EPA				< 37.5 mm	Total		 	Sediment	%
+69480	Sediment	Total sediment, direct measurement, percent smaller than 31.5 millimeters	USGS use and no use by EPA				< 31.5 mm	Total		 	Sediment	%
+69481	Sediment	Total sediment, direct measurement, percent smaller than 26.5 millimeters	USGS use and no use by EPA				< 26.5 mm	Total		 	Sediment	%
+69482	Sediment	Total sediment, direct measurement, percent smaller than 25 millimeters	USGS use and no use by EPA				< 25 mm	Total		 	Sediment	%
+69483	Sediment	Total sediment, direct measurement, percent smaller than 22.4 millimeters	USGS use and no use by EPA				< 22.4 mm	Total		 	Sediment	%
+69484	Sediment	Total sediment, direct measurement, percent smaller than 19 millimeters	USGS use and no use by EPA				< 19 mm	Total		 	Sediment	%
+69485	Sediment	Total sediment, direct measurement, percent smaller than 16 millimeters	USGS use and no use by EPA				< 16 mm	Total		 	Sediment	%
+69486	Sediment	Total sediment, direct measurement, percent smaller than 13.2 millimeters	USGS use and no use by EPA				< 13.2 mm	Total		 	Sediment	%
+69487	Sediment	Total sediment, direct measurement, percent smaller than 12.5 millimeters	USGS use and no use by EPA				< 12.5 mm	Total		 	Sediment	%
+69488	Sediment	Total sediment, direct measurement, percent smaller than 11.2 millimeters	USGS use and no use by EPA				< 11.2 mm	Total		 	Sediment	%
+69489	Sediment	Total sediment, direct measurement, percent smaller than 9.5 millimeters	USGS use and no use by EPA				< 9.5 mm	Total		 	Sediment	%
+69490	Sediment	Total sediment, direct measurement, percent smaller than 8 millimeters	USGS use and no use by EPA				< 8 mm	Total		 	Sediment	%
+69491	Sediment	Total sediment, direct measurement, percent smaller than 7.5 millimeters	USGS use and no use by EPA				< 7.5 mm	Total		 	Sediment	%
+69492	Sediment	Total sediment, direct measurement, percent smaller than 6.3 millimeters	USGS use and no use by EPA				< 6.3 mm	Total		 	Sediment	%
+69493	Sediment	Total sediment, direct measurement, percent smaller than 5.6 millimeters	USGS use and no use by EPA				< 5.6 mm	Total		 	Sediment	%
+69494	Sediment	Total sediment, direct measurement, percent smaller than 4.75 millimeters	USGS use and no use by EPA				< 4.75 mm	Total		 	Sediment	%
+69495	Sediment	Total sediment, direct measurement, percent smaller than 4 millimeters	USGS use and no use by EPA				< 4 mm	Total		 	Sediment	%
+69496	Sediment	Total sediment, direct measurement, percent smaller than 3.35 millimeters	USGS use and no use by EPA				< 3.35 mm	Total		 	Sediment	%
+69497	Sediment	Total sediment, direct measurement, percent smaller than 2.8 millimeters	USGS use and no use by EPA				< 2.8 mm	Total		 	Sediment	%
+69498	Sediment	Total sediment, direct measurement, percent smaller than 2.36 millimeters	USGS use and no use by EPA				< 2.36 mm	Total		 	Sediment	%
+69499	Sediment	Total sediment, direct measurement, percent smaller than 2 millimeters	USGS use and no use by EPA				< 2 mm	Total		 	Sediment	%
+69500	Sediment	Total sediment, direct measurement, percent smaller than 1.7 millimeters	USGS use and no use by EPA				< 1.7 mm	Total		 	Sediment	%
+69501	Sediment	Total sediment, direct measurement, percent smaller than 1.4 millimeters	USGS use and no use by EPA				< 1.4 mm	Total		 	Sediment	%
+69502	Sediment	Total sediment, direct measurement, percent smaller than 1.18 millimeters	USGS use and no use by EPA				< 1.18 mm	Total		 	Sediment	%
+69503	Sediment	Total sediment, direct measurement, percent smaller than 1 millimeter	USGS use and no use by EPA				< 1 mm	Total		 	Sediment	%
+69504	Sediment	Total sediment, direct measurement, percent smaller than 0.85 millimeters	USGS use and no use by EPA				< 0.85 mm	Total		 	Sediment	%
+69505	Sediment	Total sediment, direct measurement, percent smaller than 0.71 millimeters	USGS use and no use by EPA				< 0.71 mm	Total		 	Sediment	%
+69506	Sediment	Total sediment, direct measurement, percent smaller than 0.6 millimeters	USGS use and no use by EPA				< 0.6 mm	Total		 	Sediment	%
+69507	Sediment	Total sediment, direct measurement, percent smaller than 0.5 millimeters	USGS use and no use by EPA				< 0.5 mm	Total		 	Sediment	%
+69508	Sediment	Total sediment, direct measurement, percent smaller than 0.425 millimeters	USGS use and no use by EPA				< 0.425 mm	Total		 	Sediment	%
+69509	Sediment	Total sediment, direct measurement, percent smaller than 0.355 millimeters	USGS use and no use by EPA				< 0.355 mm	Total		 	Sediment	%
+69510	Sediment	Total sediment, direct measurement, percent smaller than 0.3 millimeters	USGS use and no use by EPA				< 0.3 mm	Total		 	Sediment	%
+69511	Sediment	Total sediment, direct measurement, percent smaller than 0.25 millimeters	USGS use and no use by EPA				< 0.25 mm	Total		 	Sediment	%
+69512	Sediment	Total sediment, direct measurement, percent smaller than 0.212 millimeters	USGS use and no use by EPA				< 0.212 mm	Total		 	Sediment	%
+69513	Sediment	Total sediment, direct measurement, percent smaller than 0.18 millimeters	USGS use and no use by EPA				< 0.18 mm	Total		 	Sediment	%
+69514	Sediment	Total sediment, direct measurement, percent smaller than 0.15 millimeters	USGS use and no use by EPA				< 0.15 mm	Total		 	Sediment	%
+69515	Sediment	Total sediment, direct measurement, percent smaller than 0.125 millimeters	USGS use and no use by EPA				< 0.125 mm	Total		 	Sediment	%
+69516	Sediment	Total sediment, direct measurement, percent smaller than 0.106 millimeters	USGS use and no use by EPA				< 0.106 mm	Total		 	Sediment	%
+69517	Sediment	Total sediment, direct measurement, percent smaller than 0.09 millimeters	USGS use and no use by EPA				< 0.09 mm	Total		 	Sediment	%
+69518	Sediment	Total sediment, direct measurement, percent smaller than 0.075 millimeters	USGS use and no use by EPA				< 0.075 mm	Total		 	Sediment	%
+69519	Sediment	Total sediment, direct measurement, percent smaller than 0.063 millimeters	USGS use and no use by EPA				< 0.063 mm	Total		 	Sediment	%
+69520	Sediment	Total sediment, direct measurement, percent smaller than 0.053 millimeters	USGS use and no use by EPA				< 0.053 mm	Total		 	Sediment	%
+69521	Sediment	Total sediment, direct measurement, percent smaller than 0.045 millimeters	USGS use and no use by EPA				< 0.045 mm	Total		 	Sediment	%
+69522	Sediment	Total sediment, direct measurement, percent smaller than 0.038 millimeters	USGS use and no use by EPA				< 0.038 mm	Total		 	Sediment	%
+69523	Sediment	Total sediment, direct measurement, percent smaller than 0.032 millimeters	USGS use and no use by EPA				< 0.032 mm	Total		 	Sediment	%
+69524	Sediment	Total sediment, direct measurement, percent smaller than 0.031 millimeters	USGS use and no use by EPA				< 0.031 mm	Total		 	Sediment	%
+69525	Sediment	Total sediment, direct measurement, percent smaller than 0.025 millimeters	USGS use and no use by EPA				< 0.025 mm	Total		 	Sediment	%
+69526	Sediment	Total sediment, direct measurement, percent smaller than 0.024 millimeters	USGS use and no use by EPA				< 0.024 mm	Total		 	Sediment	%
+69527	Sediment	Total sediment, direct measurement, percent smaller than 0.02 millimeters	USGS use and no use by EPA				< 0.02 mm	Total		 	Sediment	%
+69528	Sediment	Total sediment, direct measurement, percent smaller than 0.016 millimeters	USGS use and no use by EPA				< 0.016 mm	Total		 	Sediment	%
+69529	Sediment	Total sediment, direct measurement, percent smaller than 0.012 millimeters	USGS use and no use by EPA				< 0.012 mm	Total		 	Sediment	%
+69530	Sediment	Total sediment, direct measurement, percent smaller than 0.008 millimeters	USGS use and no use by EPA				< 0.008 mm	Total		 	Sediment	%
+69531	Sediment	Total sediment, direct measurement, percent smaller than 0.006 millimeters	USGS use and no use by EPA				< 0.006 mm	Total		 	Sediment	%
+69532	Sediment	Total sediment, direct measurement, percent smaller than 0.004 millimeters	USGS use and no use by EPA				< 0.004 mm	Total		 	Sediment	%
+69533	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.045 millimeters	USGS use and no use by EPA				< 0.045 mm	Bed Sediment		 	Sediment	%
+69534	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.0425 millimeters	USGS use and no use by EPA				< 0.0425 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69535	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.0425 millimeters	USGS use and no use by EPA				< 0.0425 mm	Total		 	Sediment	%
+69536	Sediment	Total sediment, sieve diameter, percent smaller than 125 millimeters	USGS use and no use by EPA				< 125 mm	Total		 	Sediment	%
+69537	Sediment	Suspended sediment, direct measurement, percent smaller than 3.35 millimeters	USGS use and no use by EPA				< 3.35 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69538	Sediment	Suspended sediment, direct measurement, percent smaller than 2.36 millimeters	USGS use and no use by EPA				< 2.36 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69539	Sediment	Bedload sediment, direct measurement, percent smaller than 2048 millimeters	USGS use and no use by EPA				< 2048 mm	Bedload		 	Sediment	%
+69540	Sediment	Bedload sediment, direct measurement, percent smaller than 1536 millimeters	USGS use and no use by EPA				< 1536 mm	Bedload		 	Sediment	%
+69541	Sediment	Bedload sediment, direct measurement, percent smaller than 1024 millimeters	USGS use and no use by EPA				< 1024 mm	Bedload		 	Sediment	%
+69542	Sediment	Bedload sediment, direct measurement, percent smaller than 768 millimeters	USGS use and no use by EPA				< 768 mm	Bedload		 	Sediment	%
+69543	Sediment	Bedload sediment, direct measurement, percent smaller than 512 millimeters	USGS use and no use by EPA				< 512 mm	Bedload		 	Sediment	%
+69544	Sediment	Bedload sediment, direct measurement, percent smaller than 384 millimeters	USGS use and no use by EPA				< 384 mm	Bedload		 	Sediment	%
+69545	Sediment	Bedload sediment, direct measurement, percent smaller than 256 millimeters	USGS use and no use by EPA				< 256 mm	Bedload		 	Sediment	%
+69546	Sediment	Bedload sediment, direct measurement, percent smaller than 192 millimeters	USGS use and no use by EPA				< 192 mm	Bedload		 	Sediment	%
+69547	Sediment	Bedload sediment, direct measurement, percent smaller than 128 millimeters	USGS use and no use by EPA				< 128 mm	Bedload		 	Sediment	%
+69548	Sediment	Bedload sediment, direct measurement, percent smaller than 125 millimeters	USGS use and no use by EPA				< 125 mm	Bedload		 	Sediment	%
+69549	Sediment	Bedload sediment, direct measurement, percent smaller than 106 millimeters	USGS use and no use by EPA				< 106 mm	Bedload		 	Sediment	%
+69550	Sediment	Bedload sediment, direct measurement, percent smaller than 100 millimeters	USGS use and no use by EPA				< 100 mm	Bedload		 	Sediment	%
+69551	Sediment	Bedload sediment, direct measurement, percent smaller than 96 millimeters	USGS use and no use by EPA				< 96 mm	Bedload		 	Sediment	%
+69552	Sediment	Bedload sediment, direct measurement, percent smaller than 90 millimeters	USGS use and no use by EPA				< 90 mm	Bedload		 	Sediment	%
+69553	Sediment	Bedload sediment, direct measurement, percent smaller than 75 millimeters	USGS use and no use by EPA				< 75 mm	Bedload		 	Sediment	%
+69554	Sediment	Bedload sediment, direct measurement, percent smaller than 64 millimeters	USGS use and no use by EPA				< 64 mm	Bedload		 	Sediment	%
+69555	Sediment	Bedload sediment, direct measurement, percent smaller than 63 millimeters	USGS use and no use by EPA				< 63 mm	Bedload		 	Sediment	%
+69556	Sediment	Bedload sediment, direct measurement, percent smaller than 53 millimeters	USGS use and no use by EPA				< 53 mm	Bedload		 	Sediment	%
+69557	Sediment	Bedload sediment, direct measurement, percent smaller than 50 millimeters	USGS use and no use by EPA				< 50 mm	Bedload		 	Sediment	%
+69558	Sediment	Bedload sediment, direct measurement, percent smaller than 45 millimeters	USGS use and no use by EPA				< 45 mm	Bedload		 	Sediment	%
+69559	Sediment	Bedload sediment, direct measurement, percent smaller than 37.5 millimeters	USGS use and no use by EPA				< 37.5 mm	Bedload		 	Sediment	%
+69560	Sediment	Bedload sediment, direct measurement, percent smaller than 31.5 millimeters	USGS use and no use by EPA				< 31.5 mm	Bedload		 	Sediment	%
+69561	Sediment	Bedload sediment, direct measurement, percent smaller than 26.5 millimeters	USGS use and no use by EPA				< 26.5 mm	Bedload		 	Sediment	%
+69562	Sediment	Bedload sediment, direct measurement, percent smaller than 25 millimeters	USGS use and no use by EPA				< 25 mm	Bedload		 	Sediment	%
+69563	Sediment	Bedload sediment, direct measurement, percent smaller than 22.4 millimeters	USGS use and no use by EPA				< 22.4 mm	Bedload		 	Sediment	%
+69564	Sediment	Bedload sediment, direct measurement, percent smaller than 19 millimeters	USGS use and no use by EPA				< 19 mm	Bedload		 	Sediment	%
+69565	Sediment	Bedload sediment, direct measurement, percent smaller than 16 millimeters	USGS use and no use by EPA				< 16 mm	Bedload		 	Sediment	%
+69566	Sediment	Bedload sediment, direct measurement, percent smaller than 13.2 millimeters	USGS use and no use by EPA				< 13.2 mm	Bedload		 	Sediment	%
+69567	Sediment	Bedload sediment, direct measurement, percent smaller than 12.5 millimeters	USGS use and no use by EPA				< 12.5 mm	Bedload		 	Sediment	%
+69568	Sediment	Bedload sediment, direct measurement, percent smaller than 11.2 millimeters	USGS use and no use by EPA				< 11.2 mm	Bedload		 	Sediment	%
+69569	Sediment	Bedload sediment, direct measurement, percent smaller than 9.5 millimeters	USGS use and no use by EPA				< 9.5 mm	Bedload		 	Sediment	%
+69570	Sediment	Bedload sediment, direct measurement, percent smaller than 8 millimeters	USGS use and no use by EPA				< 8 mm	Bedload		 	Sediment	%
+69571	Sediment	Bedload sediment, direct measurement, percent smaller than 7.5 millimeters	USGS use and no use by EPA				< 7.5 mm	Bedload		 	Sediment	%
+69572	Sediment	Bedload sediment, direct measurement, percent smaller than 6.3 millimeters	USGS use and no use by EPA				< 6.3 mm	Bedload		 	Sediment	%
+69573	Sediment	Bedload sediment, direct measurement, percent smaller than 5.6 millimeters	USGS use and no use by EPA				< 5.6 mm	Bedload		 	Sediment	%
+69574	Sediment	Bedload sediment, direct measurement, percent smaller than 4.75 millimeters	USGS use and no use by EPA				< 4.75 mm	Bedload		 	Sediment	%
+69575	Sediment	Bedload sediment, sieve diameter, percent smaller than 180 millimeters	USGS use and no use by EPA				< 180 mm	Bedload		 	Sediment	%
+69576	Sediment	Bedload sediment, sieve diameter, percent larger than 0.5 mm and smaller than 8.0 mm	USGS use and no use by EPA				0.5-8.0 mm	Bedload		 	Sediment	%
+69577	Sediment	Bedload sediment, sieve diameter, percent larger than 8.0 mm	USGS use and no use by EPA				> 8.0 mm	Bedload		 	Sediment	%
+69578	Sediment	Suspended sediment, sieve diameter, percent larger than 0.5 mm and smaller than 8.0 mm	USGS use and no use by EPA				0.5-8.0 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69579	Sediment	Suspended sediment concentration, greater than 0.50 millimeters, milligrams per liter	USGS use and no use by EPA				> 0.50 mm	Suspended		 	Suspended sediment concentration (SSC)	mg/l
+69580	Sediment	Suspended sediment concentration, between 0.25 and 0.50 millimeters, milligrams per liter	USGS use and no use by EPA				0.25-0.50 mm	Suspended		 	Suspended sediment concentration (SSC)	mg/l
+69581	Sediment	Suspended sediment concentration, between 0.125 and 0.25 millimeters, milligrams per liter	USGS use and no use by EPA				0.125-0.25 mm	Suspended		 	Suspended sediment concentration (SSC)	mg/l
+69582	Sediment	Suspended sediment concentration, between 0.063 and 0.125 millimeters, milligrams per liter	USGS use and no use by EPA				0.063-0.125 mm	Suspended		 	Suspended sediment concentration (SSC)	mg/l
+69583	Sediment	Suspended sediment concentration, between 0.032 and 0.063 millimeters, milligrams per liter	USGS use and no use by EPA				0.032-0.063 mm	Suspended		 	Suspended sediment concentration (SSC)	mg/l
+69584	Sediment	Suspended sediment concentration, between 0.014 and 0.032 millimeters, milligrams per liter	USGS use and no use by EPA				0.014-0.032 mm	Suspended		 	Suspended sediment concentration (SSC)	mg/l
+69585	Sediment	Suspended sediment concentration, between 0.008 and 0.014 millimeters, milligrams per liter	USGS use and no use by EPA				0.008-0.014 mm	Suspended		 	Suspended sediment concentration (SSC)	mg/l
+69586	Sediment	Suspended sediment concentration, between 0.005 and 0.008 millimeters, milligrams per liter	USGS use and no use by EPA				0.005-0.008 mm	Suspended		 	Suspended sediment concentration (SSC)	mg/l
+69587	Sediment	Suspended sediment concentration, between 0.005 and 0.002 millimeters, milligrams per liter	USGS use and no use by EPA				0.005-0.002 mm	Suspended		 	Suspended sediment concentration (SSC)	mg/l
+69588	Sediment	Suspended sediment concentration, smaller than 0.002 millimeters, milligrams per liter	USGS use and no use by EPA				< 0.002 mm	Suspended		 	Suspended sediment concentration (SSC)	mg/l
+69589	Sediment	Bed sediment, wet sieved, sieve diameter, percent smaller than 0.0625 millimeters	USGS use and no use by EPA				< 0.062 mm	Bed Sediment		 	Sediment	%
+69590	Sediment	Gravel (Unified Soil Classification), passing 75 mm sieve and retained on 4.75 mm sieve, percent	USGS use and no use by EPA				4.75-75 mm			 	Gravel	%
+69591	Sediment	Sand (Unified Soil Classification), passing 4.75 mm sieve and retained on 0.075 mm sieve, percent	USGS use and no use by EPA				0.075-4.75 mm			308075-07-2	Sand	%
+69592	Sediment	Coarse sand (Unified Soil Classification), passing 4.75 mm sieve and retained on 2.00 mm sieve, percent	USGS use and no use by EPA				2.00-4.75 mm			308075-07-2	Sand	%
+69593	Sediment	Medium sand (Unified Soil Classification), passing 2.00 mm sieve and retained on 0.475 mm sieve, percent	USGS use and no use by EPA				0.475-2.00 mm			308075-07-2	Sand	%
+69594	Sediment	Fine sand (Unified Soil Classification), passing 0.475 mm sieve and retained on 0.075 mm sieve, percent	USGS use and no use by EPA				0.075-0.475 mm			308075-07-2	Sand	%
+69595	Sediment	Silt, passing 0.075 mm sieve and larger than or equal to 0.005 mm size, percent	USGS use and no use by EPA				0.005-0.075 mm			 	Silt	%
+69596	Sediment	Clay, smaller than the 0.005 mm size, percent	USGS use and no use by EPA				< 0.005 mm			 	 	%
+69597	Sediment	Suspended sediment concentration, greater than 0.0004 millimeters, milligrams per liter	USGS use and no use by EPA				> 0.0004 mm	Suspended		 	Suspended sediment concentration (SSC)	mg/l
+69598	Sediment	Bed sediment, wet sieved, sieve diameter, percent smaller than 0.004 millimeters	USGS use and no use by EPA				< 0.004 m	Bed Sediment		 	Sediment	%
+69599	Sediment	Bed sediment, wet sieved, sieve diameter, percent smaller than 0.05 millimeters	USGS use and no use by EPA				< 0.05 mm	Bed Sediment		 	Sediment	%
+69600	Sediment	Bed sediment, wet sieved, sieve diameter, percent smaller than 0.0625 millimeters	USGS use and no use by EPA				< 0.0625	Bed Sediment		 	Sediment	%
+69601	Sediment	Bed sediment, wet sieved, sieve diameter, percent smaller than 0.1 millimeters	USGS use and no use by EPA				< 0.1 mm	Bed Sediment		 	Sediment	%
+69602	Sediment	Bed sediment, wet sieved, sieve diameter, percent smaller than 0.125 millimeters	USGS use and no use by EPA				< 0.125 m	Bed Sediment		 	Sediment	%
+69603	Sediment	Bed sediment, wet sieved, sieve diameter, percent smaller than 0.25 millimeters	USGS use and no use by EPA				< 0.25 mm	Bed Sediment		 	Sediment	%
+69604	Sediment	Bed sediment, wet sieved, sieve diameter, percent smaller than 0.5 millimeters	USGS use and no use by EPA				< 0.5 mm	Bed Sediment		 	Sediment	%
+69605	Sediment	Bed sediment, wet sieved, sieve diameter, percent smaller than 1 millimeters	USGS use and no use by EPA				< 1 mm	Bed Sediment		 	Sediment	%
+69606	Sediment	Bed sediment, wet sieved, sieve diameter, percent smaller than 2 millimeters	USGS use and no use by EPA				< 2 mm	Bed Sediment		 	Sediment	%
+69607	Sediment	Bed sediment, wet sieved, sieve diameter, percent smaller than 4 millimeters	USGS use and no use by EPA				< 4 mm	Bed Sediment		 	Sediment	%
+69608	Sediment	Bed sediment, wet sieved, sieve diameter, percent smaller than 8 millimeters	USGS use and no use by EPA				< 8 mm	Bed Sediment		 	Sediment	%
+69609	Sediment	Bed sediment, wet sieved, sieve diameter, percent smaller than 16 millimeters	USGS use and no use by EPA				< 16 mm	Bed Sediment		 	Sediment	%
+69610	Sediment	Bed sediment, wet sieved, sieve diameter, percent smaller than 32 millimeters	USGS use and no use by EPA				< 32 mm	Bed Sediment		 	Sediment	%
+69611	Sediment	Bed sediment, wet sieved, sieve diameter, percent smaller than 64 millimeters	USGS use and no use by EPA				< 64 mm	Bed Sediment		 	Sediment	%
+69612	Sediment	Bed sediment, wet sieved, sieve diameter, percent smaller than 128 millimeters	USGS use and no use by EPA				< 128 mm	Bed Sediment		 	Sediment	%
+69613	Sediment	Suspended sediment concentration larger than 0.053 mm, sieve diameter, milligrams per liter	USGS use and no use by EPA				>0.053 mm	Suspended		 	Suspended sediment concentration (SSC)	mg/l
+69614	Sediment	Bed sediment, sieve diameter, percent smaller than 6.7 millimeters	USGS use and no use by EPA				< 6.7 mm	Bed Sediment		 	Sediment	%
+69615	Sediment	Bedload sediment, sieve diameter, percent smaller than 6.7 millimeters	USGS use and no use by EPA				< 6.7 mm	Bedload		 	Sediment	%
+69616	Sediment	Suspended sediment, sieve diameter, percent smaller than 6.7 millimeters	USGS use and no use by EPA				< 6.7 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69617	Sediment	Total sediment, sieve diameter, percent smaller than 6.7 millimeters	USGS use and no use by EPA				< 6.7 mm	Total		 	Sediment	%
+69618	Sediment	Bedload sediment, fall diameter (deionized water), percent smaller than 0.0625 millimeters	USGS use and no use by EPA				<0.0625mm	Bedload		 	Sediment	%
+69619	Sediment	Bedload sediment, fall diameter (deionized water), percent smaller than 0.088 millimeters	USGS use and no use by EPA				<0.088 mm	Bedload		 	Sediment	%
+69620	Sediment	Bedload sediment, fall diameter (deionized water), percent smaller than 0.125 millimeters	USGS use and no use by EPA				<0.125 mm	Bedload		 	Sediment	%
+69621	Sediment	Bedload sediment, fall diameter (deionized water), percent smaller than 0.175 millimeters	USGS use and no use by EPA				<0.175 mm	Bedload		 	Sediment	%
+69622	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.175 millimeters	USGS use and no use by EPA				<0.175 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69623	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.175 millimeters	USGS use and no use by EPA				<0.175 mm	Bed Sediment		 	Sediment	%
+69624	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.175 millimeters	USGS use and no use by EPA				<0.175 mm	Total		 	Sediment	%
+69625	Sediment	Bedload sediment, fall diameter (deionized water), percent smaller than 0.25 millimeters	USGS use and no use by EPA				< 0.25 mm	Bedload		 	Sediment	%
+69626	Sediment	Bedload sediment, fall diameter (deionized water), percent smaller than 0.35 millimeters	USGS use and no use by EPA				< 0.35 mm	Bedload		 	Sediment	%
+69627	Sediment	Bedload sediment, fall diameter (deionized water), percent smaller than 0.5 millimeters	USGS use and no use by EPA				< 0.5 mm	Bedload		 	Sediment	%
+69628	Sediment	Bedload sediment, fall diameter (deionized water), percent smaller than 1 millimeters	USGS use and no use by EPA				< 1 mm	Bedload		 	Sediment	%
+69629	Sediment	Bedload sediment, fall diameter (deionized water), percent smaller than 2 millimeters	USGS use and no use by EPA				< 2 mm	Bedload		 	Sediment	%
+69630	Sediment	Bedload sediment, fall diameter (deionized water), percent smaller than 1.4 millimeters	USGS use and no use by EPA				< 1.4 mm	Bedload		 	Sediment	%
+69631	Sediment	Bedload sediment, fall diameter (deionized water), percent smaller than 4 millimeters	USGS use and no use by EPA				< 4 mm	Bedload		 	Sediment	%
+69632	Sediment	Bed sediment, sieve diameter, percent smaller than 31.5 millimeters	USGS use and no use by EPA				< 31.5 mm	Bed Sediment		 	Sediment	%
+69633	Sediment	Bedload sediment, sieve diameter, percent smaller than 31.5 millimeters	USGS use and no use by EPA				< 31.5 mm	Bedload		 	Sediment	%
+69634	Sediment	Total sediment, sieve diameter, percent smaller than 31.5 millimeters	USGS use and no use by EPA				< 31.5 mm	Total		 	Sediment	%
+69635	Sediment	Suspended sediment, sieve diameter, percent smaller than 32 millimeters	USGS use and no use by EPA				< 32 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69636	Sediment	Bed sediment, sieve diameter, percent smaller than 180 millimeters	USGS use and no use by EPA				< 180 mm	Bed Sediment		 	Sediment	%
+69637	Sediment	Total sediment, sieve diameter, percent smaller than 180 millimeters	USGS use and no use by EPA				< 180 mm	Total		 	Sediment	%
+69638	Sediment	Suspended sediment, sieve diameter, percent smaller than 180 millimeters	USGS use and no use by EPA				< 180 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69639	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 2 millimeters	USGS use and no use by EPA				< 2 mm	Bed Sediment		 	Sediment	%
+69640	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 1.682 millimeters	USGS use and no use by EPA				<1.682 mm	Bed Sediment		 	Sediment	%
+69641	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 1.414 millimeters	USGS use and no use by EPA				<1.414 mm	Bed Sediment		 	Sediment	%
+69642	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 1.189 millimeters	USGS use and no use by EPA				<1.189 mm	Bed Sediment		 	Sediment	%
+69643	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 1 millimeters	USGS use and no use by EPA				<1 mm	Bed Sediment		 	Sediment	%
+69644	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.841 millimeters	USGS use and no use by EPA				<0.841 mm	Bed Sediment		 	Sediment	%
+69645	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.707 millimeters	USGS use and no use by EPA				<0.707 mm	Bed Sediment		 	Sediment	%
+69646	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.595 millimeters	USGS use and no use by EPA				<0.595 mm	Bed Sediment		 	Sediment	%
+69647	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.5 millimeters	USGS use and no use by EPA				<0.5 mm	Bed Sediment		 	Sediment	%
+69648	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.420 millimeters	USGS use and no use by EPA				<0.420 mm	Bed Sediment		 	Sediment	%
+69649	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.354 millimeters	USGS use and no use by EPA				<0.354 mm	Bed Sediment		 	Sediment	%
+69650	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.297 millimeters	USGS use and no use by EPA				<0.297 mm	Bed Sediment		 	Sediment	%
+69651	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.25 millimeters	USGS use and no use by EPA				<0.25 mm	Bed Sediment		 	Sediment	%
+69652	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.210 millimeters	USGS use and no use by EPA				<0.210 mm	Bed Sediment		 	Sediment	%
+69653	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.177 millimeters	USGS use and no use by EPA				<0.177 mm	Bed Sediment		 	Sediment	%
+69654	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.149 millimeters	USGS use and no use by EPA				<0.149 mm	Bed Sediment		 	Sediment	%
+69655	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.125 millimeters	USGS use and no use by EPA				<0.125 mm	Bed Sediment		 	Sediment	%
+69656	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.105 millimeters	USGS use and no use by EPA				<0.105 mm	Bed Sediment		 	Sediment	%
+69657	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.088 millimeters	USGS use and no use by EPA				<0.088 mm	Bed Sediment		 	Sediment	%
+69658	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.074 millimeters	USGS use and no use by EPA				<0.074 mm	Bed Sediment		 	Sediment	%
+69659	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.0625 millimeters	USGS use and no use by EPA				<0.0625mm	Bed Sediment		 	Sediment	%
+69660	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.053 millimeters	USGS use and no use by EPA				<0.053 mm	Bed Sediment		 	Sediment	%
+69661	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.044 millimeters	USGS use and no use by EPA				<0.044 mm	Bed Sediment		 	Sediment	%
+69662	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.037 millimeters	USGS use and no use by EPA				<0.037 mm	Bed Sediment		 	Sediment	%
+69663	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.031 millimeters	USGS use and no use by EPA				<0.031 mm	Bed Sediment		 	Sediment	%
+69664	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.026 millimeters	USGS use and no use by EPA				<0.026 mm	Bed Sediment		 	Sediment	%
+69665	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.022 millimeters	USGS use and no use by EPA				<0.022 mm	Bed Sediment		 	Sediment	%
+69666	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.019 millimeters	USGS use and no use by EPA				<0.019 mm	Bed Sediment		 	Sediment	%
+69667	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.016 millimeters	USGS use and no use by EPA				<0.016 mm	Bed Sediment		 	Sediment	%
+69668	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.013 millimeters	USGS use and no use by EPA				<0.013 mm	Bed Sediment		 	Sediment	%
+69669	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.011 millimeters	USGS use and no use by EPA				<0.011 mm	Bed Sediment		 	Sediment	%
+69670	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.009 millimeters	USGS use and no use by EPA				<0.009 mm	Bed Sediment		 	Sediment	%
+69671	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.008 millimeters	USGS use and no use by EPA				<0.008 mm	Bed Sediment		 	Sediment	%
+69672	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.007 millimeters	USGS use and no use by EPA				<0.007 mm	Bed Sediment		 	Sediment	%
+69673	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.006 millimeters	USGS use and no use by EPA				<0.006 mm	Bed Sediment		 	Sediment	%
+69674	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.005 millimeters	USGS use and no use by EPA				<0.005 mm	Bed Sediment		 	Sediment	%
+69675	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.004 millimeters	USGS use and no use by EPA				<0.004 mm	Bed Sediment		 	Sediment	%
+69676	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.0033 millimeters	USGS use and no use by EPA				<0.0033mm	Bed Sediment		 	Sediment	%
+69677	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.0028 millimeters	USGS use and no use by EPA				<0.0028mm	Bed Sediment		 	Sediment	%
+69678	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.0023 millimeters	USGS use and no use by EPA				<0.0023mm	Bed Sediment		 	Sediment	%
+69679	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.0020 millimeters	USGS use and no use by EPA				<0.0020mm	Bed Sediment		 	Sediment	%
+69680	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.0016 millimeters	USGS use and no use by EPA				<0.0016mm	Bed Sediment		 	Sediment	%
+69681	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.0014 millimeters	USGS use and no use by EPA				<0.0014mm	Bed Sediment		 	Sediment	%
+69682	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.0012 millimeters	USGS use and no use by EPA				<0.0012mm	Bed Sediment		 	Sediment	%
+69683	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.0010 millimeters	USGS use and no use by EPA				<0.0010mm	Bed Sediment		 	Sediment	%
+69684	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.0008 millimeters	USGS use and no use by EPA				<0.0008mm	Bed Sediment		 	Sediment	%
+69685	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.0007 millimeters	USGS use and no use by EPA				<0.0007mm	Bed Sediment		 	Sediment	%
+69686	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.0006 millimeters	USGS use and no use by EPA				<0.0006mm	Bed Sediment		 	Sediment	%
+69687	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.0005 millimeters	USGS use and no use by EPA				<0.0005mm	Bed Sediment		 	Sediment	%
+69688	Sediment	Bed sediment, laser diffraction diameter, percent smaller than 0.00038 millimeters	USGS use and no use by EPA				<0.38 um	Bed Sediment		 	Sediment	%
+69689	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 2 millimeters	USGS use and no use by EPA				< 2 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69690	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 1.682 millimeters	USGS use and no use by EPA				<1.682 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69691	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 1.414 millimeters	USGS use and no use by EPA				<1.414 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69692	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 1.189 millimeters	USGS use and no use by EPA				<1.189 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69693	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 1 millimeters	USGS use and no use by EPA				< 1 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69694	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.841 millimeters	USGS use and no use by EPA				<0.841 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69695	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.707 millimeters	USGS use and no use by EPA				<0.707 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69696	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.595 millimeters	USGS use and no use by EPA				<0.595 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69697	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.5 millimeters	USGS use and no use by EPA				<0.5 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69698	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.420 millimeters	USGS use and no use by EPA				<0.420 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69699	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.354 millimeters	USGS use and no use by EPA				<0.354 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69700	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.297 millimeters	USGS use and no use by EPA				<0.297 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69701	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.25 millimeters	USGS use and no use by EPA				<0.25 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69702	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.210 millimeters	USGS use and no use by EPA				<0.210 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69703	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.177 millimeters	USGS use and no use by EPA				<0.177 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69704	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.149 millimeters	USGS use and no use by EPA				<0.149 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69705	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.125 millimeters	USGS use and no use by EPA				<0.125 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69706	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.105 millimeters	USGS use and no use by EPA				<0.105 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69707	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.088 millimeters	USGS use and no use by EPA				<0.088 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69708	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.074 millimeters	USGS use and no use by EPA				<0.074 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69709	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.0625 millimeters	USGS use and no use by EPA				<0.0625mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69710	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.053 millimeters	USGS use and no use by EPA				<0.053 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69711	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.044 millimeters	USGS use and no use by EPA				<0.044 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69712	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.037 millimeters	USGS use and no use by EPA				<0.037 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69713	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.031 millimeters	USGS use and no use by EPA				<0.031 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69714	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.026 millimeters	USGS use and no use by EPA				<0.026 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69715	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.022 millimeters	USGS use and no use by EPA				<0.022 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69716	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.019 millimeters	USGS use and no use by EPA				<0.019 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69717	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.016 millimeters	USGS use and no use by EPA				<0.016 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69718	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.013 millimeters	USGS use and no use by EPA				<0.013 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69719	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.011 millimeters	USGS use and no use by EPA				<0.011 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69720	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.009 millimeters	USGS use and no use by EPA				<0.009 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69721	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.008 millimeters	USGS use and no use by EPA				<0.008 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69722	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.007 millimeters	USGS use and no use by EPA				<0.007 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69723	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.006 millimeters	USGS use and no use by EPA				<0.006 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69724	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.005 millimeters	USGS use and no use by EPA				<0.005 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69725	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.004 millimeters	USGS use and no use by EPA				<0.004 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69726	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.0033 millimeters	USGS use and no use by EPA				<0.0033mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69727	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.0028 millimeters	USGS use and no use by EPA				<0.0028mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69728	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.0023 millimeters	USGS use and no use by EPA				<0.0023mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69729	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.0020 millimeters	USGS use and no use by EPA				<0.0020mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69730	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.0016 millimeters	USGS use and no use by EPA				<0.0016mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69731	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.0014 millimeters	USGS use and no use by EPA				<0.0014mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69732	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.0012 millimeters	USGS use and no use by EPA				<0.0012mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69733	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.0010 millimeters	USGS use and no use by EPA				<0.0010mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69734	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.0008 millimeters	USGS use and no use by EPA				<0.0008mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69735	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.0007 millimeters	USGS use and no use by EPA				<0.0007mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69736	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.0006 millimeters	USGS use and no use by EPA				<0.0006mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69737	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.0005 millimeters	USGS use and no use by EPA				<0.0005mm	Suspended		 	Suspended sediment concentration (SSC)	%
+69738	Sediment	Suspended sediment, laser diffraction diameter, percent smaller than 0.00038 millimeters	USGS use and no use by EPA				<0.38 um	Suspended		 	Suspended sediment concentration (SSC)	%
+69739	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 2 millimeters	USGS use and no use by EPA				< 2 mm	Bedload		 	Sediment	%
+69740	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 1.682 millimeters	USGS use and no use by EPA				<1.682 mm	Bedload		 	Sediment	%
+69741	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 1.414 millimeters	USGS use and no use by EPA				<1.414 mm	Bedload		 	Sediment	%
+69742	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 1.189 millimeters	USGS use and no use by EPA				<1.189 mm	Bedload		 	Sediment	%
+69743	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 1 millimeters	USGS use and no use by EPA				<1 mm	Bedload		 	Sediment	%
+69744	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 0.841 millimeters	USGS use and no use by EPA				<0.841 mm	Bedload		 	Sediment	%
+69745	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 0.707 millimeters	USGS use and no use by EPA				<0.707 mm	Bedload		 	Sediment	%
+69746	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 0.595 millimeters	USGS use and no use by EPA				<0.595 mm	Bedload		 	Sediment	%
+69747	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 0.5 millimeters	USGS use and no use by EPA				<0.5 mm	Bedload		 	Sediment	%
+69748	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 0.420 millimeters	USGS use and no use by EPA				<0.420 mm	Bedload		 	Sediment	%
+69749	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 0.354 millimeters	USGS use and no use by EPA				<0.354 mm	Bedload		 	Sediment	%
+69750	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 0.297 millimeters	USGS use and no use by EPA				<0.297 mm	Bedload		 	Sediment	%
+69751	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 0.25 millimeters	USGS use and no use by EPA				<0.25 mm	Bedload		 	Sediment	%
+69752	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 0.210 millimeters	USGS use and no use by EPA				<0.210 mm	Bedload		 	Sediment	%
+69753	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 0.177 millimeters	USGS use and no use by EPA				<0.177 mm	Bedload		 	Sediment	%
+69754	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 0.149 millimeters	USGS use and no use by EPA				<0.149 mm	Bedload		 	Sediment	%
+69755	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 0.125 millimeters	USGS use and no use by EPA				<0.125 mm	Bedload		 	Sediment	%
+69756	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 0.105 millimeters	USGS use and no use by EPA				<0.105 mm	Bedload		 	Sediment	%
+69757	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 0.088 millimeters	USGS use and no use by EPA				<0.088 mm	Bedload		 	Sediment	%
+69758	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 0.074 millimeters	USGS use and no use by EPA				<0.074 mm	Bedload		 	Sediment	%
+69759	Sediment	Bedload sediment, laser diffraction diameter, percent smaller than 0.0625 millimeters	USGS use and no use by EPA				<0.0625mm	Bedload		 	Sediment	%
+69760	Sediment	Silt-clay fraction smaller than 0.063 millimeters, solids, percent	USGS use and no use by EPA				<0.063 mm			 	 	%
+70309	Sediment	Compaction, sediment, feet	Agree							 	 	ft
+70326	Sediment	Suspended sediment, fall diameter (native water), percent smaller than 0.002 millimeters	Agree				< 0.002 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70327	Sediment	Suspended sediment, fall diameter (native water), percent smaller than 0.004 millimeters	Agree				< 0.004 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70328	Sediment	Suspended sediment, fall diameter (native water), percent smaller than 0.008 millimeters	Agree				< 0.008 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70329	Sediment	Suspended sediment, fall diameter (native water), percent smaller than 0.016 millimeters	Agree				< 0.016 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70330	Sediment	Suspended sediment, fall diameter (native water), percent smaller than 0.031 millimeters	Agree				< 0.031 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70331	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.0625 millimeters	Agree				< 0.0625 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70332	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.125 millimeters	Agree				< 0.125 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70333	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.25 millimeters	Agree				< 0.25 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70334	Sediment	Suspended sediment, sieve diameter, percent smaller than 0.5 millimeters	Agree				< 0.5 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70335	Sediment	Suspended sediment, sieve diameter, percent smaller than 1 millimeters	Agree				< 1 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70336	Sediment	Suspended sediment, sieve diameter, percent smaller than 2 millimeters	Agree				< 2 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70337	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.002 millimeters	Agree				< 0.002 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70338	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.004 millimeters	Agree				< 0.004 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70339	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.008 millimeters	Agree				< 0.008 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70340	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.016 millimeters	Agree				< 0.016 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70341	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.031 millimeters	Agree				< 0.031 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70342	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.0625 millimeters	Agree				< 0.0625 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70343	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.125 millimeters	Agree				< 0.125 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70344	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.25 millimeters	Agree				< 0.25 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70345	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 0.5 millimeters	Agree				< 0.5 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70346	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 1 millimeter	Agree				< 1 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+70347	Sediment	Suspended sediment, fall diameter (deionized water), percent smaller than 2 millimeters	Agree				< 2 mm	Suspended		 	Suspended sediment concentration (SSC)	%
+72233	Sediment	Bedload-transport rate total section, megagrams per day	Not checked							 	 	Mg/d
+72234	Sediment	Bedload transport rate, daily average, per unit width of river, composite samples, kilograms per day per meter of width	Not checked							 	 	kg/(d*m)
+72235	Sediment	Bedload transport rate per unit width of river, discrete sample, kilograms per second per meter of width	Not checked							 	 	kg/(s*m)
+72244	Sediment	Suspended sediment volumetric concentration by Laser In-Situ Scattering and Tranmissometry (LISST), microliters per liter	Not checked					Suspended		 	 	uL/L
+72245	Sediment	Full size suspended sediment volumetric diameter by Laser In-Situ Scattering and Tranmissometry (LISST), micrometers	Not checked					Suspended		 	 	um
+72246	Sediment	Suspended sediment volumetric concentration greater than 63 microns by Laser In-Situ Scattering and Tranmissometry (LISST), microliters per liter	Not checked				>63 um	Suspended		 	 	uL/L
+72247	Sediment	Suspended sediment volumetric diameter greater than 63 microns by Laser In-Situ Scattering and Tranmissometry (LISST), micrometers	Not checked				>63 um	Suspended		 	 	um
+72298	Sediment	Bedload transport rate, derived by regression equation, megagrams per day	Not checked							 	 	Mg/d
+72299	Sediment	Bedload transport rate, derived by regression equation, short tons per day	Not checked							 	 	tons/day
+80154	Sediment	Suspended sediment concentration, milligrams per liter	Not checked					Suspended		 	Suspended sediment concentration (SSC)	mg/l
+80155	Sediment	Suspended sediment discharge, short tons per day	Agree					Suspended		 	Suspended sediment discharge	tons/day
+80156	Sediment	Total sediment discharge, short tons per day	Agree					Total		 	Sediment	tons/day
+80157	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.004 millimeters	Agree				< 0.004 mm	Bed Sediment		 	Sediment	%
+80158	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.0625 millimeters	Agree				< 0.0625 mm	Bed Sediment		 	Sediment	%
+80159	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.125 millimeters	Agree				< 0.125 mm	Bed Sediment		 	Sediment	%
+80160	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.25 millimeters	Agree				< 0.25 mm	Bed Sediment		 	Sediment	%
+80161	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.5 millimeters	Agree				< 0.5 mm	Bed Sediment		 	Sediment	%
+80162	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 1 millimeter	Agree				< 1 mm	Bed Sediment		 	Sediment	%
+80163	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 2 millimeters	Agree				< 2 mm	Bed Sediment		 	Sediment	%
+80164	Sediment	Bed sediment, sieve diameter, percent smaller than 0.0625 millimeters	Agree				< 0.0625 mm	Bed Sediment		 	Sediment	%
+80165	Sediment	Bed sediment, sieve diameter, percent smaller than 0.125 millimeters	Agree				< 0.125 mm	Bed Sediment		 	Sediment	%
+80166	Sediment	Bed sediment, sieve diameter, percent smaller than 0.25 millimeters	Agree				< 0.25 mm	Bed Sediment		 	Sediment	%
+80167	Sediment	Bed sediment, sieve diameter, percent smaller than 0.5 millimeters	Agree				< 0.5 mm	Bed Sediment		 	Sediment	%
+80168	Sediment	Bed sediment, sieve diameter, percent smaller than 1 millimeter	Agree				< 1 mm	Bed Sediment		 	Sediment	%
+80169	Sediment	Bed sediment, sieve diameter, percent smaller than 2 millimeters	Agree				< 2 mm	Bed Sediment		 	Sediment	%
+80170	Sediment	Bed sediment, sieve diameter, percent smaller than 4 millimeters	Agree				< 4 mm	Bed Sediment		 	Sediment	%
+80171	Sediment	Bed sediment, sieve diameter, percent smaller than 8 millimeters	Agree				< 8 mm	Bed Sediment		 	Sediment	%
+80172	Sediment	Bed sediment, sieve diameter, percent smaller than 16 millimeters	Agree				< 16 mm	Bed Sediment		 	Sediment	%
+80173	Sediment	Bed sediment, sieve diameter, percent smaller than 32 millimeters	Agree				< 32 mm	Bed Sediment		 	Sediment	%
+80174	Sediment	Bed sediment, sieve diameter, percent smaller than 64 millimeters	Agree				< 64 mm	Bed Sediment		 	Sediment	%
+80175	Sediment	Bed sediment, sieve diameter, percent smaller than 128 millimeters	Agree				< 128 mm	Bed Sediment		 	Sediment	%
+80177	Sediment	Bed sediment, sieve diameter, percent smaller than 1.4 millimeters	Agree				< 1.4 mm	Bed Sediment		 	Sediment	%
+80180	Sediment	Total sediment concentration, milligrams per liter	Agree					Total		 	Sediment	mg/l
+80181	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.002 millimeters	Agree				< 0.002 mm	Total		 	Sediment	%
+80182	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.004 millimeters	Agree				< 0.004 mm	Total		 	Sediment	%
+80183	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.008 millimeters	Agree				< 0.008 mm	Total		 	Sediment	%
+80184	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.016 millimeters	Agree				< 0.016 mm	Total		 	Sediment	%
+80185	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.031 millimeters	Agree				< 0.031 mm	Total		 	Sediment	%
+80186	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.0625 millimeters	Agree				< 0.0625 mm	Total		 	Sediment	%
+80187	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.125 millimeters	Agree				< 0.125 mm	Total		 	Sediment	%
+80188	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.25 millimeters	Agree				< 0.25 mm	Total		 	Sediment	%
+80189	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.5 millimeters	Agree				< 0.5 mm	Total		 	Sediment	%
+80190	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 1 millimeter	Agree				< 1 mm	Total		 	Sediment	%
+80191	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 2 millimeters	Agree				< 2 mm	Total		 	Sediment	%
+80192	Sediment	Total sediment, fall diameter (native water), percent smaller than 0.002 millimeters	Agree				< 0.002 mm	Total		 	Sediment	%
+80193	Sediment	Total sediment, fall diameter (native water), percent smaller than 0.004 millimeters	Agree				< 0.004 mm	Total		 	Sediment	%
+80194	Sediment	Total sediment, fall diameter (native water), percent smaller than 0.008 millimeters	Agree				< 0.008 mm	Total		 	Sediment	%
+80195	Sediment	Total sediment, fall diameter (native water), percent smaller than 0.016 millimeters	Agree				< 0.016 mm	Total		 	Sediment	%
+80196	Sediment	Total sediment, fall diameter (native water), percent smaller than 0.031 millimeters	Agree				< 0.031 mm	Total		 	Sediment	%
+80197	Sediment	Total sediment, fall diameter (native water), percent smaller than 0.0625 millimeters	Agree				< 0.0625 mm	Total		 	Sediment	%
+80198	Sediment	Total sediment, fall diameter (native water), percent smaller than 0.125 millimeters	Agree				< 0.125 mm	Total		 	Sediment	%
+80199	Sediment	Total sediment, fall diameter (native water), percent smaller than 0.25 millimeters	Agree				< 0.25 mm	Total		 	Sediment	%
+80200	Sediment	Total sediment, fall diameter (native water), percent smaller than 0.5 millimeters	Agree				< 0.5 mm	Total		 	Sediment	%
+80201	Sediment	Total sediment, fall diameter (native water), percent smaller than 1 millimeter	Agree				< 1 mm	Total		 	Sediment	%
+80202	Sediment	Total sediment, fall diameter (native water), percent smaller than 2 millimeters	Agree				< 2 mm	Total		 	Sediment	%
+80203	Sediment	Total sediment, sieve diameter, percent smaller than 0.0625 millimeters	Agree				< 0.0625 mm	Total		 	Sediment	%
+80204	Sediment	Total sediment, sieve diameter, percent smaller than 0.125 millimeters	Agree				< 0.125 mm	Total		 	Sediment	%
+80205	Sediment	Total sediment, sieve diameter, percent smaller than 0.25 millimeters	Agree				< 0.25 mm	Total		 	Sediment	%
+80206	Sediment	Total sediment, sieve diameter, percent smaller than 0.5 millimeters	Agree				< 0.5 mm	Total		 	Sediment	%
+80207	Sediment	Total sediment, sieve diameter, percent smaller than 1 millimeter	Agree				< 1 mm	Total		 	Sediment	%
+80208	Sediment	Total sediment, sieve diameter, percent smaller than 2 millimeters	Agree				< 2 mm	Total		 	Sediment	%
+80209	Sediment	Total sediment, sieve diameter, percent smaller than 4 millimeters	Agree				< 4 mm	Total		 	Sediment	%
+80210	Sediment	Total sediment, sieve diameter, percent smaller than 8 millimeters	Agree				< 8 mm	Total		 	Sediment	%
+80211	Sediment	Total sediment, sieve diameter, percent smaller than 16 millimeters	Agree				< 16 mm	Total		 	Sediment	%
+80212	Sediment	Total sediment, sieve diameter, percent smaller than 32 millimeters	Agree				< 32 mm	Total		 	Sediment	%
+80218	Sediment	Bed sediment, sieve diameter, percent smaller than 0.18 millimeters	Not checked				< 0.18 mm	Bed Sediment		 	Sediment	%
+80219	Sediment	Bed sediment, sieve diameter, percent smaller than 0.09 millimeters	Not checked				< 0.09 mm	Bed Sediment		 	Sediment	%
+80220	Sediment	Suspended sediment concentration larger than 62.5 microns, sieve diameter, milligrams per liter	Not checked				> 62.5 microns	Suspended		 	Sediment	mg/l
+80221	Sediment	Suspended sediment load larger than 62.5 microns, sieve diameter, short tons per day	Not checked				> 62.5 microns	Suspended		 	Sediment	tons/day
+80222	Sediment	Suspended sediment concentration smaller than 62.5 microns, sieve diameter, milligrams per liter	Not checked				< 62.5 microns	Suspended		 	Sediment	mg/l
+80223	Sediment	Suspended sediment load smaller than 62.5 microns, sieve diameter, short tons per day	Not checked				< 62.5 microns	Suspended		 	Sediment	tons/day
+80225	Sediment	Bedload sediment discharge, short tons per day	Agree					Bedload		 	Sediment	tons/day
+80226	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.0625 millimeters	Agree				< 0.0625 mm	Bedload		 	Sediment	%
+80227	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.125 millimeters	Agree				< 0.125 mm	Bedload		 	Sediment	%
+80228	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.25 millimeters	Agree				< 0.25 mm	Bedload		 	Sediment	%
+80229	Sediment	Bedload sediment, sieve diameter, percent smaller than 0.5 millimeters	Agree				< 0.5 mm	Bedload		 	Sediment	%
+80230	Sediment	Bedload sediment, sieve diameter, percent smaller than 1 millimeter	Agree				< 1 mm	Bedload		 	Sediment	%
+80231	Sediment	Bedload sediment, sieve diameter, percent smaller than 2 millimeters	Agree				< 2 mm	Bedload		 	Sediment	%
+80232	Sediment	Bedload sediment, sieve diameter, percent smaller than 4 millimeters	Agree				< 4 mm	Bedload		 	Sediment	%
+80233	Sediment	Bedload sediment, sieve diameter, percent smaller than 8 millimeters	Agree				< 8 mm	Bedload		 	Sediment	%
+80234	Sediment	Bedload sediment, sieve diameter, percent smaller than 16 millimeters	Agree				< 16 mm	Bedload		 	Sediment	%
+80235	Sediment	Bedload sediment, sieve diameter, percent smaller than 32 millimeters	Agree				< 32 mm	Bedload		 	Sediment	%
+80236	Sediment	Bedload sediment, sieve diameter, percent smaller than 64 millimeters	Agree				< 64 mm	Bedload		 	Sediment	%
+80237	Sediment	Bedload sediment, sieve diameter, percent smaller than 75 millimeters	Agree				< 75 mm	Bedload		 	Sediment	%
+80238	Sediment	Bedload sediment, sieve diameter, percent smaller than 128 millimeters	Agree				< 128 mm	Bedload		 	Sediment	%
+80239	Sediment	Bed sediment, sieve diameter, percent smaller than 0.355 millimeters	Agree				< 0.355 mm	Bed Sediment		 	Sediment	%
+80240	Sediment	Bed sediment, dry sieved, sieve diameter, percent smaller than 2.38 millimeters	Agree				< 2.38 mm	Bed Sediment		 	Sediment	%
+80282	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.016 millimeters	Agree				< 0.016 mm	Bed Sediment		 	Sediment	%
+80283	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.031 millimeters	Agree				< 0.031 mm	Bed Sediment		 	Sediment	%
+80284	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.088 millimeters	Agree				< 0.088 mm	Bed Sediment		 	Sediment	%
+80285	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.18 millimeters	Agree				< 0.18 mm	Bed Sediment		 	Sediment	%
+80286	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.35 millimeters	Agree				< 0.35 mm	Bed Sediment		 	Sediment	%
+80287	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.088 millimeters	Agree				< 0.088 mm	Total		 	Sediment	%
+80288	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.18 millimeters	Agree				< 0.18 mm	Total		 	Sediment	%
+80289	Sediment	Total sediment, fall diameter (deionized water), percent smaller than 0.35 millimeters	Agree				< 0.35 mm	Total		 	Sediment	%
+80290	Sediment	Total sediment, fall diameter (native water), percent smaller than 0.088 millimeters	Agree				< 0.088 mm	Total		 	Sediment	%
+80291	Sediment	Total sediment, fall diameter (native water), percent smaller than 0.177 millimeters	Agree				< 0.177 mm	Total		 	Sediment	%
+80292	Sediment	Total sediment, fall diameter (native water), percent smaller than 0.35 millimeters	Agree				< 0.35 mm	Total		 	Sediment	%
+80293	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.008 millimeters	Agree				< 0.008 mm	Bed Sediment		 	Sediment	%
+80294	Sediment	Bed sediment, fall diameter (deionized water), percent smaller than 0.002 millimeters	Agree				< 0.002 mm	Bed Sediment		 	Sediment	%
+80295	Sediment	Suspended sediment load, water, unfiltered, estimated by regression equation, pounds per second	USGS use and no use by EPA					Total		 	 	lb/s
+80296	Sediment	Suspended sediment load, water, unfiltered, estimated by regression equation, short tons per second	USGS use and no use by EPA					Total		 	 	ton/s
+80297	Sediment	Suspended sediment load, water, unfiltered, computed, the product of regression-computed suspended sediment concentration and streamflow, short tons per day	Not checked					Suspended		 	 	tons/day
+80298	Sediment	Suspended sediment load, water, unfiltered, regression computed, turbidity and streamflow as regressors, short tons per day	Not checked					Suspended		 	 	tons/day
+91145	Sediment	Bedload sediment, total sample mass, dry weight, grams	Not checked			Dry		Bedload		 	 	g
+99409	Sediment	Suspended sediment concentration, water, unfiltered, estimated by regression equation, milligrams per liter	USGS use and no use by EPA					Suspended		 	Sediment	mg/l

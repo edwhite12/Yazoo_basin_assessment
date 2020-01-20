@@ -1,0 +1,280 @@
+#
+# National Water Information System
+# 2019/03/30
+#
+#
+# Date Retrieved: USGS Water Data for the Nation Help System
+#
+parm_cd	group	parm_nm	epa_equivalence	result_statistical_basis	result_time_basis	result_weight_basis	result_particle_size_basis	result_sample_fraction	result_temperature_basis	CASRN	SRSName	parm_unit
+5s	25s	131s	26s	0s	0s	3s	14s	12s	0s	9s	29s	10s
+00910	Inorganics, Major, Metals	Calcium, water, unfiltered, milligrams per liter as calcium carbonate	Not checked					Total		7440-70-2	Calcium	mg/l CaCO3
+00915	Inorganics, Major, Metals	Calcium, water, filtered, milligrams per liter	Agree					Dissolved		7440-70-2	Calcium	mg/l
+00916	Inorganics, Major, Metals	Calcium, water, unfiltered, recoverable, milligrams per liter	Not checked					Recoverable		7440-70-2	Calcium	mg/l
+00917	Inorganics, Major, Metals	Calcium, bed sediment, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Bed Sediment		7440-70-2	Calcium	mg/kg
+00918	Inorganics, Major, Metals	Calcium, water, unfiltered, recoverable, milligrams per liter	Agree					Recoverable		7440-70-2	Calcium	mg/l
+00920	Inorganics, Major, Metals	Magnesium, water, unfiltered, milligrams per liter as calcium carbonate	Not checked					Total		7439-95-4	Magnesium	mg/l CaCO3
+00921	Inorganics, Major, Metals	Magnesium, water, unfiltered, recoverable, milligrams per liter	Agree					Recoverable		7439-95-4	Magnesium	mg/l
+00923	Inorganics, Major, Metals	Sodium, water, unfiltered, recoverable, milligrams per liter	Agree					Recoverable		7440-23-5	Sodium	mg/l
+00924	Inorganics, Major, Metals	Magnesium, bed sediment, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Bed Sediment		7439-95-4	Magnesium	mg/kg
+00925	Inorganics, Major, Metals	Magnesium, water, filtered, milligrams per liter	Agree					Dissolved		7439-95-4	Magnesium	mg/l
+00926	Inorganics, Major, Metals	Magnesium, suspended sediment, total, milligrams per liter	Agree					Suspended		7439-95-4	Magnesium	mg/l
+00927	Inorganics, Major, Metals	Magnesium, water, unfiltered, recoverable, milligrams per liter	Not checked					Recoverable		7439-95-4	Magnesium	mg/l
+00929	Inorganics, Major, Metals	Sodium, water, unfiltered, recoverable, milligrams per liter	Not checked					Recoverable		7440-23-5	Sodium	mg/l
+00930	Inorganics, Major, Metals	Sodium, water, filtered, milligrams per liter	Agree					Dissolved		7440-23-5	Sodium	mg/l
+00931	Inorganics, Major, Metals	Sodium adsorption ratio (SAR), water, number	Agree							 	Sodium adsorption ratio	None
+00932	Inorganics, Major, Metals	Sodium fraction of cations, water, percent in equivalents of major cations	Agree							 	Sodium, percent total cations	%
+00933	Inorganics, Major, Metals	Sodium plus potassium, water, filtered, milligrams per liter as sodium	Not checked					Dissolved		 	Sodium plus potassium	mg/l as Na
+00934	Inorganics, Major, Metals	Sodium, bed sediment, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Bed Sediment		7440-23-5	Sodium	mg/kg
+00935	Inorganics, Major, Metals	Potassium, water, filtered, milligrams per liter	Agree					Dissolved		7440-09-7	Potassium	mg/l
+00937	Inorganics, Major, Metals	Potassium, water, unfiltered, recoverable, milligrams per liter	Not checked					Recoverable		7440-09-7	Potassium	mg/l
+00938	Inorganics, Major, Metals	Potassium, bed sediment, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Bed Sediment		7440-09-7	Potassium	mg/kg
+00939	Inorganics, Major, Metals	Potassium, water, unfiltered, recoverable, milligrams per liter	Agree					Recoverable		7440-09-7	Potassium	mg/l
+01430	Inorganics, Major, Metals	Calcium, bed sediment smaller than 2 millimeters, wet sieved (native water), total digestion, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry	< 2 mm	Bed Sediment		7440-70-2	Calcium	mg/kg
+01433	Inorganics, Major, Metals	Magnesium, bed sediment smaller than 2 millimeters, wet sieved (native water), total digestion, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry	< 2 mm	Bed Sediment		7439-95-4	Magnesium	mg/kg
+01435	Inorganics, Major, Metals	Potassium, bed sediment smaller than 2 millimeters, wet sieved (native water), total digestion, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry	< 2 mm	Bed Sediment		7440-09-7	Potassium	mg/kg
+01437	Inorganics, Major, Metals	Sodium, bed sediment smaller than 2 millimeters, wet sieved (native water), total digestion, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry	< 2 mm	Bed Sediment		7440-23-5	Sodium	mg/kg
+01474	Inorganics, Major, Metals	Sodium, bed sediment, total digestion, dry weight, percent	Not checked			Dry		Bed Sediment		7440-23-5	Sodium	%
+01475	Inorganics, Major, Metals	Potassium, bed sediment, total digestion, dry weight, percent	Not checked			Dry		Bed Sediment		7440-09-7	Potassium	%
+01476	Inorganics, Major, Metals	Calcium, bed sediment, total digestion, dry weight, percent	Not checked			Dry		Bed Sediment		7440-70-2	Calcium	%
+01477	Inorganics, Major, Metals	Magnesium, bed sediment, total digestion, dry weight, percent	Not checked			Dry		Bed Sediment		7439-95-4	Magnesium	%
+03932	Inorganics, Major, Metals	Magnesium, bed sediment smaller than 62.5 microns, wet sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 0.0625	Bed Sediment		7439-95-4	Magnesium	%
+03935	Inorganics, Major, Metals	Potassium, bed sediment smaller than 62.5 microns, wet sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 0.0625	Bed Sediment		7440-09-7	Potassium	%
+03943	Inorganics, Major, Metals	Sodium, bed sediment smaller than 62.5 microns, wet sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 0.0625	Bed Sediment		7440-23-5	Sodium	%
+03954	Inorganics, Major, Metals	Calcium, bed sediment smaller than 62.5 microns, wet sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 0.0625	Bed Sediment		7440-70-2	Calcium	%
+04050	Inorganics, Major, Metals	Calcium, bed sediment smaller than 2 millimeters, wet sieved (native water), total digestion, dry weight, percent	Not checked			Dry	< 2 mm	Bed Sediment		7440-70-2	Calcium	%
+29828	Inorganics, Major, Metals	Calcium, soil, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Recoverable		7440-70-2	Calcium	mg/kg
+29838	Inorganics, Major, Metals	Magnesium, soil, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Recoverable		7439-95-4	Magnesium	mg/kg
+29851	Inorganics, Major, Metals	Sodium, soil, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Recoverable		7440-23-5	Sodium	mg/kg
+30239	Inorganics, Major, Metals	Calcium, bed sediment, dry weight, percent	Agree			Dry		Bed Sediment		7440-70-2	Calcium	%
+30240	Inorganics, Major, Metals	Calcium, suspended sediment, total digestion, dry weight, percent	Not checked			Dry		Suspended		7440-70-2	Calcium	%
+30276	Inorganics, Major, Metals	Magnesium, bed sediment, dry weight, percent	Agree			Dry		Bed Sediment		7439-95-4	Magnesium	%
+30277	Inorganics, Major, Metals	Magnesium, suspended sediment, total digestion, dry weight, percent	Not checked			Dry		Suspended		7439-95-4	Magnesium	%
+30293	Inorganics, Major, Metals	Potassium, bed sediment, dry weight, percent	Agree			Dry		Bed Sediment		7440-09-7	Potassium	%
+30294	Inorganics, Major, Metals	Potassium, suspended sediment, total digestion, dry weight, percent	Not checked			Dry		Suspended		7440-09-7	Potassium	%
+30303	Inorganics, Major, Metals	Sodium, bed sediment, dry weight, percent	Agree			Dry		Bed Sediment		7440-23-5	Sodium	%
+30304	Inorganics, Major, Metals	Sodium, suspended sediment, total digestion, dry weight, percent	Not checked			Dry		Suspended		7440-23-5	Sodium	%
+34830	Inorganics, Major, Metals	Calcium, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, percent	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-70-2	Calcium	%
+34831	Inorganics, Major, Metals	Calcium, bed sediment smaller than 177 microns, wet sieved, field, total digestion, dry weight, percent	Not checked			Dry	< 177 microns	Bed Sediment		7440-70-2	Calcium	%
+34832	Inorganics, Major, Metals	Calcium, bed sediment smaller than 62.5 microns, dry sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-70-2	Calcium	%
+34833	Inorganics, Major, Metals	Calcium, suspended sediment smaller than 62.5 microns, total digestion, dry weight, percent	Not checked			Dry	< 62.5 microns	Suspended		7440-70-2	Calcium	%
+34834	Inorganics, Major, Metals	Calcium, suspended sediment larger than 62.5 microns, total digestion, dry weight, percent	Not checked			Dry	> 62.5 microns	Suspended		7440-70-2	Calcium	%
+34900	Inorganics, Major, Metals	Magnesium, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, percent	Not checked			Dry	< 62.5 microns	Bed Sediment		7439-95-4	Magnesium	%
+34901	Inorganics, Major, Metals	Magnesium, bed sediment smaller than 177 microns, wet sieved, field, total digestion, dry weight, percent	Not checked			Dry	< 177 microns	Bed Sediment		7439-95-4	Magnesium	%
+34902	Inorganics, Major, Metals	Magnesium, bed sediment smaller than 62.5 microns, dry sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 62.5 microns	Bed Sediment		7439-95-4	Magnesium	%
+34903	Inorganics, Major, Metals	Magnesium, suspended sediment smaller than 62.5 microns, total digestion, dry weight, percent	Not checked			Dry	< 62.5 microns	Suspended		7439-95-4	Magnesium	%
+34904	Inorganics, Major, Metals	Magnesium, suspended sediment larger than 62.5 microns, total digestion, dry weight, percent	Not checked			Dry	> 62.5 microns	Suspended		7439-95-4	Magnesium	%
+34940	Inorganics, Major, Metals	Potassium, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, percent	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-09-7	Potassium	%
+34941	Inorganics, Major, Metals	Potassium, bed sediment smaller than 177 microns, wet sieved, field, total digestion, dry weight, percent	Not checked			Dry	< 177 microns	Bed Sediment		7440-09-7	Potassium	%
+34942	Inorganics, Major, Metals	Potassium, bed sediment smaller than 62.5 microns, dry sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-09-7	Potassium	%
+34943	Inorganics, Major, Metals	Potassium, suspended sediment smaller than 62.5 microns, total digestion, dry weight, percent	Not checked			Dry	< 62.5 microns	Suspended		7440-09-7	Potassium	%
+34944	Inorganics, Major, Metals	Potassium, suspended sediment larger than 62.5 microns, total digestion, dry weight, percent	Not checked			Dry	> 62.5 microns	Suspended		7440-09-7	Potassium	%
+34960	Inorganics, Major, Metals	Sodium, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, percent	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-23-5	Sodium	%
+34961	Inorganics, Major, Metals	Sodium, bed sediment smaller than 177 microns, wet sieved, field, total digestion, dry weight, percent	Not checked			Dry	< 177 microns	Bed Sediment		7440-23-5	Sodium	%
+34962	Inorganics, Major, Metals	Sodium, bed sediment smaller than 62.5 microns, dry sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-23-5	Sodium	%
+34963	Inorganics, Major, Metals	Sodium, suspended sediment smaller than 62.5 microns, total digestion, dry weight, percent	Not checked			Dry	< 62.5 microns	Suspended		7440-23-5	Sodium	%
+34964	Inorganics, Major, Metals	Sodium, suspended sediment larger than 62.5 microns, total digestion, dry weight, percent	Not checked			Dry	> 62.5 microns	Suspended		7440-23-5	Sodium	%
+49027	Inorganics, Major, Metals	Calcium, biota, tissue, recoverable, wet weight, milligrams per kilogram	Not checked			Wet		Recoverable		7440-70-2	Calcium	mg/kg
+49030	Inorganics, Major, Metals	Magnesium, biota, tissue, recoverable, wet weight, milligrams per kilogram	Not checked			Wet		Recoverable		7439-95-4	Magnesium	mg/kg
+51177	Inorganics, Major, Metals	Calcium, soil, field, x-ray fluorescence screening method, parts per million	Not checked							7440-70-2	Calcium	ppm
+51178	Inorganics, Major, Metals	Potassium, soil, field, x-ray fluorescence screening method, parts per million	Not checked							7440-09-7	Potassium	ppm
+51363	Inorganics, Major, Metals	Calcium, bed sediment smaller than 150 um, dry sieved, lab, total digestion, dry weight, percent	Not checked			Dry	<150 um	Bed Sediment		7440-70-2	 	%
+51379	Inorganics, Major, Metals	Magnesium, bed sediment smaller than 150 um, dry sieved, lab, total digestion, dry weight, percent	Not checked			Dry	<150 um	Bed Sediment		7439-95-4	 	%
+51387	Inorganics, Major, Metals	Potassium, bed sediment smaller than 150 um, dry sieved, lab, total digestion, dry weight, percent	Not checked			Dry	<150 um	Bed Sediment		7440-09-7	 	%
+51391	Inorganics, Major, Metals	Sodium, bed sediment smaller than 150 um, dry sieved, lab, total digestion, dry weight, percent	Not checked			Dry	<150 um	Bed Sediment		7440-23-5	 	%
+52143	Inorganics, Major, Metals	Potassium, soil, recoverable, dry weight, milligrams per kilogram	Not checked			Dry		Recoverable		7440-09-7	 	mg/kg
+52281	Inorganics, Major, Metals	Potassium, water, unfiltered, total, milligrams per liter	Not checked					Total		7440-09-7	 	ug/l
+52284	Inorganics, Major, Metals	Sodium, water, unfiltered, total, milligrams per liter	Not checked					Total		7440-23-5	 	ug/l
+52288	Inorganics, Major, Metals	Calcium, water, unfiltered, milligrams per liter	Not checked							7440-70-2	 	mg/l
+52289	Inorganics, Major, Metals	Magnesium, water, unfiltered, milligrams per liter	Not checked							7439-95-4	 	mg/l
+52290	Inorganics, Major, Metals	Sodium, water, unfiltered, milligrams per liter	Not checked							7440-23-5	 	mg/l
+52291	Inorganics, Major, Metals	Potassium, water, unfiltered, milligrams per liter	Not checked							7440-09-7	 	mg/l
+52330	Inorganics, Major, Metals	Calcium, bed sediment smaller than 2 millimeters, dry sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 2 mm	Bed Sediment		7440-70-2	 	%
+52331	Inorganics, Major, Metals	Calcium, bed sediment smaller than 250 microns, dry sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 2 mm	Bed Sediment		7440-70-2	 	%
+52362	Inorganics, Major, Metals	Potassium, bed sediment smaller than 250 microns, dry sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 2 mm	Bed Sediment		7440-09-7	 	%
+52363	Inorganics, Major, Metals	Potassium, bed sediment smaller than 2 millimeters, dry sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 2 mm	Bed Sediment		7440-09-7	 	%
+52370	Inorganics, Major, Metals	Sodium, bed sediment smaller than 2 millimeters, dry sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 2 mm	Bed Sediment		7440-23-5	 	%
+52371	Inorganics, Major, Metals	Sodium, bed sediment smaller than 250 microns, dry sieved, laboratory, total digestion, dry weight, percent	Not checked			Dry	< 2 mm	Bed Sediment		7440-23-5	 	%
+52501	Inorganics, Major, Metals	Calcium, water, unfiltered, recoverable, micrograms per liter	Not checked					Recoverable		7440-70-2	 	ug/l
+52502	Inorganics, Major, Metals	Magnesium, water, unfiltered, recoverable, micrograms per liter	Not checked					Recoverable		7439-95-4	 	ug/l
+52503	Inorganics, Major, Metals	Potassium, water, unfiltered, recoverable, micrograms per liter	Not checked					Recoverable		7440-09-7	 	ug/l
+52504	Inorganics, Major, Metals	Sodium, water, unfiltered, recoverable, micrograms per liter	Not checked					Recoverable		7440-23-5	 	ug/l
+52505	Inorganics, Major, Metals	Calcium, water, unfiltered, micrograms per liter	Not checked							7440-70-2	 	ug/l
+52506	Inorganics, Major, Metals	Magnesium, water, unfiltered, micrograms per liter	Not checked							7439-95-4	 	ug/l
+52507	Inorganics, Major, Metals	Potassium, water, unfiltered, micrograms per liter	Not checked							7440-09-7	 	ug/l
+52508	Inorganics, Major, Metals	Sodium, water, unfiltered, micrograms per liter	Not checked							7440-23-5	 	ug/l
+52515	Inorganics, Major, Metals	Calcium, bed sediment, recoverable, dry weight, micrograms per kilogram	Not checked			Dry		Bed Sediment		7440-70-2	 	ug/kg
+52519	Inorganics, Major, Metals	Magnesium, bed sediment, recoverable, dry weight, micrograms per kilogram	Not checked			Dry		Bed Sediment		7439-95-4	 	ug/kg
+52522	Inorganics, Major, Metals	Potassium, bed sediment, recoverable, dry weight, micrograms per kilogram	Not checked			Dry		Bed Sediment		7440-09-7	 	ug/kg
+52524	Inorganics, Major, Metals	Sodium, bed sediment, recoverable, dry weight, micrograms per kilogram	Not checked			Dry		Bed Sediment		7440-23-5	 	ug/kg
+52528	Inorganics, Major, Metals	Calcium, water, unfiltered, total, milligrams per liter	Not checked					Total		7440-70-2	 	mg/l
+52702	Inorganics, Major, Metals	Magnesium, bed sediment, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		7439-95-4	 	mg/kg
+52704	Inorganics, Major, Metals	Potassium, bed sediment, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		7440-09-7	 	mg/kg
+52707	Inorganics, Major, Metals	Sodium, bed sediment, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		7440-23-5	 	mg/kg
+52713	Inorganics, Major, Metals	Calcium, bed sediment, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		7440-70-2	 	mg/kg
+52718	Inorganics, Major, Metals	Calcium, biota, tissue, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Total		7440-70-2	 	mg/kg
+52719	Inorganics, Major, Metals	Magnesium, biota, tissue, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Total		7439-95-4	 	mg/kg
+52720	Inorganics, Major, Metals	Potassium, biota, tissue, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Total		7440-09-7	 	mg/kg
+52721	Inorganics, Major, Metals	Sodium, biota, tissue, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Total		7440-23-5	 	mg/kg
+53698	Inorganics, Major, Metals	Potassium, bed sediment, 0.25 M hydroxylamine hydrochloride acid extracted, recoverable, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		7440-09-7	 	mg/kg
+53701	Inorganics, Major, Metals	Magnesium, bed sediment, 0.25 M hydroxylamine hydrochloride acid extracted, recoverable, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		7439-95-4	 	mg/kg
+61715	Inorganics, Major, Metals	Magnesium, bed sediment smaller than 2 millimeters, wet sieved (native water), total digestion, dry weight, percent	Agree			Dry	< 2 mm	Bed Sediment		7439-95-4	Magnesium	%
+61718	Inorganics, Major, Metals	Potassium, bed sediment smaller than 2 millimeters, wet sieved (native water), total digestion, dry weight, percent	Agree			Dry	< 2 mm	Bed Sediment		7440-09-7	Potassium	%
+61720	Inorganics, Major, Metals	Sodium, bed sediment smaller than 2 millimeters, wet sieved (native water), total digestion, dry weight, percent	Agree			Dry	< 2 mm	Bed Sediment		7440-23-5	Sodium	%
+62456	Inorganics, Major, Metals	Calcium, bed sediment, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Bed Sediment		7440-70-2	Calcium	mg/kg
+62457	Inorganics, Major, Metals	Potassium, bed sediment, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Bed Sediment		7440-09-7	Potassium	mg/kg
+62458	Inorganics, Major, Metals	Magnesium, bed sediment, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Bed Sediment		7439-95-4	Magnesium	mg/kg
+62459	Inorganics, Major, Metals	Sodium, bed sediment, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Bed Sediment		7440-23-5	Sodium	mg/kg
+62921	Inorganics, Major, Metals	Calcium, suspended sediment, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Suspended		7440-70-2	Calcium	mg/kg
+62922	Inorganics, Major, Metals	Magnesium, suspended sediment, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Suspended		7439-95-4	Magnesium	mg/kg
+64842	Inorganics, Major, Metals	Calcium, biota, tissue, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		7440-70-2	Calcium	mg/kg
+64844	Inorganics, Major, Metals	Magnesium, biota, tissue, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		7439-95-4	Magnesium	mg/kg
+64845	Inorganics, Major, Metals	Potassium, biota, tissue, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		7440-09-7	Potassium	mg/kg
+64846	Inorganics, Major, Metals	Sodium, biota, tissue, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		7440-23-5	Sodium	mg/kg
+65171	Inorganics, Major, Metals	Calcium, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry	< 62.5 microns	Bed Sediment		7440-70-2	Calcium	mg/kg
+65174	Inorganics, Major, Metals	Magnesium, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry	< 62.5 microns	Bed Sediment		7439-95-4	Magnesium	mg/kg
+65176	Inorganics, Major, Metals	Potassium, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry	< 62.5 microns	Bed Sediment		7440-09-7	Potassium	mg/kg
+65178	Inorganics, Major, Metals	Sodium, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry	< 62.5 microns	Bed Sediment		7440-23-5	Sodium	mg/kg
+65198	Inorganics, Major, Metals	Potassium, solids, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		7440-09-7	Potassium	mg/kg
+67881	Inorganics, Major, Metals	Calcium, solids, recoverable, dry weight, percent	USGS use and no use by EPA			Dry		Recoverable		7440-70-2	 	%
+67887	Inorganics, Major, Metals	Magnesium, solids, recoverable, dry weight, percent	USGS use and no use by EPA			Dry		Recoverable		7439-95-4	 	%
+67892	Inorganics, Major, Metals	Potassium, solids, recoverable, dry weight, percent	USGS use and no use by EPA			Dry		Recoverable		7440-09-7	 	%
+67894	Inorganics, Major, Metals	Sodium, solids, recoverable, dry weight, percent	USGS use and no use by EPA			Dry		Recoverable		7440-23-5	 	%
+67906	Inorganics, Major, Metals	Calcium, solids, total digestion, dry weight, percent	USGS use and no use by EPA			Dry		Total		7440-70-2	 	%
+67914	Inorganics, Major, Metals	Magnesium, solids, total digestion, dry weight, percent	USGS use and no use by EPA			Dry		Total		7439-95-4	 	%
+67919	Inorganics, Major, Metals	Potassium, solids, total digestion, dry weight, percent	USGS use and no use by EPA			Dry		Total		7440-09-7	 	%
+67922	Inorganics, Major, Metals	Sodium, solids, total digestion, dry weight, percent	USGS use and no use by EPA			Dry		Total		7440-23-5	 	%
+68810	Inorganics, Major, Metals	Potassium, rock, total (whole-rock analysis), dry weight, percent	USGS use and no use by EPA			Dry		Total		7440-09-7	 	%
+68811	Inorganics, Major, Metals	Calcium, rock, total (whole-rock analysis), dry weight, percent	USGS use and no use by EPA			Dry		Total		7440-70-2	 	%
+68924	Inorganics, Major, Metals	Calcium, soil, exchangeable in 1.0 M ammonium chloride, recoverable, dry weight, centimole per kilogram	USGS use and no use by EPA			Dry				7440-70-2	Calcium	cmol/kg
+68925	Inorganics, Major, Metals	Magnesium, soil, exchangeable in 1.0 M ammonium chloride, recoverable, dry weight, centimole per kilogram	USGS use and no use by EPA			Dry				7439-95-4	Magnesium	cmol/kg
+68926	Inorganics, Major, Metals	Sodium, soil, exchangeable in 1.0 M ammonium chloride, recoverable, dry weight, centimole per kilogram	USGS use and no use by EPA			Dry				7440-23-5	Sodium	cmol/kg
+68927	Inorganics, Major, Metals	Potassium, soil, exchangeable in 1.0 M ammonium chloride, recoverable, dry weight, centimole per kilogram	USGS use and no use by EPA			Dry				7440-09-7	Potassium	cmol/kg
+81201	Inorganics, Major, Metals	Calcium, water, dissolved, short tons per day	Not checked					Dissolved		7440-70-2	Calcium	tons/day
+81202	Inorganics, Major, Metals	Magnesium, water, dissolved, short tons per day	Not checked					Dissolved		7439-95-4	Magnesium	tons/day
+81203	Inorganics, Major, Metals	Sodium, water, dissolved, short tons per day	Not checked					Dissolved		7440-23-5	Sodium	tons/day
+81204	Inorganics, Major, Metals	Potassium, water, dissolved, short tons per day	Not checked					Dissolved		7440-09-7	Potassium	tons/day
+81357	Inorganics, Major, Metals	Calcium, suspended sediment, milligrams per liter	Agree					Suspended		7440-70-2	Calcium	mg/l
+82032	Inorganics, Major, Metals	Calcium, water, unfiltered, total, micrograms per liter	Agree					Total		7440-70-2	 	ug/l
+82033	Inorganics, Major, Metals	Magnesium, water, unfiltered, total, micrograms per liter	Agree					Total		7439-95-4	 	ug/l
+82034	Inorganics, Major, Metals	Potassium, water, unfiltered, total, micrograms per liter	Agree					Total		7440-09-7	 	ug/l
+82035	Inorganics, Major, Metals	Sodium, water, unfiltered, total, micrograms per liter	Agree					Total		7440-23-5	 	ug/l
+82425	Inorganics, Major, Metals	Potassium, dry atmospheric deposition, recoverable, milligrams per kilogram	Agree					Recoverable		7440-09-7	Potassium	mg/kg
+82426	Inorganics, Major, Metals	Potassium, insoluble, dry atmospheric deposition, milligrams per kilogram	Agree							7440-09-7	Potassium	mg/kg
+82427	Inorganics, Major, Metals	Potassium, soluble, dry atmospheric deposition, milligrams per kilogram	Agree							7440-09-7	Potassium	mg/kg
+82428	Inorganics, Major, Metals	Sodium, dry atmospheric deposition, recoverable, milligrams per kilogram	Agree					Recoverable		7440-23-5	Sodium	mg/kg
+82429	Inorganics, Major, Metals	Sodium, insoluble, dry atmospheric deposition, milligrams per kilogram	Agree							7440-23-5	Sodium	mg/kg
+82430	Inorganics, Major, Metals	Sodium, soluble, dry atmospheric deposition, milligrams per kilogram	Agree							7440-23-5	Sodium	mg/kg
+82470	Inorganics, Major, Metals	Calcium, dry atmospheric deposition, recoverable, milligrams per kilogram	Agree					Recoverable		7440-70-2	Calcium	mg/kg
+82471	Inorganics, Major, Metals	Calcium, insoluble, dry atmospheric deposition, milligrams per kilogram	Agree							7440-70-2	Calcium	mg/kg
+82472	Inorganics, Major, Metals	Calcium, soluble, dry atmospheric deposition, milligrams per kilogram	Agree							7440-70-2	Calcium	mg/kg
+82473	Inorganics, Major, Metals	Magnesium, soluble, dry atmospheric deposition, milligrams per kilogram	Agree							7439-95-4	Magnesium	mg/kg
+82474	Inorganics, Major, Metals	Magnesium, insoluble, dry atmospheric deposition, milligrams per kilogram	Agree							7439-95-4	Magnesium	mg/kg
+82475	Inorganics, Major, Metals	Magnesium, dry atmospheric deposition, recoverable, milligrams per kilogram	Agree					Recoverable		7439-95-4	Magnesium	mg/kg
+82932	Inorganics, Major, Metals	Calcium, wet atmospheric deposition, filtered, milligrams per liter	Agree					Dissolved		7440-70-2	Calcium	mg/l
+82933	Inorganics, Major, Metals	Calcium, wet atmospheric deposition, filtered, milligrams per square meter	Agree					Dissolved		7440-70-2	Calcium	mg/m2
+82935	Inorganics, Major, Metals	Calcium, wet atmospheric deposition, suspended, milligrams per liter	Agree					Suspended		7440-70-2	Calcium	mg/l
+82936	Inorganics, Major, Metals	Calcium, wet atmospheric deposition, suspended, milligrams per square meter	Agree					Suspended		7440-70-2	Calcium	mg/m2
+82938	Inorganics, Major, Metals	Calcium, wet atmospheric deposition, unfiltered, recoverable, milligrams per liter	Agree					Recoverable		7440-70-2	Calcium	mg/l
+82939	Inorganics, Major, Metals	Calcium, wet atmospheric deposition, unfiltered, recoverable, milligrams per square meter	Agree					Recoverable		7440-70-2	Calcium	mg/m2
+82940	Inorganics, Major, Metals	Calcium, wet atmospheric deposition, unfiltered, recoverable, microequivalents per liter	Agree					Recoverable		7440-70-2	Calcium	ueq/L
+82941	Inorganics, Major, Metals	Calcium, wet atmospheric deposition, unfiltered, milligrams per liter	Agree					Total		7440-70-2	Calcium	mg/l
+82942	Inorganics, Major, Metals	Calcium, wet atmospheric deposition, unfiltered, milligrams per square meter	Agree					Total		7440-70-2	Calcium	mg/m2
+83002	Inorganics, Major, Metals	Magnesium, wet atmospheric deposition, filtered, milligrams per liter	Agree					Dissolved		7439-95-4	Magnesium	mg/l
+83003	Inorganics, Major, Metals	Magnesium, wet atmospheric deposition, filtered, milligrams per square meter	Agree					Dissolved		7439-95-4	Magnesium	mg/m2
+83004	Inorganics, Major, Metals	Magnesium, wet atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		7439-95-4	Magnesium	ueq/L
+83005	Inorganics, Major, Metals	Magnesium, wet atmospheric deposition, suspended, milligrams per liter	Agree					Suspended		7439-95-4	Magnesium	mg/l
+83006	Inorganics, Major, Metals	Magnesium, wet atmospheric deposition, suspended, milligrams per square meter	Agree					Suspended		7439-95-4	Magnesium	mg/m2
+83007	Inorganics, Major, Metals	Magnesium, wet atmospheric deposition, suspended, microequivalents per liter	Agree					Suspended		7439-95-4	Magnesium	ueq/L
+83008	Inorganics, Major, Metals	Magnesium, wet atmospheric deposition, unfiltered, recoverable, milligrams per liter	Agree					Recoverable		7439-95-4	Magnesium	mg/l
+83009	Inorganics, Major, Metals	Magnesium, wet atmospheric deposition, unfiltered, recoverable, milligrams per square meter	Agree					Recoverable		7439-95-4	Magnesium	mg/m2
+83010	Inorganics, Major, Metals	Magnesium, wet atmospheric deposition, unfiltered, recoverable, microequivalents per liter	Agree					Recoverable		7439-95-4	Magnesium	ueq/L
+83011	Inorganics, Major, Metals	Magnesium, wet atmospheric deposition, unfiltered, milligrams per liter	Agree					Total		7439-95-4	Magnesium	mg/l
+83012	Inorganics, Major, Metals	Magnesium, wet atmospheric deposition, unfiltered, milligrams per square meter	Agree					Total		7439-95-4	Magnesium	mg/m2
+83013	Inorganics, Major, Metals	Magnesium, wet atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		7439-95-4	Magnesium	ueq/L
+83120	Inorganics, Major, Metals	Potassium, wet atmospheric deposition, filtered, milligrams per liter	Agree					Dissolved		7440-09-7	Potassium	mg/l
+83121	Inorganics, Major, Metals	Potassium, wet atmospheric deposition, filtered, milligrams per square meter	Agree					Dissolved		7440-09-7	Potassium	mg/m2
+83122	Inorganics, Major, Metals	Potassium, wet atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		7440-09-7	Potassium	ueq/L
+83123	Inorganics, Major, Metals	Potassium, wet atmospheric deposition, suspended, milligrams per liter	Agree					Suspended		7440-09-7	Potassium	mg/l
+83124	Inorganics, Major, Metals	Potassium, wet atmospheric deposition, suspended, milligrams per square meter	Agree					Suspended		7440-09-7	Potassium	mg/m2
+83125	Inorganics, Major, Metals	Potassium, wet atmospheric deposition, suspended, microequivalents per liter	Agree					Suspended		7440-09-7	Potassium	ueq/L
+83126	Inorganics, Major, Metals	Potassium, wet atmospheric deposition, unfiltered, recoverable, milligrams per liter	Agree					Recoverable		7440-09-7	Potassium	mg/l
+83127	Inorganics, Major, Metals	Potassium, wet atmospheric deposition, unfiltered, recoverable, milligrams per square meter	Agree					Recoverable		7440-09-7	Potassium	mg/m2
+83128	Inorganics, Major, Metals	Potassium, wet atmospheric deposition, unfiltered, recoverable, microequivalents per liter	Agree					Recoverable		7440-09-7	Potassium	ueq/L
+83129	Inorganics, Major, Metals	Potassium, wet atmospheric deposition, unfiltered, milligrams per liter	Agree					Total		7440-09-7	Potassium	mg/l
+83130	Inorganics, Major, Metals	Potassium, wet atmospheric deposition, unfiltered, milligrams per square meter	Agree					Total		7440-09-7	Potassium	mg/m2
+83131	Inorganics, Major, Metals	Potassium, wet atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		7440-09-7	Potassium	ueq/L
+83138	Inorganics, Major, Metals	Sodium, wet atmospheric deposition, filtered, milligrams per liter	Agree					Dissolved		7440-23-5	Sodium	mg/l
+83139	Inorganics, Major, Metals	Sodium, wet atmospheric deposition, filtered, milligrams per square meter	Agree					Dissolved		7440-23-5	Sodium	mg/m2
+83140	Inorganics, Major, Metals	Sodium, wet atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		7440-23-5	Sodium	ueq/L
+83141	Inorganics, Major, Metals	Sodium, wet atmospheric deposition, suspended, milligrams per liter	Agree					Suspended		7440-23-5	Sodium	mg/l
+83142	Inorganics, Major, Metals	Sodium, wet atmospheric deposition, suspended, milligrams per square meter	Agree					Suspended		7440-23-5	Sodium	mg/m2
+83143	Inorganics, Major, Metals	Sodium, wet atmospheric deposition, suspended, microequivalents per liter	Agree					Suspended		7440-23-5	Sodium	ueq/L
+83144	Inorganics, Major, Metals	Sodium, wet atmospheric deposition, unfiltered, recoverable, milligrams per liter	Agree					Recoverable		7440-23-5	Sodium	mg/l
+83145	Inorganics, Major, Metals	Sodium, wet atmospheric deposition, unfiltered, recoverable, milligrams per square meter	Agree					Recoverable		7440-23-5	Sodium	mg/m2
+83146	Inorganics, Major, Metals	Sodium, wet atmospheric deposition, unfiltered, recoverable, microequivalents per liter	Agree					Recoverable		7440-23-5	Sodium	ueq/L
+83147	Inorganics, Major, Metals	Sodium, wet atmospheric deposition, unfiltered, milligrams per liter	Agree					Total		7440-23-5	Sodium	mg/l
+83148	Inorganics, Major, Metals	Sodium, wet atmospheric deposition, unfiltered, milligrams per square meter	Agree					Total		7440-23-5	Sodium	mg/m2
+83149	Inorganics, Major, Metals	Sodium, wet atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		7440-23-5	Sodium	ueq/L
+83214	Inorganics, Major, Metals	Calcium, bulk atmospheric deposition, filtered, milligrams per liter	Agree					Dissolved		7440-70-2	Calcium	mg/l
+83215	Inorganics, Major, Metals	Calcium, bulk atmospheric deposition, filtered, milligrams per square meter	Agree					Dissolved		7440-70-2	Calcium	mg/m2
+83216	Inorganics, Major, Metals	Calcium, bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		7440-70-2	Calcium	ueq/L
+83217	Inorganics, Major, Metals	Calcium, bulk atmospheric deposition, suspended, milligrams per liter	Agree					Suspended		7440-70-2	Calcium	mg/l
+83218	Inorganics, Major, Metals	Calcium, bulk atmospheric deposition, suspended, milligrams per square meter	Agree					Suspended		7440-70-2	Calcium	mg/m2
+83219	Inorganics, Major, Metals	Calcium, bulk atmospheric deposition, suspended, microequivalents per liter	Agree					Suspended		7440-70-2	Calcium	ueq/L
+83220	Inorganics, Major, Metals	Calcium, bulk atmospheric deposition, unfiltered, recoverable, milligrams per liter	Agree					Recoverable		7440-70-2	Calcium	mg/l
+83221	Inorganics, Major, Metals	Calcium, bulk atmospheric deposition, unfiltered, recoverable, milligrams per square meter	Agree					Recoverable		7440-70-2	Calcium	mg/m2
+83222	Inorganics, Major, Metals	Calcium, bulk atmospheric deposition, unfiltered, recoverable, microequivalents per liter	Agree					Recoverable		7440-70-2	Calcium	ueq/L
+83223	Inorganics, Major, Metals	Calcium, bulk atmospheric deposition, unfiltered, milligrams per liter	Agree					Total		7440-70-2	Calcium	mg/l
+83224	Inorganics, Major, Metals	Calcium, bulk atmospheric deposition, unfiltered, milligrams per square meter	Agree					Total		7440-70-2	Calcium	mg/m2
+83225	Inorganics, Major, Metals	Calcium, bulk atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		7440-70-2	Calcium	ueq/L
+83284	Inorganics, Major, Metals	Magnesium, bulk atmospheric deposition, filtered, milligrams per liter	Agree					Dissolved		7439-95-4	Magnesium	mg/l
+83285	Inorganics, Major, Metals	Magnesium, bulk atmospheric deposition, filtered, milligrams per square meter	Agree					Dissolved		7439-95-4	Magnesium	mg/m2
+83286	Inorganics, Major, Metals	Magnesium, bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		7439-95-4	Magnesium	ueq/L
+83287	Inorganics, Major, Metals	Magnesium, bulk atmospheric deposition, suspended, milligrams per liter	Agree					Suspended		7439-95-4	Magnesium	mg/l
+83288	Inorganics, Major, Metals	Magnesium, bulk atmospheric deposition, suspended, milligrams per square meter	Agree					Suspended		7439-95-4	Magnesium	mg/m2
+83289	Inorganics, Major, Metals	Magnesium, bulk atmospheric deposition, suspended, microequivalents per liter	Agree					Suspended		7439-95-4	Magnesium	ueq/L
+83290	Inorganics, Major, Metals	Magnesium, bulk atmospheric deposition, unfiltered, recoverable, milligrams per liter	Agree					Recoverable		7439-95-4	Magnesium	mg/l
+83291	Inorganics, Major, Metals	Magnesium, bulk atmospheric deposition, unfiltered, recoverable, milligrams per square meter	Agree					Recoverable		7439-95-4	Magnesium	mg/m2
+83292	Inorganics, Major, Metals	Magnesium, bulk atmospheric deposition, unfiltered, recoverable, microequivalents per liter	Agree					Recoverable		7439-95-4	Magnesium	ueq/L
+83293	Inorganics, Major, Metals	Magnesium, bulk atmospheric deposition, unfiltered, milligrams per liter	Agree					Total		7439-95-4	Magnesium	mg/l
+83294	Inorganics, Major, Metals	Magnesium, bulk atmospheric deposition, unfiltered, milligrams per square meter	Agree					Total		7439-95-4	Magnesium	mg/m2
+83295	Inorganics, Major, Metals	Magnesium, bulk atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		7439-95-4	Magnesium	ueq/L
+83402	Inorganics, Major, Metals	Potassium, bulk atmospheric deposition, filtered, milligrams per liter	Agree					Dissolved		7440-09-7	Potassium	mg/l
+83403	Inorganics, Major, Metals	Potassium, bulk atmospheric deposition, filtered, milligrams per square meter	Agree					Dissolved		7440-09-7	Potassium	mg/m2
+83404	Inorganics, Major, Metals	Potassium, bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		7440-09-7	Potassium	ueq/L
+83405	Inorganics, Major, Metals	Potassium, bulk atmospheric deposition, suspended, milligrams per liter	Agree					Suspended		7440-09-7	Potassium	mg/l
+83406	Inorganics, Major, Metals	Potassium, bulk atmospheric deposition, suspended, milligrams per square meter	Agree					Suspended		7440-09-7	Potassium	mg/m2
+83407	Inorganics, Major, Metals	Potassium, bulk atmospheric deposition, suspended, microequivalents per liter	Agree					Suspended		7440-09-7	Potassium	ueq/L
+83408	Inorganics, Major, Metals	Potassium, bulk atmospheric deposition, unfiltered, recoverable, milligrams per liter	Agree					Recoverable		7440-09-7	Potassium	mg/l
+83409	Inorganics, Major, Metals	Potassium, bulk atmospheric deposition, unfiltered, recoverable, milligrams per square meter	Agree					Recoverable		7440-09-7	Potassium	mg/m2
+83410	Inorganics, Major, Metals	Potassium, bulk atmospheric deposition, unfiltered, recoverable, microequivalents per liter	Agree					Recoverable		7440-09-7	Potassium	ueq/L
+83411	Inorganics, Major, Metals	Potassium, bulk atmospheric deposition, unfiltered, milligrams per liter	Agree					Total		7440-09-7	Potassium	mg/l
+83412	Inorganics, Major, Metals	Potassium, bulk atmospheric deposition, unfiltered, milligrams per square meter	Agree					Total		7440-09-7	Potassium	mg/m2
+83413	Inorganics, Major, Metals	Potassium, bulk atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		7440-09-7	Potassium	ueq/L
+83420	Inorganics, Major, Metals	Sodium, bulk atmospheric deposition, filtered, milligrams per liter	Agree					Dissolved		7440-23-5	Sodium	mg/l
+83421	Inorganics, Major, Metals	Sodium, bulk atmospheric deposition, filtered, milligrams per square meter	Agree					Dissolved		7440-23-5	Sodium	mg/m2
+83422	Inorganics, Major, Metals	Sodium, bulk atmospheric deposition, filtered, microequivalents per liter	Agree					Dissolved		7440-23-5	Sodium	ueq/L
+83423	Inorganics, Major, Metals	Sodium, bulk atmospheric deposition, suspended, milligrams per liter	Agree					Suspended		7440-23-5	Sodium	mg/l
+83424	Inorganics, Major, Metals	Sodium, bulk atmospheric deposition, suspended, milligrams per square meter	Agree					Suspended		7440-23-5	Sodium	mg/m2
+83425	Inorganics, Major, Metals	Sodium, bulk atmospheric deposition, suspended, microequivalents per liter	Agree					Suspended		7440-23-5	Sodium	ueq/L
+83426	Inorganics, Major, Metals	Sodium, bulk atmospheric deposition, unfiltered, recoverable, milligrams per liter	Agree					Recoverable		7440-23-5	Sodium	mg/l
+83427	Inorganics, Major, Metals	Sodium, bulk atmospheric deposition, unfiltered, recoverable, milligrams per square meter	Agree					Recoverable		7440-23-5	Sodium	mg/m2
+83428	Inorganics, Major, Metals	Sodium, bulk atmospheric deposition, unfiltered, recoverable, microequivalents per liter	Agree					Recoverable		7440-23-5	Sodium	ueq/L
+83429	Inorganics, Major, Metals	Sodium, bulk atmospheric deposition, unfiltered, milligrams per liter	Agree					Total		7440-23-5	Sodium	mg/l
+83430	Inorganics, Major, Metals	Sodium, bulk atmospheric deposition, unfiltered, milligrams per square meter	Agree					Total		7440-23-5	Sodium	mg/m2
+83431	Inorganics, Major, Metals	Sodium, bulk atmospheric deposition, unfiltered, microequivalents per liter	Agree					Total		7440-23-5	Sodium	ueq/L
+85769	Inorganics, Major, Metals	Sodium, biota, tissue, recoverable, wet weight, milligrams per kilogram	Agree			Wet		Recoverable		7440-23-5	Sodium	mg/kg
+85770	Inorganics, Major, Metals	Potassium, biota, tissue, recoverable, wet weight, milligrams per kilogram	Agree			Wet		Recoverable		7440-09-7	Potassium	mg/kg
+90856	Inorganics, Major, Metals	Sodium adsorption ratio (SAR), water, estimated by regression equation, number	USGS use and no use by EPA					Total		 	Sodium adsorption ratio	None
+90857	Inorganics, Major, Metals	Sodium adsorption ratio (SAR), water, unfiltered, field, number	USGS use and no use by EPA					Total		 	Sodium adsorption ratio	None
+90858	Inorganics, Major, Metals	Sodium adsorption ratio (SAR), water, filtered, field, number	USGS use and no use by EPA					Dissolved		 	Sodium adsorption ratio	None
+91051	Inorganics, Major, Metals	Calcium, water, filtered, micrograms per liter	USGS use and no use by EPA					Dissolved		7440-70-2	Calcium	ug/l
+91052	Inorganics, Major, Metals	Magnesium, water, filtered, micrograms per liter	USGS use and no use by EPA					Dissolved		7439-95-4	Magnesium	ug/l
+91053	Inorganics, Major, Metals	Sodium, water, filtered, micrograms per liter	USGS use and no use by EPA					Dissolved		7440-23-5	Sodium	ug/l
+91054	Inorganics, Major, Metals	Potassium, water, filtered, micrograms per liter	USGS use and no use by EPA					Dissolved		7440-09-7	Potassium	ug/l
+91715	Inorganics, Major, Metals	Potassium, solids, 6 N hydrochloric acid extracted, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		7440-09-7	Potassium	mg/kg
+91716	Inorganics, Major, Metals	Sodium, solids, 6 N hydrochloric acid extracted, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		7440-23-5	Sodium	mg/kg
+91717	Inorganics, Major, Metals	Magnesium, solids, 6 N hydrochloric acid extracted, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		7439-95-4	Magnesium	mg/kg
+91718	Inorganics, Major, Metals	Calcium, solids, 6 N hydrochloric acid extracted, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		7440-70-2	Calcium	mg/kg
+99398	Inorganics, Major, Metals	Sodium, water, filtered, estimated by regression equation, milligrams per liter	Not checked					Dissolved		7440-23-5	 	mg/l
+99399	Inorganics, Major, Metals	Calcium, water, filtered, estimated by regression equation, milligrams per liter	Not checked					Dissolved		7440-70-2	 	mg/l

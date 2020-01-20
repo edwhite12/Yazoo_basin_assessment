@@ -1,0 +1,693 @@
+#
+# National Water Information System
+# 2019/03/30
+#
+#
+# Date Retrieved: USGS Water Data for the Nation Help System
+#
+parm_cd	group	parm_nm	epa_equivalence	result_statistical_basis	result_time_basis	result_weight_basis	result_particle_size_basis	result_sample_fraction	result_temperature_basis	CASRN	SRSName	parm_unit
+5s	13s	134s	26s	14s	7s	3s	14s	12s	0s	10s	40s	10s
+00149	Radiochemical	Alpha-emitting isotopes of radium, water, filtered, picocuries per liter	Agree					Dissolved		 	Alpha emitting radium isotopes	pCi/L
+01392	Radiochemical	Uranium, bed sediment, total digestion, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Bed Sediment		7440-61-1	Uranium	mg/kg
+01419	Radiochemical	Uranium, soil, total digestion, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Total		7440-61-1	Uranium	mg/kg
+01459	Radiochemical	Uranium, biota, tissue, total digestion, dry weight, milligrams per kilogram	Not checked			Dry				7440-61-1	Uranium	mg/kg
+01501	Radiochemical	Alpha radioactivity, water, unfiltered, picocuries per liter	Not checked					Total		12587-46-1	Alpha particle	pCi/L
+01502	Radiochemical	Alpha radioactivity counting error, water, unfiltered, picocuries per liter	Not checked	Counting Error				Total		12587-46-1	Alpha particle	pCi/L
+01503	Radiochemical	Alpha radioactivity, water, filtered, picocuries per liter	Agree					Dissolved		12587-46-1	Alpha particle	pCi/L
+01504	Radiochemical	Alpha radioactivity counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		12587-46-1	Alpha particle	pCi/L
+01505	Radiochemical	Alpha radioactivity, suspended sediment, picocuries per liter	Agree					Suspended		12587-46-1	Alpha particle	pCi/L
+01506	Radiochemical	Alpha radioactivity counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		12587-46-1	Alpha particle	pCi/L
+01507	Radiochemical	Gross alpha radioactivity, bed sediment, dry weight, picocuries per gram	Not checked			Dry		Bed Sediment		12587-46-1	Alpha particle	pCi/g
+01508	Radiochemical	Gross alpha radioactivity counting error, bed sediment, dry weight, picocuries per gram	Not checked	Counting Error		Dry		Bed Sediment		12587-46-1	Alpha particle	pCi/g
+01515	Radiochemical	Gross alpha radioactivity, water, filtered, natural uranium curve, picocuries per liter	Not checked					Dissolved		12587-46-1	Alpha particle	pCi/L
+01516	Radiochemical	Gross alpha radioactivity, suspended sediment, natural uranium curve, picocuries per liter	Not checked					Suspended		12587-46-1	Alpha particle	pCi/L
+01517	Radiochemical	Gross alpha radioactivity, suspended sediment, natural uranium curve, dry weight, picocuries per gram	Not checked			Dry		Suspended		12587-46-1	Alpha particle	pCi/g
+01518	Radiochemical	Gross alpha radioactivity, suspended sediment, natural uranium curve, dry weight, milligrams per kilogram	Not checked			Dry		Suspended		12587-46-1	Alpha particle	mg/kg
+01519	Radiochemical	Gross alpha radioactivity, water, unfiltered, picocuries per liter	Agree					Total		12587-46-1	Alpha particle	pCi/L
+01524	Radiochemical	Gross alpha radioactivity counting error, water, filtered, micrograms per liter	Agree	Counting Error				Dissolved		12587-46-1	Alpha particle	ug/l
+01525	Radiochemical	Gross alpha radioactivity counting error, suspended sediment, micrograms per liter	Agree	Counting Error				Suspended		12587-46-1	Alpha particle	ug/l
+01526	Radiochemical	Gross alpha radioactivity counting error, water, unfiltered, Th-230 curve, picocuries per liter	Not checked	Counting Error						12587-46-1	 	pCi/L
+03501	Radiochemical	Beta radioactivity, water, unfiltered, picocuries per liter	Agree					Total		12587-47-2	Beta particle	pCi/L
+03502	Radiochemical	Beta radioactivity counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		12587-47-2	Beta particle	pCi/L
+03503	Radiochemical	Beta radioactivity, water, filtered, picocuries per liter	Agree					Dissolved		12587-47-2	Beta particle	pCi/L
+03504	Radiochemical	Beta radioactivity counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		12587-47-2	Beta particle	pCi/L
+03505	Radiochemical	Beta radioactivity, suspended sediment, picocuries per liter	Agree					Suspended		12587-47-2	Beta particle	pCi/L
+03506	Radiochemical	Beta radioactivity counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		12587-47-2	Beta particle	pCi/L
+03507	Radiochemical	Gross beta radioactivity, bed sediment, dry weight, picocuries per gram	Not checked			Dry		Bed Sediment		12587-47-2	Beta particle	pCi/g
+03508	Radiochemical	Gross beta radioactivity counting error, bed sediment, dry weight, picocuries per gram	Not checked	Counting Error		Dry		Bed Sediment		12587-47-2	Beta particle	pCi/g
+03515	Radiochemical	Gross beta radioactivity, water, filtered, Cs-137 curve, picocuries per liter	Not checked					Dissolved		12587-47-2	Beta particle	pCi/L
+03516	Radiochemical	Gross beta radioactivity, suspended sediment, Cs-137 curve, picocuries per liter	Not checked					Suspended		12587-47-2	Beta particle	pCi/L
+03517	Radiochemical	Beta radioactivity, suspended sediment, Sr-90/Y-90 curve, dry weight, picocuries per gram	Not checked			Dry		Suspended		12587-47-2	Beta particle	pCi/g
+03518	Radiochemical	Gross beta radioactivity, suspended sediment, Cs-137 curve, dry weight, picocuries per gram	Not checked			Dry		Suspended		12587-47-2	Beta particle	pCi/g
+03519	Radiochemical	Gross beta radioactivity, water, unfiltered, Cs-137 curve, picocuries per liter	Not checked					Total		12587-47-2	Beta particle	pCi/L
+03526	Radiochemical	Gross beta radioactivity counting error, water, filtered, Cs-137 curve, picocuries per liter	Not checked	Counting Error				Dissolved		12587-47-2	Beta particle	pCi/L
+03527	Radiochemical	Gross beta radioactivity counting error, suspended sediment, Cs-137 curve, picocuries per liter	Not checked	Counting Error				Suspended		12587-47-2	Beta particle	pCi/L
+03528	Radiochemical	Gross beta radioactivity counting error, water, filtered, Sr-90/Y-90 curve, picocuries per liter	Not checked	Counting Error				Dissolved		12587-47-2	Beta particle	pCi/L
+03529	Radiochemical	Gross beta radioactivity counting error, suspended sediment, Sr-90/Y-90 curve, picocuries per liter	Not checked	Counting Error				Suspended		12587-47-2	Beta particle	pCi/L
+03936	Radiochemical	Uranium, bed sediment smaller than 62.5 microns, wet sieved, laboratory, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 0.0625	Bed Sediment		7440-61-1	Uranium	mg/kg
+04102	Radiochemical	Beta radioactivity, bed sediment, Sr-90/Y-90 curve, dry weight, picocuries per gram	Not checked			Dry		Bed Sediment		12587-47-2	Beta particle	pCi/g
+04103	Radiochemical	Cesium-137 2-sigma combined uncertainty, soil, dry weight, picocuries per gram	Agree	2-Sigma CSU		Dry		Total		10045-97-3	Cesium-137	pCi/g
+04104	Radiochemical	Lead-210 2-sigma combined uncertainty, bed sediment, dry weight, picocuries per gram	Not checked	2-Sigma CSU		Dry		Bed Sediment		14255-04-0	Lead-210	pCi/g
+04105	Radiochemical	Polonium-210 2-sigma combined uncertainty, bed sediment, dry weight, picocuries per gram	Not checked	2-Sigma CSU		Dry		Bed Sediment		13981-52-7	Polonium-210	pCi/g
+04106	Radiochemical	Radium-228 2-sigma combined uncertainty, bed sediment, dry weight, picocuries per gram	Not checked	2-Sigma CSU		Dry		Bed Sediment		15262-20-1	Radium-228	pCi/g
+04107	Radiochemical	Radium-226 2-sigma combined uncertainty, bed sediment, dry weight, picocuries per gram	Not checked	2-Sigma CSU		Dry		Bed Sediment		13982-63-3	Radium-226	pCi/g
+04108	Radiochemical	Thorium-230 2-sigma combined uncertainty, bed sediment, dry weight, picocuries per gram	Not checked	2-Sigma CSU		Dry		Bed Sediment		14269-63-7	Thorium-230	pCi/g
+04109	Radiochemical	Thorium-232 2-sigma combined uncertainty, water, filtered, picocuries per liter	Agree	2-Sigma CSU				Dissolved		7440-29-1	Thorium-232	pCi/L
+04110	Radiochemical	Thorium-232 2-sigma combined uncertainty, bed sediment, dry weight, picocuries per gram	Not checked	2-Sigma CSU		Dry		Bed Sediment		7440-29-1	Thorium-232	pCi/g
+04111	Radiochemical	Uranium-234 2-sigma combined uncertainty, bed sediment, dry weight, picocuries per gram	Not checked	2-Sigma CSU		Dry		Bed Sediment		13966-29-5	Uranium-234	pCi/g
+04112	Radiochemical	Uranium-235 2-sigma combined uncertainty, bed sediment, dry weight, picocuries per gram	Not checked	2-Sigma CSU		Dry		Bed Sediment		15117-96-1	Uranium-235	pCi/g
+04113	Radiochemical	Uranium-238 2-sigma combined uncertainty, suspended sediment, dry weight, picocuries per gram	Not agree	2-Sigma CSU		Dry		Suspended		7440-61-1	Uranium	pCi/g
+04123	Radiochemical	Tritium counting error, water, unfiltered, picocuries per milliliter	Agree	Counting Error				Total		10028-17-8	Tritium	pCi/ml
+04124	Radiochemical	Tritium, water, unfiltered, picocuries per milliliter	Agree					Total		10028-17-8	Tritium	pCi/ml
+04125	Radiochemical	Alpha radioactivity, bed sediment, Th-230 curve, dry weight, picocuries per gram	Not checked			Dry		Bed Sediment		12587-46-1	Alpha particle	pCi/g
+04126	Radiochemical	Alpha radioactivity, water, filtered, Th-230 curve, picocuries per liter	Not checked					Dissolved		12587-46-1	Alpha particle	pCi/L
+04127	Radiochemical	Alpha radioactivity, suspended sediment, Th-230 curve, picocuries per liter	Not checked					Suspended		12587-46-1	Alpha particle	pCi/L
+05504	Radiochemical	Gross gamma radioactivity scan counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		 	Gamma radiation	pCi/L
+05515	Radiochemical	Gross gamma radioactivity scan counting error, bed sediment, dry weight, picocuries per gram	Agree	Counting Error		Dry		Bed Sediment		 	Gamma radiation	pCi/g
+05516	Radiochemical	Gross gamma radioactivity scan counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		 	Gamma radiation	pCi/L
+07000	Radiochemical	Tritium, water, unfiltered, picocuries per liter	Agree					Total		10028-17-8	Tritium	pCi/L
+07001	Radiochemical	Tritium counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		10028-17-8	Tritium	pCi/L
+07005	Radiochemical	Tritium, water, filtered, picocuries per liter	Agree					Dissolved		10028-17-8	Tritium	pCi/L
+07006	Radiochemical	Tritium counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		10028-17-8	Tritium	pCi/L
+07010	Radiochemical	Tritium, suspended sediment, picocuries per liter	Agree					Suspended		10028-17-8	Tritium	pCi/L
+07011	Radiochemical	Tritium counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		10028-17-8	Tritium	pCi/L
+07012	Radiochemical	Tritium in water molecules, tritium units	Agree							10028-17-8	Tritium	T.U.
+07013	Radiochemical	Tritium in water molecules counting error, tritium units	Agree	Counting Error						10028-17-8	Tritium	T.U.
+07014	Radiochemical	Tritium counting error, suspended sediment, tritium units	Agree	Counting Error				Suspended		10028-17-8	Tritium	T.U.
+07015	Radiochemical	Tritium counting error, water, filtered, tritium units	Agree	Counting Error				Dissolved		10028-17-8	Tritium	T.U.
+07016	Radiochemical	Tritium, suspended sediment, tritium units	Agree					Suspended		10028-17-8	Tritium	T.U.
+07017	Radiochemical	Tritium, water, unfiltered, tritium units	Agree					Total		10028-17-8	Tritium	T.U.
+07018	Radiochemical	Tritium, water, filtered, tritium units	Agree					Dissolved		10028-17-8	Tritium	T.U.
+07019	Radiochemical	Tritium counting error, water, unfiltered, tritium units	Agree	Counting Error				Total		10028-17-8	Tritium	T.U.
+07050	Radiochemical	Calcium-45, water, filtered, picocuries per liter	Agree					Dissolved		13966-05-7	Calcium-45	pCi/L
+07051	Radiochemical	Calcium-45 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13966-05-7	Calcium-45	pCi/L
+07052	Radiochemical	Calcium-45, suspended sediment, picocuries per liter	Agree					Suspended		13966-05-7	Calcium-45	pCi/L
+07053	Radiochemical	Calcium-45 counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		13966-05-7	Calcium-45	pCi/L
+07054	Radiochemical	Calcium-45, water, unfiltered, picocuries per liter	Agree					Total		13966-05-7	Calcium-45	pCi/L
+07055	Radiochemical	Calcium-45 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13966-05-7	Calcium-45	pCi/L
+07060	Radiochemical	Iron-59, water, filtered, picocuries per liter	Agree					Dissolved		14596-12-4	Iron-59	pCi/L
+07061	Radiochemical	Iron-59 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14596-12-4	Iron-59	pCi/L
+07062	Radiochemical	Iron-59, suspended sediment, picocuries per liter	Agree					Suspended		14596-12-4	Iron-59	pCi/L
+07063	Radiochemical	Iron-59 counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		14596-12-4	Iron-59	pCi/L
+07064	Radiochemical	Iron-59, water, unfiltered, picocuries per liter	Agree					Total		14596-12-4	Iron-59	pCi/L
+07065	Radiochemical	Iron-59 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14596-12-4	Iron-59	pCi/L
+07100	Radiochemical	Selenium-75, water, filtered, picocuries per liter	Agree					Dissolved		14265-71-5	Selenium-75	pCi/L
+07101	Radiochemical	Selenium-75 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14265-71-5	Selenium-75	pCi/L
+07102	Radiochemical	Selenium-75, suspended sediment, picocuries per liter	Agree					Suspended		14265-71-5	Selenium-75	pCi/L
+07103	Radiochemical	Selenium-75 counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		14265-71-5	Selenium-75	pCi/L
+07104	Radiochemical	Selenium-75, water, unfiltered, picocuries per liter	Agree					Total		14265-71-5	Selenium-75	pCi/L
+07105	Radiochemical	Selenium-75 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14265-71-5	Selenium-75	pCi/L
+07120	Radiochemical	Silver-110, water, filtered, picocuries per liter	Agree					Dissolved		14391-76-5	Silver-110	pCi/L
+07121	Radiochemical	Silver-110 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14391-76-5	Silver-110	pCi/L
+07122	Radiochemical	Silver-110, suspended sediment, picocuries per liter	Agree					Suspended		14391-76-5	Silver-110	pCi/L
+07123	Radiochemical	Silver-110 counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		14391-76-5	Silver-110	pCi/L
+07124	Radiochemical	Silver-110, water, unfiltered, picocuries per liter	Agree					Total		14391-76-5	Silver-110	pCi/L
+07125	Radiochemical	Silver-110 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14391-76-5	Silver-110	pCi/L
+07140	Radiochemical	Sulfur-35, water, filtered, picocuries per liter	Agree					Dissolved		15117-53-0	Sulfur-35	pCi/L
+07141	Radiochemical	Sulfur-35 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		15117-53-0	Sulfur-35	pCi/L
+07142	Radiochemical	Sulfur-35, suspended sediment, picocuries per liter	Agree					Suspended		15117-53-0	Sulfur-35	pCi/L
+07143	Radiochemical	Sulfur-35 counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		15117-53-0	Sulfur-35	pCi/L
+07144	Radiochemical	Sulfur-35, water, unfiltered, picocuries per liter	Agree					Total		15117-53-0	Sulfur-35	pCi/L
+07145	Radiochemical	Sulfur-35 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		15117-53-0	Sulfur-35	pCi/L
+09501	Radiochemical	Radium-226, water, unfiltered, picocuries per liter	Agree					Total		13982-63-3	Radium-226	pCi/L
+09503	Radiochemical	Radium-226, water, filtered, picocuries per liter	Agree					Dissolved		13982-63-3	Radium-226	pCi/L
+09504	Radiochemical	Radium-226 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13982-63-3	Radium-226	pCi/L
+09505	Radiochemical	Radium-226, suspended sediment, picocuries per liter	Agree					Suspended		13982-63-3	Radium-226	pCi/L
+09506	Radiochemical	Radium-226 counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		13982-63-3	Radium-226	pCi/L
+09507	Radiochemical	Radium-226, bed sediment, dry weight, picocuries per gram	Not checked			Dry		Bed Sediment		13982-63-3	Radium-226	pCi/g
+09508	Radiochemical	Radium-226 counting error, bed sediment, dry weight, picocuries per gram	Not checked	Counting Error		Dry		Bed Sediment		13982-63-3	Radium-226	pCi/g
+09510	Radiochemical	Alpha-emitting isotopes of radium, water, filtered, planchet count, picocuries per liter	Not checked					Dissolved		 	Alpha emitting radium isotopes	pCi/L
+09511	Radiochemical	Radium-226, water, filtered, radon method, picocuries per liter	Agree					Dissolved		13982-63-3	Radium-226	pCi/L
+11501	Radiochemical	Radium-228, water, unfiltered, picocuries per liter	Agree					Total		15262-20-1	Radium-228	pCi/L
+11502	Radiochemical	Radium-228 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		15262-20-1	Radium-228	pCi/L
+11506	Radiochemical	Radium-224, bed sediment, dry weight, picocuries per gram	Not checked			Dry		Bed Sediment		13233-32-4	Radium-224	pCi/g
+13501	Radiochemical	Strontium-90, water, unfiltered, picocuries per liter	Agree					Total		10098-97-2	Strontium-90	pCi/L
+13502	Radiochemical	Strontium-90 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		10098-97-2	Strontium-90	pCi/L
+13503	Radiochemical	Strontium-90, water, filtered, picocuries per liter	Agree					Dissolved		10098-97-2	Strontium-90	pCi/L
+13504	Radiochemical	Strontium-90 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		10098-97-2	Strontium-90	pCi/L
+13505	Radiochemical	Strontium-90, suspended sediment, picocuries per liter	Agree					Suspended		10098-97-2	Strontium-90	pCi/L
+13506	Radiochemical	Strontium-90 counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		10098-97-2	Strontium-90	pCi/L
+13507	Radiochemical	Strontium-90 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		10098-97-2	Strontium-90	pCi/L
+15501	Radiochemical	Strontium-89, water, unfiltered, picocuries per liter	Agree					Total		14158-27-1	Strontium-89	pCi/L
+15502	Radiochemical	Strontium-89 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14158-27-1	Strontium-89	pCi/L
+15503	Radiochemical	Strontium-89 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14158-27-1	Strontium-89	pCi/L
+15504	Radiochemical	Strontium-89, water, filtered, picocuries per liter	Agree					Dissolved		14158-27-1	Strontium-89	pCi/L
+15507	Radiochemical	Strontium-90, bed sediment, dry weight, picocuries per gram	Not checked			Dry		Bed Sediment		10098-97-2	Strontium-90	pCi/g
+17501	Radiochemical	Lead-210, water, unfiltered, picocuries per liter	Agree					Total		14255-04-0	Lead-210	pCi/L
+17502	Radiochemical	Lead-210 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14255-04-0	Lead-210	pCi/L
+17503	Radiochemical	Lead-210, water, filtered, picocuries per liter	Agree					Dissolved		14255-04-0	Lead-210	pCi/L
+17504	Radiochemical	Lead-210 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14255-04-0	Lead-210	pCi/L
+17505	Radiochemical	Lead-210, suspended sediment, picocuries per liter	Agree					Suspended		14255-04-0	Lead-210	pCi/L
+17506	Radiochemical	Lead-210 counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		14255-04-0	Lead-210	pCi/L
+17507	Radiochemical	Lead-210, bed sediment, dry weight, picocuries per gram	Not checked			Dry		Bed Sediment		14255-04-0	Lead-210	pCi/g
+17508	Radiochemical	Lead-210, counting error, bed sediment, dry weight, picocuries per gram	Not checked	Counting Error		Dry		Bed Sediment		14255-04-0	Lead-210	pCi/g
+17517	Radiochemical	Lead-212, water, unfiltered, picocuries per liter	Agree					Total		15092-94-1	Lead-212	pCi/L
+17518	Radiochemical	Lead-212 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		15092-94-1	Lead-212	pCi/L
+17519	Radiochemical	Lead-214, water, unfiltered, picocuries per liter	Agree					Total		15067-28-4	Lead-214	pCi/L
+17520	Radiochemical	Lead-214 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		15067-28-4	Lead-214	pCi/L
+18501	Radiochemical	Iodine-129, water, unfiltered, picocuries per liter	Agree					Total		15046-84-1	Iodine-129	pCi/L
+18502	Radiochemical	Iodine-129 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		15046-84-1	Iodine-129	pCi/L
+19501	Radiochemical	Polonium-210, water, unfiltered, picocuries per liter	Agree					Total		13981-52-7	Polonium-210	pCi/L
+19503	Radiochemical	Polonium-210, water, filtered, picocuries per liter	Agree					Dissolved		13981-52-7	Polonium-210	pCi/L
+19504	Radiochemical	Polonium-210 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13981-52-7	Polonium-210	pCi/L
+19505	Radiochemical	Polonium-210, suspended sediment, picocuries per liter	Agree					Suspended		13981-52-7	Polonium-210	pCi/L
+19506	Radiochemical	Polonium-210 counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		13981-52-7	Polonium-210	pCi/L
+19507	Radiochemical	Polonium-210, bed sediment, dry weight, picocuries per gram	Not checked			Dry		Bed Sediment		13981-52-7	Polonium-210	pCi/g
+22001	Radiochemical	Plutonium-238, water, filtered, picocuries per liter	Agree					Dissolved		13981-16-3	Plutonium-238	pCi/L
+22002	Radiochemical	Plutonium-238 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13981-16-3	Plutonium-238	pCi/L
+22010	Radiochemical	Plutonium-239, water, filtered, picocuries per liter	Agree					Dissolved		15117-48-3	Plutonium-239	pCi/L
+22011	Radiochemical	Plutonium-239 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		15117-48-3	Plutonium-239	pCi/L
+22012	Radiochemical	Plutonium-238, water, unfiltered, picocuries per liter	Agree					Total		13981-16-3	Plutonium-238	pCi/L
+22013	Radiochemical	Plutonium-238 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13981-16-3	Plutonium-238	pCi/L
+22014	Radiochemical	Plutonium-239, water, unfiltered, picocuries per liter	Agree					Total		15117-48-3	Plutonium-239	pCi/L
+22015	Radiochemical	Plutonium-239 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		15117-48-3	Plutonium-239	pCi/L
+22016	Radiochemical	Plutonium-238, bed sediment, picocuries per gram	Not checked					Bed Sediment		13981-16-3	Plutonium-238	pCi/g
+22020	Radiochemical	Beryllium-7, bed sediment smaller than 62.5 microns, dry weight, disintegrations per minute per gram	USGS use and no use by EPA			Dry	< 62.5 mm	Bed Sediment		13966-02-4	Beryllium-7	dpm/g
+22021	Radiochemical	Cesium-137, bed sediment smaller than 62.5 microns, dry weight, picocuries per gram	USGS use and no use by EPA			Dry	< 62.5 mm	Bed Sediment		10045-97-3	Cesium-137	pCi/g
+22022	Radiochemical	Lead-210, bed sediment smaller than 62.5 microns, dry weight, disintegrations per minute per gram	USGS use and no use by EPA			Dry	< 62.5 mm	Bed Sediment		14255-04-0	Lead-210	dpm/g
+22023	Radiochemical	Radium-226, bed sediment smaller than 62.5 microns, dry weight, disintegrations per minute per gram	USGS use and no use by EPA			Dry	< 62.5 mm	Bed Sediment		13982-63-3	Radium-226	dpm/g
+22024	Radiochemical	Beryllium-7, suspended sediment smaller than 62.5 microns, dry weight, disintegrations per minute per gram	USGS use and no use by EPA			Dry	< 62.5 mm	Suspended		13966-02-4	Beryllium-7	dpm/g
+22025	Radiochemical	Cesium-137, suspended sediment smaller than 62.5 microns, dry weight, picocuries per gram	USGS use and no use by EPA			Dry	< 62.5 mm	Suspended		10045-97-3	Cesium-137	pCi/g
+22026	Radiochemical	Lead-210, suspended sediment smaller than 62.5 microns, dry weight, disintegrations per minute per gram	USGS use and no use by EPA			Dry	< 62.5 mm	Suspended		14255-04-0	Lead-210	dpm/g
+22027	Radiochemical	Radium-226, suspended sediment smaller than 62.5 microns, dry weight, disintegrations per minute per gram	USGS use and no use by EPA			Dry	< 62.5 mm	Suspended		13982-63-3	Radium-226	dpm/g
+22028	Radiochemical	Radon-222, air, unfiltered, disintegrations per minute per liter	Not checked							14859-67-7	Radon-222	dpm/l
+22029	Radiochemical	Radon-222 counting error, air, unfiltered, disintegrations per minute per liter	Not checked	Counting Error						14859-67-7	Radon-222	dpm/l
+22030	Radiochemical	Radon-222, water, unfiltered, disintegrations per minute per liter	Not checked					Total		14859-67-7	Radon-222	dpm/l
+22031	Radiochemical	Radon-222 counting error, water, unfiltered, disintegrations per minute per liter	Not checked	Counting Error				Total		14859-67-7	Radon-222	dpm/l
+22032	Radiochemical	Polonium-210 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	Not checked	2-Sigma CSU						13981-52-7	 	pCi/L
+22033	Radiochemical	Nickel-59, water, unfiltered, picocuries per liter	Not checked					Recoverable		14336-70-0	 	pCi/L
+22034	Radiochemical	Nickel-59 counting error, water, unfiltered, picocuries per liter	Not checked					Recoverable		14336-70-0	 	pCi/L
+22035	Radiochemical	Nickel-59, water, filtered, picocuries per liter	Not checked					Dissolved		14336-70-0	 	pCi/L
+22036	Radiochemical	Nickel-59 counting error, water, filtered, picocuries per liter	Not checked					Dissolved		14336-70-0	 	pCi/L
+22037	Radiochemical	Nickel-63, water, filtered, picocuries per liter	Not checked					Dissolved		13981-37-8	Nickel-63	pCi/L
+22038	Radiochemical	Nickel-63 counting error, water, filtered, picocuries per liter	Not checked					Dissolved		13981-37-8	Nickel-63	pCi/L
+22039	Radiochemical	Uranium-234/Uranium-238 activity ratio, water, filtered, ratio	Not checked					Dissolved		 	 	None
+22040	Radiochemical	Uranium-234/Uranium-238 activity ratio 2 sigma combined uncertainty, water, filtered, ratio	Not checked	2-Sigma CSU				Dissolved		 	 	None
+22041	Radiochemical	Cesium-137, bed sediment smaller than 62.5 microns, dry weight, disintegrations per minute per gram	Not checked			Dry		Bed Sediment		10045-97-3	Cesium-137	dpm/g
+22150	Radiochemical	Neptunium-237, water, unfiltered, picocuries per liter	Not checked					Recoverable		13994-20-2	 	pCi/L
+22151	Radiochemical	Neptunium-237 counting error, water, unfiltered, picocuries per liter	Not checked					Recoverable		13994-20-2	 	pCi/L
+22383	Radiochemical	Bismuth-214, water, unfiltered, picocuries per liter	Agree					Total		14733-03-0	Bismuth-214	pCi/L
+22384	Radiochemical	Bismuth-214 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14733-03-0	Bismuth-214	pCi/L
+22450	Radiochemical	Americium-241, bed sediment, dry weight, picocuries per gram	Not checked			Dry		Bed Sediment		14596-10-2	Americium-241	pCi/g
+22501	Radiochemical	Thorium-232, water, unfiltered, picocuries per liter	Agree					Total		7440-29-1	Thorium-232	pCi/L
+22502	Radiochemical	Thorium-232 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		7440-29-1	Thorium-232	pCi/L
+22503	Radiochemical	Thorium/uranium isotope ratio	Agree					Total		 	 	None
+22505	Radiochemical	Thorium-228, water, unfiltered, picocuries per liter	Agree					Total		14274-82-9	Thorium-228	pCi/L
+22601	Radiochemical	Uranium-238, water, unfiltered, picocuries per liter	Agree					Total		7440-61-1	Uranium	pCi/L
+22602	Radiochemical	Uranium-238 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		7440-61-1	Uranium	pCi/L
+22603	Radiochemical	Uranium-238, water, filtered, picocuries per liter	Agree					Dissolved		7440-61-1	Uranium	pCi/L
+22604	Radiochemical	Uranium-238 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		7440-61-1	Uranium	pCi/L
+22606	Radiochemical	Uranium-234, water, unfiltered, picocuries per liter	Agree					Total		13966-29-5	Uranium-234	pCi/L
+22607	Radiochemical	Uranium-234 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13966-29-5	Uranium-234	pCi/L
+22610	Radiochemical	Uranium-234, water, filtered, picocuries per liter	Agree					Dissolved		13966-29-5	Uranium-234	pCi/L
+22611	Radiochemical	Uranium-234 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13966-29-5	Uranium-234	pCi/L
+22612	Radiochemical	Uranium-235, bed sediment, dry weight, picocuries per gram	Not checked			Dry		Bed Sediment		15117-96-1	Uranium-235	pCi/g
+22620	Radiochemical	Uranium-235, water, filtered, picocuries per liter	Agree					Dissolved		15117-96-1	Uranium-235	pCi/L
+22622	Radiochemical	Uranium-235, water, unfiltered, picocuries per liter	Agree					Total		15117-96-1	Uranium-235	pCi/L
+22623	Radiochemical	Uranium counting error, water, filtered, micrograms per liter	Agree	Counting Error				Dissolved		7440-61-1	Uranium	ug/l
+22624	Radiochemical	Uranium counting error, water, unfiltered, micrograms per liter	Agree	Counting Error				Total		7440-61-1	Uranium	ug/l
+22703	Radiochemical	Uranium (natural), water, filtered, micrograms per liter	Agree					Dissolved		7440-61-1	Uranium	ug/l
+22704	Radiochemical	Uranium, water, unfiltered, recoverable, micrograms per liter	Not checked					Recoverable		7440-61-1	Uranium	ug/l
+22705	Radiochemical	Uranium (natural), suspended sediment, total, micrograms per liter	Agree					Suspended		7440-61-1	Uranium	ug/l
+22706	Radiochemical	Uranium, water, unfiltered, micrograms per liter as uranium(V,VI) oxide (U3O8)	Agree					Total		7440-61-1	Uranium	ug/L U3O8
+22707	Radiochemical	Uranium (natural), bed sediment, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Bed Sediment		7440-61-1	Uranium	mg/kg
+22709	Radiochemical	Cesium-137, solids, dry weight, picocuries per gram	Not checked			Dry				10045-97-3	 	pCi/g
+22710	Radiochemical	Cesium-137 1-sigma precision estimate, solids, dry weight, picocuries per gram	Not checked			Dry				10045-97-3	 	pCi/g
+22711	Radiochemical	Lead-210, solids, dry weight, disintegrations per minute per gram	Not checked			Dry				14255-04-0	Lead-210	dpm/g
+22712	Radiochemical	Beryllium-7, solids, dry weight, disintegrations per minute per gram	Not checked			Dry				13966-02-4	Beryllium-7	dpm/g
+22713	Radiochemical	Radium-226, solids, dry weight, disintegrations per minute per gram	Not checked			Dry				13982-63-3	Radium-226	dpm/g
+24501	Radiochemical	Radium-224, water, unfiltered, picocuries per liter	Agree					Total		13233-32-4	Radium-224	pCi/L
+26501	Radiochemical	Thorium-230, water, unfiltered, picocuries per liter	Agree					Total		14269-63-7	Thorium-230	pCi/L
+26503	Radiochemical	Thorium-230, water, filtered, picocuries per liter	Agree					Dissolved		14269-63-7	Thorium-230	pCi/L
+26504	Radiochemical	Thorium-230 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14269-63-7	Thorium-230	pCi/L
+26505	Radiochemical	Thorium-230, suspended sediment, picocuries per liter	Agree					Suspended		14269-63-7	Thorium-230	pCi/L
+26506	Radiochemical	Thorium-230 counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		14269-63-7	Thorium-230	pCi/L
+26507	Radiochemical	Thorium-230, bed sediment, dry weight, picocuries per gram	Not checked			Dry		Bed Sediment		14269-63-7	Thorium-230	pCi/g
+26629	Radiochemical	Thorium-228, bed sediment, dry weight, picocuries per gram	Not checked			Dry		Bed Sediment		14274-82-9	Thorium-228	pCi/g
+26631	Radiochemical	Thorium-232, bed sediment, dry weight, picocuries per gram	Not checked			Dry		Bed Sediment		7440-29-1	Thorium-232	pCi/g
+27701	Radiochemical	Zirconium-95, water, unfiltered, picocuries per liter	Agree					Total		13967-71-0	Zirconium-95	pCi/L
+27702	Radiochemical	Zirconium-95 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13967-71-0	Zirconium-95	pCi/L
+27801	Radiochemical	Niobium-95, water, unfiltered, picocuries per liter	Agree					Total		13967-76-5	Niobium-95	pCi/L
+27802	Radiochemical	Niobium-95 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13967-76-5	Niobium-95	pCi/L
+27901	Radiochemical	Ruthenium-103, water, unfiltered, picocuries per liter	Agree					Total		13968-53-1	Ruthenium-103	pCi/L
+27902	Radiochemical	Ruthenium-103 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13968-53-1	Ruthenium-103	pCi/L
+28001	Radiochemical	Ruthenium-106, water, unfiltered, picocuries per liter	Agree					Total		13967-48-1	Ruthenium-106	pCi/L
+28002	Radiochemical	Ruthenium-106 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13967-48-1	Ruthenium-106	pCi/L
+28004	Radiochemical	Apparent age, water, filtered, carbon-14, years before present	Agree					Dissolved		 	 	years BP
+28005	Radiochemical	Radiocesium, water, filtered, Cs-137 curve, picocuries per liter	Not checked					Dissolved		 	Cesium Radionuclides	pCi/L
+28006	Radiochemical	Radiocesium, suspended sediment, Cs-137 curve, picocuries per liter	Not checked					Suspended		 	Cesium Radionuclides	pCi/L
+28007	Radiochemical	Radiocesium, water, unfiltered, Cs-137 curve, picocuries per liter	Not checked					Total		 	Cesium Radionuclides	pCi/L
+28008	Radiochemical	Radioruthenium, water, filtered, Ru-106 curve, picocuries per liter	Not checked					Dissolved		 	Ruthenium Radionuclides	pCi/L
+28009	Radiochemical	Radioruthenium, suspended sediment, Ru-106 curve, picocuries per liter	Not checked					Suspended		 	Ruthenium Radionuclides	pCi/L
+28010	Radiochemical	Radioruthenium, water, unfiltered, Ru-106 curve, picocuries per liter	Not checked					Total		 	Ruthenium Radionuclides	pCi/L
+28011	Radiochemical	Uranium (natural), water, unfiltered, micrograms per liter	Agree					Total		7440-61-1	Uranium	ug/l
+28012	Radiochemical	Uranium (natural), water, unfiltered, picocuries per liter	Agree					Total		7440-61-1	Uranium	pCi/L
+28013	Radiochemical	Uranium-234/uranium-238 ratio, water, filtered, number	Agree					Dissolved		 	 	None
+28014	Radiochemical	Uranium-234, bed sediment, dry weight, picocuries per gram	Not checked			Dry		Bed Sediment		13966-29-5	Uranium-234	pCi/g
+28016	Radiochemical	Uranium-238, bed sediment, dry weight, picocuries per gram	Not checked			Dry		Bed Sediment		 	Uranium	pCi/g
+28301	Radiochemical	Iodine-131, water, unfiltered, picocuries per liter	Agree					Total		10043-66-0	Iodine-131	pCi/L
+28302	Radiochemical	Iodine-131 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		10043-66-0	Iodine-131	pCi/L
+28401	Radiochemical	Cesium-137, water, unfiltered, picocuries per liter	Agree					Total		10045-97-3	Cesium-137	pCi/L
+28402	Radiochemical	Cesium-137 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		10045-97-3	Cesium-137	pCi/L
+28403	Radiochemical	Cesium-137, water, filtered, picocuries per liter	Agree					Dissolved		10045-97-3	Cesium-137	pCi/L
+28404	Radiochemical	Cesium-137, suspended sediment, picocuries per liter	Agree					Suspended		10045-97-3	Cesium-137	pCi/L
+28405	Radiochemical	Cesium-137 counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		10045-97-3	Cesium-137	pCi/L
+28406	Radiochemical	Cesium-137 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		10045-97-3	Cesium-137	pCi/L
+28410	Radiochemical	Cesium-134, water, filtered, picocuries per liter	Agree					Dissolved		13967-70-9	Cesium-134	pCi/L
+28411	Radiochemical	Cesium-134 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13967-70-9	Cesium-134	pCi/L
+28412	Radiochemical	Cesium-134, suspended sediment, picocuries per liter	Agree					Suspended		13967-70-9	Cesium-134	pCi/L
+28413	Radiochemical	Cesium-134 counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		13967-70-9	Cesium-134	pCi/L
+28414	Radiochemical	Cesium-134, water, unfiltered, picocuries per liter	Agree					Total		13967-70-9	Cesium-134	pCi/L
+28415	Radiochemical	Cesium-134 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13967-70-9	Cesium-134	pCi/L
+28601	Radiochemical	Barium-140, water, unfiltered, picocuries per liter	Agree					Total		14798-08-4	Barium-140	pCi/L
+28602	Radiochemical	Barium-140 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14798-08-4	Barium-140	pCi/L
+28701	Radiochemical	Lanthanum-140, water, unfiltered, picocuries per liter	Agree					Total		13981-28-7	Lanthanum-140	pCi/L
+28702	Radiochemical	Lanthanum-140 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13981-28-7	Lanthanum-140	pCi/L
+28801	Radiochemical	Cerium-141, water, unfiltered, picocuries per liter	Agree					Total		13967-74-3	Cerium-141	pCi/L
+28802	Radiochemical	Cerium-141 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13967-74-3	Cerium-141	pCi/L
+28901	Radiochemical	Cerium-144, water, unfiltered, picocuries per liter	Agree					Total		14762-78-8	Cerium-144	pCi/L
+28902	Radiochemical	Cerium-144 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14762-78-8	Cerium-144	pCi/L
+29301	Radiochemical	Zinc-65, water, unfiltered, picocuries per liter	Agree					Total		13982-39-3	Zinc-65	pCi/L
+29302	Radiochemical	Zinc-65 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13982-39-3	Zinc-65	pCi/L
+29401	Radiochemical	Chromium-51, water, unfiltered, picocuries per liter	Agree					Total		14392-02-0	Chromium-51	pCi/L
+29402	Radiochemical	Chromium-51 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14392-02-0	Chromium-51	pCi/L
+29501	Radiochemical	Manganese-54, water, unfiltered, picocuries per liter	Agree					Total		13966-31-9	Manganese-54	pCi/L
+29502	Radiochemical	Manganese-54 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13966-31-9	Manganese-54	pCi/L
+29601	Radiochemical	Cobalt-60, water, unfiltered, picocuries per liter	Agree					Total		10198-40-0	Cobalt-60	pCi/L
+29602	Radiochemical	Cobalt-60 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		10198-40-0	Cobalt-60	pCi/L
+29631	Radiochemical	Scandium-46, water, filtered, picocuries per liter	Agree					Dissolved		13967-63-0	Scandium-46	pCi/L
+29632	Radiochemical	Scandium-46 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13967-63-0	Scandium-46	pCi/L
+29633	Radiochemical	Scandium-46, suspended sediment, picocuries per liter	Agree					Suspended		13967-63-0	Scandium-46	pCi/L
+29634	Radiochemical	Scandium-46 counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		13967-63-0	Scandium-46	pCi/L
+29635	Radiochemical	Scandium-46, water, unfiltered, picocuries per liter	Agree					Total		13967-63-0	Scandium-46	pCi/L
+29636	Radiochemical	Scandium-46 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13967-63-0	Scandium-46	pCi/L
+29637	Radiochemical	Lead-210 1-sigma precision estimate, solids, dry weight, disintegrations per minute per gram	Not checked			Dry				14255-04-0	 	dpm/g
+29638	Radiochemical	Beryllium-7 1-sigma precision estimate, solids, dry weight, disintegrations per minute per gram	Not checked			Dry				13966-02-4	 	dpm/g
+29639	Radiochemical	Radium-226 1-sigma precision estimate, solids, dry weight, disintegrations per minute per gram	Not checked			Dry				13982-63-3	 	dpm/g
+29857	Radiochemical	Actinium-228, water, unfiltered, picocuries per liter	Agree					Total		14331-83-0	Actinium-228	pCi/L
+29858	Radiochemical	Actinium-228 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14331-83-0	Actinium-228	pCi/L
+29859	Radiochemical	Actinium-228, water, filtered, picocuries per liter	Agree					Dissolved		14331-83-0	Actinium-228	pCi/L
+29860	Radiochemical	Actinium-228 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14331-83-0	Actinium-228	pCi/L
+29861	Radiochemical	Silver-108, water, unfiltered, picocuries per liter	Agree					Total		14391-65-2	Silver-108	pCi/L
+29862	Radiochemical	Silver-108 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14391-65-2	Silver-108	pCi/L
+29863	Radiochemical	Silver-108, water, filtered, picocuries per liter	Agree					Dissolved		14391-65-2	Silver-108	pCi/L
+29864	Radiochemical	Silver-108 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14391-65-2	Silver-108	pCi/L
+29865	Radiochemical	Americium-241, water, unfiltered, picocuries per liter	Agree					Total		14596-10-2	Americium-241	pCi/L
+29866	Radiochemical	Americium-241 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14596-10-2	Americium-241	pCi/L
+29867	Radiochemical	Americium-241, water, filtered, picocuries per liter	Agree					Dissolved		14596-10-2	Americium-241	pCi/L
+29868	Radiochemical	Americium-241 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14596-10-2	Americium-241	pCi/L
+29869	Radiochemical	Barium-140, water, filtered, picocuries per liter	Agree					Dissolved		14798-08-4	Barium-140	pCi/L
+29870	Radiochemical	Barium-140 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14798-08-4	Barium-140	pCi/L
+29871	Radiochemical	Beryllium-7, water, unfiltered, picocuries per liter	Agree					Total		13966-02-4	Beryllium-7	pCi/L
+29872	Radiochemical	Beryllium-7 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13966-02-4	Beryllium-7	pCi/L
+29873	Radiochemical	Beryllium-7, water, filtered, picocuries per liter	Agree					Dissolved		13966-02-4	Beryllium-7	pCi/L
+29874	Radiochemical	Beryllium-7 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13966-02-4	Beryllium-7	pCi/L
+29875	Radiochemical	Bismuth-214, water, filtered, picocuries per liter	Agree					Dissolved		14733-03-0	Bismuth-214	pCi/L
+29876	Radiochemical	Bismuth-214 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14733-03-0	Bismuth-214	pCi/L
+29877	Radiochemical	Cerium-141, water, filtered, picocuries per liter	Agree					Dissolved		13967-74-3	Cerium-141	pCi/L
+29878	Radiochemical	Cerium-141 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13967-74-3	Cerium-141	pCi/L
+29879	Radiochemical	Curium-242, water, unfiltered, picocuries per liter	Agree					Total		15510-73-3	Curium-242	pCi/L
+29880	Radiochemical	Curium-242 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		15510-73-3	Curium-242	pCi/L
+29881	Radiochemical	Curium-242, water, filtered, picocuries per liter	Agree					Dissolved		15510-73-3	Curium-242	pCi/L
+29882	Radiochemical	Curium-242 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		15510-73-3	Curium-242	pCi/L
+29883	Radiochemical	Curium-244, water, unfiltered, picocuries per liter	Agree					Total		13981-15-2	Curium-244	pCi/L
+29884	Radiochemical	Curium-244 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13981-15-2	Curium-244	pCi/L
+29885	Radiochemical	Curium-244, water, filtered, picocuries per liter	Agree					Dissolved		13981-15-2	Curium-244	pCi/L
+29886	Radiochemical	Curium-244 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13981-15-2	Curium-244	pCi/L
+29887	Radiochemical	Cobalt-57, water, unfiltered, picocuries per liter	Agree					Total		13981-50-5	Cobalt-57	pCi/L
+29888	Radiochemical	Cobalt-57 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13981-50-5	Cobalt-57	pCi/L
+29889	Radiochemical	Cobalt-57, water, filtered, picocuries per liter	Agree					Dissolved		13981-50-5	Cobalt-57	pCi/L
+29890	Radiochemical	Cobalt-57 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13981-50-5	Cobalt-57	pCi/L
+29891	Radiochemical	Cobalt-58, water, unfiltered, picocuries per liter	Agree					Total		13981-38-9	Cobalt-58	pCi/L
+29892	Radiochemical	Cobalt-58 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13981-38-9	Cobalt-58	pCi/L
+29893	Radiochemical	Cobalt-58, water, filtered, picocuries per liter	Agree					Dissolved		13981-38-9	Cobalt-58	pCi/L
+29894	Radiochemical	Cobalt-58 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13981-38-9	Cobalt-58	pCi/L
+29895	Radiochemical	Chromium-51, water, filtered, picocuries per liter	Agree					Dissolved		14392-02-0	Chromium-51	pCi/L
+29896	Radiochemical	Chromium-51 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14392-02-0	Chromium-51	pCi/L
+29897	Radiochemical	Cesium-144, water, unfiltered, picocuries per liter	Agree					Total		15701-05-0	 	pCi/L
+29898	Radiochemical	Cesium-144 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		15701-05-0	 	pCi/L
+29899	Radiochemical	Cesium-144, water, filtered, picocuries per liter	Agree					Dissolved		15701-05-0	 	pCi/L
+29900	Radiochemical	Cesium-144 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		15701-05-0	 	pCi/L
+29901	Radiochemical	Europium-155, water, unfiltered, picocuries per liter	Agree					Total		14391-16-3	Europium-155	pCi/L
+29902	Radiochemical	Europium-155 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14391-16-3	Europium-155	pCi/L
+29903	Radiochemical	Europium-155, water, filtered, picocuries per liter	Agree					Dissolved		14391-16-3	Europium-155	pCi/L
+29904	Radiochemical	Europium-155 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14391-16-3	Europium-155	pCi/L
+29905	Radiochemical	Hafnium-175, water, unfiltered, picocuries per liter	Agree					Total		15750-13-7	Hafnium-175	pCi/L
+29906	Radiochemical	Hafnium-175 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		15750-13-7	Hafnium-175	pCi/L
+29907	Radiochemical	Hafnium-175, water, filtered, picocuries per liter	Agree					Dissolved		15750-13-7	Hafnium-175	pCi/L
+29908	Radiochemical	Hafnium-175 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		15750-13-7	Hafnium-175	pCi/L
+29909	Radiochemical	Hafnium-181, water, unfiltered, picocuries per liter	Agree					Total		14900-21-1	Hafnium-181	pCi/L
+29910	Radiochemical	Hafnium-181 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14900-21-1	Hafnium-181	pCi/L
+29911	Radiochemical	Hafnium-181, water, filtered, picocuries per liter	Agree					Dissolved		14900-21-1	Hafnium-181	pCi/L
+29912	Radiochemical	Hafnium-181 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14900-21-1	Hafnium-181	pCi/L
+29913	Radiochemical	Iodine-129, water, filtered, picocuries per liter	Agree					Dissolved		15046-84-1	Iodine-129	pCi/L
+29914	Radiochemical	Iodine-129 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		15046-84-1	Iodine-129	pCi/L
+29915	Radiochemical	Iodine-131, water, filtered, picocuries per liter	Agree					Dissolved		10043-66-0	Iodine-131	pCi/L
+29916	Radiochemical	Iodine-131 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		10043-66-0	Iodine-131	pCi/L
+29917	Radiochemical	Iodine-133, water, unfiltered, picocuries per liter	Agree					Total		14834-67-4	Iodine-133	pCi/L
+29918	Radiochemical	Iodine-133 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14834-67-4	Iodine-133	pCi/L
+29919	Radiochemical	Iodine-133, water, filtered, picocuries per liter	Agree					Dissolved		14834-67-4	Iodine-133	pCi/L
+29920	Radiochemical	Iodine-133 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14834-67-4	Iodine-133	pCi/L
+29921	Radiochemical	Lanthanum-140, water, filtered, picocuries per liter	Agree					Dissolved		13981-28-7	Lanthanum-140	pCi/L
+29922	Radiochemical	Lanthanum-140 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13981-28-7	Lanthanum-140	pCi/L
+29923	Radiochemical	Molybdenum-95, water, unfiltered, picocuries per liter	Agree					Total		14392-17-7	 	pCi/L
+29924	Radiochemical	Molybdenum-95 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14392-17-7	 	pCi/L
+29925	Radiochemical	Molybdenum-95, water, filtered, picocuries per liter	Agree					Dissolved		14392-17-7	 	pCi/L
+29926	Radiochemical	Molybdenum-95 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14392-17-7	 	pCi/L
+29927	Radiochemical	Molybdenum-99, water, unfiltered, picocuries per liter	Agree					Total		14119-15-4	Molybdenum-99	pCi/L
+29928	Radiochemical	Molybdenum-99 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14119-15-4	Molybdenum-99	pCi/L
+29929	Radiochemical	Molybdenum-99, water, filtered, picocuries per liter	Agree					Dissolved		14119-15-4	Molybdenum-99	pCi/L
+29930	Radiochemical	Molybdenum-99 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14119-15-4	Molybdenum-99	pCi/L
+29931	Radiochemical	Sodium-24, water, unfiltered, picocuries per liter	Agree					Total		13982-04-2	Sodium-24	pCi/L
+29932	Radiochemical	Sodium-24 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13982-04-2	Sodium-24	pCi/L
+29933	Radiochemical	Sodium-24, water, filtered, picocuries per liter	Agree					Dissolved		13982-04-2	Sodium-24	pCi/L
+29934	Radiochemical	Sodium-24 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13982-04-2	Sodium-24	pCi/L
+29935	Radiochemical	Niobium-95, water, filtered, picocuries per liter	Agree					Dissolved		13967-76-5	Niobium-95	pCi/L
+29936	Radiochemical	Niobium-95 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13967-76-5	Niobium-95	pCi/L
+29937	Radiochemical	Neodymium-147, water, unfiltered, picocuries per liter	Agree					Total		14269-74-0	Neodymium-147	pCi/L
+29938	Radiochemical	Neodymium-147 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14269-74-0	Neodymium-147	pCi/L
+29939	Radiochemical	Neodymium-147, water, filtered, picocuries per liter	Agree					Dissolved		14269-74-0	Neodymium-147	pCi/L
+29940	Radiochemical	Neodymium-147 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14269-74-0	Neodymium-147	pCi/L
+29941	Radiochemical	Neptunium-239, water, unfiltered, picocuries per liter	Agree					Total		13968-59-7	Neptunium-239	pCi/L
+29942	Radiochemical	Neptunium-239 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13968-59-7	Neptunium-239	pCi/L
+29943	Radiochemical	Neptunium-239, water, filtered, picocuries per liter	Agree					Dissolved		13968-59-7	Neptunium-239	pCi/L
+29944	Radiochemical	Neptunium-239 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13968-59-7	Neptunium-239	pCi/L
+29945	Radiochemical	Lead-212, water, filtered, picocuries per liter	Agree					Dissolved		15092-94-1	Lead-212	pCi/L
+29946	Radiochemical	Lead-212 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		15092-94-1	Lead-212	pCi/L
+29947	Radiochemical	Lead-214, water, filtered, picocuries per liter	Agree					Dissolved		15067-28-4	Lead-214	pCi/L
+29948	Radiochemical	Lead-214 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		15067-28-4	Lead-214	pCi/L
+29949	Radiochemical	Plutonium-239/Plutonium-240 activity ratio, water, unfiltered, ratio	Agree					Total		 	 	None
+29950	Radiochemical	Plutonium-239/Plutonium-240 activity ratio counting error, water, unfiltered, ratio	Agree	Counting Error				Total		 	 	None
+29951	Radiochemical	Plutonium-239/Plutonium-240 activity ratio, water, filtered, ratio	Agree					Dissolved		 	 	None
+29952	Radiochemical	Plutonium-239/Plutonium-240 activity ratio counting error, water, filtered, ratio	Agree	Counting Error				Dissolved		 	 	None
+29953	Radiochemical	Ruthenium-103, water, filtered, picocuries per liter	Agree					Dissolved		13968-53-1	Ruthenium-103	pCi/L
+29954	Radiochemical	Ruthenium-103 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13968-53-1	Ruthenium-103	pCi/L
+29955	Radiochemical	Antimony-124, water, unfiltered, picocuries per liter	Agree					Total		14683-10-4	Antimony-124	pCi/L
+29956	Radiochemical	Antimony-124 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14683-10-4	Antimony-124	pCi/L
+29957	Radiochemical	Antimony-124, water, filtered, picocuries per liter	Agree					Dissolved		14683-10-4	Antimony-124	pCi/L
+29958	Radiochemical	Antimony-124 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14683-10-4	Antimony-124	pCi/L
+29959	Radiochemical	Antimony-125, water, unfiltered, picocuries per liter	Agree					Total		14234-35-6	Antimony-125	pCi/L
+29960	Radiochemical	Antimony-125 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14234-35-6	Antimony-125	pCi/L
+29961	Radiochemical	Antimony-125, water, filtered, picocuries per liter	Agree					Dissolved		14234-35-6	Antimony-125	pCi/L
+29962	Radiochemical	Antimony-125 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14234-35-6	Antimony-125	pCi/L
+29963	Radiochemical	Strontium-91, water, unfiltered, picocuries per liter	Agree					Total		14331-91-0	Strontium-91	pCi/L
+29964	Radiochemical	Strontium-91 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14331-91-0	Strontium-91	pCi/L
+29965	Radiochemical	Strontium-91, water, filtered, picocuries per liter	Agree					Dissolved		14331-91-0	Strontium-91	pCi/L
+29966	Radiochemical	Strontium-91 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14331-91-0	Strontium-91	pCi/L
+29967	Radiochemical	Technetium-99, water, unfiltered, picocuries per liter	Agree					Total		14133-76-7	Technetium-99	pCi/L
+29968	Radiochemical	Technetium-99 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14133-76-7	Technetium-99	pCi/L
+29969	Radiochemical	Technetium-99, water, filtered, picocuries per liter	Agree					Dissolved		14133-76-7	Technetium-99	pCi/L
+29970	Radiochemical	Technetium-99 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14133-76-7	Technetium-99	pCi/L
+29971	Radiochemical	Tellurium-128, water, unfiltered, picocuries per liter	Agree					Total		14390-75-1	 	pCi/L
+29972	Radiochemical	Tellurium-128 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14390-75-1	 	pCi/L
+29973	Radiochemical	Tellurium-128, water, filtered, picocuries per liter	Agree					Dissolved		14390-75-1	 	pCi/L
+29974	Radiochemical	Tellurium-128 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14390-75-1	 	pCi/L
+29975	Radiochemical	Tellurium-132, water, unfiltered, picocuries per liter	Agree					Total		14234-28-7	Tellurium-132	pCi/L
+29976	Radiochemical	Tellurium-132 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14234-28-7	Tellurium-132	pCi/L
+29977	Radiochemical	Tellurium-132, water, filtered, picocuries per liter	Agree					Dissolved		14234-28-7	Tellurium-132	pCi/L
+29978	Radiochemical	Tellurium-132 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14234-28-7	Tellurium-132	pCi/L
+29979	Radiochemical	Thallium-208, water, unfiltered, picocuries per liter	Agree					Total		14913-50-9	Thallium-208	pCi/L
+29980	Radiochemical	Thallium-208 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14913-50-9	Thallium-208	pCi/L
+29981	Radiochemical	Thallium-208, water, filtered, picocuries per liter	Agree					Dissolved		14913-50-9	Thallium-208	pCi/L
+29982	Radiochemical	Thallium-208 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14913-50-9	Thallium-208	pCi/L
+29983	Radiochemical	Xenon-135, water, unfiltered, picocuries per liter	Agree					Total		14995-62-1	Xenon-135	pCi/L
+29984	Radiochemical	Xenon-135 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14995-62-1	Xenon-135	pCi/L
+29985	Radiochemical	Xenon-135, water, filtered, picocuries per liter	Agree					Dissolved		14995-62-1	Xenon-135	pCi/L
+29986	Radiochemical	Xenon-135 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14995-62-1	Xenon-135	pCi/L
+29987	Radiochemical	Yttrium-91 (metastable), water, unfiltered, picocuries per liter	Agree					Total		14234-24-3	Yttrium-91	pCi/L
+29988	Radiochemical	Yttrium-91 (metastable) counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14234-24-3	Yttrium-91	pCi/L
+29989	Radiochemical	Yttrium-91 (metastable), water, filtered, picocuries per liter	Agree					Dissolved		14234-24-3	Yttrium-91	pCi/L
+29990	Radiochemical	Yttrium-91 (metastable) counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		14234-24-3	Yttrium-91	pCi/L
+29991	Radiochemical	Zirconium-95, water, filtered, picocuries per liter	Agree					Dissolved		13967-71-0	Zirconium-95	pCi/L
+29992	Radiochemical	Zirconium-95 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13967-71-0	Zirconium-95	pCi/L
+30312	Radiochemical	Thorium, bed sediment, dry weight, milligrams per kilogram	Not agree			Dry		Bed Sediment		7440-29-1	Thorium-232	mg/kg
+30313	Radiochemical	Thorium, suspended sediment, total digestion, dry weight, milligrams per kilogram	Not agree			Dry		Suspended		7440-29-1	Thorium-232	mg/kg
+30320	Radiochemical	Uranium, bed sediment, dry weight, milligrams per kilogram	Not agree			Dry		Bed Sediment		7440-61-1	Uranium	mg/kg
+30321	Radiochemical	Uranium, suspended sediment, total digestion, dry weight, milligrams per kilogram	Not agree			Dry		Suspended		7440-61-1	Uranium	mg/kg
+34980	Radiochemical	Thorium, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-29-1	Thorium-232	mg/kg
+34981	Radiochemical	Thorium, bed sediment smaller than 177 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 177 microns	Bed Sediment		7440-29-1	Thorium-232	mg/kg
+34982	Radiochemical	Thorium, bed sediment smaller than 62.5 microns, dry sieved, laboratory, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-29-1	Thorium-232	mg/kg
+34983	Radiochemical	Thorium, suspended sediment smaller than 62.5 microns, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Suspended		7440-29-1	Thorium-232	mg/kg
+34984	Radiochemical	Thorium, suspended sediment larger than 62.5 microns, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	> 62.5 microns	Suspended		7440-29-1	Thorium-232	mg/kg
+35000	Radiochemical	Uranium, bed sediment smaller than 62.5 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-61-1	Uranium	mg/kg
+35001	Radiochemical	Uranium, bed sediment smaller than 177 microns, wet sieved, field, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 177 microns	Bed Sediment		7440-61-1	Uranium	mg/kg
+35002	Radiochemical	Uranium, bed sediment smaller than 62.5 microns, dry sieved, laboratory, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Bed Sediment		7440-61-1	Uranium	mg/kg
+35003	Radiochemical	Uranium, suspended sediment smaller than 62.5 microns, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 62.5 microns	Suspended		7440-61-1	Uranium	mg/kg
+35004	Radiochemical	Uranium, suspended sediment larger than 62.5 microns, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	> 62.5 microns	Suspended		7440-61-1	Uranium	mg/kg
+35043	Radiochemical	Thorium, suspended sediment, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Suspended		7440-29-1	Thorium-232	mg/kg
+35046	Radiochemical	Uranium, suspended sediment, total digestion, dry weight, milligrams per kilogram	Not checked			Dry		Suspended		7440-61-1	Uranium	mg/kg
+49256	Radiochemical	Thorium, biota, tissue, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Recoverable		7440-29-1	Thorium-232	mg/kg
+49257	Radiochemical	Uranium, biota, tissue, recoverable, dry weight, milligrams per kilogram	Agree			Dry		Recoverable		7440-61-1	Uranium	mg/kg
+49290	Radiochemical	Gross alpha radioactivity, water, filtered, Am-241 curve, picocuries per liter	Not checked					Dissolved		12587-46-1	Alpha particle	pCi/L
+49469	Radiochemical	Gross beta radioactivity counting error, water, unfiltered, Cs-137 curve, picocuries per liter	Agree	Counting Error				Total		12587-47-2	Beta particle	pCi/L
+49470	Radiochemical	Gross alpha radioactivity, water, unfiltered, Pu-239 curve, picocuries per liter	Agree					Total		12587-46-1	Alpha particle	pCi/L
+49471	Radiochemical	Gross alpha radioactivity counting error, water, unfiltered, Pu-239 curve, picocuries per liter	Agree	Counting Error				Total		12587-46-1	Alpha particle	pCi/L
+49472	Radiochemical	Bismuth-212, water, unfiltered, picocuries per liter	Agree					Total		14913-49-6	Bismuth-212	pCi/L
+49473	Radiochemical	Bismuth-212 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14913-49-6	Bismuth-212	pCi/L
+49474	Radiochemical	Plutonium-239 plus plutonium-240 counting error, water, unfiltered, picocuries per liter	Not checked	Counting Error				Total		 	Plutonium-239 and Plutonium-240 combined	pCi/L
+49475	Radiochemical	Plutonium-239 plus plutonium-240, water, unfiltered, picocuries per liter	Not checked					Total		 	Plutonium-239 and Plutonium-240 combined	pCi/L
+49476	Radiochemical	Europium-152, water, unfiltered, picocuries per liter	Agree					Total		14683-23-9	Europium-152	pCi/L
+49477	Radiochemical	Europium-152 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14683-23-9	Europium-152	pCi/L
+49478	Radiochemical	Plutonium-239 plus plutonium-240, water, filtered, picocuries per liter	Not checked					Dissolved		 	Plutonium-239 and Plutonium-240 combined	pCi/L
+49479	Radiochemical	Plutonium-239 plus plutonium-240 counting error, water, filtered, picocuries per liter	Not checked	Counting Error				Dissolved		 	Plutonium-239 and Plutonium-240 combined	pCi/L
+49480	Radiochemical	Nickel-63, water, unfiltered, picocuries per liter	Agree					Total		13981-37-8	Nickel-63	pCi/L
+49481	Radiochemical	Nickel-63 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13981-37-8	Nickel-63	pCi/L
+49482	Radiochemical	Chlorine-36, water, unfiltered, picocuries per liter	Agree					Total		13981-43-6	Chlorine-36	pCi/L
+49483	Radiochemical	Chlorine-36 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13981-43-6	Chlorine-36	pCi/L
+49484	Radiochemical	Plutonium-239 plus plutonium-240 counting error, suspended sediment, picocuries per liter	Not checked	Counting Error				Suspended		 	Plutonium-239 and Plutonium-240 combined	pCi/L
+49485	Radiochemical	Plutonium-239 plus plutonium-240, suspended sediment, picocuries per liter	Not checked					Suspended		 	Plutonium-239 and Plutonium-240 combined	pCi/L
+49486	Radiochemical	Plutonium-238 counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		13981-16-3	Plutonium-238	pCi/L
+49487	Radiochemical	Plutonium-238, suspended sediment, picocuries per liter	Agree					Suspended		13981-16-3	Plutonium-238	pCi/L
+49933	Radiochemical	Carbon-14, water, filtered, percent modern	Agree					Dissolved		14762-75-5	Carbon-14	pct modern
+49934	Radiochemical	Carbon-14 counting error, water, filtered, percent modern	Agree	Counting Error				Dissolved		14762-75-5	Carbon-14	pct modern
+49935	Radiochemical	Carbon-14 counting error, rock, percent modern	Agree	Counting Error						14762-75-5	Carbon-14	pct modern
+49936	Radiochemical	Carbon-14, rock, percent modern	Agree							14762-75-5	Carbon-14	pct modern
+49937	Radiochemical	Gamma radioactivity scan 2-sigma combined uncertainty, water, filtered, picocuries per liter	Agree	2-Sigma CSU				Dissolved		 	Gamma radiation	pCi/L
+49938	Radiochemical	Gamma radioactivity scan, water, filtered, picocuries per liter	Agree					Dissolved		 	Gamma radiation	pCi/L
+49939	Radiochemical	Plutonium-238 2-sigma combined uncertainty, water, filtered, picocuries per liter	Agree	2-Sigma CSU				Dissolved		13981-16-3	Plutonium-238	pCi/L
+49940	Radiochemical	Plutonium-239 plus plutonium-240, water, filtered, picocuries per liter	Not checked					Dissolved		 	Plutonium-239 and Plutonium-240 combined	pCi/L
+49941	Radiochemical	Plutonium-239 plus plutonium-240 2-sigma combined uncertainty, water, filtered, picocuries per liter	Not checked	2-Sigma CSU				Dissolved		 	Plutonium-239 and Plutonium-240 combined	pCi/L
+49942	Radiochemical	Americium-241 2-sigma combined uncertainty, water, filtered, picocuries per liter	Agree	2-Sigma CSU				Dissolved		14596-10-2	Americium-241	pCi/L
+49943	Radiochemical	Tritium 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	Agree	2-Sigma CSU				Total		10028-17-8	Tritium	pCi/L
+49944	Radiochemical	Gross alpha radioactivity, bed sediment, natural uranium curve, dry weight, milligrams per kilogram	Agree			Dry		Bed Sediment		12587-46-1	Alpha particle	mg/kg
+49945	Radiochemical	Gross alpha radioactivity 2-sigma combined uncertainty, bed sediment, natural uranium curve, dry weight, milligrams per kilogram	Agree	2-Sigma CSU		Dry		Bed Sediment		12587-46-1	Alpha particle	mg/kg
+49946	Radiochemical	Gross alpha radioactivity, suspended sediment, natural uranium curve, dry weight, milligrams per kilogram	Agree			Dry		Suspended		12587-46-1	Alpha particle	mg/kg
+49947	Radiochemical	Gross alpha radioactivity 2-sigma combined uncertainty, suspended sediment, natural uranium curve, dry weight, milligrams per kilogram	Agree	2-Sigma CSU		Dry		Suspended		12587-46-1	Alpha particle	mg/kg
+49960	Radiochemical	Gross alpha radioactivity, suspended sediment, Th-230 curve, dry weight, picocuries per gram	Agree			Dry		Suspended		12587-46-1	Alpha particle	pCi/g
+49961	Radiochemical	Gross alpha radioactivity 2-sigma combined uncertainty, suspended sediment, Th-230 curve, dry weight, picocuries per gram	Agree	2-Sigma CSU		Dry		Suspended		12587-46-1	Alpha particle	pCi/g
+49962	Radiochemical	Gross beta radioactivity, bed sediment, Cs-137 curve, dry weight, picocuries per gram	Agree			Dry		Bed Sediment		12587-47-2	Beta particle	pCi/g
+49963	Radiochemical	Gross beta radioactivity 2-sigma combined uncertainty, bed sediment, Cs-137 curve, dry weight, picocuries per gram	Agree	2-Sigma CSU		Dry		Bed Sediment		12587-47-2	Beta particle	pCi/g
+49964	Radiochemical	Gross beta radioactivity, suspended sediment, Cs-137 curve, dry weight, picocuries per gram	Agree			Dry		Suspended		12587-47-2	Beta particle	pCi/g
+49965	Radiochemical	Gross beta radioactivity 2-sigma combined uncertainty, suspended sediment, Cs-137 curve, dry weight, picocuries per gram	Agree	2-Sigma CSU		Dry		Suspended		12587-47-2	Beta particle	pCi/g
+49966	Radiochemical	Gross beta radioactivity, suspended sediment, Sr-89/90 curve, dry weight, picocuries per gram	Agree			Dry		Suspended		12587-47-2	Beta particle	pCi/g
+49967	Radiochemical	Gross beta radioactivity 2-sigma combined uncertainty, suspended sediment, Sr-89/90 curve, dry weight, picocuries per gram	Agree	2-Sigma CSU		Dry		Suspended		12587-47-2	Beta particle	pCi/g
+49968	Radiochemical	Gamma radioactivity scan 2-sigma combined uncertainty, bed sediment, dry weight, picocuries per gram	Agree	2-Sigma CSU		Dry		Bed Sediment		 	Gamma radiation	pCi/g
+49969	Radiochemical	Gamma radioactivity scan, bed sediment, dry weight, picocuries per gram	Agree			Dry		Bed Sediment		 	Gamma radiation	pCi/g
+49970	Radiochemical	Gamma radioactivity scan, suspended sediment, dry weight, picocuries per gram	Agree			Dry		Suspended		 	Gamma radiation	pCi/g
+49971	Radiochemical	Gamma radioactivity scan 2-sigma combined uncertainty, suspended sediment, dry weight, picocuries per gram	Agree	2-Sigma CSU		Dry		Suspended		 	Gamma radiation	pCi/g
+49972	Radiochemical	Radium-226, bed sediment, dry weight, picocuries per gram	Agree			Dry		Bed Sediment		13982-63-3	Radium-226	pCi/g
+49973	Radiochemical	Radium-226 2-sigma combined uncertainty, bed sediment, dry weight, picocuries per gram	Agree	2-Sigma CSU		Dry		Bed Sediment		13982-63-3	Radium-226	pCi/g
+49974	Radiochemical	Plutonium-238, suspended sediment, dry weight, picocuries per gram	Agree			Dry		Suspended		13981-16-3	Plutonium-238	pCi/g
+49975	Radiochemical	Plutonium-238 2-sigma combined uncertainty, suspended sediment, dry weight, picocuries per gram	Agree	2-Sigma CSU		Dry		Suspended		13981-16-3	Plutonium-238	pCi/g
+49976	Radiochemical	Plutonium-239 plus plutonium-240, suspended sediment, dry weight, picocuries per gram	Agree			Dry		Suspended		 	Plutonium-239 and Plutonium-240 combined	pCi/g
+49977	Radiochemical	Plutonium-239 plus plutonium-240 2-sigma combined uncertainty, suspended sediment, dry weight, picocuries per gram	Agree	2-Sigma CSU		Dry		Suspended		 	Plutonium-239 and Plutonium-240 combined	pCi/g
+49978	Radiochemical	Cesium-137, bed sediment, dry weight, picocuries per gram	Agree			Dry		Bed Sediment		10045-97-3	Cesium-137	pCi/g
+49979	Radiochemical	Cesium-137 2-sigma combined uncertainty, bed sediment, dry weight, picocuries per gram	Agree	2-Sigma CSU		Dry		Bed Sediment		10045-97-3	Cesium-137	pCi/g
+49980	Radiochemical	Americium-241, suspended sediment, dry weight, picocuries per gram	Agree			Dry		Suspended		14596-10-2	Americium-241	pCi/g
+49981	Radiochemical	Americium-241 2-sigma combined uncertainty, suspended sediment, dry weight, picocuries per gram	Agree	2-Sigma CSU		Dry		Suspended		14596-10-2	Americium-241	pCi/g
+50420	Radiochemical	Plutonium-239 plus plutonium-240, bed sediment, dry weight, picocuries per gram	Agree			Dry		Bed Sediment		 	Plutonium-239 and Plutonium-240 combined	pCi/g
+50421	Radiochemical	Plutonium-239 plus plutonium-240 2-sigma combined uncertainty, bed sediment, dry weight, picocuries per gram	Agree	2-Sigma CSU		Dry		Bed Sediment		 	Plutonium-239 and Plutonium-240 combined	pCi/g
+50422	Radiochemical	Plutonium-238 2-sigma combined uncertainty, bed sediment, dry weight, picocuries per gram	Agree	2-Sigma CSU		Dry		Bed Sediment		13981-16-3	Plutonium-238	pCi/g
+50423	Radiochemical	Plutonium-238, bed sediment, dry weight, picocuries per gram	Agree			Dry		Bed Sediment		13981-16-3	Plutonium-238	pCi/g
+50833	Radiochemical	Radium-224, water, filtered, picocuries per liter	Agree					Dissolved		13233-32-4	Radium-224	pCi/L
+50834	Radiochemical	Radium-224 2-sigma combined uncertainty, water, filtered, picocuries per liter	Agree	2-Sigma CSU				Dissolved		13233-32-4	Radium-224	pCi/L
+50835	Radiochemical	Radium-224, water, unfiltered, picocuries per liter	Agree					Total		13233-32-4	Radium-224	pCi/L
+50836	Radiochemical	Radium-224 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	Agree	2-Sigma CSU				Total		13233-32-4	Radium-224	pCi/L
+50837	Radiochemical	Radium-226, water, filtered, gamma count, picocuries per liter	Agree					Dissolved		13982-63-3	Radium-226	pCi/L
+50838	Radiochemical	Radium-226, water, unfiltered, gamma count, picocuries per liter	Agree					Total		13982-63-3	Radium-226	pCi/L
+50839	Radiochemical	Radium-228, water, unfiltered, gamma count, picocuries per liter	Agree					Total		15262-20-1	Radium-228	pCi/L
+50840	Radiochemical	Radium-228 2-sigma combined uncertainty, water, unfiltered, gamma count, picocuries per liter	Agree	2-Sigma CSU				Total		15262-20-1	Radium-228	pCi/L
+50911	Radiochemical	Radium-226 2-sigma combined uncertainty, water, filtered, gamma count, picocuries per liter	Agree	2-Sigma CSU				Dissolved		13982-63-3	Radium-226	pCi/L
+50912	Radiochemical	Radium-226 2-sigma combined uncertainty, water, unfiltered, gamma count, picocuries per liter	Agree	2-Sigma CSU				Total		13982-63-3	Radium-226	pCi/L
+51170	Radiochemical	Uranium, soil, field, x-ray fluorescence screening method, parts per million	Not checked							7440-61-1	Uranium	ppm
+51172	Radiochemical	Thorium, soil, field, x-ray fluorescence screening method, parts per million	Not checked							7440-29-1	Thorium-232	ppm
+51396	Radiochemical	Thorium, bed sediment smaller than 150 um, dry sieved, lab, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	<150 um	Bed Sediment		7440-29-1	 	mg/kg
+51399	Radiochemical	Uranium, bed sediment smaller than 150 um, dry sieved, lab, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	<150 um	Bed Sediment		7440-61-1	Uranium	mg/kg
+51752	Radiochemical	Uranium, soil, recoverable, wet weight, micrograms per kilogram	Not checked			Wet		Recoverable		7440-61-1	Uranium	ug/kg
+61053	Radiochemical	Uranium, bed sediment smaller than 2 millimeters, total digestion, dry weight, milligrams per kilogram	Not checked			Dry	< 2 mm	Bed Sediment		7440-61-1	Uranium	mg/kg
+61220	Radiochemical	Gross beta radioactivity counting error, water, unfiltered, Sr-90/Y-90 curve, picocuries per liter	Agree	Counting Error						 	 	pCi/L
+61722	Radiochemical	Thorium, bed sediment smaller than 2 millimeters, wet sieved (native water), total digestion, dry weight, milligrams per kilogram	Agree			Dry	< 2 mm	Bed Sediment		7440-29-1	Thorium-232	mg/kg
+61738	Radiochemical	Thorium-228, water, filtered, picocuries per liter	Agree					Dissolved		14274-82-9	Thorium-228	pCi/L
+61739	Radiochemical	Thorium-228 2-sigma combined uncertainty, water, filtered, picocuries per liter	Agree	2-Sigma CSU				Dissolved		14274-82-9	Thorium-228	pCi/L
+61949	Radiochemical	Plutonium-238 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU				Total		13981-16-3	Plutonium-238	pCi/L
+61950	Radiochemical	Plutonium-239 plus plutonium-240 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU				Total		 	Plutonium-239 and Plutonium-240 combined	pCi/L
+62159	Radiochemical	Americium-241 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU				Total		14596-10-2	Americium-241	pCi/L
+62160	Radiochemical	Lead-210 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU				Total		14255-04-0	Lead-210	pCi/L
+62161	Radiochemical	Radium-226 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU				Total		13982-63-3	Radium-226	pCi/L
+62162	Radiochemical	Radium-228 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU				Total		15262-20-1	Radium-228	pCi/L
+62163	Radiochemical	Strontium-90 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU				Total		10098-97-2	Strontium-90	pCi/L
+62164	Radiochemical	Gross gamma radioactivity, water, unfiltered, picocuries per liter	USGS use and no use by EPA					Total		 	Gamma radiation	pCi/L
+62165	Radiochemical	Gross gamma radioactivity 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU				Total		 	Gamma radiation	pCi/L
+62487	Radiochemical	Lead-210, sediment, dry weight, becquerels per gram	USGS use and no use by EPA			Dry				14255-04-0	Lead-210	bq/g
+62488	Radiochemical	Lead-210 1-sigma precision estimate, sediment, dry weight, becquerels per gram	USGS use and no use by EPA	1-Sigma CSU		Dry				14255-04-0	Lead-210	bq/g
+62489	Radiochemical	Lead-210, soil, dry weight, becquerels per gram	USGS use and no use by EPA			Dry		Total		14255-04-0	Lead-210	bq/g
+62490	Radiochemical	Lead-210 1-sigma precision estimate, soil, dry weight, becquerels per gram	USGS use and no use by EPA	1-Sigma CSU		Dry		Total		14255-04-0	Lead-210	bq/g
+62491	Radiochemical	Cesium-137, sediment, dry weight, becquerels per gram	USGS use and no use by EPA			Dry				10045-97-3	Cesium-137	bq/g
+62492	Radiochemical	Cesium-137 1-sigma precision estimate, sediment, dry weight, becquerels per gram	USGS use and no use by EPA	1-Sigma CSU		Dry				10045-97-3	Cesium-137	bq/g
+62493	Radiochemical	Cesium-137, soil, dry weight, becquerels per gram	USGS use and no use by EPA			Dry		Total		10045-97-3	Cesium-137	bq/g
+62494	Radiochemical	Cesium-137 1-sigma precision estimate, soil, dry weight, becquerels per gram	USGS use and no use by EPA	1-Sigma CSU		Dry		Total		10045-97-3	Cesium-137	bq/g
+62495	Radiochemical	Beryllium-7, sediment, dry weight, becquerels per gram	USGS use and no use by EPA			Dry				13966-02-4	Beryllium-7	bq/g
+62496	Radiochemical	Beryllium-7 1-sigma precision estimate, sediment, dry weight, becquerels per gram	USGS use and no use by EPA	1-Sigma CSU		Dry				13966-02-4	Beryllium-7	bq/g
+62497	Radiochemical	Beryllium-7, soil, dry weight, becquerels per gram	USGS use and no use by EPA			Dry		Total		13966-02-4	Beryllium-7	bq/g
+62498	Radiochemical	Beryllium-7 1-sigma precision estimate, soil, dry weight, becquerels per gram	USGS use and no use by EPA	1-Sigma CSU		Dry		Total		13966-02-4	Beryllium-7	bq/g
+62499	Radiochemical	Radium-226, sediment, dry weight, becquerels per gram	USGS use and no use by EPA			Dry				13982-63-3	Radium-226	bq/g
+62500	Radiochemical	Radium-226 1-sigma precision estimate, sediment, dry weight, becquerels per gram	USGS use and no use by EPA	1-Sigma CSU		Dry				13982-63-3	Radium-226	bq/g
+62501	Radiochemical	Radium-226, soil, dry weight, becquerels per gram	USGS use and no use by EPA			Dry		Total		13982-63-3	Radium-226	bq/g
+62502	Radiochemical	Radium-226 1-sigma precision estimate, soil, dry weight, becquerels per gram	USGS use and no use by EPA	1-Sigma CSU		Dry		Total		13982-63-3	Radium-226	bq/g
+62503	Radiochemical	Potassium-40, sediment, dry weight, becquerels per gram	USGS use and no use by EPA			Dry				13966-00-2	Potassium-40	bq/g
+62504	Radiochemical	Potassium-40 1-sigma precision estimate, sediment, dry weight, becquerels per gram	USGS use and no use by EPA	1-Sigma CSU		Dry				13966-00-2	Potassium-40	bq/g
+62505	Radiochemical	Potassium-40, soil, dry weight, becquerels per gram	USGS use and no use by EPA			Dry		Total		13966-00-2	Potassium-40	bq/g
+62506	Radiochemical	Potassium-40 1-sigma precision estimate, soil, dry weight, becquerels per gram	USGS use and no use by EPA	1-Sigma CSU		Dry		Total		13966-00-2	Potassium-40	bq/g
+62626	Radiochemical	Americium-241 2-sigma combined uncertainty, bed sediment, dry weight, picocuries per gram	USGS use and no use by EPA	2-Sigma CSU		Dry		Bed Sediment		14596-10-2	Americium-241	pCi/g
+62627	Radiochemical	Gross alpha radioactivity 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU				Total		12587-46-1	Alpha particle	pCi/L
+62628	Radiochemical	Gross beta radioactivity 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU				Total		12587-47-2	Beta particle	pCi/L
+62629	Radiochemical	Strontium-90 2-sigma combined uncertainty, bed sediment, dry weight, picocuries per gram	USGS use and no use by EPA	2-Sigma CSU		Dry		Bed Sediment		10098-97-2	Strontium-90	pCi/g
+62630	Radiochemical	Thorium-228 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU				Total		14274-82-9	Thorium-228	pCi/L
+62631	Radiochemical	Thorium-230 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU				Total		14269-63-7	Thorium-230	pCi/L
+62632	Radiochemical	Thorium-232 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU				Total		7440-29-1	Thorium-232	pCi/L
+62633	Radiochemical	Uranium-234 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU				Total		13966-29-5	Uranium-234	pCi/L
+62634	Radiochemical	Uranium-235 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU				Total		15117-96-1	Uranium-235	pCi/L
+62635	Radiochemical	Uranium-238 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU				Total		7440-61-1	Uranium	pCi/L
+62636	Radiochemical	Gross alpha radioactivity, 72 hour count, water, filtered, Th-230 curve, picocuries per liter	USGS use and no use by EPA		72 Hour			Dissolved		12587-46-1	Alpha particle	pCi/L
+62637	Radiochemical	Gross alpha radioactivity 2-sigma combined uncertainty, 72 hour count, water, filtered, Th-230 curve, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU	72 Hour			Dissolved		12587-46-1	Alpha particle	pCi/L
+62638	Radiochemical	Gross alpha radioactivity minimum detectable concentration, 72 hour count, water, filtered, Th-230 curve, picocuries per liter	USGS use and no use by EPA		72 Hour			Dissolved		12587-46-1	Alpha particle	pCi/L
+62639	Radiochemical	Gross alpha radioactivity, 30 day count, water, filtered, Th-230 curve, picocuries per liter	USGS use and no use by EPA		30 Day			Dissolved		12587-46-1	Alpha particle	pCi/L
+62640	Radiochemical	Gross alpha radioactivity 2-sigma combined uncertainty, 30 day count, water, filtered, Th-230 curve, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU	30 Day			Dissolved		12587-46-1	Alpha particle	pCi/L
+62641	Radiochemical	Gross alpha radioactivity minimum detectable concentration, 30 day count, water, filtered, Th-230 curve, picocuries per liter	USGS use and no use by EPA		30 Day			Dissolved		12587-46-1	Alpha particle	pCi/L
+62642	Radiochemical	Gross beta radioactivity, 72 hour count, water, filtered, Cs-137 curve, picocuries per liter	USGS use and no use by EPA		72 Hour			Dissolved		12587-47-2	Beta particle	pCi/L
+62643	Radiochemical	Gross beta radioactivity 2-sigma combined uncertainty, 72 hour count, water, filtered, Cs-137 curve, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU	72 Hour			Dissolved		12587-47-2	Beta particle	pCi/L
+62644	Radiochemical	Gross beta radioactivity minimum detectable concentration, 72 hour count, water, filtered, Cs-137 curve, picocuries per liter	USGS use and no use by EPA		72 Hour			Dissolved		12587-47-2	Beta particle	pCi/L
+62645	Radiochemical	Gross beta radioactivity, 30 day count, water, filtered, Cs-137 curve, picocuries per liter	USGS use and no use by EPA		30 Day			Dissolved		12587-47-2	Beta particle	pCi/L
+62646	Radiochemical	Gross beta radioactivity 2-sigma combined uncertainty, 30 day count, water, filtered, Cs-137 curve, picocuries per liter	USGS use and no use by EPA	2-Sigma CSU	30 Day			Dissolved		12587-47-2	Beta particle	pCi/L
+62647	Radiochemical	Gross beta radioactivity minimum detectable concentration, 30 day count, water, filtered, Cs-137 curve, picocuries per liter	USGS use and no use by EPA		30 Day			Dissolved		12587-47-2	Beta particle	pCi/L
+63014	Radiochemical	Gross alpha radioactivity, 72 hour count, water, unfiltered, Th-230 curve, picocuries per liter	USGS use and no use by EPA		72 Hour			Total		12587-46-1	Alpha particle	pCi/L
+63015	Radiochemical	Gross beta radioactivity, 72 hour count, water, unfiltered, Cs-137 curve, picocuries per liter	USGS use and no use by EPA		72 Hour			Total		12587-47-2	Beta particle	pCi/L
+63016	Radiochemical	Gross alpha radioactivity, 30 day recount, water, unfiltered, Th-230 curve, picocuries per liter	USGS use and no use by EPA		30 Day			Total		12587-46-1	Alpha particle	pCi/L
+63017	Radiochemical	Gross beta radioactivity, 30 day recount, water, unfiltered, Cs-137 curve, picocuries per liter	USGS use and no use by EPA		30 Day			Total		12587-47-2	Beta particle	pCi/L
+63018	Radiochemical	Gross alpha radioactivity, water, unfiltered, Th-230 curve, picocuries per liter	USGS use and no use by EPA					Total		12587-46-1	Alpha particle	pCi/L
+63019	Radiochemical	Plutonium-241, water, filtered, picocuries per liter	USGS use and no use by EPA					Dissolved		14119-32-5	Plutonium-241	pCi/L
+63020	Radiochemical	Plutonium-241, water, unfiltered, picocuries per liter	USGS use and no use by EPA					Total		14119-32-5	Plutonium-241	pCi/L
+63021	Radiochemical	Plutonium-241, suspended sediment, dry weight, picocuries per gram	USGS use and no use by EPA			Dry		Suspended		14119-32-5	Plutonium-241	pCi/g
+63022	Radiochemical	Plutonium-241, bed sediment, dry weight, picocuries per gram	USGS use and no use by EPA			Dry		Bed Sediment		14119-32-5	Plutonium-241	pCi/g
+63023	Radiochemical	Radium-224, suspended sediment, dry weight, picocuries per gram	USGS use and no use by EPA			Dry		Suspended		13233-32-4	Radium-224	pCi/g
+63024	Radiochemical	Thorium-228, suspended sediment, picocuries per gram	USGS use and no use by EPA					Suspended		14274-82-9	Thorium-228	pCi/g
+63025	Radiochemical	Alpha-emitting isotopes of radium, water, unfiltered, picocuries per liter	USGS use and no use by EPA					Total		 	 	pCi/L
+63026	Radiochemical	Alpha-emitting isotopes of radium, suspended sediment, dry weight, picocuries per gram	USGS use and no use by EPA			Dry		Suspended		 	 	pCi/g
+63027	Radiochemical	Alpha-emitting isotopes of radium, bed sediment, dry weight, picocuries per gram	USGS use and no use by EPA			Dry		Bed Sediment		 	 	pCi/g
+63028	Radiochemical	Total radioactive strontium, water, filtered, picocuries per liter	USGS use and no use by EPA					Dissolved		 	Strontium Radionuclides	pCi/L
+63029	Radiochemical	Total radioactive strontium, water, unfiltered, picocuries per liter	USGS use and no use by EPA					Total		 	Strontium Radionuclides	pCi/L
+63030	Radiochemical	Total radioactive strontium, suspended sediment, dry weight, picocuries per gram	USGS use and no use by EPA			Dry		Suspended		 	Strontium Radionuclides	pCi/g
+63031	Radiochemical	Total radioactive strontium, bed sediment, dry weight, picocuries per gram	USGS use and no use by EPA			Dry		Bed Sediment		 	Strontium Radionuclides	pCi/g
+63032	Radiochemical	Uranium, water, unfiltered, micrograms per liter	USGS use and no use by EPA					Total		7440-61-1	Uranium	ug/l
+63033	Radiochemical	Uranium, suspended sediment, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Suspended		7440-61-1	Uranium	mg/kg
+63034	Radiochemical	Uranium, bed sediment, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Bed Sediment		7440-61-1	Uranium	mg/kg
+63807	Radiochemical	Uranium, biota, tissue, recoverable, wet weight, milligrams per kilogram	USGS use and no use by EPA			Wet		Recoverable		7440-61-1	Uranium	mg/kg
+64183	Radiochemical	Uranium, solids, dry weight, recoverable, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		7440-61-1	Uranium	mg/kg
+65221	Radiochemical	Carbon-14 in organic carbon, water, filtered, percent modern	USGS use and no use by EPA					Dissolved		14762-75-5	 	pct modern
+65222	Radiochemical	Carbon-14 in organic carbon 1-sigma uncertainty, water, filtered, percent modern	USGS use and no use by EPA	1-Sigma CSU				Dissolved		14762-75-5	 	pct modern
+65244	Radiochemical	Carbon-14 in methane, water, dissolved, percent modern	USGS use and no use by EPA					Dissolved		14762-75-5	Carbon-14	%
+68802	Radiochemical	Uranium, bed sediment, recoverable, wet weight, micrograms per kilogram	USGS use and no use by EPA			Wet		Bed Sediment		7440-61-1	Uranium	ug/kg
+75031	Radiochemical	Zirconium, niobium-95, counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		 	Zirconium/Niobium-95	pCi/L
+75032	Radiochemical	Zirconium, niobium-95, water, unfiltered, picocuries per liter	Agree					Total		 	Zirconium/Niobium-95	pCi/L
+75037	Radiochemical	Potassium-40 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		13966-00-2	Potassium-40	pCi/L
+75038	Radiochemical	Potassium-40, water, unfiltered, picocuries per liter	Agree					Total		13966-00-2	Potassium-40	pCi/L
+75936	Radiochemical	Thorium-232 2-sigma combined uncertainty, suspended sediment, dry weight, picocuries per gram	Not agree	2-Sigma CSU		Dry		Suspended		7440-29-1	Thorium-232	pCi/g
+75937	Radiochemical	Radium-228, suspended sediment, dry weight, picocuries per gram	Agree			Dry		Suspended		15262-20-1	Radium-228	pCi/g
+75938	Radiochemical	Polonium-210, suspended sediment, dry weight, picocuries per gram	Agree			Dry		Suspended		13981-52-7	Polonium-210	pCi/g
+75939	Radiochemical	Thorium-230, suspended sediment, dry weight, picocuries per gram	Agree			Dry		Suspended		14269-63-7	Thorium-230	pCi/g
+75940	Radiochemical	Uranium-238, suspended sediment, dry weight, picocuries per gram	Agree			Dry		Suspended		7440-61-1	Uranium	pCi/g
+75941	Radiochemical	Uranium-234 2-sigma combined uncertainty, suspended sediment, dry weight, picocuries per gram	Not agree	2-Sigma CSU		Dry		Suspended		13966-29-5	Uranium-234	pCi/g
+75942	Radiochemical	Uranium-234, suspended sediment, dry weight, picocuries per gram	Agree			Dry		Suspended		13966-29-5	Uranium-234	pCi/g
+75943	Radiochemical	Radium-226 2-sigma combined uncertainty, suspended sediment, dry weight, picocuries per gram	Not agree	2-Sigma CSU		Dry		Suspended		13982-63-3	Radium-226	pCi/g
+75944	Radiochemical	Radium-226, suspended sediment, dry weight, picocuries per gram	Agree			Dry		Suspended		13982-63-3	Radium-226	pCi/g
+75945	Radiochemical	Polonium-210 2-sigma combined uncertainty, suspended sediment, dry weight, picocuries per gram	Not agree	2-Sigma CSU		Dry		Suspended		13981-52-7	Polonium-210	pCi/g
+75946	Radiochemical	Lead-210, suspended sediment, dry weight, picocuries per gram	Agree			Dry		Suspended		14255-04-0	Lead-210	pCi/g
+75947	Radiochemical	Uranium-235 2-sigma combined uncertainty, suspended sediment, dry weight, picocuries per gram	Not agree	2-Sigma CSU		Dry		Suspended		15117-96-1	Uranium-235	pCi/g
+75948	Radiochemical	Radium-228 2-sigma combined uncertainty, suspended sediment, dry weight, picocuries per gram	Not agree	2-Sigma CSU		Dry		Suspended		15262-20-1	Radium-228	pCi/g
+75949	Radiochemical	Lead-210 2-sigma combined uncertainty, suspended sediment, dry weight, picocuries per gram	Not agree	2-Sigma CSU		Dry		Suspended		14255-04-0	Lead-210	pCi/g
+75952	Radiochemical	Thorium-230 2-sigma combined uncertainty, suspended sediment, dry weight, picocuries per gram	Not agree	2-Sigma CSU		Dry		Suspended		14269-63-7	Thorium-230	pCi/g
+75953	Radiochemical	Thorium-232, suspended sediment, dry weight, picocuries per gram	Agree			Dry		Suspended		7440-29-1	Thorium-232	pCi/g
+75955	Radiochemical	Alpha radioactivity 2-sigma combined uncertainty, bed sediment, Th-230 curve, dry weight, picocuries per gram	Not agree	2-Sigma CSU		Dry		Bed Sediment		12587-46-1	Alpha particle	pCi/g
+75960	Radiochemical	Cesium-137 2-sigma combined uncertainty, bed sediment, dry weight, picocuries per gram	Not agree	2-Sigma CSU		Dry		Bed Sediment		10045-97-3	Cesium-137	pCi/g
+75962	Radiochemical	Uranium-238 2-sigma combined uncertainty, bed sediment, dry weight, picocuries per gram	Not agree	2-Sigma CSU		Dry		Bed Sediment		 	Uranium	pCi/g
+75965	Radiochemical	Alpha radioactivity 2-sigma combined uncertainty, bed sediment, natural uranium curve, dry weight, milligrams per kilogram	Not agree	2-Sigma CSU		Dry		Bed Sediment		12587-46-1	Alpha particle	mg/kg
+75966	Radiochemical	Beta radioactivity 2-sigma combined uncertainty, bed sediment, Sr-90/Y-90 curve, dry weight, picocuries per gram	Not agree	2-Sigma CSU		Dry		Bed Sediment		12587-47-2	Beta particle	pCi/g
+75968	Radiochemical	Lead-210 2-sigma combined uncertainty, soil, dry weight, picocuries per gram	Not agree	2-Sigma CSU		Dry		Total		14255-04-0	Lead-210	pCi/g
+75975	Radiochemical	Uranium-235, suspended sediment, dry weight, picocuries per gram	Not agree			Dry		Suspended		15117-96-1	Uranium-235	pCi/g
+75976	Radiochemical	Thorium-232, water, filtered, picocuries per liter	Agree					Dissolved		7440-29-1	Thorium-232	pCi/L
+75977	Radiochemical	Radium-228, bed sediment, dry weight, picocuries per gram	Agree			Dry		Bed Sediment		15262-20-1	Radium-228	pCi/g
+75985	Radiochemical	Tritium 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	Not checked	2-Sigma CSU				Total		10028-17-8	Tritium	pCi/L
+75986	Radiochemical	Alpha radioactivity 2-sigma combined uncertainty, water, filtered, natural uranium curve, micrograms per liter	Not agree	2-Sigma CSU				Dissolved		12587-46-1	Alpha particle	ug/l
+75987	Radiochemical	Alpha radioactivity 2-sigma combined uncertainty, water, filtered, Th-230 curve, picocuries per liter	Not agree	2-Sigma CSU				Dissolved		12587-46-1	Alpha particle	pCi/L
+75988	Radiochemical	Beta radioactivity 2-sigma combined uncertainty, water, filtered, Sr-90/Y-90 curve, picocuries per liter	Not agree	2-Sigma CSU				Dissolved		12587-47-2	Beta particle	pCi/L
+75989	Radiochemical	Beta radioactivity 2-sigma combined uncertainty, water, filtered, Cs-137 curve, picocuries per liter	Not agree	2-Sigma CSU				Dissolved		12587-47-2	Beta particle	pCi/L
+75990	Radiochemical	Uranium (natural) 2-sigma combined uncertainty, water, filtered, micrograms per liter	Not agree	2-Sigma CSU				Dissolved		7440-61-1	Uranium	ug/l
+75991	Radiochemical	Uranium-238 2-sigma combined uncertainty, water, filtered, picocuries per liter	Not agree	2-Sigma CSU				Dissolved		7440-61-1	Uranium	pCi/L
+75992	Radiochemical	Uranium-234 2-sigma combined uncertainty, water, filtered, picocuries per liter	Not agree	2-Sigma CSU				Dissolved		13966-29-5	Uranium-234	pCi/L
+75993	Radiochemical	Uranium (natural) 2-sigma combined uncertainty, water, unfiltered, micrograms per liter	Not agree	2-Sigma CSU				Total		7440-61-1	Uranium	ug/l
+75994	Radiochemical	Uranium-235 2-sigma combined uncertainty, water, filtered, picocuries per liter	Not agree	2-Sigma CSU				Dissolved		15117-96-1	Uranium-235	pCi/L
+75995	Radiochemical	Lead-210 2-sigma combined uncertainty, water, filtered, picocuries per liter	Not agree	2-Sigma CSU				Dissolved		14255-04-0	Lead-210	pCi/L
+75997	Radiochemical	Thorium-230 2-sigma combined uncertainty, water, filtered, picocuries per liter	Not agree	2-Sigma CSU				Dissolved		14269-63-7	Thorium-230	pCi/L
+75998	Radiochemical	Polonium-210 2-sigma combined uncertainty, water, filtered, picocuries per liter	Not agree	2-Sigma CSU				Dissolved		13981-52-7	Polonium-210	pCi/L
+75999	Radiochemical	Thorium-232 2-sigma combined uncertainty, water, filtered, picocuries per liter	Not agree	2-Sigma CSU				Dissolved		7440-29-1	Thorium-232	pCi/L
+76000	Radiochemical	Radium-228 2-sigma combined uncertainty, water, filtered, picocuries per liter	Not agree	2-Sigma CSU				Dissolved		15262-20-1	Radium-228	pCi/L
+76001	Radiochemical	Radium-226 2-sigma combined uncertainty, water, filtered, picocuries per liter	Not agree	2-Sigma CSU				Dissolved		13982-63-3	Radium-226	pCi/L
+76002	Radiochemical	Radon-222 2-sigma combined uncertainty, water, unfiltered, picocuries per liter	Not agree	2-Sigma CSU				Total		14859-67-7	Radon-222	pCi/L
+76003	Radiochemical	Strontium-90 2-sigma combined uncertainty, water, filtered, picocuries per liter	Not agree	2-Sigma CSU				Dissolved		10098-97-2	Strontium-90	pCi/L
+76004	Radiochemical	Alpha radioactivity 2-sigma combined uncertainty, suspended sediment, Th-230 curve, picocuries per liter	Not agree	2-Sigma CSU				Suspended		12587-46-1	Alpha particle	pCi/L
+76005	Radiochemical	Beta radioactivity 2-sigma combined uncertainty, suspended sediment, Cs-137 curve, picocuries per liter	Not agree	2-Sigma CSU				Suspended		12587-47-2	Beta particle	pCi/L
+76006	Radiochemical	Lead-210, soil, dry weight, picocuries per gram	Agree			Dry		Total		14255-04-0	Lead-210	pCi/g
+76007	Radiochemical	Cesium-137, soil, dry weight, picocuries per gram	Not checked			Dry		Total		10045-97-3	Cesium-137	pCi/g
+80010	Radiochemical	Uranium, water, filtered, direct fluorometric method, picocuries per liter	Agree					Dissolved		7440-61-1	Uranium	pCi/L
+80015	Radiochemical	Uranium, water, filtered, extraction fluorometric method, picocuries per liter	Agree					Dissolved		7440-61-1	Uranium	pCi/L
+80020	Radiochemical	Uranium, water, filtered, extraction fluorometric method, micrograms per liter	Agree					Dissolved		7440-61-1	Uranium	ug/l
+80029	Radiochemical	Gross alpha radioactivity, water, unfiltered, natural uranium curve, micrograms per liter	Not agree					Total		12587-46-1	Alpha particle	ug/l
+80030	Radiochemical	Gross alpha radioactivity, water, filtered, natural uranium curve, micrograms per liter	Agree					Dissolved		12587-46-1	Alpha particle	ug/l
+80040	Radiochemical	Gross alpha radioactivity, suspended sediment, natural uranium curve, micrograms per liter	Agree					Suspended		12587-46-1	Alpha particle	ug/l
+80049	Radiochemical	Gross beta radioactivity, water, unfiltered, Sr-90/Y-90 curve, picocuries per liter	Agree					Total		12587-47-2	Beta particle	pCi/L
+80050	Radiochemical	Gross beta radioactivity, water, filtered, Sr-90/Y-90 curve, picocuries per liter	Agree					Dissolved		12587-47-2	Beta particle	pCi/L
+80060	Radiochemical	Gross beta radioactivity, suspended sediment, Sr-90/Y-90 curve, picocuries per liter	Agree					Suspended		12587-47-2	Beta particle	pCi/L
+81366	Radiochemical	Radium-228, water, filtered, picocuries per liter	Agree					Dissolved		15262-20-1	Radium-228	pCi/L
+81367	Radiochemical	Radium-228 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		15262-20-1	Radium-228	pCi/L
+81368	Radiochemical	Radium-228, suspended sediment, picocuries per liter	Agree					Suspended		15262-20-1	Radium-228	pCi/L
+81369	Radiochemical	Radium-228 counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		15262-20-1	Radium-228	pCi/L
+82068	Radiochemical	Potassium-40, water, filtered, picocuries per liter	Agree					Dissolved		13966-00-2	Potassium-40	pCi/L
+82069	Radiochemical	Potassium-40 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		13966-00-2	Potassium-40	pCi/L
+82070	Radiochemical	Potassium-40, suspended sediment, picocuries per liter	Agree					Suspended		13966-00-2	Potassium-40	pCi/L
+82071	Radiochemical	Potassium-40 counting error, suspended sediment, picocuries per liter	Agree	Counting Error				Suspended		13966-00-2	Potassium-40	pCi/L
+82087	Radiochemical	Uranium-238/Uranium-234 ratio, water, unfiltered, per mil	Not checked					Total		 	Uranium 238/234 ratio	per mil
+82171	Radiochemical	Adjusted age, water, filtered, carbon-14, years	Agree					Dissolved		 	 	years
+82172	Radiochemical	Carbon-14, percent modern	Agree							14762-75-5	Carbon-14	pct modern
+82302	Radiochemical	Radon-222 counting error, water, unfiltered, picocuries per liter	Agree	Counting Error				Total		14859-67-7	Radon-222	pCi/L
+82303	Radiochemical	Radon-222, water, unfiltered, picocuries per liter	Agree					Total		14859-67-7	Radon-222	pCi/L
+82304	Radiochemical	Radon-222 counting error, water, dissolved, picocuries per liter	Agree	Counting Error				Dissolved		14859-67-7	Radon-222	pCi/L
+82305	Radiochemical	Radon-222, water, dissolved, picocuries per liter	Agree					Dissolved		14859-67-7	Radon-222	pCi/L
+82306	Radiochemical	Cobalt-60 counting error, water, filtered, picocuries per liter	Agree	Counting Error				Dissolved		10198-40-0	Cobalt-60	pCi/L
+82307	Radiochemical	Cobalt-60, water, filtered, picocuries per liter	Agree					Dissolved		10198-40-0	Cobalt-60	pCi/L
+82308	Radiochemical	Gamma radioactivity, scintillation counts, counts per second	Agree							 	Gamma radiation	counts/sec
+82313	Radiochemical	Thorium, bed sediment, dry weight, micrograms per kilogram	Agree			Dry		Bed Sediment		7440-29-1	Thorium-232	ug/kg
+82362	Radiochemical	Radon-222, water, dissolved, picocuries per liter	Agree					Dissolved		14859-67-7	Radon-222	pCi/L
+82364	Radiochemical	Thorium, water, unfiltered, micrograms per liter	Agree					Total		7440-29-1	Thorium-232	ug/l
+82365	Radiochemical	Thorium, water, filtered, micrograms per liter	Agree					Dissolved		7440-29-1	Thorium-232	ug/l
+82366	Radiochemical	Thorium, suspended sediment, micrograms per liter	Agree					Suspended		7440-29-1	Thorium-232	ug/l
+82738	Radiochemical	Chlorine-36/Chlorine-35 ratio in perchlorate, water, unfiltered, ratio	Not checked					Total		13981-43-6	Chlorine-36	ratio
+85817	Radiochemical	Gross beta radioactivity, water, unfiltered, picocuries per liter	Agree					Total		12587-47-2	Beta particle	pCi/L
+91703	Radiochemical	Uranium, solids, 10% nitric acid extracted, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		7440-61-1	Uranium	mg/kg
+91725	Radiochemical	Uranium, solids, 6 N hydrochloric acid extracted, recoverable, dry weight, milligrams per kilogram	USGS use and no use by EPA			Dry		Recoverable		7440-61-1	Uranium	mg/kg
+99323	Radiochemical	Gross beta radioactivity sample-specific minimum detectable concentration, water, filtered, picocuries per liter	USGS use and no use by EPA					Dissolved		12587-47-2	Beta particle	pCi/L
+99324	Radiochemical	Radium-224 sample-specific minimum detectable concentration, water, filtered, picocuries per liter	USGS use and no use by EPA					Dissolved		13233-32-4	Radium-224	pCi/L
+99325	Radiochemical	Radium-226 sample-specific minimum detectable concentration, water, filtered, picocuries per liter	USGS use and no use by EPA					Dissolved		13982-63-3	Radium-226	pCi/L
+99326	Radiochemical	Radium-228 sample-specific minimum detectable concentration, water, filtered, picocuries per liter	USGS use and no use by EPA					Dissolved		15262-20-1	Radium-228	pCi/L
+99327	Radiochemical	Radon-222 sample-specific minimum detectable concentration, water, unfiltered, picocuries per liter	USGS use and no use by EPA					Total		14859-67-7	Radon-222	pCi/L
+99337	Radiochemical	Gross alpha radioactivity 2X critical level (sample-specific minimum detectable concentration), water, filtered, picocuries per liter	USGS use and no use by EPA					Dissolved		12587-46-1	Alpha particle	pCi/L
+99451	Radiochemical	Gamma radioactivity scan, bed sediment, picocuries per gram	USGS use and no use by EPA					Bed Sediment		 	Gamma radiation	pCi/g

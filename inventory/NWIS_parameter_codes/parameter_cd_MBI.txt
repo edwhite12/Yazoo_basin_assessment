@@ -1,0 +1,293 @@
+#
+# National Water Information System
+# 2019/03/30
+#
+#
+# Date Retrieved: USGS Water Data for the Nation Help System
+#
+parm_cd	group	parm_nm	epa_equivalence	result_statistical_basis	result_time_basis	result_weight_basis	result_particle_size_basis	result_sample_fraction	result_temperature_basis	CASRN	SRSName	parm_unit
+5s	15s	160s	26s	0s	7s	3s	0s	12s	10s	10s	25s	10s
+31501	Microbiological	Total coliforms, M-Endo MF method, immediate, water, colony forming units per 100 milliliters	Not checked					Total		 	Total coliforms	cfu/100ml
+31503	Microbiological	Total coliforms, M-Endo MF method, delayed, water, colonies per 100 milliliters	Not checked					Total		 	Total coliforms	cfu/100ml
+31504	Microbiological	Total coliforms, LES Endo method, immediate, water, colony forming units per 100 milliliters	Not checked					Total		 	Total coliforms	cfu/100ml
+31505	Microbiological	Total coliforms, brilliant green lactose broth method, confirmed, water, most probable number per 100 milliliters	Not checked					Total		 	Total coliforms	MPN/100 ml
+31507	Microbiological	Total coliforms, completed test, water, most probable number per 100 milliliters	Not checked					Total		 	Total coliforms	MPN/100 ml
+31613	Microbiological	Fecal coliforms, M-FC MF (0.7 micron) method, water, colonies per 100 milliliters	Not checked							 	Fecal coliforms	cfu/100ml
+31615	Microbiological	Fecal coliforms, EC broth method, water, most probable number per 100 milliliters	Not checked							 	Fecal coliforms	MPN/100 ml
+31616	Microbiological	Fecal coliforms, M-FC MF (0.45 micron) method, water, colony forming units per 100 milliliters	Not checked							 	Fecal coliforms	cfu/100ml
+31617	Microbiological	Fecal coliforms, Eijkman test, 44.5 degrees Celsius, water, most probable number per 100 milliliters	Not checked						44.5 deg C	 	Fecal coliforms	MPN/100 ml
+31619	Microbiological	Fecal coliforms, boric acid lactose broth, 43 degrees Celsius, water, most probable number per 100 milliliters	Not checked						43 deg C	 	Fecal coliforms	MPN/100 ml
+31621	Microbiological	Fecal coliforms, A-1 broth method, 44.5 degrees Celsius, 24 hours, water, most probable number per 100 milliliters	Agree		24 Hour				44.5 deg C	 	Fecal coliforms	MPN/100 ml
+31625	Microbiological	Fecal coliforms, M-FC MF (0.7 micron) method, water, colony forming units per 100 milliliters	Agree							 	Fecal coliforms	cfu/100ml
+31633	Microbiological	Escherichia coli, m-TEC MF method, water, colony forming units per 100 milliliters	Not checked							68583-22-2	Escherichia coli	cfu/100ml
+31648	Microbiological	Escherichia coli, m-TEC MF method, water, colonies per 100 milliliters	Agree							68583-22-2	Escherichia coli	cfu/100ml
+31649	Microbiological	Enterococci, m-E MF method, water, colony forming units per 100 milliliters	Agree							 	Enterococci	cfu/100ml
+31673	Microbiological	Fecal streptococci, KF streptococcus MF method, water, colony forming units per 100 milliliters	Not checked							 	Fecal Streptococcus	cfu/100ml
+31677	Microbiological	Fecal streptococci, azide-dextrose-ethyl-violet azide broth method, water, most probable number per 100 milliliters	Not checked							 	Fecal Streptococcus	MPN/100 ml
+31678	Microbiological	Fecal streptococci, azide-dextrose-ethyl-violet azide broth method, tube configuration, water, code	Agree							 	Fecal Streptococcus	code
+31679	Microbiological	Fecal streptococci, m-Enterococcus MF method, water, colonies per 100 milliliters	Not checked							 	Fecal Streptococcus	cfu/100ml
+31681	Microbiological	Salmonella, water, 0.45 micron filter method, most probable number per 100 milliliters	USGS use and no use by EPA							 	Salmonella	MPN/100 ml
+31682	Microbiological	Escherichia coli O157, presumptive test, water, 0.45 micron filter method, presence or absence per 500 milliliters	USGS use and no use by EPA							 	 	PrsAbs0.5L
+31683	Microbiological	Escherichia coli O157, confirmed test, water, 0.45 micron filter, presence or absence per 500 milliliters	USGS use and no use by EPA							 	 	PrsAbs0.5L
+31684	Microbiological	Escherichia coli, MUG method, water, presence or absence in sample	USGS use and no use by EPA							68583-22-2	Escherichia coli	PrsAbs
+31685	Microbiological	Fecal coliforms, EC medium, 44.5 degrees Celsius, 24 hours, Standard Methods 9221E.1, water, most probable number per 100 milliliters	USGS use and no use by EPA		24 Hour				44.5 deg C	 	Fecal coliforms	MPN/100 ml
+31686	Microbiological	Total coliforms, water, most probable number per 100 milliliters	USGS use and no use by EPA					Total		 	Total coliforms	MPN/100 ml
+31687	Microbiological	Fecal coliforms, water, most probable number per 100 milliliters	USGS use and no use by EPA							 	Fecal coliforms	MPN/100 ml
+31688	Microbiological	Fecal streptococci, water, most probably number per 100 milliliters	USGS use and no use by EPA							 	 	MPN/100 ml
+31689	Microbiological	Escherichia coli, water, most probable number per 100 milliliters	USGS use and no use by EPA							68583-22-2	Escherichia coli	MPN/100 ml
+31691	Microbiological	Escherichia coli, water, colonies per 100 milliliters	USGS use and no use by EPA							68583-22-2	Escherichia coli	cfu/100ml
+31692	Microbiological	Heterotrophic plate count, water, colony forming units per milliliter	USGS use and no use by EPA							 	 	cfu/mL
+31693	Microbiological	Escherichia coli, water, m-ColiBlue method, colonies per 100 milliliters	Not checked							68583-22-2	Escherichia coli	cfu/100ml
+31694	Microbiological	Total coliforms, water, m-ColiBlue method, colonies per 100 milliliters	Not checked					Total		 	Total coliforms	cfu/100ml
+31695	Microbiological	Iron-related bacteria (IRB), water, biotester, colony forming units per milliliter	Not checked					Total		 	 	cfu/mL
+31696	Microbiological	Iron-related bacteria (IRB)reaction pattern signature, biotester, water, code	Not checked					Total		 	 	code
+31697	Microbiological	Sulfate-reducing bacteria (SRB), water, biotester, colony forming units per milliliter	Not checked					Total		 	 	cfu/mL
+31698	Microbiological	Sulfate-reducing bacteria (SRB) reaction pattern signature, water, biotester, code	Not checked					Total		 	 	code
+31699	Microbiological	Slime-forming bacteria (SFB) reaction pattern signature, water, biotester, code	Not checked					Total		 	 	code
+31700	Microbiological	Slime-forming bacteria (SFB), water, biotester, colony forming units per milliliter	Not checked					Total		 	 	cfu/mL
+31701	Microbiological	Giardia, water, PCR method, vortexed, detection/no detection	Not checked							 	Giardia	None
+31702	Microbiological	Giardia, sediment, PCR method, vortexed, detection/no detection	Not checked							 	Giardia	None
+31703	Microbiological	Cryptosporidium, water, PCR method, vortexed, detection/no detection	Not checked							 	Cryptosporidium	None
+31704	Microbiological	Cryptosporidium, sediment, PCR method, vortexed, detection/no detection	Not checked							 	Cryptosporidium	None
+31705	Microbiological	Legionella, water, PCR method, centrifuged, detection/no detection	Not checked							 	Legionella	None
+31706	Microbiological	Legionella, sediment, PCR method, centrifuged, detection/no detection	Not checked							 	Legionella	None
+31707	Microbiological	Avian influenza, H5 and H7, water, centrifuged, RT-PCR method, detection/no detection	Not checked							 	 	None
+31708	Microbiological	Avian influenza, H5 and H7, sediment, centrifuged, RT-PCR method, detection/no detection	Not checked							 	 	None
+31709	Microbiological	Avian influenza, H5 and H7, fecal swab, centrifuged, RT-PCR method, detection/no detection	Not checked							 	 	None
+31711	Microbiological	Campylobacter, water, PCR method, colony forming units per 100 milliliters	Not checked							 	 	cfu/100ml
+31712	Microbiological	Campylobacter, sediment, PCR method, wet weight, colony forming units per gram	Not checked							 	 	CFU/g
+31713	Microbiological	Human enterovirus, water, recoverable, copies per liter (cp/L)	Not checked					Recoverable		 	 	cp/L
+31714	Microbiological	Human norovirus genogroup IA, water, recoverable, copies per liter (cp/L)	Not checked					Recoverable		 	 	cp/L
+31715	Microbiological	Total culturable virus, water, most probable number per liter	Not checked					Total		 	 	MPN/L
+31716	Microbiological	Enterococcus species, water, calibrator cell equivalents per 100 milliiters (CCE/100 mL)	Not checked					Total		 	Enterococci	CCE/100 mL
+31717	Microbiological	Nitrate-reducing bacteria, borehole cuttings, wet sieved, wet weight, most probable number per gram	Not checked			Wet		Total		 	 	MPN/g
+31718	Microbiological	Denitrifying bacteria, borehole cuttings, wet sieved, wet weight, most probable number per gram	Not checked			Wet		Total		 	 	MPN/g
+31719	Microbiological	Enterococci, fluorogenic substrate presence or absence method, water, presence or absence in 100 milliliters	Not checked					Total		 	Enterococci	PrsAbs0.1L
+31732	Microbiological	Aerobic endospores, water, colony forming units per 100 milliliters	Not checked					Total		 	 	cfu/100ml
+31734	Microbiological	Shigella ipaH gene marker, water, 0.4 micro filter method, copies per 100 milliliter (cp/100 mL)	Not checked					Recoverable		 	 	cp/100 mL
+31735	Microbiological	Enterococcus faecium enterococcol surface protein (esp gene), water, 0.4 micro filter method, copies per 100 milliliter (cp/100 mL)	Not checked					Recoverable		 	 	cp/100 mL
+31736	Microbiological	Shigella ipaH gene marker, solids, DNA-based, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31737	Microbiological	Enterococcus faecium enterococcol surface protein (esp gene), solids, DNA-based, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31738	Microbiological	Human hepatitis A virus, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31739	Microbiological	Rotavirus A (NSP3) virus, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31740	Microbiological	Mycobacterium avium subspecies paratuberculosis, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31741	Microbiological	Rotavirus C (VP6) virus, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31742	Microbiological	Human Bacteroides bacteria, water, quantitative polymerase chain reaction (qPCR) method, copy numbers per 100 milliliters (cn/100 mL)	Not checked					Recoverable		 	 	cn/100 mL
+31743	Microbiological	Human Lachnospiraceae bacteria, water, quantitative polymerase chain reaction (qPCR) method, copy numbers per 100 milliliters (cn/100 mL)	Not checked					Recoverable		 	 	cn/100 mL
+31744	Microbiological	Bacteroidales species bacteria, water, quantitative polymerase chain reaction (qPCR) method, copy numbers per 100 milliliters (cn/100 mL)	Not checked					Recoverable		 	 	cn/100 mL
+31745	Microbiological	Enterococci, water, quantitative polymerase chain reaction (qPCR) method, copy numbers per 100 milliliters (cn/100 mL)	Not checked					Recoverable		 	Enterococci	cn/100 mL
+31746	Microbiological	Ruminant Bacteroides, water, quantitative polymerase chain reaction (qPCR) method, copy numbers per 100 milliliters (cn/100 mL)	Not checked					Recoverable		 	 	cn/100 mL
+31747	Microbiological	Enterococci, water, concentrated, mEI MF method, colony forming units per liter	Not checked					Total		 	Enterococci	cfu/l
+31750	Microbiological	Escherichia coli, water, concentrated, defined substrate test method (DSTM), most probable number per liter	Not checked					Total		68583-22-2	Escherichia coli	MPN/L
+31751	Microbiological	Bacteria, total plate count, TPC agar, 35 degrees Celsius, 24 hours, water, colonies per milliliter	Agree		24 Hour			Total	35 deg C	 	Bacteria mix, unspecified	col/mL
+31754	Microbiological	Coliphage, E. coli, water, concentrated, CN13 host, plaque forming units per liter	Not checked					Total		 	Coliphage	pfu/l
+31755	Microbiological	Coliphage, E. coli, water, concentrated, Famp host, plaque forming units per liter	Not checked					Total		 	Coliphage	pfu/l
+31756	Microbiological	Total coliforms, water, concentrated, defined substrate test method (DSTM), most probable number per liter	Not checked					Total		 	Total coliforms	MPN/L
+31761	Microbiological	Human adenovirus group A, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31762	Microbiological	Human adenovirus group B, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31763	Microbiological	Human adenovirus groups C, D, F, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31764	Microbiological	Human enterovirus, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31765	Microbiological	Norovirus genogroup I, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31766	Microbiological	Norovirus genogroup II, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31767	Microbiological	Human polyomavirus, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31768	Microbiological	Human-associated HF183 Bacteroides, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31769	Microbiological	Bovine viral diarrhea virus type 1, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31770	Microbiological	Bovine viral diarrhea virus type 2, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31771	Microbiological	Bovine rotavirus group A, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31772	Microbiological	Bovine coronavirus, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31773	Microbiological	Bovine adenovirus, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31774	Microbiological	Bovine enterovirus, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31775	Microbiological	Bovine polyomavirus, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31776	Microbiological	Bovine Bacteroides, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31777	Microbiological	Bovine-associated M3 bacteria, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31778	Microbiological	Enterococcus, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	Enterococci	cp/L
+31779	Microbiological	Pepper mild mottle virus, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31780	Microbiological	Enterohemorrhagic E. coli, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31781	Microbiological	Salmonella, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	Salmonella	cp/L
+31782	Microbiological	Campylobacter jejuni, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	Campylobacter jejuni	cp/L
+31783	Microbiological	Cryptosporidium parvum, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	Cryptosporidium parvum	cp/L
+31784	Microbiological	Giardia lamblia, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	Giardia lamblia	cp/L
+31785	Microbiological	Human norovirus genogroup IB (GIB), water, recoverable, copies per liter (cp/L)	Not checked					Recoverable		 	 	cp/L
+31786	Microbiological	Human norovirus genogroup II (GII), water, recoverable, copies per liter (cp/L)	Not checked					Recoverable		 	 	cp/L
+31787	Microbiological	Anabaena, water, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	Anabaena	cp/100 mL
+31788	Microbiological	Cyanobacteria, solids, recoverable, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	Cyanobacteria	cp/g
+31789	Microbiological	Microcystis, solids, recoverable, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31790	Microbiological	Microcystis mcyE toxin gene, solids, DNA based, recoverable, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31791	Microbiological	Anabaena mcyE toxin gene, solids, DNA based, recoverable, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31792	Microbiological	Planktothrix mcyE toxin gene, solids, DNA based, recoverable, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31793	Microbiological	Planktothrix, water, recoverable, copies per 100 milliliters (cp/100 mL)	Not checked					Recoverable		 	 	cp/100 mL
+31794	Microbiological	Planktothrix, solids, recoverable, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31795	Microbiological	Anatoxin-a gene anaC, water, DNA based, recoverable, copies per 100 milliliters (cp/100 mL)	Not checked					Recoverable		 	 	cp/100 mL
+31796	Microbiological	Anatoxin-a gene anaC, solids, DNA based, recoverable, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31797	Microbiological	Saxitoxin gene sxtA, water, DNA based, recoverable, copies per 100 milliliters (cp/100 mL)	Not checked					Recoverable		 	 	cp/100 mL
+31798	Microbiological	Saxitoxin gene sxtA, solids, DNA based, recoverable, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31799	Microbiological	Anabaena, solids, dry weight, recoverable, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	Anabaena	cp/g
+31800	Microbiological	Human adenovirus, water, recoverable, copies per liter (cp/L)	Not checked					Recoverable		 	 	cp/L
+31801	Microbiological	Bacteroides general marker AllBac, solids, recoverable, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31802	Microbiological	Bacteroides general marker GenBac, solids, recoverable, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31803	Microbiological	Bacteroides human marker qHF183, solids, recoverable, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31804	Microbiological	Bacteroides bovine marker BoBac, solids, recoverable, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31805	Microbiological	Bacteroides dog marker BacCan, solids, recoverable, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31806	Microbiological	Bacteroides bovine marker CowM2, water, 0.4 micron filter method, recoverable, copies per 100 milliliter (cp/100 mL)	Not checked					Recoverable		 	 	cp/100 mL
+31807	Microbiological	Bacteroides bovine marker CowM2, solids, recoverable, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31808	Microbiological	Bacteroides ruminant marker Rum2Bac, water, 0.4 micron filter method, recoverable, copies per 100 milliliter (cp/100 mL)	Not checked					Recoverable		 	 	cp/100 mL
+31809	Microbiological	Bacteroides ruminant marker Rum2Bac, solids, recoverable, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31810	Microbiological	Catellicoccus avian marker GFD, water, 0.4 micron filter method, recoverable, copies per 100 milliliter (cp/100 mL)	Not checked					Recoverable		 	 	cp/100 mL
+31811	Microbiological	Catellicoccus avian marker GFD, solids, recoverable, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31812	Microbiological	Escherichia coli Shiga toxin 1 (stx1) gene, water, presence or absence in 500 milliliters	Not checked					Total		 	 	PrsAbs0.5L
+31813	Microbiological	Escherichia coli Shiga toxin 2 (stx2) gene, water, presence or absence in 500 milliliters	Not checked					Total		 	 	PrsAbs0.5L
+31815	Microbiological	Escherichia coli intimin (eaeA) gene, water, presence or absence in 500 milliliters	Not checked					Total		 	 	PrsAbs0.5L
+31816	Microbiological	Escherichia coli O157 surface protein, water, presence or absence in 500 milliliters	Not checked					Total		 	 	PrsAbs0.5L
+31817	Microbiological	Staphylococcus aureus 48 kD protein (femA) gene, water, presence or absence in 500 milliliters	Not checked					Total		 	 	PrsAbs0.5L
+31819	Microbiological	Staphylococcus aureus penicillin binding protein 2A (mecA) gene, water, presence or absence in 500 milliliters	Not checked					Total		 	 	PrsAbs0.5L
+31820	Microbiological	Salmonella species invasion determinant A (invA) gene, water, presence or absence in 500 milliliters	Not checked					Total		 	 	PrsAbs0.5L
+31821	Microbiological	Salmonella species plasmid of virulence (spvC) gene, water, presence or absence in 500 milliliters	Not checked					Total		 	 	PrsAbs0.5L
+31822	Microbiological	Escherichia coli 16S rRNA gene, water, presence or absence in 500 milliliters	Not checked					Total		 	 	PrsAbs0.5L
+31823	Microbiological	Enterococcus species enterococcal surface protein (esp) gene, water, presence or absence in 500 milliliters	Not checked					Total		 	 	PrsAbs0.5L
+31824	Microbiological	Enterococcus faecalis D-alanine ligase-replated protein (ddl) gene, water, presence or absence in 500 milliliters	Not checked					Total		 	 	PrsAbs0.5L
+31825	Microbiological	Enterococcus faecium D-alanine ligase-related protein (ddl) gene, water, presence or absence in 500 milliliters	Not checked					Total		 	 	PrsAbs0.5L
+31826	Microbiological	Staphylococcus, water, Baird Parker membrane filtration (0.45 micron) method, colony forming units in 100 milliliters	Not checked					Total		 	 	cfu/100ml
+31827	Microbiological	Shigella sonnei invasion plasmid antigen H (ipaH) gene, water, presence or absence in 500 milliliters	Not checked					Total		 	 	PrsAbs0.5L
+31828	Microbiological	Enterococcus species acquired high-level of vancomycin resistance (vanA) gene, water, presence or absence in 500 milliliters	Not checked					Total		 	 	PrsAbs0.5L
+31829	Microbiological	Enterococcus species acquired intermediate level of vancomycin resistance (vanB) gene, water, presence or absence in 500 milliliters	Not checked					Total		 	 	PrsAbs0.5L
+31830	Microbiological	Escherichia coli Shiga toxin 1 (stx1) gene, water, presence or absence in 100 milliliters	Not checked					Total		 	 	PrsAbs0.1L
+31831	Microbiological	Escherichia coli Shiga toxin 2 (stx2) gene, water, presence or absence in 100 milliliters	Not checked					Total		 	 	PrsAbs0.1L
+31832	Microbiological	Escherichia coli intimin (eaeA) gene, water, presence or absence in 100 milliliters	Not checked					Total		 	 	PrsAbs0.1L
+31833	Microbiological	Escherichia coli O157 surface protein, water, presence or absence in 100 milliliters	Not checked					Total		 	 	PrsAbs0.1L
+31834	Microbiological	Staphylococcus aureus 48 kD protein (femA) gene, water, presence or absence in 100 milliliters	Not checked					Total		 	 	PrsAbs0.1L
+31835	Microbiological	Staphylococcus aureus penicillin binding protein 2A (mecA) gene, water, presence or absence in 100 milliliters	Not checked					Total		 	 	PrsAbs0.1L
+31836	Microbiological	Salmonella species invasion determinant A (invA) gene, water, presence or absence in 100 milliliters	Not checked					Total		 	 	PrsAbs0.1L
+31837	Microbiological	Salmonella species plasmid of virulence (spvC) gene, water, presence or absence in 100 milliliters	Not checked					Total		 	 	PrsAbs0.1L
+31838	Microbiological	Escherichia coli 16S rRNA gene, water, presence or absence in 100 milliliters	Not checked					Total		 	 	PrsAbs0.1L
+31839	Microbiological	Enterococcus species enterococcal surface protein (esp) gene, water, presence or absence in 100 milliliters	Not checked					Total		 	 	PrsAbs0.1L
+31840	Microbiological	Enterococcus faecalis D-alanine ligase-replated protein (ddl) gene, water, presence or absence in 100 milliliters	Not checked					Total		 	 	PrsAbs0.1L
+31841	Microbiological	Enterococcus faecium D-alanine ligase-related protein (ddl) gene, water, presence or absence in 100 milliliters	Not checked					Total		 	 	PrsAbs0.1L
+31842	Microbiological	Shigella sonnei invasion plasmid antigen H (ipaH) gene, water, presence or absence in 100 milliliters	Not checked					Total		 	 	PrsAbs0.1L
+31843	Microbiological	Enterococcus species acquired high-level of vancomycin resistance (vanA) gene, water, presence or absence in 100 milliliters	Not checked					Total		 	 	PrsAbs0.1L
+31844	Microbiological	Enterococcus species acquired intermediate level of vancomycin resistance (vanB) gene, water, presence or absence in 100 milliliters	Not checked					Total		 	 	PrsAbs0.1L
+31845	Microbiological	Salmonella, RV enrichment (0.45 micron filter), water, presence or absence in 500 milliliters	Not checked					Total		 	 	PrsAbs0.5L
+31846	Microbiological	Salmonella, RV enrichment (0.45 micron filter), water, presence or absence in 100 milliliters	Not checked					Total		 	 	PrsAbs0.1L
+31847	Microbiological	Heterotrophic plate count (HPC) at 35 degrees Celsius incubation, water, R2A membrane filtration (0.45 micron) method, colony forming units in 100 milliliters	Not checked					Total		 	 	cfu/100ml
+31848	Microbiological	Heterotrophic plate count (HPC) at 44.5 degrees celsius incubation, water, R2A membrane filtration (0.45 micron) method, colony forming units in 100 milliliters	Not checked					Total		 	 	cfu/100ml
+31849	Microbiological	Bacteria, denitrifying, water, most probable number	Not checked					Total		 	 	MPN
+31850	Microbiological	Heterotrophic plate count (HPC) at 23 degrees celsius incubation, water, R2A membrane filtration (0.45 micron) method, colony forming units in 100 milliliters	Not checked					Total		 	 	cfu/100ml
+31854	Microbiological	Bacteria, nitrifying, water, most probable number	Agree							 	Bacteria, nitrifiers	MPN
+31855	Microbiological	Bacteria, sulfate reducing, water, most probable number	Agree							 	 	MPN
+31863	Microbiological	Cylindrospermopsin gene cyrA, water, recoverable, DNA based, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+31864	Microbiological	Cylindrospermopsin gene cyrA, water, recoverable, RNA based, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+31865	Microbiological	Cylindrospermopsin gene cyrA, solids, recoverable, DNA based, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31866	Microbiological	Anatoxin-a gene anaC, water, recoverable, RNA based, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+31867	Microbiological	Saxitoxin gene sxtA, water, recoverable, RNA based, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+31868	Microbiological	Cyanobacteria-specific geosmin gene geoA, water, recoverable, DNA-based, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+31869	Microbiological	Cyanobacteria-specific methyl-isoborneol (MIB) gene mic, water, recoverable, DNA-based, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+31870	Microbiological	Actinomycetes-specific geosmin gene geoA, water, recoverable, DNA-based, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+31871	Microbiological	Actinomycetes-specific methyl-isoborneol (MIB) gene mic, water, recoverable, DNA-based, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+31872	Microbiological	Microcystin/nodularin genes mcyE/ndaF, water, recoverable, DNA based, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+31873	Microbiological	Microcystin/nodularin genes mcyE/ndaF, water, recoverable, RNA based, copies per 100 milliliters (cp/100 mL)	Not checked					Total		 	 	cp/100 mL
+31874	Microbiological	Microcystin/nodularin genes mcyE/ndaF, solids, recoverable, DNA-based, dry weight, copies per gram (cp/g)	Not checked			Dry		Recoverable		 	 	cp/g
+31875	Microbiological	Human-associated M2 Bacteroidales-like, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31876	Microbiological	Bovine-associated M2 Bacteroidales-like, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31877	Microbiological	Cryptosporidium spp. (pan-Crypto), water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31878	Microbiological	Enterohemorrhagic E. coli Shiga toxin-1 gene, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31879	Microbiological	Enterohemorrhagic E. coli Shiga toxin-2 gene, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31880	Microbiological	Salmonella TTR gene, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31881	Microbiological	Cryptosporidium hominis, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+31882	Microbiological	Cryptosporidium bovis, water, quantitative polymerase chain reaction (qPCR) method, copies per liter	Not checked					Recoverable		 	 	cp/L
+32335	Microbiological	Cyanobacterial abundance from a phycocyanin sensor (PC), water, in situ, regression computed, cells per milliliter	Not checked					Total		 	 	cells/mL
+32336	Microbiological	Phycoerythrin fluorescence (fPE), water, in situ, micrograms per liter as phycoerythrin	Not checked					Total		18097-67-1	 	ug/l
+32337	Microbiological	Phycoerythrin, water, in situ, regression computed, micrograms per liter	Not checked					Total		18097-67-1	 	ug/l
+32338	Microbiological	Phycoerythrin fluorescence (fPE), water, in situ, cells per milliliter	Not checked					Total		18097-67-1	 	cells/mL
+32339	Microbiological	Cyanobacterial abundance from a phycoerythrin sensor (PE), water, in situ, regression computed, cells per milliliter	Not checked					Total		 	 	cells/mL
+50017	Microbiological	Total coliforms, ONPG-MUG method, water, colonies per 100 milliliters	Not checked					Total		 	Total coliforms	cfu/100ml
+50275	Microbiological	Escherichia coli, m-TEC MF method, water, colonies per 100 milliliters	Not checked							68583-22-2	Escherichia coli	cfu/100ml
+50278	Microbiological	Escherichia coli, NA-MUG MF method, water, colony forming units per 100 milliliters	Not checked							68583-22-2	Escherichia coli	cfu/100ml
+50466	Microbiological	Escherichia coli, m-TEC MF method, bed sediment, dry weight, colony forming units per gram	Not checked			Dry		Bed Sediment		68583-22-2	Escherichia coli	col/gram
+50467	Microbiological	Escherichia coli, defined substrate test method (DSTM), bed sediment, dry weight, most probable number per gram	Not checked			Dry		Bed Sediment		68583-22-2	Escherichia coli	MPN/g
+50468	Microbiological	Escherichia coli, defined substrate test method (DSTM), water, most probable number per 100 milliliters	Not agree							68583-22-2	Escherichia coli	MPN/100 ml
+50469	Microbiological	Fecal coliforms, M-FC MF method, bed sediment, dry weight, colony forming units per gram	Not checked			Dry		Bed Sediment		 	Fecal coliforms	col/gram
+50569	Microbiological	Total coliforms, defined substrate test method (DSTM), water, most probable number per 100 milliliters	Not checked					Total		 	Total coliforms	MPN/100 ml
+51762	Microbiological	Escherichia coli, water, calibrator cell equivalents per 100 milliliters (CCE/100 mL)	Not checked					Total		68583-22-2	Escherichia coli	CCE/100 mL
+51763	Microbiological	Escherichia coli, water, cell equivalents per 100 milliliters (CE/100 mL)	Not checked					Total		68583-22-2	Escherichia coli	CE/100 mL
+61213	Microbiological	Total coliforms, water, colonies per 100 milliliters	Agree					Total		 	Total coliforms	cfu/100ml
+61214	Microbiological	Fecal streptococci, water, colonies per 100 milliliters	Agree							 	 	cfu/100ml
+61215	Microbiological	Fecal coliforms, water, colonies per 100 milliliters	Agree							 	Fecal coliforms	cfu/100ml
+61229	Microbiological	Giardia, water, 0.30 micron filter method, cysts per 100 liters	Agree							 	Giardia	cysts/100L
+61230	Microbiological	Cryptosporidium, water, 0.30 micron filter method, oocysts per 100 liters	Agree							 	Cryptosporidium	ocyst/100L
+62998	Microbiological	Glycol hydrolyzing bacteria, water, colonies per 100 milliliters	USGS use and no use by EPA							 	 	cfu/100ml
+62999	Microbiological	Pseudomonas, water, colonies per 100 milliliters	USGS use and no use by EPA							68602-93-7	Pseudomonas	cfu/100ml
+63000	Microbiological	Presumptive Aeromonas, water, colonies per 100 milliliters	USGS use and no use by EPA							 	 	cfu/100ml
+63156	Microbiological	Escherichia coli, modified mTEC MF method, bed sediment, dry weight, colonies per gram	USGS use and no use by EPA			Dry		Bed Sediment		68583-22-2	Escherichia coli	col/gram
+63157	Microbiological	Enterococci, mEI MF method, bed sediment, dry weight, colonies per gram	USGS use and no use by EPA			Dry		Bed Sediment		 	Enterococci	col/gram
+63688	Microbiological	Actinomycetes, standard plate count, double agar layer, water, colonies per milliliter	USGS use and no use by EPA							 	Actinomycetes	col/mL
+68201	Microbiological	Bacteroides general marker, AllBac, water, 0.4 micron filter method, copies per 100 milliters (cp/100 mL)	USGS use and no use by EPA					Total		 	 	cp/100 mL
+68202	Microbiological	Bacteroides general marker, GenBac, water, 0.4 micron filter method, copies per 100 milliters (cp/100 mL)	USGS use and no use by EPA					Total		 	 	cp/100 mL
+68203	Microbiological	Bacteroides human marker, qHF183, water, 0.4 micron filter method, copies per 100 milliters (cp/100 mL)	USGS use and no use by EPA					Total		 	 	cp/100 mL
+68204	Microbiological	Bacteroides human marker, BacHum, water, 0.4 micron filter method, copies per 100 milliters (cp/100 mL)	USGS use and no use by EPA					Total		 	 	cp/100 mL
+68205	Microbiological	Bacteroides bovine marker, BoBac, water, 0.4 micron filter method, copies per 100 milliters (cp/100 mL)	USGS use and no use by EPA					Total		 	 	cp/100 mL
+68206	Microbiological	Bacteroides dog marker, BacCan, water, 0.4 micron filter method, copies per 100 milliters (cp/100 mL)	USGS use and no use by EPA					Total		 	 	cp/100 mL
+68207	Microbiological	Brevibacterium poultry marker, LA-35, water, 0.4 micron filter method, copies per 100 milliters (cp/100 mL)	USGS use and no use by EPA					Total		 	 	cp/100 mL
+68208	Microbiological	Catellicoccus gull marker, Gull2, water, 0.4 micron filter method, copies per 100 milliters (cp/100 mL)	USGS use and no use by EPA					Total		 	 	cp/100 mL
+68209	Microbiological	Bacteroides Canada goose marker, CGOF1-Bac, water, 0.4 micron filter method, copies per 100 milliters (cp/100 mL)	USGS use and no use by EPA					Total		 	 	cp/100 mL
+68210	Microbiological	Bacteroides Canada goose marker, CGOF2-Bac, water, 0.4 micron filter method, copies per 100 milliters (cp/100 mL)	USGS use and no use by EPA					Total		 	 	cp/100 mL
+71200	Microbiological	Salmonella, MF method, water, colonies per 100 milliliters	Agree							 	Salmonella	cfu/100ml
+71220	Microbiological	Pseudomonas aeruginosa, MF method, water, colonies per 100 milliliters	Not checked							68583-29-9	Pseudomonas aeruginosa	cfu/100ml
+78943	Microbiological	Heterotrophic bacteria, R2 agar method, water, colony forming units per milliliter	Agree							 	Heterotrophic bacteria	col/mL
+78944	Microbiological	Enterobacter cloacae, MF method, water, colonies per 100 milliliters	Agree							 	Enterobacter cloacae	cfu/100ml
+81355	Microbiological	Pseudomonas aeruginosa, water, most probable number per 100 milliliters	Agree							68583-29-9	Pseudomonas aeruginosa	MPN/100 ml
+81803	Microbiological	Bacteria, total count, epifluorescence, water, cells per milliliter	Agree					Total		 	Bacteria mix, unspecified	#/ml
+82469	Microbiological	Nitrosomonas, water, most probable number per 100 milliliters	Agree							 	 	MPN/100 ml
+82532	Microbiological	Nitrobacter, water, most probable number per 100 milliliters	Agree							 	 	MPN/100 ml
+84138	Microbiological	Total coliforms, water, presence or absence	Agree					Total		 	Total coliforms	PrsAbs
+84139	Microbiological	Enterobacter agglomerans, MF method, water, presence or absence	Agree							 	 	PrsAbs
+84140	Microbiological	Klebsiella pneumoniae, MF method, water, presence or absence	Agree							68583-24-4	Klebsiella pneumoniae	PrsAbs
+84382	Microbiological	Total coliforms, water, presence or absence in sample	Agree					Total		 	Total coliforms	PrsAbs
+84383	Microbiological	Fecal coliforms, water, presence or absence in sample	Agree							 	Fecal coliforms	PrsAbs
+84384	Microbiological	Fecal streptococci, water, presence or absence in sample	Agree							 	 	PrsAbs
+84385	Microbiological	Escherichia coli, water, presence or absence in sample	USGS use and no use by EPA							68583-22-2	Escherichia coli	PrsAbs
+90900	Microbiological	Total coliforms, MI MF method, water, colony forming units per 100 milliliters	USGS use and no use by EPA					Total		 	Total coliforms	cfu/100ml
+90901	Microbiological	Escherichia coli, MI MF method, water, colony forming units per 100 milliliters	USGS use and no use by EPA							68583-22-2	Escherichia coli	cfu/100ml
+90902	Microbiological	Escherichia coli, modified m-TEC MF method, water, colony forming units per 100 milliliters	USGS use and no use by EPA							68583-22-2	Escherichia coli	cfu/100ml
+90903	Microbiological	Coliphage, E. coli, CN13 host, water, plaque forming units per 100 milliliters	USGS use and no use by EPA							 	Coliphage	pfu/100ml
+90904	Microbiological	Coliphage, E. coli, Famp host, water, plaque forming units per 100 milliliters	USGS use and no use by EPA							 	Coliphage	pfu/100ml
+90905	Microbiological	Coliphage, E. coli, C-host, MF method, water, plaques per 100 milliliters	USGS use and no use by EPA							 	Coliphage	pfu/100ml
+90908	Microbiological	Total coliforms, defined substrate test method (DSTM), water, most probable number per 100 milliliters	USGS use and no use by EPA					Total		 	Total coliforms	MPN/100 ml
+90909	Microbiological	Enterococci, mEI MF method, water, colony forming units per 100 ml	USGS use and no use by EPA							 	Enterococci	cfu/100ml
+90910	Microbiological	Enteric virus, total culturable, bgm kidney cell culture, 1-MDS filter, quantal assay, 37 degrees Celsius, water, most probable number per 100 liters	USGS use and no use by EPA					Total	37 deg C	 	Viruses (enteric)	MPN/100 L
+90911	Microbiological	Coliphage, E. coli, C-host, 1-MDS filter, agar overlay, 37 degrees Celsius, water, plaque-forming units per 100 liters	USGS use and no use by EPA						37 deg C	 	Coliphage	pfu/100 L
+90912	Microbiological	Coliphage, E. coli, C-3000 host, 1-MDS filter, agar overlay, 37 degrees Celsius, water, plaque-forming units per 100 liters	USGS use and no use by EPA						37 deg C	 	Coliphage	pfu/100 L
+90915	Microbiological	Clostridium perfringens, mCP MF method, water, colony forming units per 100 milliliters	USGS use and no use by EPA							 	Clostridium perfringens	cfu/100ml
+95200	Microbiological	Total cell count, water, cells per milliliter	USGS use and no use by EPA					Total		 	 	#/ml
+99328	Microbiological	Coliphage, somatic, E. coli C-host, 2-step enrichment, water, presence or absence in 100 milliliters	USGS use and no use by EPA							 	Coliphage	PrsAbs0.1L
+99329	Microbiological	Coliphage, somatic, E. coli C-host, 2-step enrichment, water, presence or absence per liter	USGS use and no use by EPA							 	Coliphage	PrsAbs/L
+99330	Microbiological	Coliphage, somatic, E. coli C-host, 2-step enrichment, water, presence or absence in 4 liters	USGS use and no use by EPA							 	Coliphage	PrsAbs/4 L
+99331	Microbiological	Coliphage, somatic, E. coli CN13-host, 2-step enrichment, water, presence or absence in 100 milliliters	USGS use and no use by EPA							 	Coliphage	PrsAbs0.1L
+99332	Microbiological	Coliphage, somatic, E. coli CN13-host, 2-step enrichment, water, presence or absence per liter	USGS use and no use by EPA							 	Coliphage	PrsAbs/L
+99333	Microbiological	Coliphage, somatic, E. coli CN13-host, 2-step enrichment, water, presence or absence in 4 liters	USGS use and no use by EPA							 	Coliphage	PrsAbs/4 L
+99334	Microbiological	Coliphage, F-specific, E. coli FAMP-host, 2-step enrichment, water, presence or absence in 100 milliliters	USGS use and no use by EPA							 	Coliphage	PrsAbs0.1L
+99335	Microbiological	Coliphage, F-specific, E. coli FAMP-host, 2-step enrichment, water, presence or absence per liter	USGS use and no use by EPA							 	Coliphage	PrsAbs/L
+99336	Microbiological	Coliphage, F-specific, E. coli FAMP-host, 2-step enrichment, water, presence or absence in 4 liters	USGS use and no use by EPA							 	Coliphage	PrsAbs/4 L
+99406	Microbiological	Fecal coliforms, estimated by regression equation, water, colonies per 100 milliliters	USGS use and no use by EPA							 	Fecal coliforms	cfu/100ml
+99407	Microbiological	Escherichia coli, estimated by regression equation, water, colonies per 100 milliliters	USGS use and no use by EPA							68583-22-2	Escherichia coli	cfu/100ml
+99418	Microbiological	Fecal coliforms, estimated load, water, billions of colonies per day	USGS use and no use by EPA							 	Fecal coliforms	Bcol/day
+99419	Microbiological	Escherichia coli, estimated load, water, calculated, billions of colonies per day	USGS use and no use by EPA							68583-22-2	Escherichia coli	Bcol/day
+99595	Microbiological	Total coliforms, defined substrate test presence or absence method (DSTM PA), water, presence or absence in 100 milliliters	USGS use and no use by EPA					Total		 	Total coliforms	PrsAbs0.1L
+99596	Microbiological	Escherichia coli, defined substrate test presence or absence method (DSTM PA), water, presence or absence in 100 milliliters	USGS use and no use by EPA							68583-22-2	Escherichia coli	PrsAbs0.1L
+99597	Microbiological	Giardia, water, method 1623, cysts per 10 liters	USGS use and no use by EPA							 	Giardia	cysts/10 L
+99598	Microbiological	Giardia, spike efficiency, parameter code 99597, percent recovery	USGS use and no use by EPA							 	Giardia	%
+99599	Microbiological	Cryptosporidium, water, method 1623, oocysts per 10 liters	USGS use and no use by EPA							 	Cryptosporidium	oocyst/10L
+99600	Microbiological	Cryptosporidium, spike efficiency, parameter code 99599, percent recovery	USGS use and no use by EPA							 	Cryptosporidium	%
+99601	Microbiological	Enterococci, water, defined substrate test method (DSTM), most probable number per 100 milliliters	USGS use and no use by EPA							 	Enterococci	MPN/100 ml
+99602	Microbiological	Helicobacter pylori, water, fluorescent antibody method, organisms per milliliters	USGS use and no use by EPA							 	Helicobacter pylori	#/ml
+99603	Microbiological	Cryptosporidium, water, EPA method 1623, oocysts per 1 liter	Not checked					Total		 	 	oocysts/L
+99604	Microbiological	Giardia, water, EPA method 1623, cysts per 1 liter	Not checked					Total		 	 	cysts/L
+99761	Microbiological	Cryptosporidium, capsule filter, method 1622, water, oocysts per 10 liters	USGS use and no use by EPA							 	Cryptosporidium	oocyst/10L
+99762	Microbiological	Cryptosporidium, spike efficiency, parameter code 99761, percent recovery	USGS use and no use by EPA							 	Cryptosporidium	%
+99763	Microbiological	Cryptosporidium, MF, method 1622, water, oocysts per 10 liters	USGS use and no use by EPA							 	Cryptosporidium	oocyst/10L
+99764	Microbiological	Cryptosporidium, spike efficiency, parameter code 99763, percent recovery	USGS use and no use by EPA							 	Cryptosporidium	%
+99765	Microbiological	Clostridium perfringens, ethanol treated, mcp MF method, ammonium hydroxide, 42 degrees Celsius, water, colonies per 100 milliliters	USGS use and no use by EPA						42 deg C	 	Clostridium perfringens	cfu/100ml
+99766	Microbiological	Enterovirus, reverse-transcriptase polymerase chain reaction method (RT-PCR), 1MDS filter, water, presence or absence in 50 liters	USGS use and no use by EPA							 	Enterovirus	PrsAbs/50L
+99767	Microbiological	Reovirus, reverse-transcriptase polymerase chain reaction method (RT-PCR), 1MDS filter, water, presence or absence in 50 liters	USGS use and no use by EPA							 	 	PrsAbs/50L
+99768	Microbiological	Rotavirus, reverse-transcriptase polymerase chain reaction method (RT-PCR), 1MDS filter, water, presence or absence in 50 liters	USGS use and no use by EPA							 	 	PrsAbs/50L
+99769	Microbiological	Hepatitis-A virus, reverse-transcriptase polymerase chain reaction method (RT-PCR), 1MDS filter, water, presence or absence in 50 liters	USGS use and no use by EPA							 	 	PrsAbs/50L
+99770	Microbiological	Norwalk virus, reverse-transcriptase polymerase chain reaction method (RT-PCR), 1MDS filter, water, presence or absence in 50 liters	USGS use and no use by EPA							 	 	PrsAbs/50L
+99771	Microbiological	Calicivirus, reverse-transcriptase polymerase chain reaction method (RT-PCR), 1MDS filter, water, presence or absence in 50 liters	USGS use and no use by EPA							 	Caliciviruses	PrsAbs/50L
